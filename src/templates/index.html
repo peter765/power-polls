@@ -9,10 +9,11 @@
 
 .states {
   fill: steelblue;hu80
+  fill-opacity:1
 }
 
 .states :hover {
-  fill: red;
+  fill-opacity:0.5;
 }
 
 .state-borders {
@@ -90,8 +91,81 @@ html, body {
   top: 100vh;
   height: 100%;
   width: 100%;
-  z-index: 2;
+  z-index: 0;
 }
+
+.names {
+ fill: none;
+ stroke: #fff;
+ stroke-linejoin: round;
+ }
+
+   /* Tooltip CSS */
+   .d3-tip {
+   line-height: 1.5;
+   font-weight: 400;
+   font-family:"avenir next", Arial, sans-serif;
+   padding: 6px;
+   background: rgba(0, 0, 0, 0.6);
+   color: #FFA500;
+   border-radius: 1px;
+   pointer-events: none;
+   }
+
+   /* Creates a small triangle extender for the tooltip */
+   .d3-tip:after {
+     box-sizing: border-box;
+     display: inline;
+     font-size: 8px;
+     width: 100%;
+     line-height: 1.5;
+     color: rgba(0, 0, 0, 0.6);
+     position: absolute;
+     pointer-events: none;
+
+   }
+
+   /* Northward tooltips */
+   .d3-tip.n:after {
+     content: "\25BC";
+     margin: -1px 0 0 0;
+     top: 100%;
+     left: 0;
+     text-align: center;
+   }
+
+   /* Eastward tooltips */
+   .d3-tip.e:after {
+     content: "\25C0";
+     margin: -4px 0 0 0;
+     top: 50%;
+     left: -8px;
+   }
+
+   /* Southward tooltips */
+   .d3-tip.s:after {
+     content: "\25B2";
+     margin: 0 0 1px 0;
+     top: -8px;
+     left: 0;
+     text-align: center;
+   }
+
+   /* Westward tooltips */
+   .d3-tip.w:after {
+     content: "\25B6";
+     margin: -4px 0 0 -1px;
+     top: 50%;
+     left: 100%;
+   }
+
+/*    text{
+     pointer-events:none;
+   }*/
+
+   .details{
+     color:white;
+   }
 
 </style>
 <body background = "{{url_for('static', filename='ugh.jpg')}}">
@@ -104,6 +178,7 @@ html, body {
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="{{url_for('static', filename='d3-tip.js')}}"></script>
 <div id = "back_button" onclick="smoothScroll(document.getElementById('FirstPage'))">BACK</div>
 <div id="content">
 <svg id=map width="960" height="600"></svg>
@@ -160,17 +235,54 @@ function createTable() {
 function createMap() {
   var svg = d3.select("#map");
 
-  var path = d3.geoPath();
-
+  var names = [];
+  var data = []
   d3.json("https://d3js.org/us-10m.v1.json", function(error, us) {
     if (error) throw error;
+    data = topojson.feature(us, us.objects.states).features;
+    console.log(data)
+  // our names
+  names = ["Alabama", "Alaska","", "Arizona", "Arkansas", "California","", "Colorodo", "Connecticut", "Delaware", "Washington DC", "Florida", "Georgia", "", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "", "Washington", "West Virginia", "Wisconsin", "Wyoming","","","", "America Samoa","","","", "Federated States of Micronesia","", "Guam","", "Marshall Islands", "Northern Mariana Islands", "Palau","", "Puerto Rico","", "US Minor Outlying Islands","","","", "Virgin Islands"];
+  console.log(names);
+    var tip = d3.tip()
+                .attr('class', 'd3-tip')
+                .offset([-10, 0])
+                .html(function(d) {
+                  console.log(d.id);
+                  console.log(names[d.id]);
+                  return "<strong>State: </strong><span class='details'>" + names[d.id-1] + "<br></span>";
+                })
+                var margin = {top: 0, right: 0, bottom: 0, left: 0},
+                            width = 960 - margin.left - margin.right,
+                            height = 500 - margin.top - margin.bottom;
+                var path = d3.geoPath();
 
+                var projection = d3.geoMercator()
+                                   .scale(130)
+                                  .translate( [width / 2, height / 1.5]);
+
+    svg.call(tip);
     svg.append("g")
         .attr("class", "states")
       .selectAll("path")
       .data(topojson.feature(us, us.objects.states).features)
       .enter().append("path")
-        .attr("d", path);
+        .attr("d", path)
+        .style("stroke","white")
+        .style('stroke-width', 0.3)
+        .on('mouseover',function(d){
+          tip.show(d);
+          d3.select(this)
+            .style("stroke","white")
+            .style("stroke-width",3);
+        })
+        .on('mouseout', function(d){
+          tip.hide(d);
+
+          d3.select(this)
+            .style("stroke","white")
+            .style("stroke-width",0.3);
+        });
 
     svg.append("path")
         .attr("class", "state-borders")
