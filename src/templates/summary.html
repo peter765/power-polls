@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<style>
+
+.states {
+  fill: steelblue;
+}
+
+.states :hover {
+  fill: red;
+}
+
+.state-borders {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 0.5px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  pointer-events: none;
+}
+
+</style>
+
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/topojson.v2.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<h1 align="left">Summary</h1>
+<p id="summary"> </p>
+<br></br>
+<br></br>
+<div id="components"></div>
+
+
+<script>
+putSummary(); 
+createTable();
+function putSummary() {
+  data = {{ data|safe }}
+  summary = data["summary"]; 
+  document.getElementById('summary').innerHTML = summary; 
+
+}
+function createTable() {
+  data = {{ data|safe }}
+  components = data["components"]
+  console.log(data)
+  table = "<table class='table table-striped'>"
+  table += "<thread><tr><th>Section ID</th><th>Component Description</th></tr></thread>"
+  table += "<tbody>"
+  console.log(components)
+  for (var i = 0; i < components.length; i += 2) {
+    id = components[i]; 
+    phrase = components[i + 1]; 
+    table += "<tr><td>" + id + "</td><td>" + phrase + "</td>"
+  }
+
+  table += "</tbody></table>"
+  document.getElementById('components').innerHTML=table; 
+
+}
+
+</script>
