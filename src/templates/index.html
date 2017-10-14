@@ -151,9 +151,9 @@ function createTable() {
   table += "<thread><tr><th date-sortable='true'>ID</th><th>Bill Name</th><th date-sortable='true'>Last Voted Date</th><th date-sortable='true'>Total Votes</th></tr></thread>"
   table += "<tbody>"
   for (var key in data) {
-    table += "<tr><td>" + data[key][2] + "</td><td><a href=/billview/" + data[key][2] + ">" + data[key][0] + "</a></td><td>" + data[key][1] + "</td><td>" + data[key][3] +"</td></tr>";
+    table += "<tr>class='clickable-row' data-href='/billview/" +  data[key][0] + "/'><td>" + data[key][2] + "</td><td>" + data[key][0] + "</td><td>" + data[key][1] + "</td><td>" + data[key][3] +"</td></tr>";
   }
-  table += "</tbody></table>"
+  table += "</tbody>"
   document.getElementById('table').innerHTML=table;
 
 }
