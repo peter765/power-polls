@@ -1,0 +1,67 @@
+<bill session="115" type="h" number="2223" updated="2017-09-28T17:15:14Z">
+  <state datetime="2017-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-28"/>
+  </status>
+  <introduced datetime="2017-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Community Protection and Preparedness Act of 2017</title>
+    <title type="short" as="introduced">Community Protection and Preparedness Act of 2017</title>
+    <title type="official" as="introduced">To amend title 49, United States Code, to provide for a rail spill preparedness fund, and for other purposes.</title>
+    <title type="display">Community Protection and Preparedness Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="D000191"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000574" joined="2017-04-28"/>
+    <cosponsor bioguide_id="B001278" joined="2017-04-28"/>
+    <cosponsor bioguide_id="C001037" joined="2017-05-17"/>
+    <cosponsor bioguide_id="C001072" joined="2017-05-25"/>
+    <cosponsor bioguide_id="N000127" joined="2017-05-17"/>
+    <cosponsor bioguide_id="W000791" joined="2017-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-28" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-05-01">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2017-05-01">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Railroads, Pipelines, and Hazardous Materials" code="HSPW14" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Economic Development, Public Buildings and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Accidents"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Transportation"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Firearms and explosives"/>
+    <term name="Fires"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Oil and gas"/>
+    <term name="Pollution liability"/>
+    <term name="Railroads"/>
+    <term name="State and local government operations"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

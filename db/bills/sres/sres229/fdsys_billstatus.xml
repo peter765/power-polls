@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Refugees, asylum, displaced persons</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Vietnam</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-10-12T04:42:26Z</updateDate>
+    <amendments />
+    <calendarNumbers />
+    <notes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-24</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S4138-4139</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4138-4139</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4138-4139)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+          <lisID>2291</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>T000476</bioguideId>
+        <firstName>Thomas</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>Roland</middleName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <state>NC</state>
+        <lastName>Tillis</lastName>
+      </item>
+    </cosponsors>
+    <billNumber>229</billNumber>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+          <gpoId>8286</gpoId>
+          <lisID>153</lisID>
+        </identifiers>
+        <bioguideId>B001135</bioguideId>
+        <party>R</party>
+        <byRequestType />
+        <firstName>RICHARD</firstName>
+        <middleName />
+        <state>NC</state>
+        <lastName>BURR</lastName>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <billType>SRES</billType>
+    <createDate>2017-07-25T01:41:31Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-29T12:56:18Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Recognizes: (1) the contributions of the Montagnards who fought loyally and bravely with U.S. Armed Forces during the Vietnam War and who continue to suffer persecution in Vietnam as a result of this relationship, and (2) that eligible Montagnards should be provided access to the U.S. Refugee Admissions Program for resettlement in the United States and in other countries.</p> <p> Condemns actions taken by the government of Vietnam to suppress basic human rights and civil liberties for all its citizens.</p> <p> Calls on Vietnam to allow human rights groups access to all regions of the country and to end restrictions of basic human rights, including the right for Montagnards to practice their Christian faith freely, the right to land and property, freedom of movement, the right to retain ethnic identity and culture, and access to an adequate standard of living.</p> <p>Urges the President and Congress to develop policies that: (1) support Montagnards and other marginalized ethnic minority and indigenous populations, and (2) reflect U.S. interests and commitment to upholding human rights and democracy abroad.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2017-07-24T04:00:00Z</updateDate>
+          <actionDate>2017-07-24</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A resolution recognizing the contributions of the Montagnard indigenous tribespeople of the Central Highlands of Vietnam to the United States Armed Forces during the Vietnam War, and condemning the ongoing violation of human rights by the Government of the Socialist Republic of Vietnam.</title>
+    <laws />
+    <latestAction>
+      <actionDate>2017-07-24</actionDate>
+      <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4138-4139)</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution recognizing the contributions of the Montagnard indigenous tribespeople of the Central Highlands of Vietnam to the United States Armed Forces during the Vietnam War, and condemning the ongoing violation of human rights by the Government of the Socialist Republic of Vietnam.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A resolution recognizing the contributions of the Montagnard indigenous tribespeople of the Central Highlands of Vietnam to the United States Armed Forces during the Vietnam War, and condemning the ongoing violation of human rights by the Government of the Socialist Republic of Vietnam.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <originChamber>Senate</originChamber>
+    <introducedDate>2017-07-24</introducedDate>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-24T20:56:03Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

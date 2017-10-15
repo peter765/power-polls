@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <district>4</district>
+        <identifiers>
+          <lisID>2233</lisID>
+          <bioguideId>B001297</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001297</bioguideId>
+        <lastName>Buck</lastName>
+        <firstName>Ken</firstName>
+        <fullName>Rep. Buck, Ken [R-CO-4]</fullName>
+        <byRequestType />
+        <middleName />
+        <state>CO</state>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <calendarNumbers>
+      <item>
+        <calendar>H00054</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-163</citation>
+      </committeeReport>
+    </committeeReports>
+    <latestAction>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionDate>2017-06-07</actionDate>
+      <actionTime>14:50:22</actionTime>
+      <links />
+    </latestAction>
+    <constitutionalAuthorityStatementText />
+    <recordedVotes>
+      <recordedVote>
+        <url>http://clerk.house.gov/evs/2017/roll291.xml</url>
+        <date>2017-06-07T18:50:20Z</date>
+        <rollNumber>291</rollNumber>
+        <congress>115</congress>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+      <recordedVote>
+        <url>http://clerk.house.gov/evs/2017/roll290.xml</url>
+        <date>2017-06-07T18:44:25Z</date>
+        <rollNumber>290</rollNumber>
+        <congress>115</congress>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <congress>115</congress>
+        <latestTitle>Financial CHOICE Act of 2017</latestTitle>
+        <latestAction>
+          <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+          <actionDate>2017-07-13</actionDate>
+        </latestAction>
+        <number>10</number>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-06-07</actionDate>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <actionTime>14:50:22</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H4664</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4664</url>
+          </link>
+          <link>
+            <name>Roll no. 291</name>
+            <url>http://clerk.house.gov/evs/2017/roll291.xml</url>
+          </link>
+        </links>
+        <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 231 - 188 (Roll no. 291). (text: CR H4664)</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-06-07</actionDate>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <actionTime>14:50:20</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>Roll no. 291</name>
+            <url>http://clerk.house.gov/evs/2017/roll291.xml</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 231 - 188 (Roll no. 291).</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-06-07</actionDate>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <actionTime>14:50:20</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H4673-4674</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4673-4674</url>
+          </link>
+          <link>
+            <name>Roll no. 290</name>
+            <url>http://clerk.house.gov/evs/2017/roll290.xml</url>
+          </link>
+        </links>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 228 - 185 (Roll no. 290). (consideration: CR H4673-4674)</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-06-07</actionDate>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <actionTime>14:44:25</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H4673-4674</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4673-4674</url>
+          </link>
+        </links>
+        <text>Considered as unfinished business. (consideration: CR H4673-4674)</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-06-07</actionDate>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <actionTime>14:37:31</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H. Res. 375</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/375</url>
+          </link>
+        </links>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 375, the Chair put the question on ordering the previous question, and by voice vote announced that the ayes had prevailed. Ms. Slaughter demanded the yeas and nays, and the Chair postponed further proceedings on the question of ordering the previous question until later in the legislative day.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-06-07</actionDate>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <actionTime>13:55:59</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H. Res. 375</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/375</url>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 375.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-06-07</actionDate>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <actionTime>13:06:22</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H4664-4671</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4664-4671</url>
+          </link>
+        </links>
+        <text>Considered as privileged matter. (consideration: CR H4664-4671)</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-06-07</actionDate>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <actionTime>13:03:43</actionTime>
+      </item>
+      <item>
+        <links />
+        <text>Placed on the House Calendar, Calendar No. 54.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-06-06</actionDate>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H.R. 10</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/10</url>
+          </link>
+        </links>
+        <text>Rule provides for consideration of H.R. 10 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-06-06</actionDate>
+        <type>Floor</type>
+        <actionCode>H12700</actionCode>
+        <actionTime>19:27:06</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H. Rept. 115-163</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/163</url>
+          </link>
+        </links>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-163, by Mr. Buck.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <actionDate>2017-06-06</actionDate>
+        <type>Committee</type>
+        <actionCode>H12100</actionCode>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H. Rept. 115-163</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/163</url>
+          </link>
+        </links>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-163, by Mr. Buck.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <actionDate>2017-06-06</actionDate>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-06-06</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <considerationByHouse>2</considerationByHouse>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <generalDebate>2</generalDebate>
+        <provisionsOfARule>1</provisionsOfARule>
+        <introducedInHouse>1</introducedInHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-06-06T23:27:05Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-09-11T02:40:38Z</updateDate>
+    <cboCostEstimates />
+    <createDate>2017-06-07T03:11:36Z</createDate>
+    <billType>HRES</billType>
+    <cosponsors />
+    <congress>115</congress>
+    <introducedDate>2017-06-06</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-06-06</actionDate>
+          <lastSummaryUpdateDate>2017-06-07T08:05:29Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-06-06T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 10) to create hope and opportunity for investors, consumers, and entrepreneurs by ending bailouts and Too Big to Fail, holding Washington and Wall Street accountable, eliminating red tape to increase access to capital and credit, and repealing the provisions of the Dodd-Frank Act that make America less prosperous, less stable, and less free.]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Providing for consideration of the bill (H.R. 10) to create hope and opportunity for investors, consumers, and entrepreneurs by ending bailouts and Too Big to Fail, holding Washington and Wall Street accountable, eliminating red tape to increase access to capital and credit, and repealing the provisions of the Dodd-Frank Act that make America less prosperous, less stable, and less free, and for other purposes.</title>
+    <laws />
+    <billNumber>375</billNumber>
+    <titles>
+      <item>
+        <title>Providing for consideration of the bill (H.R. 10) to create hope and opportunity for investors, consumers, and entrepreneurs by ending bailouts and Too Big to Fail, holding Washington and Wall Street accountable, eliminating red tape to increase access to capital and credit, and repealing the provisions of the Dodd-Frank Act that make America less prosperous, less stable, and less free, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Providing for consideration of the bill (H.R. 10) to create hope and opportunity for investors, consumers, and entrepreneurs by ending bailouts and Too Big to Fail, holding Washington and Wall Street accountable, eliminating red tape to increase access to capital and credit, and repealing the provisions of the Dodd-Frank Act that make America less prosperous, less stable, and less free, and for other purposes.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

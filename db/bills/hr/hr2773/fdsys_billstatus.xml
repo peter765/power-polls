@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <updateDate>2017-10-13T07:23:46Z</updateDate>
+    <notes />
+    <relatedBills />
+    <latestAction>
+      <actionDate>2017-10-12</actionDate>
+      <text>Committee Hearings Held.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2017-10-12T17:19:47Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-06T16:00:20Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-06T17:34:34Z</date>
+                </item>
+              </activities>
+              <systemCode>hsvr03</systemCode>
+            </item>
+            <item>
+              <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2017-06-06T17:34:17Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-06T16:43:26Z</date>
+                </item>
+              </activities>
+              <systemCode>hsvr09</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-06-06</introducedDate>
+    <committeeReports />
+    <congress>115</congress>
+    <title>To authorize the Secretary of Veterans Affairs to sell Pershing Hall.</title>
+    <recordedVotes />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <bioguideId>P000593</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1835</lisID>
+          <bioguideId>P000593</bioguideId>
+          <gpoId>7865</gpoId>
+        </identifiers>
+        <firstName>Ed</firstName>
+        <lastName>Perlmutter</lastName>
+        <state>CO</state>
+        <party>D</party>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>K000382</bioguideId>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Ann</firstName>
+        <lastName>Kuster</lastName>
+        <state>NH</state>
+        <party>D</party>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>D000533</bioguideId>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000533</bioguideId>
+          <lisID>322</lisID>
+          <gpoId>8149</gpoId>
+        </identifiers>
+        <firstName>JOHN</firstName>
+        <lastName>DUNCAN</lastName>
+        <state>TN</state>
+        <party>R</party>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <billNumber>2773</billNumber>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-09-21T19:07:40Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-06-06</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-06-06T04:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill amends the Veterans' Benefits Programs Improvement Act of 1991 to direct the Department of Veterans Affairs (VA) to sell Pershing Hall, in Paris, France, for fair market value, on the condition that the purchaser agrees to preserve its interior and exterior architectural details.</p> <p> The VA shall transfer to the American Battle Monuments Commission any personal property in the VA's possession, including memorabilia regarding General Pershing and the American Expeditionary Forces in France during World War I, regardless of the location of the property at the time of the transfer.</p> <p>The funds received from such sale shall be transferred to the commission and made available for maintaining cemeteries, monuments, and memorials under the commission's jurisdiction.</p> <p>The Pershing Hall Revolving Fund shall be abolished one year after such sale and its funds shall be transferred to the commission.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To authorize the Secretary of Veterans Affairs to sell Pershing Hall.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To authorize the Secretary of Veterans Affairs to sell Pershing Hall.</title>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COFFMAN:H.R. 2773.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the Constitution of the UnitedStates.[Page H4647]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2017-06-07T03:11:40Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-12</actionDate>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-06</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-06</actionDate>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee on Disability Assistance and Memorial Affairs Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-06</actionDate>
+        <committee>
+          <systemCode>hsvr09</systemCode>
+          <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-06-06</actionDate>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-06-06</actionDate>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-06-06</actionDate>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>3</placeholderTextForH>
+        <actionStageOverride>1</actionStageOverride>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <firstName>Mike</firstName>
+        <middleName />
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <byRequestType />
+        <bioguideId>C001077</bioguideId>
+        <district>6</district>
+        <lastName>Coffman</lastName>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>C001077</bioguideId>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

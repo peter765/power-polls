@@ -1,0 +1,47 @@
+<bill session="115" type="h" number="2299" updated="2017-09-26T07:16:34Z">
+  <state datetime="2017-05-02">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-02"/>
+  </status>
+  <introduced datetime="2017-05-02"/>
+  <titles>
+    <title type="short" as="introduced">Currency Optimization, Innovation, and National Savings Act of 2017</title>
+    <title type="short" as="introduced">Currency Optimization, Innovation, and National Savings Act of 2017</title>
+    <title type="official" as="introduced">To save taxpayers money by improving the manufacturing and distribution of coins and notes, and for other purposes.</title>
+    <title type="display">Currency Optimization, Innovation, and National Savings Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="T000478"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001295" joined="2017-07-27"/>
+    <cosponsor bioguide_id="B001227" joined="2017-05-02"/>
+    <cosponsor bioguide_id="C001107" joined="2017-07-26" withdrawn="2017-09-25"/>
+    <cosponsor bioguide_id="F000454" joined="2017-07-11"/>
+    <cosponsor bioguide_id="G000565" joined="2017-05-23"/>
+    <cosponsor bioguide_id="H001048" joined="2017-07-26"/>
+    <cosponsor bioguide_id="J000255" joined="2017-05-02"/>
+    <cosponsor bioguide_id="S001191" joined="2017-07-11"/>
+    <cosponsor bioguide_id="T000469" joined="2017-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-02">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-02" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="759"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Congressional oversight"/>
+    <term name="Currency"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

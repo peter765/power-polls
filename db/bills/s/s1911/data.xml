@@ -1,0 +1,48 @@
+<bill session="115" type="s" number="1911" updated="2017-10-13T04:31:45Z">
+  <state datetime="2017-10-03">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-03"/>
+  </status>
+  <introduced datetime="2017-10-03"/>
+  <titles>
+    <title type="short" as="introduced">American Miners Pension Act of 2017</title>
+    <title type="short" as="introduced">American Miners Pension Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend the Surface Mining Control and Reclamation Act of 1977 to transfer certain funds to the 1974 United Mine Workers of America Pension Plan, and for other purposes.</title>
+    <title type="display">American Miners Pension Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="M001183"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000944" joined="2017-10-03"/>
+    <cosponsor bioguide_id="C001047" joined="2017-10-03"/>
+    <cosponsor bioguide_id="C001070" joined="2017-10-03"/>
+    <cosponsor bioguide_id="D000607" joined="2017-10-03"/>
+    <cosponsor bioguide_id="D000622" joined="2017-10-03"/>
+    <cosponsor bioguide_id="H001069" joined="2017-10-03"/>
+    <cosponsor bioguide_id="K000384" joined="2017-10-03"/>
+    <cosponsor bioguide_id="M001170" joined="2017-10-03"/>
+    <cosponsor bioguide_id="W000805" joined="2017-10-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-03">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-10-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="179"/>
+    <bill type="h" session="115" relation="unknown" number="2713"/>
+    <bill type="h" session="115" relation="unknown" number="3913"/>
+    <bill type="s" session="115" relation="unknown" number="175"/>
+    <bill type="s" session="115" relation="unknown" number="1105"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

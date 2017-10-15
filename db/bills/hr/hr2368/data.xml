@@ -1,0 +1,69 @@
+<bill session="115" type="h" number="2368" updated="2017-10-11T18:15:18Z">
+  <state datetime="2017-05-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-04"/>
+  </status>
+  <introduced datetime="2017-05-04"/>
+  <titles>
+    <title type="short" as="introduced">Right to Try Act</title>
+    <title type="short" as="introduced">Right to Try Act</title>
+    <title type="official" as="introduced">To authorize the use of experimental drugs, biological products, and devices by patients diagnosed with a terminal illness in accordance with State law, and for other purposes.</title>
+    <title type="display">Right to Try Act</title>
+  </titles>
+  <sponsor bioguide_id="F000466"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001302" joined="2017-05-04"/>
+    <cosponsor bioguide_id="S000051" joined="2017-07-17"/>
+    <cosponsor bioguide_id="S001191" joined="2017-05-04"/>
+    <cosponsor bioguide_id="S001199" joined="2017-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-04">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-04" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-05-04">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2017-05-04">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2017-05-05">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2017-06-07">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+    <action datetime="2017-06-07">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="878"/>
+    <bill type="s" session="115" relation="unknown" number="204"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Civil actions and liability"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Drug therapy"/>
+    <term name="Health personnel"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Licensing and registrations"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Prescription drugs"/>
+    <term name="Product safety and quality"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

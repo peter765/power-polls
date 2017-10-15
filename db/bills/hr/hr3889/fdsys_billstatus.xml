@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <middleName />
+        <lastName>Higgins</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <firstName>Clay</firstName>
+        <bioguideId>H001077</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>LA</state>
+        <identifiers>
+          <lisID>2329</lisID>
+          <gpoId />
+          <bioguideId>H001077</bioguideId>
+        </identifiers>
+        <district>3</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Graves</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Graves, Garret [R-LA-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <firstName>Garret</firstName>
+        <bioguideId>G000577</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>LA</state>
+        <identifiers>
+          <bioguideId>G000577</bioguideId>
+          <lisID>2245</lisID>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <lastName>Latta</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <firstName>Robert</firstName>
+        <bioguideId>L000566</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <identifiers>
+          <lisID>1885</lisID>
+          <gpoId>8095</gpoId>
+          <bioguideId>L000566</bioguideId>
+        </identifiers>
+        <district>5</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Cuellar</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <firstName>Henry</firstName>
+        <bioguideId>C001063</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1807</lisID>
+          <bioguideId>C001063</bioguideId>
+          <gpoId>8184</gpoId>
+        </identifiers>
+        <district>28</district>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>T000478</bioguideId>
+        <fullName>Rep. Tenney, Claudia [R-NY-22]</fullName>
+        <party>R</party>
+        <state>NY</state>
+        <firstName>Claudia</firstName>
+        <district>22</district>
+        <lastName>Tenney</lastName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>T000478</bioguideId>
+          <lisID>2344</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2017-09-29</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </latestAction>
+    <actions>
+      <item>
+        <actionDate>2017-09-29</actionDate>
+        <committee>
+          <name>Highways and Transit Subcommittee</name>
+          <systemCode>hspw12</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+      </item>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Highways and Transit Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-09-29T14:22:06Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw12</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hspw00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-28T13:04:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>WHEEL Act</title>
+    <billNumber>3889</billNumber>
+    <introducedDate>2017-09-28</introducedDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <amendments />
+    <notes />
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ROS-LEHTINEN:H.R. 2061.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2792]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>115</congress>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>WHEEL Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Waiving Hindrances to Economic Enterprise and Labor Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the FAST Act to modify eligibility requirements for participation in a commercial driver pilot program, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>WHEEL Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>WHEEL Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Waiving Hindrances to Economic Enterprise and Labor Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <updateDate>2017-10-12T07:17:23Z</updateDate>
+    <createDate>2017-09-29T03:11:26Z</createDate>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

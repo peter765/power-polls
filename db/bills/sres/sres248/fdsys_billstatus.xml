@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-08-03</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4882</url>
+            <name>S4882</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4894</url>
+            <name>S4894</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4882, S4894; text: CR S4882)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-08-03</actionDate>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S4882, S4894; text: CR S4882)</text>
+        <committee />
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4882</url>
+            <name>S4882</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4894</url>
+            <name>S4894</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-08-03</actionDate>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-08-04T00:42:11Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <committees>
+      <billCommittees />
+    </committees>
+    <billNumber>248</billNumber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <lastName>FEINSTEIN</lastName>
+        <bioguideId>F000062</bioguideId>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <state>CA</state>
+        <firstName>DIANNE</firstName>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2017-08-03</introducedDate>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A resolution expressing the sense of the Senate that flowers grown in the United States support the farmers, small businesses, jobs, and economy of the United States, that flower farming is an honorable vocation, and designating July as "American Grown Flower Month".</latestTitle>
+        <type>SRES</type>
+        <number>208</number>
+        <latestAction>
+          <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S3834-3835)</text>
+          <actionDate>2017-06-28</actionDate>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <billType>SRES</billType>
+    <title>A resolution expressing the sense of the Senate that flowers grown in the United States support the farmers, small businesses, jobs, and economy of the United States, that flower farming is an honorable vocation, and designating July as "American Grown Flower Month".</title>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <updateDate>2017-10-04T04:47:43Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Designates July 2017 as American Grown Flower Month. Recognizes that flowers grown in the United States support farmers, small businesses, jobs, and the economy; are a vital part of the U.S. agricultural industry; and enhance the ability of the people of the United States to celebrate holidays and special occasions. Urges all people of the United States to proactively showcase flowers and greens grown in the United States.</p>]]></text>
+          <lastSummaryUpdateDate>2017-08-26T17:01:24Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-08-03</actionDate>
+          <updateDate>2017-08-03T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Designates July 2017 as American Grown Flower Month. Recognizes that flowers grown in the United States support farmers, small businesses, jobs, and the economy; are a vital part of the U.S. agricultural industry; and enhance the ability of the people of the United States to celebrate holidays and special occasions. Urges all people of the United States to proactively showcase flowers and greens grown in the United States.</p>]]></text>
+          <lastSummaryUpdateDate>2017-08-14T15:49:34Z</lastSummaryUpdateDate>
+          <versionCode>82</versionCode>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <actionDate>2017-08-03</actionDate>
+          <updateDate>2017-08-03T15:32:20Z</updateDate>
+          <name>Passed Senate without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4882, S4894; text: CR S4882)</text>
+      <actionDate>2017-08-03</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <sponsorshipDate>2017-08-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Murkowski</lastName>
+        <bioguideId>M001153</bioguideId>
+        <party>R</party>
+        <state>AK</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Horticulture and plants</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <titles>
+      <item>
+        <title>A resolution expressing the sense of the Senate that flowers grown in the United States support the farmers, small businesses, jobs, and economy of the United States, that flower farming is an honorable vocation, and designating July as "American Grown Flower Month".</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>A resolution expressing the sense of the Senate that flowers grown in the United States support the farmers, small businesses, jobs, and economy of the United States, that flower farming is an honorable vocation, and designating July as "American Grown Flower Month".</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,60 @@
+<bill session="115" type="h" number="3176" updated="2017-10-13T20:27:21Z">
+  <state datetime="2017-07-27">REPORTED</state>
+  <status>
+    <unknown datetime="2017-07-27"/>
+  </status>
+  <introduced datetime="2017-07-11"/>
+  <titles>
+    <title type="short" as="introduced">Disaster Assistance Fairness and Accountability Act of 2017</title>
+    <title type="short" as="introduced">Disaster Assistance Fairness and Accountability Act of 2017</title>
+    <title type="official" as="introduced">To prohibit the Federal Emergency Management Agency from recouping certain assistance, and for other purposes.</title>
+    <title type="display">Disaster Assistance Fairness and Accountability Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="M001193"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001107" joined="2017-07-11"/>
+    <cosponsor bioguide_id="D000620" joined="2017-07-11"/>
+    <cosponsor bioguide_id="F000464" joined="2017-07-11"/>
+    <cosponsor bioguide_id="F000372" joined="2017-09-27"/>
+    <cosponsor bioguide_id="G000578" joined="2017-09-18"/>
+    <cosponsor bioguide_id="G000577" joined="2017-07-11"/>
+    <cosponsor bioguide_id="J000255" joined="2017-07-11"/>
+    <cosponsor bioguide_id="L000554" joined="2017-07-11"/>
+    <cosponsor bioguide_id="M001187" joined="2017-07-11"/>
+    <cosponsor bioguide_id="M001137" joined="2017-07-11"/>
+    <cosponsor bioguide_id="P000598" joined="2017-07-11"/>
+    <cosponsor bioguide_id="R000602" joined="2017-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-11">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-11" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-07-12">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2017-07-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2017-07-27">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+    </action>
+    <calendar datetime="2017-07-27" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Markup, Referral"/>
+    <committee subcommittee="Economic Development, Public Buildings and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Discharged, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1641"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

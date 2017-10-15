@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="2650" updated="2017-06-19T22:30:17Z">
+  <state datetime="2017-05-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-25"/>
+  </status>
+  <introduced datetime="2017-05-25"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Older Workers Against Discrimination Act</title>
+    <title type="short" as="introduced">Protecting Older Workers Against Discrimination Act</title>
+    <title type="official" as="introduced">To amend the Age Discrimination in Employment Act of 1967 and other laws to clarify appropriate standards for Federal employment discrimination and retaliation claims, and for other purposes.</title>
+    <title type="display">Protecting Older Workers Against Discrimination Act</title>
+  </titles>
+  <sponsor bioguide_id="S000185"/>
+  <cosponsors>
+    <cosponsor bioguide_id="S000244" joined="2017-05-25"/>
+    <cosponsor bioguide_id="T000472" joined="2017-05-25"/>
+    <cosponsor bioguide_id="Y000066" joined="2017-05-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-25" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="443"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="115" type="s" number="1505" updated="2017-09-28T04:47:11Z">
+  <state datetime="2017-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-29"/>
+  </status>
+  <introduced datetime="2017-06-29"/>
+  <titles>
+    <title type="short" as="introduced">SHUSH Act</title>
+    <title type="short" as="introduced">SHUSH Act</title>
+    <title type="short" as="introduced">Silencers Help Us Save Hearing Act</title>
+    <title type="short" as="introduced">Silencers Help Us Save Hearing Act</title>
+    <title type="official" as="introduced">A bill to provide that silencers be treated the same as firearms accessories.</title>
+    <title type="display">SHUSH Act</title>
+  </titles>
+  <sponsor bioguide_id="L000577"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001056" joined="2017-09-27"/>
+    <cosponsor bioguide_id="C000880" joined="2017-06-29"/>
+    <cosponsor bioguide_id="H000338" joined="2017-09-27"/>
+    <cosponsor bioguide_id="J000293" joined="2017-07-27"/>
+    <cosponsor bioguide_id="P000603" joined="2017-09-13"/>
+    <cosponsor bioguide_id="P000612" joined="2017-09-27"/>
+    <cosponsor bioguide_id="R000584" joined="2017-07-27"/>
+    <cosponsor bioguide_id="S001202" joined="2017-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-29">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="367"/>
+    <bill type="h" session="115" relation="unknown" number="3139"/>
+    <bill type="s" session="115" relation="unknown" number="59"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

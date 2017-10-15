@@ -1,0 +1,36 @@
+<bill session="115" type="h" number="2861" updated="2017-08-19T07:12:37Z">
+  <state datetime="2017-06-08">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-08"/>
+  </status>
+  <introduced datetime="2017-06-08"/>
+  <titles>
+    <title type="short" as="introduced">Hire Military Service Members Act</title>
+    <title type="short" as="introduced">Hire Military Service Members Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to provide incentives for States to accept professional credentials related to military training and skills that are obtained by members of the Armed Forces while serving in the Armed Forces.</title>
+    <title type="display">Hire Military Service Members Act</title>
+  </titles>
+  <sponsor bioguide_id="R000604"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-06-08">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-08" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2017-07-17">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

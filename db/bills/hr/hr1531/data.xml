@@ -1,0 +1,84 @@
+<bill session="115" type="h" number="1531" updated="2017-06-19T21:30:24Z">
+  <state datetime="2017-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-15"/>
+  </status>
+  <introduced datetime="2017-03-15"/>
+  <titles>
+    <title type="short" as="introduced">Superfund Reinvestment Act</title>
+    <title type="short" as="introduced">Superfund Reinvestment Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for the use of funds in the Hazardous Substance Superfund for the purposes for which they were collected, to ensure adequate resources for the cleanup of hazardous substances under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, and for other purposes.</title>
+    <title type="display">Superfund Reinvestment Act</title>
+  </titles>
+  <sponsor bioguide_id="B000574"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001292" joined="2017-03-15"/>
+    <cosponsor bioguide_id="C001090" joined="2017-03-15"/>
+    <cosponsor bioguide_id="C001080" joined="2017-03-15"/>
+    <cosponsor bioguide_id="C001078" joined="2017-03-15"/>
+    <cosponsor bioguide_id="C000714" joined="2017-03-15"/>
+    <cosponsor bioguide_id="G000551" joined="2017-03-15"/>
+    <cosponsor bioguide_id="G000535" joined="2017-03-15"/>
+    <cosponsor bioguide_id="H001068" joined="2017-03-15"/>
+    <cosponsor bioguide_id="K000375" joined="2017-03-15"/>
+    <cosponsor bioguide_id="M001166" joined="2017-03-15"/>
+    <cosponsor bioguide_id="N000147" joined="2017-03-15"/>
+    <cosponsor bioguide_id="P000034" joined="2017-03-15"/>
+    <cosponsor bioguide_id="P000096" joined="2017-03-15"/>
+    <cosponsor bioguide_id="P000607" joined="2017-03-15"/>
+    <cosponsor bioguide_id="S000480" joined="2017-05-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-15">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-03-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E329-330"/>
+    </action>
+    <action datetime="2017-03-15" state="REFERRED">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2017-03-15">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Transportation and Infrastructure, Energy and Commerce, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-03-15">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2017-03-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2017-03-15">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2017-03-16">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2017-03-17">
+      <text>Referred to the Subcommittee on Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Environment and the Economy" code="HSIF18" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="" code="HSBU" name="House Budget" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Corporate finance and management"/>
+    <term name="Government trust funds"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Income tax rates"/>
+    <term name="Inflation and prices"/>
+    <term name="Oil and gas"/>
+    <term name="Pollution liability"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,142 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-27", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-27", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3500-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001273", 
+      "district": "6", 
+      "name": "Black, Diane", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-27", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000597", 
+      "district": "7", 
+      "name": "Rice, Tom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-27", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000580", 
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-27", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-27", 
+  "number": "3500", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to prohibit the Commissioner of the Internal Revenue Service from rehiring any employee of the Internal Revenue Service who was involuntarily separated from service for misconduct.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1643-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Ensuring Integrity in the IRS Workforce Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "N000184", 
+    "district": null, 
+    "name": "Noem, Kristi L.", 
+    "state": "SD", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-07-27", 
+  "subjects": [
+    "Department of the Treasury", 
+    "Employee performance", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Internal Revenue Service (IRS)", 
+    "Tax administration and collection, taxpayers", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-07-27T04:00:00Z", 
+    "text": "Ensuring Integrity in the IRS Workforce Act of 2017\n\n This bill amends the Internal Revenue Code to prohibit the Internal Revenue Service (IRS)\u00a0from rehiring any individual who was previously employed by the\u00a0IRS but was removed for misconduct or whose\u00a0employment was terminated for cause.\n\n No additional funds are authorized to carry out this bill."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Ensuring Integrity in the IRS Workforce Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Ensuring Integrity in the IRS Workforce Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to prohibit the Commissioner of the Internal Revenue Service from rehiring any employee of the Internal Revenue Service who was involuntarily separated from service for misconduct.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Ensuring Integrity in the IRS Workforce Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-09-11T03:06:19Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3500.xml"
+}

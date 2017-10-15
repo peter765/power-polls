@@ -1,0 +1,41 @@
+<bill session="115" type="h" number="3336" updated="2017-09-11T03:06:15Z">
+  <state datetime="2017-07-20">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-20"/>
+  </status>
+  <introduced datetime="2017-07-20"/>
+  <titles>
+    <title type="short" as="introduced">Employ Young Americans Now Act</title>
+    <title type="short" as="introduced">Employ Young Americans Now Act</title>
+    <title type="official" as="introduced">To provide for youth jobs, and for other purposes.</title>
+    <title type="display">Employ Young Americans Now Act</title>
+  </titles>
+  <sponsor bioguide_id="C000714"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001068" joined="2017-08-01"/>
+    <cosponsor bioguide_id="C000984" joined="2017-07-20"/>
+    <cosponsor bioguide_id="E000296" joined="2017-07-20"/>
+    <cosponsor bioguide_id="J000032" joined="2017-07-20"/>
+    <cosponsor bioguide_id="N000147" joined="2017-07-20"/>
+    <cosponsor bioguide_id="W000808" joined="2017-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-20">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-20" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1590"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

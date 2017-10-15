@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-10-05T03:11:21Z</createDate>
+    <introducedDate>2017-10-04</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-04T14:03:15Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <calendarNumbers />
+    <congress>115</congress>
+    <title>Judicial Review Improvement Act of 2017</title>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Judicial Review Improvement Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To specify the scope of judicial review of certain agency actions, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Judicial Review Improvement Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Judicial Review Improvement Act of 2017</title>
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>10</number>
+        <latestTitle>Financial CHOICE Act of 2017</latestTitle>
+        <latestAction>
+          <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+          <actionDate>2017-07-13</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <updateDate>2017-10-11T15:00:16Z</updateDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <billNumber>3950</billNumber>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <district>10</district>
+        <identifiers>
+          <bioguideId>M001201</bioguideId>
+          <gpoId />
+          <lisID>2334</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>M001201</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Paul</firstName>
+        <state>MI</state>
+        <fullName>Rep. Mitchell, Paul [R-MI-10]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Mitchell</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <district>4</district>
+        <identifiers>
+          <lisID>2268</lisID>
+          <gpoId />
+          <bioguideId>R000601</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>R000601</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <state>TX</state>
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Ratcliffe</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <district>6</district>
+        <identifiers>
+          <lisID>2255</lisID>
+          <bioguideId>W000819</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>W000819</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <state>NC</state>
+        <fullName>Rep. Walker, Mark [R-NC-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Walker</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <district>4</district>
+        <identifiers>
+          <bioguideId>G000566</bioguideId>
+          <lisID>2058</lisID>
+          <gpoId>8144</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>G000566</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Trey</firstName>
+        <state>SC</state>
+        <fullName>Rep. Gowdy, Trey [R-SC-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Gowdy</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <district>1</district>
+        <identifiers>
+          <lisID>2011</lisID>
+          <bioguideId>L000573</bioguideId>
+          <gpoId>7919</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>L000573</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Raul</firstName>
+        <state>ID</state>
+        <fullName>Rep. Labrador, Raul R. [R-ID-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <lastName>Labrador</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <district>22</district>
+        <identifiers>
+          <lisID>2344</lisID>
+          <bioguideId>T000478</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>T000478</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Claudia</firstName>
+        <state>NY</state>
+        <fullName>Rep. Tenney, Claudia [R-NY-22]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Tenney</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <district>2</district>
+        <identifiers>
+          <lisID>2223</lisID>
+          <bioguideId>H001072</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>H001072</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>J.</firstName>
+        <state>AR</state>
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>French</middleName>
+        <lastName>Hill</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>L000569</bioguideId>
+          <lisID>1931</lisID>
+          <gpoId>8017</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>L000569</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Blaine</firstName>
+        <state>MO</state>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Luetkemeyer</lastName>
+      </item>
+    </cosponsors>
+    <laws />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>L000584</bioguideId>
+        <firstName>Mia</firstName>
+        <fullName>Rep. Love, Mia B. [R-UT-4]</fullName>
+        <state>UT</state>
+        <identifiers>
+          <lisID>2271</lisID>
+          <bioguideId>L000584</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>4</district>
+        <byRequestType />
+        <lastName>Love</lastName>
+        <middleName>B.</middleName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Referred to the House Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2017-10-04</actionDate>
+    </latestAction>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-10-04</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-10-04</actionDate>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-10-04</actionDate>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. LOVE:H.R. 3950.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, and Article III, Sections 1 and 2, ofthe Constitution.[Page H7842]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

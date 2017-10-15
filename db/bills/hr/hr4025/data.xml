@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="4025" updated="2017-10-13T19:30:12Z">
+  <state datetime="2017-10-11">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-11"/>
+  </status>
+  <introduced datetime="2017-10-11"/>
+  <titles>
+    <title type="short" as="introduced">Multiple Firearm Sales Reporting Modernization Act of 2017</title>
+    <title type="short" as="introduced">Multiple Firearm Sales Reporting Modernization Act of 2017</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to expand to all firearms the requirement that Federal firearms licensees report sales of 2 or more handguns to the same unlicensed person within 5 consecutive business days.</title>
+    <title type="display">Multiple Firearm Sales Reporting Modernization Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="T000474"/>
+  <cosponsors>
+    <cosponsor bioguide_id="E000179" joined="2017-10-11"/>
+    <cosponsor bioguide_id="S001190" joined="2017-10-11"/>
+    <cosponsor bioguide_id="T000468" joined="2017-10-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-11">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-11" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="1692"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

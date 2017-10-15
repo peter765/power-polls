@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>289</billNumber>
+    <amendments />
+    <calendarNumbers />
+    <updateDate>2017-10-13T04:33:32Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>115</congress>
+    <createDate>2017-10-06T00:41:17Z</createDate>
+    <committeeReports />
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <firstName>John</firstName>
+        <state>LA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2303</lisID>
+          <gpoId />
+          <bioguideId>K000393</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000393</bioguideId>
+        <middleName>Neely</middleName>
+        <lastName>Kennedy</lastName>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+      </item>
+    </cosponsors>
+    <title>A resolution designating the week beginning October 8, 2017, as "National Wildlife Refuge Week".</title>
+    <committees>
+      <billCommittees />
+    </committees>
+    <laws />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <introducedDate>2017-10-05</introducedDate>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>560</number>
+        <latestTitle>Encouraging observance of National Wildlife Refuge Week with appropriate events and activities, and for other purposes.</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Natural Resources.</text>
+          <actionDate>2017-10-05</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HRES</type>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <billType>SRES</billType>
+    <actions>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S6368-6389</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6368-6389</url>
+          </link>
+          <link>
+            <name>S6375</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6375</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6375; text of measure as introduced: CR S6368-6389)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2017-10-05</actionDate>
+        <links>
+          <link>
+            <name>S6368-6389</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6368-6389</url>
+          </link>
+          <link>
+            <name>S6375</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6375</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S6375; text of measure as introduced: CR S6368-6389)</text>
+        <actionCode>17000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-10-05</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A resolution designating the week beginning October 8, 2017, as "National Wildlife Refuge Week".</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>A resolution designating the week beginning October 8, 2017, as "National Wildlife Refuge Week".</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <firstName>Christopher</firstName>
+        <state>DE</state>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <bioguideId>C001088</bioguideId>
+        <byRequestType />
+        <middleName>A.</middleName>
+        <lastName>Coons</lastName>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6375; text of measure as introduced: CR S6368-6389)</text>
+      <actionDate>2017-10-05</actionDate>
+      <links />
+    </latestAction>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

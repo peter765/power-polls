@@ -1,0 +1,53 @@
+<bill session="115" type="h" number="3699" updated="2017-10-06T07:16:04Z">
+  <state datetime="2017-09-07">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-07"/>
+  </status>
+  <introduced datetime="2017-09-07"/>
+  <titles>
+    <title type="short" as="introduced">Urban Agriculture Production Act of 2017</title>
+    <title type="short" as="introduced">Urban Agriculture Production Act of 2017</title>
+    <title type="official" as="introduced">To promote and enhance urban agricultural production and agricultural research in urban areas, and for other purposes.</title>
+    <title type="display">Urban Agriculture Production Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="K000009"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000370" joined="2017-09-07"/>
+    <cosponsor bioguide_id="B000490" joined="2017-09-07"/>
+    <cosponsor bioguide_id="B000574" joined="2017-10-05"/>
+    <cosponsor bioguide_id="C000714" joined="2017-09-07"/>
+    <cosponsor bioguide_id="E000296" joined="2017-09-07"/>
+    <cosponsor bioguide_id="J000294" joined="2017-09-07"/>
+    <cosponsor bioguide_id="L000551" joined="2017-09-07"/>
+    <cosponsor bioguide_id="M000312" joined="2017-09-14"/>
+    <cosponsor bioguide_id="M001160" joined="2017-09-07"/>
+    <cosponsor bioguide_id="N000147" joined="2017-09-07"/>
+    <cosponsor bioguide_id="P000597" joined="2017-09-07"/>
+    <cosponsor bioguide_id="Q000023" joined="2017-09-13"/>
+    <cosponsor bioguide_id="R000606" joined="2017-09-27"/>
+    <cosponsor bioguide_id="R000577" joined="2017-09-07"/>
+    <cosponsor bioguide_id="S001200" joined="2017-09-12"/>
+    <cosponsor bioguide_id="Y000033" joined="2017-09-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-07">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1181-1182"/>
+    </action>
+    <action datetime="2017-09-07" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

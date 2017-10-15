@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>378</billNumber>
+    <calendarNumbers>
+      <item>
+        <calendar>H00055</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <billType>HRES</billType>
+    <laws />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Providing for consideration of the bill (H.R. 2581) to amend the Internal Revenue Code of 1986 to require the provision of social security numbers as a condition of receiving the health insurance premium tax credit, and providing for consideration of the bill (S. 1094) to amend title 38, United States Code, to improve the accountability of employees of the Department of Veterans Affairs, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Providing for consideration of the bill (H.R. 2581) to amend the Internal Revenue Code of 1986 to require the provision of social security numbers as a condition of receiving the health insurance premium tax credit, and providing for consideration of the bill (S. 1094) to amend title 38, United States Code, to improve the accountability of employees of the Department of Veterans Affairs, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <firstName>Ken</firstName>
+        <state>CO</state>
+        <lastName>Buck</lastName>
+        <district>4</district>
+        <fullName>Rep. Buck, Ken [R-CO-4]</fullName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <lisID>2233</lisID>
+          <bioguideId>B001297</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001297</bioguideId>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-177</citation>
+      </committeeReport>
+    </committeeReports>
+    <recordedVotes>
+      <recordedVote>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-06-13T17:28:39Z</date>
+        <rollNumber>303</rollNumber>
+        <chamber>House</chamber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll303.xml</url>
+      </recordedVote>
+      <recordedVote>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-06-13T17:22:00Z</date>
+        <rollNumber>302</rollNumber>
+        <chamber>House</chamber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll302.xml</url>
+      </recordedVote>
+    </recordedVotes>
+    <relatedBills>
+      <item>
+        <number>2581</number>
+        <latestTitle>Verify First Act</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-06-14</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <type>HR</type>
+      </item>
+      <item>
+        <number>1094</number>
+        <latestTitle>Department of Veterans Affairs Accountability and Whistleblower Protection Act of 2017</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-06-23</actionDate>
+          <text>Became Public Law No: 115-41.</text>
+        </latestAction>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <notes />
+    <actions>
+      <actionTypeCounts>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <introducedInHouse>1</introducedInHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <generalDebate>1</generalDebate>
+        <provisionsOfARule>1</provisionsOfARule>
+      </actionTypeCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>13:28:42</actionTime>
+        <type>Floor</type>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionDate>2017-06-13</actionDate>
+        <actionCode>H38310</actionCode>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>13:28:39</actionTime>
+        <type>Floor</type>
+        <committee />
+        <text>On agreeing to the resolution Agreed to by recorded vote: 229 - 190 (Roll no. 303). (text: CR H4867-4868)</text>
+        <actionDate>2017-06-13</actionDate>
+        <actionCode>H37100</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4867-4868</url>
+            <name>H4867-4868</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll303.xml</url>
+            <name>Roll no. 303</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionTime>13:28:39</actionTime>
+        <type>Floor</type>
+        <committee />
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 229 - 190 (Roll no. 303).</text>
+        <actionDate>2017-06-13</actionDate>
+        <actionCode>8000</actionCode>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll303.xml</url>
+            <name>Roll no. 303</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>13:22:00</actionTime>
+        <type>Floor</type>
+        <committee />
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 229 - 189 (Roll no. 302). (consideration: CR H4873)</text>
+        <actionDate>2017-06-13</actionDate>
+        <actionCode>H35000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4873</url>
+            <name>H4873</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll302.xml</url>
+            <name>Roll no. 302</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>12:22:38</actionTime>
+        <type>Floor</type>
+        <committee />
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 378.</text>
+        <actionDate>2017-06-13</actionDate>
+        <actionCode>H8D000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/378</url>
+            <name>H. Res. 378</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>12:20:41</actionTime>
+        <type>Floor</type>
+        <committee />
+        <text>Considered as privileged matter. (consideration: CR H4867-4874)</text>
+        <actionDate>2017-06-13</actionDate>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4867-4874</url>
+            <name>H4867-4874</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-06-12</actionDate>
+        <type>Calendars</type>
+        <text>Placed on the House Calendar, Calendar No. 55.</text>
+        <committee />
+        <actionCode>H12420</actionCode>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>19:15:14</actionTime>
+        <type>Floor</type>
+        <committee />
+        <text>Rule provides for consideration of H.R. 2581 and S. 1094, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on H.R. 2581, and a motion to commit on S. 1094. Both measures will be considered read and are closed to amendments.</text>
+        <actionDate>2017-06-12</actionDate>
+        <actionCode>H12700</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2581</url>
+            <name>H.R. 2581</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/senate-bill/1094</url>
+            <name>S. 1094</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-06-12</actionDate>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-177, by Mr. Buck.</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>H12100</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/177</url>
+            <name>H. Rept. 115-177</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-06-12</actionDate>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-177, by Mr. Buck.</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/177</url>
+            <name>H. Rept. 115-177</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-06-12</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-06-13T03:11:35Z</createDate>
+    <title>Providing for consideration of the bill (H.R. 2581) to amend the Internal Revenue Code of 1986 to require the provision of social security numbers as a condition of receiving the health insurance premium tax credit, and providing for consideration of the bill (S. 1094) to amend title 38, United States Code, to improve the accountability of employees of the Department of Veterans Affairs, and for other purposes.</title>
+    <cosponsors />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-06-12T23:15:13Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <name>Rules Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 2581) to amend the Internal Revenue Code of 1986 to require the provision of social security numbers as a condition of receiving the health insurance premium tax credit, and providing for consideration of the bill (S. 1094) to amend title 38, United States Code, to improve the accountability of employees of the Department of Veterans Affairs.]]></text>
+          <lastSummaryUpdateDate>2017-06-13T08:06:02Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-06-12</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-06-12T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <updateDate>2017-09-11T02:40:38Z</updateDate>
+    <latestAction>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>13:28:42</actionTime>
+      <links />
+      <actionDate>2017-06-13</actionDate>
+    </latestAction>
+    <introducedDate>2017-06-12</introducedDate>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

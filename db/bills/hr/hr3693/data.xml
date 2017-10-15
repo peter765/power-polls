@@ -1,0 +1,32 @@
+<bill session="115" type="h" number="3693" updated="2017-09-29T11:00:11Z">
+  <state datetime="2017-09-07">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-07"/>
+  </status>
+  <introduced datetime="2017-09-07"/>
+  <titles>
+    <title type="official" as="introduced">To repeal the debt ceiling.</title>
+    <title type="display">To repeal the debt ceiling.</title>
+  </titles>
+  <sponsor bioguide_id="B001296"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-09-07">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-07" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1846"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="115" type="s" number="1457" updated="2017-10-04T04:49:56Z">
+  <state datetime="2017-06-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-28"/>
+  </status>
+  <introduced datetime="2017-06-28"/>
+  <titles>
+    <title type="short" as="introduced">Advanced Nuclear Energy Technologies Act</title>
+    <title type="short" as="introduced">Advanced Nuclear Energy Technologies Act</title>
+    <title type="official" as="introduced">A bill to amend the Energy Policy Act of 2005 to direct the Secretary of Energy to carry out demonstration projects relating to advanced nuclear reactor technologies to support domestic energy needs.</title>
+    <title type="display">Advanced Nuclear Energy Technologies Act</title>
+  </titles>
+  <sponsor bioguide_id="F000444"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001288" joined="2017-06-28"/>
+    <cosponsor bioguide_id="C000880" joined="2017-07-18"/>
+    <cosponsor bioguide_id="R000584" joined="2017-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-28">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2017-10-03">
+      <text>Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee subcommittee="Energy" code="SSEG01" name="Senate Energy and Natural Resources" activity="Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

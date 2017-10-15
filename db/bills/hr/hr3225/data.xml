@@ -1,0 +1,43 @@
+<bill session="115" type="h" number="3225" updated="2017-09-11T03:06:11Z">
+  <state datetime="2017-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-13"/>
+  </status>
+  <introduced datetime="2017-07-13"/>
+  <titles>
+    <title type="short" as="introduced">Oregon Tribal Economic Development Act</title>
+    <title type="short" as="introduced">Oregon Tribal Economic Development Act</title>
+    <title type="official" as="introduced">To allow the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians, the Confederated Tribes of the Grand Ronde Community of Oregon, the Confederated Tribes of Siletz Indians of Oregon, the Confederated Tribes of Warm Springs, and the Cow Creek Band of Umpqua Tribe of Indians to lease or transfer certain lands.</title>
+    <title type="display">Oregon Tribal Economic Development Act</title>
+  </titles>
+  <sponsor bioguide_id="D000191"/>
+  <cosponsors>
+    <cosponsor bioguide_id="W000791" joined="2017-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-13">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-13" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-07-25">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Indian, Insular and Alaska Native Affairs" code="HSII24" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="1285"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-07-13T04:00:00Z" status="Introduced in House">Oregon Tribal Economic Development Act
+
+This bill allows the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians, the Confederated Tribes of the Grand Ronde Community of Oregon, the Confederated Tribes of Siletz Indians of Oregon, the Confederated Tribes of Warm Springs, and the Cow Creek Band of Umpqua Tribe of Indians to lease, sell, convey, warrant, or transfer their real property that is not held in trust by the United States.</summary>
+  <committee-reports/>
+</bill>

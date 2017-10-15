@@ -1,0 +1,41 @@
+<bill session="115" type="h" number="3955" updated="2017-10-12T12:45:13Z">
+  <state datetime="2017-10-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-04"/>
+  </status>
+  <introduced datetime="2017-10-04"/>
+  <titles>
+    <title type="short" as="introduced">Empowering Citizens Act of 2017</title>
+    <title type="short" as="introduced">Empowering Citizens Act of 2017</title>
+    <title type="official" as="introduced">To reform public financing for Presidential elections and provide for public financing for Congressional elections.</title>
+    <title type="display">Empowering Citizens Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="P000523"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-10-04">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-04" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-10-04">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="3537"/>
+    <bill type="h" session="115" relation="unknown" number="3848"/>
+    <bill type="s" session="115" relation="unknown" number="1880"/>
+    <bill type="s" session="115" relation="unknown" number="1931"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

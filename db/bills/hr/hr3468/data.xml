@@ -1,0 +1,37 @@
+<bill session="115" type="h" number="3468" updated="2017-09-11T03:06:18Z">
+  <state datetime="2017-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-27"/>
+  </status>
+  <introduced datetime="2017-07-27"/>
+  <titles>
+    <title type="short" as="introduced">Layoff Prevention Act of 2017</title>
+    <title type="short" as="introduced">Layoff Prevention Act of 2017</title>
+    <title type="official" as="introduced">To provide for temporary financing of short-time compensation programs.</title>
+    <title type="display">Layoff Prevention Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="D000216"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C000714" joined="2017-07-27"/>
+    <cosponsor bioguide_id="N000147" joined="2017-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-27" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="1651"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

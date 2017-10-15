@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-09-20T04:51:14Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Climate change and greenhouse gases</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfr00</systemCode>
+          <subcommittees />
+          <name>Foreign Relations Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-22T22:25:15Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A concurrent resolution expressing the sense of Congress that the United States should withdraw from the Paris Agreement, adopted in December 2015.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A concurrent resolution expressing the sense of Congress that the United States should withdraw from the Paris Agreement, adopted in December 2015.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>KY</state>
+        <bioguideId>P000603</bioguideId>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <middleName />
+        <lastName>Paul</lastName>
+        <firstName>Rand</firstName>
+        <identifiers>
+          <gpoId>8308</gpoId>
+          <bioguideId>P000603</bioguideId>
+          <lisID>2082</lisID>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2017-05-22</actionDate>
+      <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S3072)</text>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-09-15T22:23:30Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p> Expresses the sense of Congress that the United States should withdraw from the Paris Agreement on climate change, adopted in December 2015.</p>]]></text>
+          <updateDate>2017-05-22T04:00:00Z</updateDate>
+          <actionDate>2017-05-22</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills>
+      <item>
+        <number>55</number>
+        <latestTitle>Expressing the sense of Congress that the United States should withdraw from the Paris Agreement, adopted in December 2015.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HCONRES</type>
+        <latestAction>
+          <actionDate>2017-05-18</actionDate>
+          <text>Referred to the House Committee on Foreign Affairs.</text>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <title>A concurrent resolution expressing the sense of Congress that the United States should withdraw from the Paris Agreement, adopted in December 2015.</title>
+    <createDate>2017-05-23T00:26:37Z</createDate>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <middleName />
+        <firstName>JIM</firstName>
+        <state>OK</state>
+        <bioguideId>I000024</bioguideId>
+        <identifiers>
+          <lisID>583</lisID>
+          <bioguideId>I000024</bioguideId>
+          <gpoId>8322</gpoId>
+        </identifiers>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <lastName>INHOFE</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName>F.</middleName>
+        <firstName>ROGER</firstName>
+        <state>MS</state>
+        <bioguideId>W000437</bioguideId>
+        <identifiers>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+        </identifiers>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <lastName>WICKER</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName>E.</middleName>
+        <firstName>James</firstName>
+        <state>ID</state>
+        <bioguideId>R000584</bioguideId>
+        <identifiers>
+          <lisID>1896</lisID>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+        </identifiers>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <lastName>Risch</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <firstName>MICHAEL</firstName>
+        <state>WY</state>
+        <bioguideId>E000285</bioguideId>
+        <identifiers>
+          <lisID>1542</lisID>
+          <bioguideId>E000285</bioguideId>
+          <gpoId>8328</gpoId>
+        </identifiers>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <lastName>ENZI</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName>GRANT</middleName>
+        <firstName>ORRIN</firstName>
+        <state>UT</state>
+        <bioguideId>H000338</bioguideId>
+        <identifiers>
+          <gpoId>8314</gpoId>
+          <lisID>1351</lisID>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <lastName>HATCH</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <firstName>Ted</firstName>
+        <state>TX</state>
+        <bioguideId>C001098</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2175</lisID>
+          <bioguideId>C001098</bioguideId>
+        </identifiers>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <lastName>Cruz</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <introducedDate>2017-05-22</introducedDate>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <notes />
+    <cboCostEstimates />
+    <billType>SCONRES</billType>
+    <amendments />
+    <billNumber>17</billNumber>
+    <calendarNumbers />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-05-22</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S3072</url>
+            <name>S3072</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S3072)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <links />
+        <committee />
+        <actionDate>2017-05-22</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

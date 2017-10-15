@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <number>60</number>
+        <latestTitle>A resolution designating May 5, 2017, as the "National Day of Awareness for Missing and Murdered Native Women and Girls".</latestTitle>
+        <type>SRES</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-05-03</actionDate>
+          <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2728)</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <updateDate>2017-08-29T20:00:18Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alaska Natives and Hawaiians</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Crimes against women</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>HRES</billType>
+    <billNumber>222</billNumber>
+    <notes />
+    <sponsors>
+      <item>
+        <lastName>Chaffetz</lastName>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Chaffetz, Jason [R-UT-3]</fullName>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>C001076</bioguideId>
+          <gpoId>8191</gpoId>
+          <lisID>1956</lisID>
+        </identifiers>
+        <firstName>Jason</firstName>
+        <state>UT</state>
+        <byRequestType />
+        <bioguideId>C001076</bioguideId>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-03-23T13:02:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-03-27T20:24:51Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+              <systemCode>hsii24</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>AZ</state>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <district>3</district>
+        <lastName>Grijalva</lastName>
+        <firstName>Raul</firstName>
+        <middleName>M.</middleName>
+        <bioguideId>G000551</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <identifiers>
+          <bioguideId>O000171</bioguideId>
+          <gpoId />
+          <lisID>2306</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>AZ</state>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <district>1</district>
+        <lastName>O'Halleran</lastName>
+        <firstName>Tom</firstName>
+        <middleName />
+        <bioguideId>O000171</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <identifiers>
+          <gpoId>7785</gpoId>
+          <lisID>1256</lisID>
+          <bioguideId>Y000033</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>AK</state>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <district>0</district>
+        <lastName>YOUNG</lastName>
+        <firstName>DON</firstName>
+        <middleName>E.</middleName>
+        <bioguideId>Y000033</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <identifiers>
+          <lisID>1738</lisID>
+          <gpoId>8057</gpoId>
+          <bioguideId>P000588</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>NM</state>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <district>2</district>
+        <lastName>Pearce</lastName>
+        <firstName>Stevan</firstName>
+        <middleName />
+        <bioguideId>P000588</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <identifiers>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>OK</state>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <district>4</district>
+        <lastName>Cole</lastName>
+        <firstName>Tom</firstName>
+        <middleName />
+        <bioguideId>C001053</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <identifiers>
+          <bioguideId>N000184</bioguideId>
+          <lisID>2060</lisID>
+          <gpoId>8147</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>SD</state>
+        <fullName>Rep. Noem, Kristi L. [R-SD-At Large]</fullName>
+        <district>0</district>
+        <lastName>Noem</lastName>
+        <firstName>Kristi</firstName>
+        <middleName>L.</middleName>
+        <bioguideId>N000184</bioguideId>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <amendments />
+    <committeeReports />
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-03-23</actionDate>
+          <lastSummaryUpdateDate>2017-08-29T19:51:24Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2017-03-23T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Supports the designation of National Day of Awareness for Missing and Murdered Native Women and Girls.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>Expressing support for designation of May 5, 2017, as "National Day of Awareness for Missing and Murdered Native Women and Girls".</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Expressing support for designation of May 5, 2017, as "National Day of Awareness for Missing and Murdered Native Women and Girls".</title>
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <createDate>2017-03-24T05:20:56Z</createDate>
+    <congress>115</congress>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-27</actionDate>
+        <committee>
+          <systemCode>hsii24</systemCode>
+          <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-23</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Natural Resources.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-23</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-23</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <introducedDate>2017-03-23</introducedDate>
+    <laws />
+    <latestAction>
+      <actionDate>2017-03-27</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText />
+    <title>Expressing support for designation of May 5, 2017, as "National Day of Awareness for Missing and Murdered Native Women and Girls".</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

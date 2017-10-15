@@ -1,0 +1,39 @@
+<bill session="115" type="h" number="3851" updated="2017-10-04T16:15:17Z">
+  <state datetime="2017-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-27"/>
+  </status>
+  <introduced datetime="2017-09-27"/>
+  <titles>
+    <title type="short" as="introduced">War Crimes Rewards Expansion Act</title>
+    <title type="short" as="introduced">War Crimes Rewards Expansion Act</title>
+    <title type="official" as="introduced">To amend the State Department Basic Authorities Act of 1956 to provide for rewards for the arrest or conviction of certain foreign nationals who have committed genocide or war crimes, and for other purposes.</title>
+    <title type="display">War Crimes Rewards Expansion Act</title>
+  </titles>
+  <sponsor bioguide_id="F000450"/>
+  <cosponsors>
+    <cosponsor bioguide_id="E000179" joined="2017-09-27"/>
+    <cosponsor bioguide_id="H001059" joined="2017-09-27"/>
+    <cosponsor bioguide_id="M000312" joined="2017-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-27" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Evidence and witnesses"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

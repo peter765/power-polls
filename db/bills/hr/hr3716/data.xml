@@ -1,0 +1,43 @@
+<bill session="115" type="h" number="3716" updated="2017-10-11T07:16:32Z">
+  <state datetime="2017-09-08">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-08"/>
+  </status>
+  <introduced datetime="2017-09-08"/>
+  <titles>
+    <title type="short" as="introduced">BEST Act</title>
+    <title type="short" as="introduced">BEST Act</title>
+    <title type="short" as="introduced">Biliteracy Education Seal and Teaching Act</title>
+    <title type="short" as="introduced">Biliteracy Education Seal and Teaching Act</title>
+    <title type="official" as="introduced">To award grants to States to establish a Seal of Biliteracy program to recognize high-level student proficiency in speaking, reading, and writing in both English and a second language.</title>
+    <title type="display">BEST Act</title>
+  </titles>
+  <sponsor bioguide_id="B001285"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001112" joined="2017-09-08"/>
+    <cosponsor bioguide_id="C001097" joined="2017-09-08"/>
+    <cosponsor bioguide_id="D000623" joined="2017-10-10"/>
+    <cosponsor bioguide_id="L000579" joined="2017-09-11"/>
+    <cosponsor bioguide_id="N000179" joined="2017-09-08"/>
+    <cosponsor bioguide_id="N000127" joined="2017-09-08"/>
+    <cosponsor bioguide_id="R000486" joined="2017-09-08"/>
+    <cosponsor bioguide_id="V000130" joined="2017-09-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-08">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-08" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

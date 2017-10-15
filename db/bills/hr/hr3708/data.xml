@@ -1,0 +1,33 @@
+<bill session="115" type="h" number="3708" updated="2017-09-15T13:30:20Z">
+  <state datetime="2017-09-07">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-07"/>
+  </status>
+  <introduced datetime="2017-09-07"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exclude from gross income de minimis gains from certain sales or exchanges of virtual currency, and for other purposes.</title>
+    <title type="display">To amend the Internal Revenue Code of 1986 to exclude from gross income de minimis gains from certain sales or exchanges of virtual currency, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="S001183"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001187" joined="2017-09-14"/>
+    <cosponsor bioguide_id="P000598" joined="2017-09-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-07">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-07" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

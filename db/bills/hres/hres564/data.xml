@@ -1,0 +1,34 @@
+<bill session="115" type="hr" number="564" updated="2017-10-13T07:15:39Z">
+  <state datetime="2017-10-10">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-10"/>
+  </status>
+  <introduced datetime="2017-10-10"/>
+  <titles>
+    <title type="official" as="introduced">Affirming the constitutional power of Congress over the Nation's debts.</title>
+    <title type="display">Affirming the constitutional power of Congress over the Nation's debts.</title>
+  </titles>
+  <sponsor bioguide_id="J000255"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001305" joined="2017-10-10"/>
+    <cosponsor bioguide_id="M001184" joined="2017-10-12"/>
+    <cosponsor bioguide_id="M001187" joined="2017-10-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-10">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-10" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

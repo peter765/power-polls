@@ -1,0 +1,167 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-18", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-07-26", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-26", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 17 - 12.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2017-09-27", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 115-334.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-27", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "242", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 242.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3281-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 115-334"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001059", 
+      "district": "16", 
+      "name": "Costa, Jim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-09-27", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-07-26", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-18", 
+  "number": "3281", 
+  "official_title": "To authorize the Secretary of the Interior to facilitate the transfer to non-Federal ownership of appropriate reclamation projects or facilities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Reclamation Title Transfer and Non-Federal Infrastructure Incentivization Act", 
+  "sponsor": {
+    "bioguide_id": "L000564", 
+    "district": "5", 
+    "name": "Lamborn, Doug", 
+    "state": "CO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-07-26", 
+  "subjects": [
+    "Water resources development"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2017-09-27T13:26:46Z", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nReclamation Title Transfer and Non-Federal Infrastructure Incentivization Act\n\n(Sec. 3) This bill authorizes the Department of the Interior to convey U.S. interest in an eligible reclamation project or facility to an agency of a state political subdivision, a joint action or powers agency, a water users association, or an Indian tribe or tribal utility authority that holds a water service contract for such property and that has the capacity to continue to manage the property for the same purposes for which it has been managed under reclamation law, if : (1) Interior notifies Congress in writing of the proposed conveyance at least 90 days in advance, and (2) Congress does not pass a joint resolution disapproving the conveyance. A facility that generates hydropower marketed by a power marketing administration shall not be eligible for such conveyance.\n\n An entity that operates and maintains an eligible facility at the time Interior attempts to facilitate its conveyance shall have the right of first refusal to receive the conveyance.\n\n(Sec. 4) Criteria for determining whether facilities are eligible for title transfer shall include: (1) the transfer will not have an unmitigated significant effect on the environment, (2) the qualifying entity intends to use the property for substantially the same purposes the property is being used for at the time Interior evaluates the potential transfer, and (3) the qualifying entity agrees to provide the United States the equivalent of the present value of any repayment obligation or other income stream the United States derives from the assets to be transferred.\n\n (Sec. 5) No conveyance under this bill may adversely impact power rates or repayment obligations.\n\n(Sec. 9) Interior shall submit, as part of its annual budget submission to Congress: (1) a description of the actions taken to implement this bill, and (2) a list of conveyances made or initiated by Interior or a qualifying entity under this bill."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Reclamation Title Transfer and Non-Federal Infrastructure Incentivization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Reclamation Title Transfer and Non-Federal Infrastructure Incentivization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Reclamation Title Transfer and Non-Federal Infrastructure Incentivization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Reclamation Title Transfer and Non-Federal Infrastructure Incentivization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the Secretary of the Interior to facilitate the transfer to non-Federal ownership of appropriate reclamation projects or facilities, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Reclamation Title Transfer and Non-Federal Infrastructure Incentivization Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-05T19:15:10Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3281.xml"
+}

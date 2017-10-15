@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-09-22T22:00:11Z</updateDate>
+    <actions>
+      <item>
+        <actionDate>2017-09-06</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-09-06</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-09-06</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+    <billNumber>506</billNumber>
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Expressing support for designation of the month of September as "Rheumatic Disease Awareness Month", in recognition of the costs imposed by rheumatic diseases, the need for increased medical research, and the quality care provided by trained rheumatologists.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Expressing support for designation of the month of September as "Rheumatic Disease Awareness Month", in recognition of the costs imposed by rheumatic diseases, the need for increased medical research, and the quality care provided by trained rheumatologists.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <title>Expressing support for designation of the month of September as "Rheumatic Disease Awareness Month", in recognition of the costs imposed by rheumatic diseases, the need for increased medical research, and the quality care provided by trained rheumatologists.</title>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-09-06T14:00:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <recordedVotes />
+    <createDate>2017-09-07T03:11:30Z</createDate>
+    <billType>HRES</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-09-22T21:58:49Z</lastSummaryUpdateDate>
+          <actionDate>2017-09-06</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p> Expresses support for the designation of Rheumatic Disease Awareness Month in recognition of the costs imposed by rheumatic diseases, the need for increased medical research, and the care provided by rheumatologists.</p> <p>Encourages people to celebrate the contributions of researchers and health care providers in serving those living with rheumatic diseases and to support efforts to find a cure.</p>]]></text>
+          <updateDate>2017-09-06T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <firstName>David</firstName>
+        <state>WV</state>
+        <bioguideId>M001180</bioguideId>
+        <identifiers>
+          <gpoId>8222</gpoId>
+          <lisID>2074</lisID>
+          <bioguideId>M001180</bioguideId>
+        </identifiers>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <district>1</district>
+        <byRequestType />
+        <lastName>McKinley</lastName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-09-06</actionDate>
+      <links />
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </latestAction>
+    <notes />
+    <calendarNumbers />
+    <introducedDate>2017-09-06</introducedDate>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>ESHOO</lastName>
+        <state>CA</state>
+        <middleName>G.</middleName>
+        <identifiers>
+          <lisID>355</lisID>
+          <bioguideId>E000215</bioguideId>
+          <gpoId>7819</gpoId>
+        </identifiers>
+        <bioguideId>E000215</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <firstName>ANNA</firstName>
+        <district>18</district>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

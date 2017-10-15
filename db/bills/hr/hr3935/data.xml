@@ -1,0 +1,36 @@
+<bill session="115" type="h" number="3935" updated="2017-10-10T20:00:17Z">
+  <state datetime="2017-10-03">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-03"/>
+  </status>
+  <introduced datetime="2017-10-03"/>
+  <titles>
+    <title type="short" as="introduced">Bolstering Organizations and Options to Support Training in Primary Care Act</title>
+    <title type="short" as="introduced">Bolstering Organizations and Options to Support Training in Primary Care Act</title>
+    <title type="short" as="introduced">BOOST Primary Care Act</title>
+    <title type="short" as="introduced">BOOST Primary Care Act</title>
+    <title type="official" as="introduced">To provide for an extension of funding for the National Health Service Corps.</title>
+    <title type="display">BOOST Primary Care Act</title>
+  </titles>
+  <sponsor bioguide_id="S000364"/>
+  <cosponsors>
+    <cosponsor bioguide_id="L000576" joined="2017-10-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-03">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-03" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

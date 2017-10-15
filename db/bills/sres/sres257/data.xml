@@ -1,0 +1,38 @@
+<bill session="115" type="sr" number="257" updated="2017-10-12T04:37:46Z">
+  <state datetime="2017-09-14">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2017-09-14"/>
+  </status>
+  <introduced datetime="2017-09-14"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating September 16, 2017, as "Isaac M. Wise Temple Day".</title>
+    <title type="display">A resolution designating September 16, 2017, as "Isaac M. Wise Temple Day".</title>
+  </titles>
+  <sponsor bioguide_id="B000944"/>
+  <cosponsors>
+    <cosponsor bioguide_id="P000449" joined="2017-09-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-14">
+      <text>Introduced in Senate</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2017-09-14" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S5747" label="consideration"/>
+      <reference ref="CR S5747" label="text"/>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill type="hr" session="115" relation="unknown" number="525"/>
+  </relatedbills>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Ohio"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>E000295</bioguideId>
+        <firstName>Joni</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-09-19</sponsorshipDate>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <state>IA</state>
+        <lastName>Ernst</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1850</lisID>
+          <bioguideId>D000607</bioguideId>
+          <gpoId>7941</gpoId>
+        </identifiers>
+        <bioguideId>D000607</bioguideId>
+        <firstName>Joe</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-09-19</sponsorshipDate>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <state>IN</state>
+        <lastName>Donnelly</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <bioguideId>C001035</bioguideId>
+        <firstName>SUSAN</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>MARGARET</middleName>
+        <sponsorshipDate>2017-09-19</sponsorshipDate>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <state>ME</state>
+        <lastName>COLLINS</lastName>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>K000383</bioguideId>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <party>I</party>
+        <state>ME</state>
+        <firstName>Angus</firstName>
+        <byRequestType />
+        <lastName>King</lastName>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <actionDate>2017-09-19</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-09-19</actionDate>
+        <committee>
+          <systemCode>ssaf00</systemCode>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2017-09-19</actionDate>
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <title>CREAATE Act</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-19T21:13:00Z</date>
+            </item>
+          </activities>
+          <systemCode>ssaf00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>1839</billNumber>
+    <introducedDate>2017-09-19</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-09-19T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Cultivating Revitalization by Expanding American Agricultural Trade and Exports Act or the CREAATE Act </b></p> <p>This bill amends the Agricultural Trade Act of 1978 to extend through FY2023 the Market Access Program and the Foreign Market Development Cooperator Program, which are programs administered by the Department of Agriculture to promote exports of U.S. agricultural products. </p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-10-06T13:45:11Z</lastSummaryUpdateDate>
+          <actionDate>2017-09-19</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <amendments />
+    <notes />
+    <updateDate>2017-10-11T04:29:27Z</updateDate>
+    <committeeReports />
+    <congress>115</congress>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>CREAATE Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Cultivating Revitalization by Expanding American Agricultural Trade and Exports Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Agricultural Trade Act of 1978 to extend and expand the market access program and the foreign market development cooperator program.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>CREAATE Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>CREAATE Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Cultivating Revitalization by Expanding American Agricultural Trade and Exports Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <createDate>2017-09-20T00:41:19Z</createDate>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

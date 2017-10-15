@@ -1,0 +1,51 @@
+<bill session="115" type="h" number="2022" updated="2017-09-11T16:15:11Z">
+  <state datetime="2017-04-06">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-06"/>
+  </status>
+  <introduced datetime="2017-04-06"/>
+  <titles>
+    <title type="short" as="introduced">Label and Transport Tissues Safely Act of 2017</title>
+    <title type="short" as="introduced">Label and Transport Tissues Safely Act of 2017</title>
+    <title type="short" as="introduced">LATTS Act of 2017</title>
+    <title type="official" as="introduced">To ensure certain safety measures are utilized in the interest of public health security with respect to labeling and transporting human tissue specimen or collection of specimens into interstate commerce.</title>
+    <title type="display">LATTS Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="G000565"/>
+  <cosponsors>
+    <cosponsor bioguide_id="R000609" joined="2017-05-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-06">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-06" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2017-04-07">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Business records"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health information and medical records"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Organ and tissue donation and transplantation"/>
+    <term name="Product safety and quality"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

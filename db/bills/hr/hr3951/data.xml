@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="3951" updated="2017-10-12T07:13:14Z">
+  <state datetime="2017-10-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-04"/>
+  </status>
+  <introduced datetime="2017-10-04"/>
+  <titles>
+    <title type="short" as="introduced">Aviation Humanitarian Crisis Act of 2017</title>
+    <title type="short" as="introduced">Aviation Humanitarian Crisis Act of 2017</title>
+    <title type="official" as="introduced">To authorize the Secretary of Transportation to declare that an aviation humanitarian crisis exists for airports impacted by a major disaster or emergency, and for other purposes.</title>
+    <title type="display">Aviation Humanitarian Crisis Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="P000604"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-10-04">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-04" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-10-05">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="2017-10-05">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Economic Development, Public Buildings and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Aviation" code="HSPW05" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

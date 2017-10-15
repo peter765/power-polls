@@ -1,0 +1,45 @@
+<bill session="115" type="h" number="3826" updated="2017-10-05T07:16:47Z">
+  <state datetime="2017-09-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-25"/>
+  </status>
+  <introduced datetime="2017-09-25"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Seniors During Disasters Act</title>
+    <title type="short" as="introduced">Protecting Seniors During Disasters Act</title>
+    <title type="official" as="introduced">To amend title XXVIII of the Public Health Service Act to establish a National Advisory Committee on Seniors and Disasters.</title>
+    <title type="display">Protecting Seniors During Disasters Act</title>
+  </titles>
+  <sponsor bioguide_id="F000462"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001257" joined="2017-09-27"/>
+    <cosponsor bioguide_id="B001260" joined="2017-10-04"/>
+    <cosponsor bioguide_id="C001066" joined="2017-09-27"/>
+    <cosponsor bioguide_id="C001111" joined="2017-10-04"/>
+    <cosponsor bioguide_id="D000627" joined="2017-10-04"/>
+    <cosponsor bioguide_id="D000610" joined="2017-10-04"/>
+    <cosponsor bioguide_id="D000600" joined="2017-10-04"/>
+    <cosponsor bioguide_id="L000586" joined="2017-09-27"/>
+    <cosponsor bioguide_id="R000435" joined="2017-09-25"/>
+    <cosponsor bioguide_id="S001200" joined="2017-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-25" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="1834"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

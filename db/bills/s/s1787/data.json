@@ -1,0 +1,119 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-11", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-11", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1787-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "K000383", 
+      "district": null, 
+      "name": "King, Angus S., Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-11", 
+      "state": "ME", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001198", 
+      "district": null, 
+      "name": "Sullivan, Dan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-09-18", 
+      "state": "AK", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-11", 
+  "number": "1787", 
+  "official_title": "A bill to reauthorize the National Geologic Mapping Act of 1992.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Geologic Mapping Act Reauthorization Act", 
+  "sponsor": {
+    "bioguide_id": "M001153", 
+    "district": null, 
+    "name": "Murkowski, Lisa", 
+    "state": "AK", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-11", 
+  "subjects": [
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced in Senate", 
+    "date": "2017-09-11T04:00:00Z", 
+    "text": "National Geologic Mapping Act Reauthorization Act\n\nThis bill amends the National Geologic Mapping Act of 1992 to: (1) reauthorize such Act through FY2023, and (2) provide for the Associate Director for Core Science Systems to replace the Associate Director for Geology as the chairperson of the geologic mapping advisory committee."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Geologic Mapping Act Reauthorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Geologic Mapping Act Reauthorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to reauthorize the National Geologic Mapping Act of 1992.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "National Geologic Mapping Act Reauthorization Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-06T04:48:16Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1787.xml"
+}

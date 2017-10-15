@@ -1,0 +1,67 @@
+<bill session="115" type="s" number="1027" updated="2017-10-13T04:32:01Z">
+  <state datetime="2017-05-03">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-03"/>
+  </status>
+  <introduced datetime="2017-05-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the Secure Rural Schools and Community Self-Determination Act of 2000.</title>
+    <title type="display">A bill to extend the Secure Rural Schools and Community Self-Determination Act of 2000.</title>
+  </titles>
+  <sponsor bioguide_id="H000338"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001230" joined="2017-09-18"/>
+    <cosponsor bioguide_id="B001267" joined="2017-05-03"/>
+    <cosponsor bioguide_id="C000127" joined="2017-05-03"/>
+    <cosponsor bioguide_id="C001047" joined="2017-05-15"/>
+    <cosponsor bioguide_id="C000880" joined="2017-05-03"/>
+    <cosponsor bioguide_id="D000618" joined="2017-05-03"/>
+    <cosponsor bioguide_id="F000062" joined="2017-05-03"/>
+    <cosponsor bioguide_id="F000457" joined="2017-06-05"/>
+    <cosponsor bioguide_id="G000562" joined="2017-05-03"/>
+    <cosponsor bioguide_id="H001046" joined="2017-05-03"/>
+    <cosponsor bioguide_id="H001041" joined="2017-05-04"/>
+    <cosponsor bioguide_id="M001183" joined="2017-05-03"/>
+    <cosponsor bioguide_id="M001170" joined="2017-06-05"/>
+    <cosponsor bioguide_id="M001176" joined="2017-05-03"/>
+    <cosponsor bioguide_id="M001153" joined="2017-05-03"/>
+    <cosponsor bioguide_id="M001111" joined="2017-05-15"/>
+    <cosponsor bioguide_id="R000584" joined="2017-05-03"/>
+    <cosponsor bioguide_id="R000605" joined="2017-09-18"/>
+    <cosponsor bioguide_id="S000033" joined="2017-06-05"/>
+    <cosponsor bioguide_id="S001198" joined="2017-05-03"/>
+    <cosponsor bioguide_id="T000464" joined="2017-05-03"/>
+    <cosponsor bioguide_id="U000039" joined="2017-09-18"/>
+    <cosponsor bioguide_id="W000779" joined="2017-05-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-03">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="2340"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Advisory bodies"/>
+    <term name="Civil actions and liability"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Fires"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land use and conservation"/>
+    <term name="Property tax"/>
+    <term name="Public contracts and procurement"/>
+    <term name="State and local finance"/>
+    <term name="State and local taxation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

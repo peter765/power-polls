@@ -1,0 +1,40 @@
+<bill session="115" type="h" number="3270" updated="2017-09-11T03:06:13Z">
+  <state datetime="2017-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-17"/>
+  </status>
+  <introduced datetime="2017-07-17"/>
+  <titles>
+    <title type="short" as="introduced">Historic Routes Preservation Act</title>
+    <title type="short" as="introduced">Historic Routes Preservation Act</title>
+    <title type="official" as="introduced">To establish a procedure for resolving claims to certain rights-of-way, and for other purposes.</title>
+    <title type="display">Historic Routes Preservation Act</title>
+  </titles>
+  <sponsor bioguide_id="C001094"/>
+  <cosponsors>
+    <cosponsor bioguide_id="O000171" joined="2017-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-17">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-17" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-08-01">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Federal Lands" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="468"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

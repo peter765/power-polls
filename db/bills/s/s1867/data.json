@@ -1,0 +1,154 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-26", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-26", 
+      "action_code": "", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-10-04", 
+      "action_code": "", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1867-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001170", 
+      "district": null, 
+      "name": "McCaskill, Claire", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-10-03", 
+      "state": "MO", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000934", 
+      "district": null, 
+      "name": "Moran, Jerry", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-26", 
+      "state": "KS", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "U000039", 
+      "district": null, 
+      "name": "Udall, Tom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-26", 
+      "state": "NM", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000805", 
+      "district": null, 
+      "name": "Warner, Mark R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-26", 
+      "state": "VA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-26", 
+  "number": "1867", 
+  "official_title": "A bill to amend title 40, United States Code, to eliminate the sunset of certain provisions relating to information technology, to amend the Carl Levin and Howard P. \"Buck\" McKeon National Defense Authorization Act for Fiscal Year 2015 to extend the sunset relating to the Federal Data Center Consolidation Initiative, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3243-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "FITARA Enhancement Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "D000618", 
+    "district": null, 
+    "name": "Daines, Steve", 
+    "state": "MT", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-10-04", 
+  "subjects": [
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FITARA Enhancement Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FITARA Enhancement Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend title 40, United States Code, to eliminate the sunset of certain provisions relating to information technology, to amend the Carl Levin and Howard P. \"Buck\" McKeon National Defense Authorization Act for Fiscal Year 2015 to extend the sunset relating to the Federal Data Center Consolidation Initiative, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "FITARA Enhancement Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-11T04:29:27Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1867.xml"
+}

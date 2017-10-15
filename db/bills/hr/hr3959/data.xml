@@ -1,0 +1,37 @@
+<bill session="115" type="h" number="3959" updated="2017-10-12T15:00:14Z">
+  <state datetime="2017-10-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-04"/>
+  </status>
+  <introduced datetime="2017-10-04"/>
+  <titles>
+    <title type="short" as="introduced">Crowd Sourcing of Environmental Data Act of 2017</title>
+    <title type="short" as="introduced">Crowd Sourcing of Environmental Data Act of 2017</title>
+    <title type="official" as="introduced">To amend the Clean Air Act to give States the option of monitoring covered criteria air pollutants in designated areas by greatly increasing the number of air quality sensors in exchange for greater regulatory flexibility in the methods of monitoring, and for other purposes.</title>
+    <title type="display">Crowd Sourcing of Environmental Data Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="S001183"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000371" joined="2017-10-04"/>
+    <cosponsor bioguide_id="C001097" joined="2017-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-04">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-04" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="1355"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

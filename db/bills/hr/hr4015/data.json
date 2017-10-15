@@ -1,0 +1,92 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4015-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-11", 
+  "number": "4015", 
+  "official_title": "To improve the quality of proxy advisory firms for the protection of investors and the U.S. economy, and in the public interest, by fostering accountability, transparency, responsiveness, and competition in the proxy advisory firm industry.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Corporate Governance Reform and Transparency Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "D000614", 
+    "district": "7", 
+    "name": "Duffy, Sean P.", 
+    "state": "WI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-11", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Corporate Governance Reform and Transparency Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Corporate Governance Reform and Transparency Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve the quality of proxy advisory firms for the protection of investors and the U.S. economy, and in the public interest, by fostering accountability, transparency, responsiveness, and competition in the proxy advisory firm industry.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Corporate Governance Reform and Transparency Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-13T14:45:10Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr4015.xml"
+}

@@ -1,0 +1,41 @@
+<bill session="115" type="h" number="3965" updated="2017-10-12T15:00:12Z">
+  <state datetime="2017-10-05">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-05"/>
+  </status>
+  <introduced datetime="2017-10-05"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Armed for Success Act</title>
+    <title type="short" as="introduced">Veterans Armed for Success Act</title>
+    <title type="official" as="introduced">To authorize the Secretary of Veterans Affairs to make grants to eligible organizations for the provision of transition assistance to members of the Armed Forces recently separated from active duty service and spouses of such members.</title>
+    <title type="display">Veterans Armed for Success Act</title>
+  </titles>
+  <sponsor bioguide_id="R000609"/>
+  <cosponsors>
+    <cosponsor bioguide_id="L000586" joined="2017-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-05">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-05" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-10-05">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2017-10-11">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Hearings, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="115" type="s" number="1146" updated="2017-09-15T05:13:26Z">
+  <state datetime="2017-05-17">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-17"/>
+  </status>
+  <introduced datetime="2017-05-17"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Regulatory Relief Act of 2017</title>
+    <title type="short" as="introduced">Small Business Regulatory Relief Act of 2017</title>
+    <title type="official" as="introduced">A bill to enhance the ability of the Office of the National Ombudsman to assist small businesses in meeting regulatory requirements and develop outreach initiatives to promote awareness of the services the Office of the National Ombudsman provides, and for other purposes.</title>
+    <title type="display">Small Business Regulatory Relief Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="S001181"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001230" joined="2017-06-14"/>
+    <cosponsor bioguide_id="C000174" joined="2017-09-14"/>
+    <cosponsor bioguide_id="C001113" joined="2017-07-19"/>
+    <cosponsor bioguide_id="D000622" joined="2017-07-10"/>
+    <cosponsor bioguide_id="K000384" joined="2017-06-26"/>
+    <cosponsor bioguide_id="K000383" joined="2017-06-14"/>
+    <cosponsor bioguide_id="K000367" joined="2017-06-19"/>
+    <cosponsor bioguide_id="M001170" joined="2017-06-07"/>
+    <cosponsor bioguide_id="M001111" joined="2017-07-27"/>
+    <cosponsor bioguide_id="S000770" joined="2017-07-25"/>
+    <cosponsor bioguide_id="T000464" joined="2017-05-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-17">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

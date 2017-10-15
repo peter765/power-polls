@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-26</actionDate>
+        <committee>
+          <name>Regulatory Reform, Commercial And Antitrust Law Subcommittee</name>
+          <systemCode>hsju05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Judiciary</text>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2017-05-24</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Oversight and Government Reform</text>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionDate>2017-05-24</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionDate>2017-05-24</actionDate>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-05-24</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-05-24</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <updateDate>2017-10-12T07:16:46Z</updateDate>
+    <latestAction>
+      <actionDate>2017-06-26</actionDate>
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2017-05-24T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-06-15T18:33:31Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2017-05-24</actionDate>
+          <text><![CDATA[<p><b>Lessening Regulatory Costs and Establishing a Federal Regulatory Budget Act of 2017</b></p> <p>This bill requires federal agencies to: (1) designate regulatory reform officers to oversee reduction, cost control, planning, review, and termination of regulatory programs; and (2) establish task forces to recommend, within a five-year period, the repeal or amendment of regulations that eliminate or inhibit jobs, impose costs exceeding benefits, create inconsistency, interfere with regulatory reform, are inconsistent with Paperwork Reduction Act guidelines, were made to implement executive orders or presidential directives subsequently rescinded or modified, or are outdated, unnecessary, or ineffective.</p> <p>Any new incremental cost of a new significant regulatory action must be offset by the elimination of existing costs associated with at least two prior regulatory actions. </p>  <p>The Office of Management and Budget (OMB) must set a net amount of incremental costs allowed for each agency in issuing new significant regulatory actions and repealing regulatory actions for the each fiscal year. If an agency does not exhaust all the incremental cost allowance for a fiscal year, that remaining balance may be included in the incremental allowance for the subsequent fiscal year.</p> <p>Before proposing a significant regulatory action during FY2018, an agency must identify at least two regulatory actions for repeal. Total incremental cost of all such new significant regulatory actions and any repealed regulatory action must be: (1) no greater than zero, or (2) consistent with an OMB waiver.</p> <p>Agencies must submit an annual regulatory plan to the OMB about: (1) the costs of proposed or finalized regulations, and (2) the economic effects and the net effect on jobs considered when drafting significant regulatory actions. </p> <p>The bill prohibits issuance of a significant regulatory action if it was not included in the most recent version of the published unified agenda of regulations under development or review, unless it was approved by the OMB.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Lessening Regulatory Costs and Establishing a Federal Regulatory Budget Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Lessening Regulatory Costs and Establishing a Federal Regulatory Budget Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To provide for a method by which the economic costs of significant regulatory actions may be offset by the repeal of other regulatory actions, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Lessening Regulatory Costs and Establishing a Federal Regulatory Budget Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-24T14:00:32Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Regulatory Reform, Commercial And Antitrust Law Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-26T14:59:41Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju05</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-24T14:00:27Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <createDate>2017-05-25T03:11:41Z</createDate>
+    <cosponsors>
+      <item>
+        <middleName />
+        <fullName>Rep. Jordan, Jim [R-OH-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000289</bioguideId>
+        <district>4</district>
+        <party>R</party>
+        <firstName>Jim</firstName>
+        <identifiers>
+          <lisID>1868</lisID>
+          <bioguideId>J000289</bioguideId>
+          <gpoId>8094</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <lastName>Jordan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000565</bioguideId>
+        <district>4</district>
+        <party>R</party>
+        <firstName>Paul</firstName>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <lastName>Gosar</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000190</bioguideId>
+        <district>5</district>
+        <party>R</party>
+        <firstName>Ralph</firstName>
+        <identifiers>
+          <lisID>2361</lisID>
+          <gpoId />
+          <bioguideId>N000190</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <lastName>Norman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>SC</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Johnson, Mike [R-LA-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000299</bioguideId>
+        <district>4</district>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <lisID>2330</lisID>
+          <gpoId />
+          <bioguideId>J000299</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <lastName>Johnson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>LA</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000599</bioguideId>
+        <district>8</district>
+        <party>R</party>
+        <firstName>Bill</firstName>
+        <identifiers>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <lastName>Posey</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+      </item>
+    </cosponsors>
+    <amendments />
+    <committeeReports />
+    <introducedDate>2017-05-24</introducedDate>
+    <billType>HR</billType>
+    <title>Lessening Regulatory Costs and Establishing a Federal Regulatory Budget Act of 2017</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MEADOWS:H.R. 2623.Congress has the power to enact this legislation pursuantto the following:Article 1, Section I grants that ``All legislative Powersherin granted shall be vested in a Congress of the UnitedStates . . .'' Article 1, Section 8, Clause 3 grants that``The Congress shall have Power to . . . Regulate Commerce .. . Among the several States . . .'' Article 1, Section 8,Clause 18 grants that ``The Congress shall have Power To . .. Make all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by [the] Constitution in the Government of theUnited States, or in any Department or Officer thereof.''[Page H4569]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>Mark</firstName>
+        <middleName />
+        <bioguideId>M001187</bioguideId>
+        <byRequestType />
+        <lastName>Meadows</lastName>
+        <state>NC</state>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <gpoId />
+          <lisID>2142</lisID>
+        </identifiers>
+        <party>R</party>
+        <district>11</district>
+      </item>
+    </sponsors>
+    <billNumber>2623</billNumber>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <relatedBills />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

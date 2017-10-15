@@ -1,0 +1,75 @@
+<bill session="115" type="h" number="1989" updated="2017-09-11T02:45:30Z">
+  <state datetime="2017-04-06">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-06"/>
+  </status>
+  <introduced datetime="2017-04-06"/>
+  <titles>
+    <title type="short" as="introduced">VET TEC Act</title>
+    <title type="short" as="introduced">Veteran Employment Through Technology Education Courses Act</title>
+    <title type="short" as="introduced">Veteran Employment Through Technology Education Courses Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to carry out a high technology education pilot program.</title>
+    <title type="display">VET TEC Act</title>
+  </titles>
+  <sponsor bioguide_id="M001165"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001299" joined="2017-05-11"/>
+    <cosponsor bioguide_id="B001284" joined="2017-04-06"/>
+    <cosponsor bioguide_id="C000059" joined="2017-04-26"/>
+    <cosponsor bioguide_id="C001105" joined="2017-04-06"/>
+    <cosponsor bioguide_id="C001106" joined="2017-04-06"/>
+    <cosponsor bioguide_id="C001087" joined="2017-04-06"/>
+    <cosponsor bioguide_id="D000625" joined="2017-05-11"/>
+    <cosponsor bioguide_id="F000466" joined="2017-05-11"/>
+    <cosponsor bioguide_id="G000558" joined="2017-04-06"/>
+    <cosponsor bioguide_id="H001073" joined="2017-04-06"/>
+    <cosponsor bioguide_id="J000255" joined="2017-06-29"/>
+    <cosponsor bioguide_id="K000389" joined="2017-04-06"/>
+    <cosponsor bioguide_id="K000387" joined="2017-05-23"/>
+    <cosponsor bioguide_id="L000578" joined="2017-04-26"/>
+    <cosponsor bioguide_id="L000564" joined="2017-04-26"/>
+    <cosponsor bioguide_id="M001198" joined="2017-04-26"/>
+    <cosponsor bioguide_id="M001177" joined="2017-05-23"/>
+    <cosponsor bioguide_id="M001159" joined="2017-04-06"/>
+    <cosponsor bioguide_id="O000170" joined="2017-05-11"/>
+    <cosponsor bioguide_id="P000594" joined="2017-04-06"/>
+    <cosponsor bioguide_id="R000395" joined="2017-05-11"/>
+    <cosponsor bioguide_id="R000487" joined="2017-04-26"/>
+    <cosponsor bioguide_id="R000577" joined="2017-06-29"/>
+    <cosponsor bioguide_id="S001196" joined="2017-04-06"/>
+    <cosponsor bioguide_id="S001187" joined="2017-05-11"/>
+    <cosponsor bioguide_id="V000129" joined="2017-06-29"/>
+    <cosponsor bioguide_id="W000791" joined="2017-04-06"/>
+    <cosponsor bioguide_id="Y000063" joined="2017-04-06"/>
+    <cosponsor bioguide_id="Y000065" joined="2017-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-06">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-06" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-04-07">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1277"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Computers and information technology"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Student aid and college costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Vocational and technical education"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

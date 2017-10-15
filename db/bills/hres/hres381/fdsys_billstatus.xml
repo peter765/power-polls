@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionTime>12:20:40</actionTime>
+      <actionDate>2017-06-13</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on Oversight and Government Reform</name>
+          </item>
+          <item>
+            <name>House Committee on the Judiciary</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-06-14T03:11:35Z</createDate>
+    <committeeReports />
+    <cosponsors />
+    <titles>
+      <item>
+        <title>Electing Members to certain standing committees of the House of Representatives.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Electing Members to certain standing committees of the House of Representatives.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <relatedBills />
+    <recordedVotes />
+    <notes />
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-09-08T21:08:55Z</lastSummaryUpdateDate>
+          <updateDate>2017-06-13T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Elects specified Members to the following House Committees: (1) the Judiciary, and (2) Oversight and Government Reform.</p> <p>Declares that Representative Jason Chaffetz shall rank after Representative Jim Jordan on the House Committee on Oversight and Government Reform.</p>]]></text>
+          <actionDate>2017-06-13</actionDate>
+        </item>
+        <item>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <versionCode>81</versionCode>
+          <name>Passed House without amendment</name>
+          <lastSummaryUpdateDate>2017-09-08T21:09:12Z</lastSummaryUpdateDate>
+          <updateDate>2017-06-13T12:24:15Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Elects specified Members to the following House Committees: (1) the Judiciary, and (2) Oversight and Government Reform.</p> <p>Declares that Representative Jason Chaffetz shall rank after Representative Jim Jordan on the House Committee on Oversight and Government Reform.</p>]]></text>
+          <actionDate>2017-06-13</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <actions>
+      <item>
+        <actionDate>2017-06-13</actionDate>
+        <actionTime>12:20:40</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-06-13</actionDate>
+        <actionTime>12:20:34</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4867</url>
+            <name>H4867</name>
+          </link>
+        </links>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H4867)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-06-13</actionDate>
+        <actionTime>12:20:34</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-06-13</actionDate>
+        <actionTime>12:19:45</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4867</url>
+            <name>H4867</name>
+          </link>
+        </links>
+        <text>Considered as privileged matter. (consideration: CR H4867)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-06-13</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-13</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2017-09-15T19:15:11Z</updateDate>
+    <billType>HRES</billType>
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText />
+    <billNumber>381</billNumber>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001297</bioguideId>
+          <lisID>2233</lisID>
+        </identifiers>
+        <byRequestType />
+        <lastName>Buck</lastName>
+        <state>CO</state>
+        <firstName>Ken</firstName>
+        <middleName />
+        <fullName>Rep. Buck, Ken [R-CO-4]</fullName>
+        <party>R</party>
+        <district>4</district>
+        <bioguideId>B001297</bioguideId>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <amendments />
+    <title>Electing Members to certain standing committees of the House of Representatives.</title>
+    <introducedDate>2017-06-13</introducedDate>
+    <committees>
+      <billCommittees />
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

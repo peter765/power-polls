@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <firstName>JERRY</firstName>
+        <middleName />
+        <bioguideId>M000934</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MORAN</lastName>
+        <state>KS</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <identifiers>
+          <bioguideId>M000934</bioguideId>
+          <gpoId>8307</gpoId>
+          <lisID>1507</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>TOM</firstName>
+        <middleName />
+        <bioguideId>U000039</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>UDALL</lastName>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <identifiers>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <middleName>R.</middleName>
+        <bioguideId>W000805</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Warner</lastName>
+        <state>VA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <identifiers>
+          <lisID>1897</lisID>
+          <gpoId>8269</gpoId>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Claire</firstName>
+        <middleName />
+        <bioguideId>M001170</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>McCaskill</lastName>
+        <state>MO</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <identifiers>
+          <bioguideId>M001170</bioguideId>
+          <lisID>1820</lisID>
+          <gpoId>8252</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>3243</number>
+        <latestTitle>FITARA Enhancement Act of 2017</latestTitle>
+        <latestAction>
+          <text>Placed on the Union Calendar, Calendar No. 249.</text>
+          <actionDate>2017-10-10</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>D000618</bioguideId>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <party>R</party>
+        <state>MT</state>
+        <firstName>Steve</firstName>
+        <byRequestType />
+        <lastName>Daines</lastName>
+        <identifiers>
+          <lisID>2138</lisID>
+          <bioguideId>D000618</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <actionDate>2017-10-04</actionDate>
+      <links />
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </latestAction>
+    <actions>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-26</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-09-26</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <orderedReported>1</orderedReported>
+      </actionTypeCounts>
+    </actions>
+    <cboCostEstimates />
+    <title>FITARA Enhancement Act of 2017</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-10-04T14:00:40Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-26T23:09:06Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>1867</billNumber>
+    <introducedDate>2017-09-26</introducedDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <amendments />
+    <notes />
+    <updateDate>2017-10-11T04:29:27Z</updateDate>
+    <committeeReports />
+    <congress>115</congress>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>FITARA Enhancement Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to amend title 40, United States Code, to eliminate the sunset of certain provisions relating to information technology, to amend the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015 to extend the sunset relating to the Federal Data Center Consolidation Initiative, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>FITARA Enhancement Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>FITARA Enhancement Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <createDate>2017-09-27T00:41:29Z</createDate>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

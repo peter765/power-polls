@@ -1,0 +1,39 @@
+<bill session="115" type="h" number="3838" updated="2017-10-02T21:30:19Z">
+  <state datetime="2017-09-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-26"/>
+  </status>
+  <introduced datetime="2017-09-26"/>
+  <titles>
+    <title type="short" as="introduced">Trust Preferred Securities Act of 2017</title>
+    <title type="short" as="introduced">Trust Preferred Securities Act of 2017</title>
+    <title type="official" as="introduced">To require the appropriate Federal banking agencies to treat certain non-significant investments in the capital of unconsolidated financial institutions as qualifying capital instruments, and for other purposes.</title>
+    <title type="display">Trust Preferred Securities Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="D000614"/>
+  <cosponsors>
+    <cosponsor bioguide_id="H001045" joined="2017-09-26"/>
+    <cosponsor bioguide_id="K000388" joined="2017-09-26"/>
+    <cosponsor bioguide_id="L000491" joined="2017-09-26"/>
+    <cosponsor bioguide_id="T000193" joined="2017-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-26" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1647"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

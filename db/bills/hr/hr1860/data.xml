@@ -1,0 +1,47 @@
+<bill session="115" type="h" number="1860" updated="2017-09-01T14:00:23Z">
+  <state datetime="2017-04-03">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-03"/>
+  </status>
+  <introduced datetime="2017-04-03"/>
+  <titles>
+    <title type="short" as="introduced">Disaster Assistance Recoupment Fairness Act of 2017</title>
+    <title type="short" as="introduced">Disaster Assistance Recoupment Fairness Act of 2017</title>
+    <title type="official" as="introduced">To ensure fairness in the recoupment of certain Federal disaster assistance, and for other purposes.</title>
+    <title type="display">Disaster Assistance Recoupment Fairness Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="M001137"/>
+  <cosponsors>
+    <cosponsor bioguide_id="J000294" joined="2017-05-24"/>
+    <cosponsor bioguide_id="P000598" joined="2017-05-24"/>
+    <cosponsor bioguide_id="R000602" joined="2017-04-06"/>
+    <cosponsor bioguide_id="W000808" joined="2017-04-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-03">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-03" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-04-04">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Economic Development, Public Buildings and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Civil actions and liability"/>
+    <term name="Debt collection"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Federal Emergency Management Agency (FEMA)"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="3843" updated="2017-10-06T07:12:37Z">
+  <state datetime="2017-09-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-26"/>
+  </status>
+  <introduced datetime="2017-09-26"/>
+  <titles>
+    <title type="short" as="introduced">Close Official Acts Loophole Act of 2017</title>
+    <title type="short" as="introduced">Close Official Acts Loophole Act of 2017</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, with respect to bribery.</title>
+    <title type="display">Close Official Acts Loophole Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="S001201"/>
+  <cosponsors>
+    <cosponsor bioguide_id="F000466" joined="2017-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-26" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-10-04">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

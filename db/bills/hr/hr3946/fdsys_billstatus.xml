@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText />
+    <congress>115</congress>
+    <cboCostEstimates />
+    <updateDate>2017-10-12T14:15:15Z</updateDate>
+    <latestAction>
+      <actionDate>2017-10-04</actionDate>
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-04T14:01:25Z</date>
+            </item>
+          </activities>
+          <systemCode>hsvr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2009</lisID>
+          <gpoId>7905</gpoId>
+          <bioguideId>S001189</bioguideId>
+        </identifiers>
+        <bioguideId>S001189</bioguideId>
+        <party>R</party>
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>Austin</firstName>
+        <lastName>Scott</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <state>GA</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>91</lisID>
+          <gpoId>7899</gpoId>
+          <bioguideId>B000490</bioguideId>
+        </identifiers>
+        <bioguideId>B000490</bioguideId>
+        <party>D</party>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>SANFORD</firstName>
+        <lastName>BISHOP</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <state>GA</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001103</bioguideId>
+          <lisID>2236</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001103</bioguideId>
+        <party>R</party>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L. "Buddy"</middleName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>Earl</firstName>
+        <lastName>Carter</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <state>GA</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001093</bioguideId>
+          <lisID>2121</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001093</bioguideId>
+        <party>R</party>
+        <district>9</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>Doug</firstName>
+        <lastName>Collins</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Collins, Doug [R-GA-9]</fullName>
+        <state>GA</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2324</lisID>
+          <bioguideId>F000465</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>F000465</bioguideId>
+        <party>R</party>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>Drew</middleName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>A.</firstName>
+        <lastName>Ferguson</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Ferguson, A. Drew, IV [R-GA-3]</fullName>
+        <state>GA</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1979</lisID>
+          <bioguideId>G000560</bioguideId>
+          <gpoId>7906</gpoId>
+        </identifiers>
+        <bioguideId>G000560</bioguideId>
+        <party>R</party>
+        <district>14</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>Tom</firstName>
+        <lastName>Graves</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Graves, Tom [R-GA-14]</fullName>
+        <state>GA</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H001071</bioguideId>
+          <lisID>2237</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001071</bioguideId>
+        <party>R</party>
+        <district>10</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>Jody</firstName>
+        <lastName>Hice</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <state>GA</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>J000288</bioguideId>
+          <lisID>1843</lisID>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <bioguideId>J000288</bioguideId>
+        <party>D</party>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>C. "Hank"</middleName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>Henry</firstName>
+        <lastName>Johnson</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <state>GA</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>L000287</bioguideId>
+          <gpoId>7902</gpoId>
+          <lisID>688</lisID>
+        </identifiers>
+        <bioguideId>L000287</bioguideId>
+        <party>D</party>
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>JOHN</firstName>
+        <lastName>LEWIS</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <state>GA</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>L000583</bioguideId>
+          <gpoId />
+          <lisID>2238</lisID>
+        </identifiers>
+        <bioguideId>L000583</bioguideId>
+        <party>R</party>
+        <district>11</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>Barry</firstName>
+        <lastName>Loudermilk</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Loudermilk, Barry [R-GA-11]</fullName>
+        <state>GA</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1722</lisID>
+          <gpoId>7910</gpoId>
+          <bioguideId>S001157</bioguideId>
+        </identifiers>
+        <bioguideId>S001157</bioguideId>
+        <party>D</party>
+        <district>13</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>David</firstName>
+        <lastName>Scott</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <state>GA</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2360</lisID>
+          <bioguideId>H001078</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001078</bioguideId>
+        <party>R</party>
+        <district>6</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>C.</middleName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>Karen</firstName>
+        <lastName>Handel</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Handel, Karen C. [R-GA-6]</fullName>
+        <state>GA</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000810</bioguideId>
+          <lisID>2008</lisID>
+          <gpoId>7904</gpoId>
+        </identifiers>
+        <bioguideId>W000810</bioguideId>
+        <party>R</party>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>Rob</firstName>
+        <lastName>Woodall</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Woodall, Rob [R-GA-7]</fullName>
+        <state>GA</state>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-10-04</introducedDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <notes />
+    <billType>HR</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <laws />
+    <billNumber>3946</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-10-04</actionDate>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-10-04</actionDate>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-10-04</actionDate>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <committeeReports />
+    <title>To name the Department of Veterans Affairs community-based outpatient clinic in Statesboro, Georgia, the "Ray Hendrix Veterans Clinic".</title>
+    <createDate>2017-10-05T03:11:21Z</createDate>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To name the Department of Veterans Affairs community-based outpatient clinic in Statesboro, Georgia, the "Ray Hendrix Veterans Clinic".</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To name the Department of Veterans Affairs community-based outpatient clinic in Statesboro, Georgia, the "Ray Hendrix Veterans Clinic".</title>
+      </item>
+    </titles>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>GA</state>
+        <byRequestType />
+        <bioguideId>A000372</bioguideId>
+        <firstName>Rick</firstName>
+        <identifiers>
+          <lisID>2239</lisID>
+          <bioguideId>A000372</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>W.</middleName>
+        <district>12</district>
+        <lastName>Allen</lastName>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+      </item>
+    </sponsors>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

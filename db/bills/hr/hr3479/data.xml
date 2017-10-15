@@ -1,0 +1,54 @@
+<bill session="115" type="h" number="3479" updated="2017-10-05T07:16:40Z">
+  <state datetime="2017-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-27"/>
+  </status>
+  <introduced datetime="2017-07-27"/>
+  <titles>
+    <title type="short" as="introduced">Secure Miles with All Resources and Technology Act</title>
+    <title type="short" as="introduced">Secure Miles with All Resources and Technology Act</title>
+    <title type="official" as="introduced">To improve border security, and for other purposes.</title>
+    <title type="display">Secure Miles with All Resources and Technology Act</title>
+  </titles>
+  <sponsor bioguide_id="H001073"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001063" joined="2017-07-27"/>
+    <cosponsor bioguide_id="F000466" joined="2017-07-27"/>
+    <cosponsor bioguide_id="G000581" joined="2017-07-27"/>
+    <cosponsor bioguide_id="K000386" joined="2017-07-27"/>
+    <cosponsor bioguide_id="K000387" joined="2017-07-27"/>
+    <cosponsor bioguide_id="P000588" joined="2017-07-27"/>
+    <cosponsor bioguide_id="R000598" joined="2017-07-27"/>
+    <cosponsor bioguide_id="V000129" joined="2017-07-27"/>
+    <cosponsor bioguide_id="Y000066" joined="2017-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-27" state="REFERRED">
+      <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-27">
+      <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-28">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </action>
+    <action datetime="2017-08-29">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee subcommittee="Border and Maritime Security" code="HSHM11" name="House Homeland Security" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Communications and Technology" code="HSIF16" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="115" type="h" number="1778" updated="2017-08-30T14:15:19Z">
+  <state datetime="2017-03-29">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-29"/>
+  </status>
+  <introduced datetime="2017-03-29"/>
+  <titles>
+    <title type="official" as="introduced">To provide that an order by the Secretary of the Interior imposing a moratorium on Federal coal leasing shall not take effect unless a joint resolution of approval is enacted, and for other purposes.</title>
+    <title type="display">To provide that an order by the Secretary of the Interior imposing a moratorium on Federal coal leasing shall not take effect unless a joint resolution of approval is enacted, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="C001109"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001076" joined="2017-03-29"/>
+    <cosponsor bioguide_id="C001096" joined="2017-03-29"/>
+    <cosponsor bioguide_id="G000565" joined="2017-04-25"/>
+    <cosponsor bioguide_id="J000297" joined="2017-07-27"/>
+    <cosponsor bioguide_id="M001180" joined="2017-03-29"/>
+    <cosponsor bioguide_id="R000598" joined="2017-03-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-29">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-03-29" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-04-05">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+    <action datetime="2017-07-27">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Energy and Mineral Resources" code="HSII06" name="House Natural Resources" activity="Hearings, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Coal"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of the Interior"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="115" type="h" number="3735" updated="2017-09-21T07:12:31Z">
+  <state datetime="2017-09-11">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-11"/>
+  </status>
+  <introduced datetime="2017-09-11"/>
+  <titles>
+    <title type="short" as="introduced">No Knives on Planes Act of 2017</title>
+    <title type="short" as="introduced">No Knives on Planes Act of 2017</title>
+    <title type="official" as="introduced">To prohibit the implementation of a policy change to permit small, non-locking knives on aircraft, and for other purposes.</title>
+    <title type="display">No Knives on Planes Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="J000295"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001295" joined="2017-09-11"/>
+    <cosponsor bioguide_id="D000625" joined="2017-09-11"/>
+    <cosponsor bioguide_id="F000466" joined="2017-09-11"/>
+    <cosponsor bioguide_id="G000571" joined="2017-09-11"/>
+    <cosponsor bioguide_id="L000563" joined="2017-09-11"/>
+    <cosponsor bioguide_id="S001175" joined="2017-09-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-11">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-11" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2017-09-19">
+      <text>Referred to the Subcommittee on Transportation and Protective Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee subcommittee="Transportation Security" code="HSHM07" name="House Homeland Security" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

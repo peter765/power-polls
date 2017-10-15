@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MO</state>
+        <bioguideId>M001170</bioguideId>
+        <middleName />
+        <firstName>Claire</firstName>
+        <identifiers>
+          <bioguideId>M001170</bioguideId>
+          <lisID>1820</lisID>
+          <gpoId>8252</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>McCaskill</lastName>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <number>1370</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+          <actionDate>2017-05-24</actionDate>
+        </latestAction>
+        <latestTitle>Department of Homeland Security Blue Campaign Authorization Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>J000293</bioguideId>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <party>R</party>
+        <state>WI</state>
+        <firstName>Ron</firstName>
+        <byRequestType />
+        <lastName>Johnson</lastName>
+        <identifiers>
+          <bioguideId>J000293</bioguideId>
+          <lisID>2086</lisID>
+          <gpoId>8355</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <actionDate>2017-10-10</actionDate>
+      <actionTime>19:25:37</actionTime>
+      <links />
+      <text>Held at the desk.</text>
+    </latestAction>
+    <actions>
+      <item>
+        <type>Floor</type>
+        <actionDate>2017-10-10</actionDate>
+        <actionTime>19:25:37</actionTime>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Held at the desk.</text>
+        <actionCode>H15000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2017-10-10</actionDate>
+        <actionTime>14:08:59</actionTime>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Received in the House.</text>
+        <actionCode>H14000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-10-10</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S6374-6375</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6374-6375</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S6374-6375; text: CR S6374-6375)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2017-10-05</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.</text>
+        <actionCode>17000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-09-14</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 221.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-09-14</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-157</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/157</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-157.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionDate>2017-09-14</actionDate>
+        <links>
+          <link>
+            <name>report No. 115-157</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/157</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-157.</text>
+        <actionCode>14000</actionCode>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-11</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-05-11</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <orderedReported>1</orderedReported>
+        <passedSenate>1</passedSenate>
+        <reportedToSenate>2</reportedToSenate>
+        <sentToHouse>1</sentToHouse>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>9</senate>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <title>Department of Homeland Security Blue Campaign Authorization Act of 2017</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-09-14T20:02:17Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-05-17T14:00:38Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-11T19:57:43Z</date>
+            </item>
+          </activities>
+          <systemCode>ssga00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>1103</billNumber>
+    <introducedDate>2017-05-11</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-09-12T19:43:07Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><strong>Department of Homeland Security Blue Campaign Authorization Act of 2017</strong></p> <p>This bill amends the Homeland Security Act of 2002 to establish within the Department of Homeland Security (DHS) the Blue Campaign to unify and coordinate DHS efforts to address human trafficking.</p> <p>The campaign shall provide guidance and training to appropriate DHS personnel and other law enforcement personnel regarding:</p> <ul> <li>programs to help identify instances of human trafficking;</li> <li>the types of information that should be collected and recorded in information technology systems utilized by DHS to help identify individuals suspected or convicted of human trafficking;</li> <li>systematic and routine information sharing within DHS and among law enforcement agencies regarding such individuals and patterns and practices of human trafficking;</li> <li>techniques to identify suspected trafficking victims along the U.S. border and at airport security checkpoints;</li> <li>methods to be used to train Transportation Security Administration employees to identify trafficking victims and to serve as a liaison and resource regarding trafficking prevention to appropriate state, local, and private sector aviation workers and the traveling public;</li> <li>utilizing resources to educate partners and stakeholders and to increase public awareness of human trafficking; and</li> <li>leveraging partnerships with governmental, nongovernmental, and private organizations to raise such awareness.</li> </ul> <p>DHS shall: (1) ensure the integration of information technology systems utilized within DHS to record and track information regarding individuals suspected or convicted of human trafficking; and (2) report to Congress describing the status and effectiveness of, and providing recommendation regarding the appropriate DHS office for, such campaign.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-05-11T04:00:00Z</updateDate>
+          <actionDate>2017-05-11</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <amendments />
+    <notes />
+    <updateDate>2017-10-12T18:15:14Z</updateDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-157</citation>
+      </committeeReport>
+    </committeeReports>
+    <congress>115</congress>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0221</number>
+      </item>
+    </calendarNumbers>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <title>Department of Homeland Security Blue Campaign Authorization Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <title>Department of Homeland Security Blue Campaign Authorization Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Department of Homeland Security Blue Campaign Authorization Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Homeland Security Act of 2002 to require the Secretary of Homeland Security to issue Department-wide guidance and to develop training programs as part of the Department of Homeland Security Blue Campaign, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Department of Homeland Security Blue Campaign Authorization Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <title>Department of Homeland Security Blue Campaign Authorization Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <title>Department of Homeland Security Blue Campaign Authorization Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Department of Homeland Security Blue Campaign Authorization Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <createDate>2017-05-12T00:26:38Z</createDate>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

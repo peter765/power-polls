@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <updateDate>2017-10-12T04:43:10Z</updateDate>
+    <notes />
+    <relatedBills />
+    <latestAction>
+      <actionDate>2017-08-01</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (Sponsor introductory remarks on measure: CR S4672; consideration: CR S4635; text of measure as introduced: CR S4672)</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees />
+    </committees>
+    <introducedDate>2017-08-01</introducedDate>
+    <committeeReports />
+    <congress>115</congress>
+    <title>A resolution to authorize the production of records by the Permanent Subcommittee on Investigations of the Committee on Homeland Security and Governmental Affairs.</title>
+    <recordedVotes />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>S000148</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SCHUMER</lastName>
+        <firstName>CHARLES</firstName>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S000148</bioguideId>
+          <gpoId>8279</gpoId>
+          <lisID>1036</lisID>
+        </identifiers>
+        <middleName>E.</middleName>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+      </item>
+    </cosponsors>
+    <billNumber>237</billNumber>
+    <billType>SRES</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A resolution to authorize the production of records by the Permanent Subcommittee on Investigations of the Committee on Homeland Security and Governmental Affairs.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>A resolution to authorize the production of records by the Permanent Subcommittee on Investigations of the Committee on Homeland Security and Governmental Affairs.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+          <item>
+            <name>Senate Committee on Homeland Security and Governmental Affairs</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-08-02T00:26:42Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S4635</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4635</url>
+          </link>
+          <link>
+            <name>S4672</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4672</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (Sponsor introductory remarks on measure: CR S4672; consideration: CR S4635; text of measure as introduced: CR S4672)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>S4635</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4635</url>
+          </link>
+          <link>
+            <name>S4672</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4672</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(Sponsor introductory remarks on measure: CR S4672; consideration: CR S4635; text of measure as introduced: CR S4672)</text>
+        <committee />
+        <actionDate>2017-08-01</actionDate>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2017-08-01</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <firstName>MITCH</firstName>
+        <middleName />
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <byRequestType />
+        <bioguideId>M000355</bioguideId>
+        <lastName>MCCONNELL</lastName>
+        <state>KY</state>
+        <identifiers>
+          <lisID>1395</lisID>
+          <bioguideId>M000355</bioguideId>
+          <gpoId>8254</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

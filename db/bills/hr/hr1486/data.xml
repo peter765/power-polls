@@ -1,0 +1,52 @@
+<bill session="115" type="h" number="1486" updated="2017-06-19T21:30:30Z">
+  <state datetime="2017-03-09">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-09"/>
+  </status>
+  <introduced datetime="2017-03-09"/>
+  <titles>
+    <title type="short" as="introduced">Securing American Non-Profit Organizations Against Terrorism Act of 2017</title>
+    <title type="short" as="introduced">Securing American Non-Profit Organizations Against Terrorism Act of 2017</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to provide funding to secure non-profit facilities from terrorist attacks, and for other purposes.</title>
+    <title type="display">Securing American Non-Profit Organizations Against Terrorism Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="T000193"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001067" joined="2017-03-15"/>
+    <cosponsor bioguide_id="E000288" joined="2017-05-17"/>
+    <cosponsor bioguide_id="J000032" joined="2017-03-20"/>
+    <cosponsor bioguide_id="K000375" joined="2017-03-15"/>
+    <cosponsor bioguide_id="L000559" joined="2017-03-15"/>
+    <cosponsor bioguide_id="L000287" joined="2017-03-20"/>
+    <cosponsor bioguide_id="M001143" joined="2017-03-20"/>
+    <cosponsor bioguide_id="M001137" joined="2017-03-20"/>
+    <cosponsor bioguide_id="M001160" joined="2017-03-15"/>
+    <cosponsor bioguide_id="P000034" joined="2017-03-20"/>
+    <cosponsor bioguide_id="P000604" joined="2017-03-15"/>
+    <cosponsor bioguide_id="W000822" joined="2017-03-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-09">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-03-09" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2017-03-22">
+      <text>Referred to the Subcommittee on Emergency Preparedness, Response and Communications.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee subcommittee="Emergency Preparedness, Response, and Communications" code="HSHM12" name="House Homeland Security" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <notes />
+    <originChamber>House</originChamber>
+    <billNumber>75</billNumber>
+    <constitutionalAuthorityStatementText />
+    <latestAction>
+      <text>Referred to the Subcommittee on Human Resources.</text>
+      <links />
+      <actionDate>2017-07-31</actionDate>
+    </latestAction>
+    <calendarNumbers />
+    <updateDate>2017-09-28T14:00:12Z</updateDate>
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <introducedDate>2017-07-28</introducedDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Expressing the sense of the Congress that homelessness in America should be eliminated.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Expressing the sense of the Congress that homelessness in America should be eliminated.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-31</actionDate>
+        <committee>
+          <name>Human Resources Subcommittee</name>
+          <systemCode>hswm03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Human Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2017-07-28</actionDate>
+        <text>Referred to the Committee on Financial Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2017-07-28</actionDate>
+        <text>Referred to the Committee on Financial Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2017-07-28</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2017-07-28</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <state>NC</state>
+        <district>12</district>
+        <firstName>Alma</firstName>
+        <lastName>Adams</lastName>
+        <bioguideId>A000370</bioguideId>
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+        <middleName>S.</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>A000370</bioguideId>
+          <lisID>2201</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <committeeReports />
+    <relatedBills />
+    <createDate>2017-07-29T03:11:32Z</createDate>
+    <cosponsors>
+      <item>
+        <bioguideId>C000714</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <district>13</district>
+        <party>D</party>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>MI</state>
+        <lastName>CONYERS</lastName>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <gpoId>7999</gpoId>
+          <bioguideId>C000714</bioguideId>
+          <lisID>229</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>L000586</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <district>5</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-08</sponsorshipDate>
+        <state>FL</state>
+        <lastName>Lawson</lastName>
+        <firstName>Al</firstName>
+        <identifiers>
+          <bioguideId>L000586</bioguideId>
+          <gpoId />
+          <lisID>2317</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001285</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <district>26</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <state>CA</state>
+        <lastName>Brownley</lastName>
+        <firstName>Julia</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <district>3</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <state>AZ</state>
+        <lastName>Grijalva</lastName>
+        <firstName>Raul</firstName>
+        <identifiers>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H000324</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <district>20</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <state>FL</state>
+        <lastName>HASTINGS</lastName>
+        <firstName>ALCEE</firstName>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000581</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <district>15</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <state>TX</state>
+        <lastName>Gonzalez</lastName>
+        <firstName>Vicente</firstName>
+        <identifiers>
+          <lisID>2349</lisID>
+          <gpoId />
+          <bioguideId>G000581</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001300</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>Diaz</middleName>
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+        <district>44</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <state>CA</state>
+        <lastName>Barragan</lastName>
+        <firstName>Nanette</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2311</lisID>
+          <bioguideId>B001300</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>HOLMES</middleName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <district>0</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <state>DC</state>
+        <lastName>NORTON</lastName>
+        <firstName>ELEANOR</firstName>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000096</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <district>7</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <state>IL</state>
+        <lastName>DAVIS</lastName>
+        <firstName>DANNY</firstName>
+        <identifiers>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000588</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <district>2</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <state>LA</state>
+        <lastName>Richmond</lastName>
+        <firstName>Cedric</firstName>
+        <identifiers>
+          <lisID>2023</lisID>
+          <bioguideId>R000588</bioguideId>
+          <gpoId>7960</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001067</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <district>9</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <state>NY</state>
+        <lastName>Clarke</lastName>
+        <firstName>Yvette</firstName>
+        <identifiers>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001281</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <district>3</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <state>OH</state>
+        <lastName>Beatty</lastName>
+        <firstName>Joyce</firstName>
+        <identifiers>
+          <bioguideId>B001281</bioguideId>
+          <lisID>2153</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>L000582</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <district>33</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <state>CA</state>
+        <lastName>Lieu</lastName>
+        <firstName>Ted</firstName>
+        <identifiers>
+          <lisID>2230</lisID>
+          <gpoId />
+          <bioguideId>L000582</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001080</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <district>27</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <state>CA</state>
+        <lastName>Chu</lastName>
+        <firstName>Judy</firstName>
+        <identifiers>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>F000455</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <fullName>Rep. Fudge, Marcia L. [D-OH-11]</fullName>
+        <district>11</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <state>OH</state>
+        <lastName>Fudge</lastName>
+        <firstName>Marcia</firstName>
+        <identifiers>
+          <lisID>1895</lisID>
+          <gpoId>8101</gpoId>
+          <bioguideId>F000455</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M000312</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <district>2</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <state>MA</state>
+        <lastName>MCGOVERN</lastName>
+        <firstName>JAMES</firstName>
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S000510</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+        <district>9</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <state>WA</state>
+        <lastName>SMITH</lastName>
+        <firstName>ADAM</firstName>
+        <identifiers>
+          <lisID>1528</lisID>
+          <gpoId>8213</gpoId>
+          <bioguideId>S000510</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001066</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <district>14</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <state>FL</state>
+        <lastName>Castor</lastName>
+        <firstName>Kathy</firstName>
+        <identifiers>
+          <lisID>1839</lisID>
+          <gpoId>7883</gpoId>
+          <bioguideId>C001066</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>E000296</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <district>2</district>
+        <party>D</party>
+        <sponsorshipDate>2017-08-18</sponsorshipDate>
+        <state>PA</state>
+        <lastName>Evans</lastName>
+        <firstName>Dwight</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000296</bioguideId>
+          <lisID>2298</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000623</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <district>11</district>
+        <party>D</party>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <state>CA</state>
+        <lastName>DeSaulnier</lastName>
+        <firstName>Mark</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2227</lisID>
+          <bioguideId>D000623</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <title>Expressing the sense of the Congress that homelessness in America should be eliminated.</title>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Homelessness and emergency shelter</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Housing for the elderly and disabled</name>
+          </item>
+          <item>
+            <name>Housing supply and affordability</name>
+          </item>
+          <item>
+            <name>Low- and moderate-income housing</name>
+          </item>
+          <item>
+            <name>Unemployment</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <amendments />
+    <billType>HCONRES</billType>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-07-28T13:05:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-07-31T19:50:29Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Human Resources Subcommittee</name>
+              <systemCode>hswm03</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2017-07-28T13:04:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Financial Services Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2017-07-28</actionDate>
+          <lastSummaryUpdateDate>2017-09-28T13:54:52Z</lastSummaryUpdateDate>
+          <updateDate>2017-07-28T04:00:00Z</updateDate>
+          <text><![CDATA[</p> <p>Expresses the sense of Congress regarding:</p> <ul> <li>elimination of homelessness by 2020;</li> <li>expanded funding for the low-income rental housing assistance program, the Community Development Block Grant program, the HOME Investment Partnerships program, the McKinney-Vento homeless assistance program, and the Low-Income Housing Tax Credit program;</li> <li>substantial additional funding to the National Housing Trust Fund;</li> <li>increased funding for job training and related programs;</li> <li>a federal &quot;housing first&quot; policy linking housing with supportive services for persons with special needs; and</li> <li>permanent housing connected to employment, transportation, and job training programs for American families and individuals.</li></ul>]]></text>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

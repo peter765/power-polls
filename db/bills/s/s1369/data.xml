@@ -1,0 +1,43 @@
+<bill session="115" type="s" number="1369" updated="2017-08-04T07:25:30Z">
+  <state datetime="2017-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-15"/>
+  </status>
+  <introduced datetime="2017-06-15"/>
+  <titles>
+    <title type="short" as="introduced">Stop Price Gouging Act</title>
+    <title type="short" as="introduced">Stop Price Gouging Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to establish an excise tax on certain prescription drugs which have been subject to a price spike, and for other purposes.</title>
+    <title type="display">Stop Price Gouging Act</title>
+  </titles>
+  <sponsor bioguide_id="B000944"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001277" joined="2017-08-03"/>
+    <cosponsor bioguide_id="D000563" joined="2017-06-19"/>
+    <cosponsor bioguide_id="F000457" joined="2017-06-15"/>
+    <cosponsor bioguide_id="G000555" joined="2017-06-15"/>
+    <cosponsor bioguide_id="H001076" joined="2017-06-15"/>
+    <cosponsor bioguide_id="R000122" joined="2017-06-15"/>
+    <cosponsor bioguide_id="S000033" joined="2017-06-22"/>
+    <cosponsor bioguide_id="U000039" joined="2017-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-15">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="2974"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

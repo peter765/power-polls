@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes>
+      <recordedVote>
+        <chamber>House</chamber>
+        <date>2017-02-28T19:19:25Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll104.xml</url>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>104</rollNumber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <congress>115</congress>
+      </recordedVote>
+      <recordedVote>
+        <chamber>House</chamber>
+        <date>2017-02-28T19:12:32Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll103.xml</url>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>103</rollNumber>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <congress>115</congress>
+      </recordedVote>
+    </recordedVotes>
+    <billType>HRES</billType>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-03-02</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+        <latestTitle>SCRUB Act</latestTitle>
+        <number>998</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <congress>115</congress>
+        <type>HJRES</type>
+        <latestAction>
+          <actionDate>2017-04-03</actionDate>
+          <text>Became Public Law No: 115-21.</text>
+        </latestAction>
+        <latestTitle>Disapproving the rule submitted by the Department of Labor relating to "Clarification of Employer's Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness".</latestTitle>
+        <number>83</number>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-02-10</actionDate>
+          <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+        </latestAction>
+        <latestTitle>To provide for a study by the Transportation Research Board of the National Academies on the impact of diverting certain freight rail traffic to avoid urban areas, and for other purposes.</latestTitle>
+        <number>988</number>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-02-27T05:00:00Z</updateDate>
+          <actionDate>2017-02-27</actionDate>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 998) to provide for the establishment of a process for the review of rules and sets of rules, and for other purposes, and providing for consideration of the joint resolution (H.J. Res. 83) disapproving the rule submitted by the Department of Labor relating to "Clarification of Employer's Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness".]]></text>
+          <lastSummaryUpdateDate>2017-02-28T09:03:23Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <bioguideId>C001093</bioguideId>
+        <state>GA</state>
+        <fullName>Rep. Collins, Doug [R-GA-9]</fullName>
+        <party>R</party>
+        <district>9</district>
+        <byRequestType />
+        <middleName />
+        <firstName>Doug</firstName>
+        <lastName>Collins</lastName>
+        <identifiers>
+          <bioguideId>C001093</bioguideId>
+          <lisID>2121</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-20</citation>
+      </committeeReport>
+    </committeeReports>
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <date>2017-02-28T00:45:25Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <links />
+        <actionDate>2017-02-28</actionDate>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>14:19:27</actionTime>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1363</url>
+            <name>H1363</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll104.xml</url>
+            <name>Roll no. 104</name>
+          </link>
+        </links>
+        <actionDate>2017-02-28</actionDate>
+        <type>Floor</type>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 225 - 188 (Roll no. 104). (text: CR H1363)</text>
+        <actionTime>14:19:25</actionTime>
+        <committee />
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1363</url>
+            <name>H1363</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll104.xml</url>
+            <name>Roll no. 104</name>
+          </link>
+        </links>
+        <actionDate>2017-02-28</actionDate>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 225 - 188 (Roll no. 104).(text: CR H1363)</text>
+        <actionTime>14:19:25</actionTime>
+        <committee />
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1369</url>
+            <name>H1369</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll103.xml</url>
+            <name>Roll no. 103</name>
+          </link>
+        </links>
+        <actionDate>2017-02-28</actionDate>
+        <type>Floor</type>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 224 - 191 (Roll no. 103). (consideration: CR H1369)</text>
+        <actionTime>14:12:32</actionTime>
+        <committee />
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1368-1370</url>
+            <name>H1368-1370</name>
+          </link>
+        </links>
+        <actionDate>2017-02-28</actionDate>
+        <type>Floor</type>
+        <text>Considered as unfinished business. (consideration: CR H1368-1370)</text>
+        <actionTime>13:47:33</actionTime>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/150</url>
+            <name>H. Res. 150</name>
+          </link>
+        </links>
+        <actionDate>2017-02-28</actionDate>
+        <type>Floor</type>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 150, the Chair put the question on ordering the previous question, and by voice vote announced that the ayes had prevailed. Mr. Hastings demanded the yeas and nays, and the Chair postponed further proceedings on ordering the previous question until later in the legislative day.</text>
+        <actionTime>12:59:25</actionTime>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/150</url>
+            <name>H. Res. 150</name>
+          </link>
+        </links>
+        <actionDate>2017-02-28</actionDate>
+        <type>Floor</type>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 150.</text>
+        <actionTime>12:18:45</actionTime>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1363-1368</url>
+            <name>H1363-1368</name>
+          </link>
+        </links>
+        <actionDate>2017-02-28</actionDate>
+        <type>Floor</type>
+        <text>Considered as privileged matter. (consideration: CR H1363-1368)</text>
+        <actionTime>12:15:55</actionTime>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-02-27</actionDate>
+        <type>Calendars</type>
+        <text>Placed on the House Calendar, Calendar No. 13.</text>
+        <committee />
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-joint-resolution/83</url>
+            <name>H.J.Res. 83</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/998</url>
+            <name>H.R. 998</name>
+          </link>
+        </links>
+        <actionDate>2017-02-27</actionDate>
+        <type>Floor</type>
+        <text>Provides for consideration of H.R. 998 and H.J.Res. 83.</text>
+        <actionTime>19:45:26</actionTime>
+        <committee />
+        <actionCode>H12700</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/20</url>
+            <name>H. Rept. 115-20</name>
+          </link>
+        </links>
+        <actionDate>2017-02-27</actionDate>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-20, by Mr. Collins (GA).</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>H12100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/20</url>
+            <name>H. Rept. 115-20</name>
+          </link>
+        </links>
+        <actionDate>2017-02-27</actionDate>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-20, by Mr. Collins (GA).</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-02-27</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <considerationByHouse>2</considerationByHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <provisionsOfARule>1</provisionsOfARule>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <introducedInHouse>1</introducedInHouse>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <generalDebate>2</generalDebate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-02-27</introducedDate>
+    <constitutionalAuthorityStatementText />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Providing for consideration of the bill (H.R. 998) to provide for the establishment of a process for the review of rules and sets of rules, and for other purposes, and providing for consideration of the joint resolution (H.J. Res. 83) disapproving the rule submitted by the Department of Labor relating to "Clarification of Employer's Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness".</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Providing for consideration of the bill (H.R. 998) to provide for the establishment of a process for the review of rules and sets of rules, and for other purposes, and providing for consideration of the joint resolution (H.J. Res. 83) disapproving the rule submitted by the Department of Labor relating to "Clarification of Employer's Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness".</title>
+        <chamberName />
+      </item>
+    </titles>
+    <latestAction>
+      <links />
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionDate>2017-02-28</actionDate>
+      <actionTime>14:19:27</actionTime>
+    </latestAction>
+    <billNumber>150</billNumber>
+    <amendments />
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <calendarNumbers>
+      <item>
+        <calendar>H00013</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <updateDate>2017-08-10T13:23:03Z</updateDate>
+    <createDate>2017-02-28T05:17:24Z</createDate>
+    <title>Providing for consideration of the bill (H.R. 998) to provide for the establishment of a process for the review of rules and sets of rules, and for other purposes, and providing for consideration of the joint resolution (H.J. Res. 83) disapproving the rule submitted by the Department of Labor relating to "Clarification of Employer's Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness".</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

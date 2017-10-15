@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HRES</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <lastName>Meehan</lastName>
+        <identifiers>
+          <bioguideId>M001181</bioguideId>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>Patrick</firstName>
+        <bioguideId>M001181</bioguideId>
+        <state>PA</state>
+        <district>7</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-02</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-10-02</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-10-02</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2017-10-02</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-02T16:00:47Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-10-04T13:29:50Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Expressing the sense of the House of Representatives regarding the need for State legislatures to pass comprehensive sexual assault kit reforms by 2020.</title>
+    <congress>115</congress>
+    <calendarNumbers />
+    <relatedBills />
+    <latestAction>
+      <actionDate>2017-10-04</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+    </latestAction>
+    <createDate>2017-10-03T03:11:17Z</createDate>
+    <updateDate>2017-10-06T07:12:37Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <billNumber>550</billNumber>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the sense of the House of Representatives regarding the need for State legislatures to pass comprehensive sexual assault kit reforms by 2020.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Expressing the sense of the House of Representatives regarding the need for State legislatures to pass comprehensive sexual assault kit reforms by 2020.</title>
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <firstName>Jackie</firstName>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <bioguideId>S001175</bioguideId>
+        <identifiers>
+          <bioguideId>S001175</bioguideId>
+          <gpoId>7817</gpoId>
+          <lisID>1890</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Speier</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName />
+        <district>14</district>
+      </item>
+      <item>
+        <firstName>Ann</firstName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <bioguideId>K000382</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kuster</lastName>
+        <state>NH</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName>M.</middleName>
+        <district>2</district>
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <bioguideId>J000295</bioguideId>
+        <identifiers>
+          <bioguideId>J000295</bioguideId>
+          <lisID>2154</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Joyce</lastName>
+        <state>OH</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName>P.</middleName>
+        <district>14</district>
+      </item>
+      <item>
+        <firstName>Mimi</firstName>
+        <fullName>Rep. Walters, Mimi [R-CA-45]</fullName>
+        <bioguideId>W000820</bioguideId>
+        <identifiers>
+          <lisID>2232</lisID>
+          <gpoId />
+          <bioguideId>W000820</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Walters</lastName>
+        <state>CA</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName />
+        <district>45</district>
+      </item>
+      <item>
+        <firstName>Brendan</firstName>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <bioguideId>B001296</bioguideId>
+        <identifiers>
+          <bioguideId>B001296</bioguideId>
+          <gpoId />
+          <lisID>2267</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Boyle</lastName>
+        <state>PA</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName>F.</middleName>
+        <district>13</district>
+      </item>
+      <item>
+        <firstName>Debbie</firstName>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <bioguideId>W000797</bioguideId>
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wasserman Schultz</lastName>
+        <state>FL</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName />
+        <district>23</district>
+      </item>
+      <item>
+        <firstName>Daniel</firstName>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <bioguideId>D000625</bioguideId>
+        <identifiers>
+          <lisID>2293</lisID>
+          <bioguideId>D000625</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Donovan</lastName>
+        <state>NY</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName>M.</middleName>
+        <district>11</district>
+      </item>
+      <item>
+        <firstName>Joseph</firstName>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <bioguideId>K000379</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000379</bioguideId>
+          <lisID>2172</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kennedy</lastName>
+        <state>MA</state>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <middleName>P.</middleName>
+        <district>4</district>
+      </item>
+    </cosponsors>
+    <notes />
+    <amendments />
+    <committeeReports />
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

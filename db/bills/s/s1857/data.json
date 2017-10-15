@@ -1,0 +1,120 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-26", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-26", 
+      "action_code": "", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1857-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001183", 
+      "district": null, 
+      "name": "Manchin, Joe, III", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-26", 
+      "state": "WV", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001170", 
+      "district": null, 
+      "name": "McCaskill, Claire", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-26", 
+      "state": "MO", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000320", 
+      "district": null, 
+      "name": "Shelby, Richard C.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-26", 
+      "state": "AL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-26", 
+  "number": "1857", 
+  "official_title": "A bill to establish a compliance deadline of May 15, 2023, for Step 2 emissions standards for new residential wood heaters, new residential hydronic heaters, and forced-air furnaces.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr453-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "C001047", 
+    "district": null, 
+    "name": "Capito, Shelley Moore", 
+    "state": "WV", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-26", 
+  "subjects": [
+    "Environmental protection"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to establish a compliance deadline of May 15, 2023, for Step 2 emissions standards for new residential wood heaters, new residential hydronic heaters, and forced-air furnaces.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to establish a compliance deadline of May 15, 2023, for Step 2 emissions standards for new residential wood heaters, new residential hydronic heaters, and forced-air furnaces.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-05T04:32:14Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1857.xml"
+}

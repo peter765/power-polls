@@ -1,0 +1,94 @@
+<bill session="115" type="h" number="2142" updated="2017-10-02T21:30:13Z">
+  <state datetime="2017-09-07">REPORTED</state>
+  <status>
+    <unknown datetime="2017-09-07"/>
+  </status>
+  <introduced datetime="2017-04-25"/>
+  <titles>
+    <title type="short" as="introduced">INTERDICT Act</title>
+    <title type="short" as="introduced">INTERDICT Act</title>
+    <title type="short" as="introduced">International Narcotics Trafficking Emergency Response by Detecting Incoming Contraband with Technology Act</title>
+    <title type="short" as="introduced">International Narcotics Trafficking Emergency Response by Detecting Incoming Contraband with Technology Act</title>
+    <title type="short" as="reported to house">INTERDICT Act</title>
+    <title type="short" as="reported to house">INTERDICT Act</title>
+    <title type="short" as="reported to house">International Narcotics Trafficking Emergency Response by Detecting Incoming Contraband with Technology Act</title>
+    <title type="short" as="reported to house">International Narcotics Trafficking Emergency Response by Detecting Incoming Contraband with Technology Act</title>
+    <title type="official" as="introduced">To improve the ability of U.S. Customs and Border Protection to interdict fentanyl, other synthetic opioids, and other narcotics and psychoactive substances that are illegally imported into the United States, and for other purposes.</title>
+    <title type="display">INTERDICT Act</title>
+  </titles>
+  <sponsor bioguide_id="T000465"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001303" joined="2017-06-29"/>
+    <cosponsor bioguide_id="B001260" joined="2017-06-20"/>
+    <cosponsor bioguide_id="C001101" joined="2017-07-13"/>
+    <cosponsor bioguide_id="C001105" joined="2017-05-17"/>
+    <cosponsor bioguide_id="C001107" joined="2017-09-07"/>
+    <cosponsor bioguide_id="F000466" joined="2017-04-25"/>
+    <cosponsor bioguide_id="H001038" joined="2017-07-12"/>
+    <cosponsor bioguide_id="K000375" joined="2017-06-21"/>
+    <cosponsor bioguide_id="K000379" joined="2017-06-27"/>
+    <cosponsor bioguide_id="K000389" joined="2017-09-21"/>
+    <cosponsor bioguide_id="K000391" joined="2017-09-12"/>
+    <cosponsor bioguide_id="K000382" joined="2017-06-27"/>
+    <cosponsor bioguide_id="M001193" joined="2017-06-29"/>
+    <cosponsor bioguide_id="M001196" joined="2017-06-27"/>
+    <cosponsor bioguide_id="N000188" joined="2017-07-11"/>
+    <cosponsor bioguide_id="R000606" joined="2017-06-27"/>
+    <cosponsor bioguide_id="R000577" joined="2017-06-15"/>
+    <cosponsor bioguide_id="W000800" joined="2017-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-25" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2017-05-02">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H3011"/>
+    </action>
+    <action datetime="2017-05-16">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+    </action>
+    <action datetime="2017-09-07">
+      <text>Subcommittee on Border and Maritime Security Discharged.</text>
+    </action>
+    <action datetime="2017-09-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-09-07" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-09-21">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-317.</text>
+    </action>
+    <calendar datetime="2017-09-21" calendar="Union" number="227">
+      <text>Placed on the Union Calendar, Calendar No. 227.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHM" name="House Homeland Security" activity="Reporting, Markup, Referral"/>
+    <committee subcommittee="Border and Maritime Security" code="HSHM11" name="House Homeland Security" activity="Discharged, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="708"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Chemistry"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-09-21T14:02:45Z" status="Reported to House with amendment(s)">International Narcotics Trafficking Emergency Response by Detecting Incoming Contraband with Technology Act or the INTERDICT Act
+
+(Sec. 3) This bill requires the U.S. Customs and Border Protection (CBP) to: (1) increase the number of chemical screening devices available to CBP officers to interdict fentanyl, other synthetic opioids, and other narcotics and psychoactive substances that are illegally imported into the United States, including such substances imported through the mail or by an express consignment operator or carrier; and (2) dedicate the appropriate number of CBP personnel, including scientists, to interpret data collected by such devices during all operational hours.
+
+(Sec. 4) The bill authorizes appropriations to the CBP to ensure that the necessary screening and interdiction resources are available during all operational hours.</summary>
+  <committee-reports>
+    <report>H. Rept. 115-317</report>
+  </committee-reports>
+</bill>

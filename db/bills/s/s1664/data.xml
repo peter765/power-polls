@@ -1,0 +1,35 @@
+<bill session="115" type="s" number="1664" updated="2017-09-11T03:02:22Z">
+  <state datetime="2017-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-27"/>
+  </status>
+  <introduced datetime="2017-07-27"/>
+  <titles>
+    <title type="short" as="introduced">Relief for Recovering Communities Act</title>
+    <title type="short" as="introduced">Relief for Recovering Communities Act</title>
+    <title type="official" as="introduced">A bill to amend section 5307 of title 49, United States Code, with respect to the treatment of communities as urbanized areas following a major disaster.</title>
+    <title type="display">Relief for Recovering Communities Act</title>
+  </titles>
+  <sponsor bioguide_id="C001056"/>
+  <cosponsors>
+    <cosponsor bioguide_id="K000384" joined="2017-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-27">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <reference ref="CR S4430" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <constitutionalAuthorityStatementText />
+    <cosponsors />
+    <updateDate>2017-08-10T13:23:02Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-01-09T05:00:00Z</updateDate>
+          <actionDate>2017-01-09</actionDate>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 5) to reform the process by which Federal agencies analyze and formulate new regulations and guidance documents, to clarify the nature of judicial review of agency interpretations, to ensure complete analysis of potential impacts on small entities of rules, and for other purposes, and providing for consideration of the bill (H.R. 79) to clarify the definition of general solicitation under Federal securities law.]]></text>
+          <lastSummaryUpdateDate>2017-01-10T09:02:32Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>Doug</firstName>
+        <party>R</party>
+        <state>GA</state>
+        <fullName>Rep. Collins, Doug [R-GA-9]</fullName>
+        <bioguideId>C001093</bioguideId>
+        <middleName />
+        <district>9</district>
+        <lastName>Collins</lastName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>C001093</bioguideId>
+          <lisID>2121</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <laws />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-01-11</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        </latestAction>
+        <latestTitle>HALOS Act</latestTitle>
+        <number>79</number>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-03-29</actionDate>
+          <text>Committee on Small Business and Entrepreneurship. Hearings held. Hearings printed: S.Hrg. 115-21.</text>
+        </latestAction>
+        <latestTitle>Regulatory Accountability Act of 2017</latestTitle>
+        <number>5</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <createDate>2017-01-10T05:15:42Z</createDate>
+    <recordedVotes>
+      <recordedVote>
+        <date>2017-01-10T18:58:02Z</date>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <rollNumber>27</rollNumber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll027.xml</url>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+      <recordedVote>
+        <date>2017-01-10T18:47:13Z</date>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <rollNumber>26</rollNumber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll026.xml</url>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <billType>HRES</billType>
+    <latestAction>
+      <actionTime>13:58:04</actionTime>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+      <actionDate>2017-01-10</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsru00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-01-10T00:12:33Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <name>Rules Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-01-09</introducedDate>
+    <actions>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>13:58:04</actionTime>
+        <links />
+        <committee />
+        <actionDate>2017-01-10</actionDate>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 233 - 183 (Roll no. 27). (text: CR H249-250)</text>
+        <actionTime>13:58:02</actionTime>
+        <links>
+          <link>
+            <name>H249-250</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H249-250</url>
+          </link>
+          <link>
+            <name>Roll no. 27</name>
+            <url>http://clerk.house.gov/evs/2017/roll027.xml</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-01-10</actionDate>
+        <actionCode>H37100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 233 - 183 (Roll no. 27).(text: CR H249-250)</text>
+        <actionTime>13:58:02</actionTime>
+        <links>
+          <link>
+            <name>H249-250</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H249-250</url>
+          </link>
+          <link>
+            <name>Roll no. 27</name>
+            <url>http://clerk.house.gov/evs/2017/roll027.xml</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-01-10</actionDate>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 234 - 179 (Roll no. 26). (consideration: CR H257)</text>
+        <actionTime>13:47:13</actionTime>
+        <links>
+          <link>
+            <name>H257</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H257</url>
+          </link>
+          <link>
+            <name>Roll no. 26</name>
+            <url>http://clerk.house.gov/evs/2017/roll026.xml</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-01-10</actionDate>
+        <actionCode>H35000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 33.</text>
+        <actionTime>12:38:03</actionTime>
+        <links>
+          <link>
+            <name>H. Res. 33</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/33</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-01-10</actionDate>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Considered as privileged matter. (consideration: CR H249-258)</text>
+        <actionTime>12:35:18</actionTime>
+        <links>
+          <link>
+            <name>H249-258</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H249-258</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-01-10</actionDate>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Calendars</type>
+        <text>Placed on the House Calendar, Calendar No. 2.</text>
+        <links />
+        <committee />
+        <actionDate>2017-01-09</actionDate>
+        <actionCode>H12420</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>The resolution provides for both bills to be considered under a structured rule for one hour of general debate. The resolution also provides one motion to recommit with or without instructions on both H.R. 5 and H.R. 79.</text>
+        <actionTime>19:12:34</actionTime>
+        <links>
+          <link>
+            <name>H.R. 5</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/5</url>
+          </link>
+          <link>
+            <name>H.R. 79</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/79</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-01-09</actionDate>
+        <actionCode>H12700</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-2, by Mr. Collins (GA).</text>
+        <links>
+          <link>
+            <name>H. Rept. 115-2</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/2</url>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionDate>2017-01-09</actionDate>
+        <actionCode>H12100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-2, by Mr. Collins (GA).</text>
+        <links>
+          <link>
+            <name>H. Rept. 115-2</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/2</url>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionDate>2017-01-09</actionDate>
+        <actionCode>5000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-01-09</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <generalDebate>1</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <considerationByHouse>1</considerationByHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <provisionsOfARule>1</provisionsOfARule>
+      </actionTypeCounts>
+    </actions>
+    <title>Providing for consideration of the bill (H.R. 5) to reform the process by which Federal agencies analyze and formulate new regulations and guidance documents, to clarify the nature of judicial review of agency interpretations, to ensure complete analysis of potential impacts on small entities of rules, and for other purposes, and providing for consideration of the bill (H.R. 79) to clarify the definition of general solicitation under Federal securities law.</title>
+    <amendments />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Providing for consideration of the bill (H.R. 5) to reform the process by which Federal agencies analyze and formulate new regulations and guidance documents, to clarify the nature of judicial review of agency interpretations, to ensure complete analysis of potential impacts on small entities of rules, and for other purposes, and providing for consideration of the bill (H.R. 79) to clarify the definition of general solicitation under Federal securities law.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Providing for consideration of the bill (H.R. 5) to reform the process by which Federal agencies analyze and formulate new regulations and guidance documents, to clarify the nature of judicial review of agency interpretations, to ensure complete analysis of potential impacts on small entities of rules, and for other purposes, and providing for consideration of the bill (H.R. 79) to clarify the definition of general solicitation under Federal securities law.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>H00002</calendar>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billNumber>33</billNumber>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-2</citation>
+      </committeeReport>
+    </committeeReports>
+    <originChamber>House</originChamber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

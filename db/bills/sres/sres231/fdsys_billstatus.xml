@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4195</url>
+            <name>S4195</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4695</url>
+            <name>S4695</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695; text: 7/25/2017 CR S4195)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4695; text: 7/25/2017 CR S4195)</text>
+        <committee />
+        <actionDate>2017-08-01</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4195</url>
+            <name>S4195</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4695</url>
+            <name>S4695</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionCode>14500</actionCode>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <actionDate>2017-08-01</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4195</url>
+            <name>S4195</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4195)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2017-07-25</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <committeeDischarged>1</committeeDischarged>
+        <agreedToInSenate>1</agreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-07-26T00:26:30Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-08-02T00:01:06Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-07-25T21:19:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>231</billNumber>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+        <lastName>GRASSLEY</lastName>
+        <bioguideId>G000386</bioguideId>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <state>IA</state>
+        <firstName>CHARLES</firstName>
+        <middleName>ERNEST</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2017-07-25</introducedDate>
+    <relatedBills />
+    <originChamber>Senate</originChamber>
+    <billType>SRES</billType>
+    <title>A resolution designating July 30, 2017, as "National Whistleblower Appreciation Day".</title>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <updateDate>2017-10-06T04:48:25Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Designates July 30, 2017, as National Whistleblower Appreciation Day.</p> <ul> </ul> </p>]]></text>
+          <lastSummaryUpdateDate>2017-10-03T20:41:53Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-07-25</actionDate>
+          <updateDate>2017-07-25T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Designates July 30, 2017, as National Whistleblower Appreciation Day.</p>]]></text>
+          <lastSummaryUpdateDate>2017-10-03T20:42:03Z</lastSummaryUpdateDate>
+          <versionCode>82</versionCode>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <actionDate>2017-08-01</actionDate>
+          <updateDate>2017-08-01T13:36:25Z</updateDate>
+          <name>Passed Senate without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695; text: 7/25/2017 CR S4195)</text>
+      <actionDate>2017-08-01</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <identifiers>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <lastName>Johnson</lastName>
+        <bioguideId>J000293</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>WI</state>
+        <firstName>Ron</firstName>
+        <middleName />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <lastName>BALDWIN</lastName>
+        <bioguideId>B001230</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>WI</state>
+        <firstName>TAMMY</firstName>
+        <middleName />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <identifiers>
+          <lisID>179</lisID>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+        </identifiers>
+        <lastName>CARPER</lastName>
+        <bioguideId>C000174</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>DE</state>
+        <firstName>THOMAS</firstName>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <lastName>WYDEN</lastName>
+        <bioguideId>W000779</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>OR</state>
+        <firstName>RON</firstName>
+        <middleName />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <lastName>MARKEY</lastName>
+        <bioguideId>M000133</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MA</state>
+        <firstName>EDWARD</firstName>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <identifiers>
+          <gpoId>8247</gpoId>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <lastName>Boozman</lastName>
+        <bioguideId>B001236</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>AR</state>
+        <firstName>John</firstName>
+        <middleName />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <identifiers>
+          <bioguideId>M001170</bioguideId>
+          <lisID>1820</lisID>
+          <gpoId>8252</gpoId>
+        </identifiers>
+        <lastName>McCaskill</lastName>
+        <bioguideId>M001170</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MO</state>
+        <firstName>Claire</firstName>
+        <middleName />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <identifiers>
+          <lisID>2291</lisID>
+          <gpoId />
+          <bioguideId>T000476</bioguideId>
+        </identifiers>
+        <lastName>Tillis</lastName>
+        <bioguideId>T000476</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>NC</state>
+        <firstName>Thomas</firstName>
+        <middleName>Roland</middleName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <identifiers>
+          <bioguideId>E000295</bioguideId>
+          <lisID>2283</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Ernst</lastName>
+        <bioguideId>E000295</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>IA</state>
+        <firstName>Joni</firstName>
+        <middleName />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+        </identifiers>
+        <lastName>Fischer</lastName>
+        <bioguideId>F000463</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>NE</state>
+        <firstName>Deb</firstName>
+        <middleName />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <identifiers>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+        </identifiers>
+        <lastName>Peters</lastName>
+        <bioguideId>P000595</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MI</state>
+        <firstName>Gary</firstName>
+        <middleName>C.</middleName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <identifiers>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <lastName>FEINSTEIN</lastName>
+        <bioguideId>F000062</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CA</state>
+        <firstName>DIANNE</firstName>
+        <middleName />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A resolution designating July 30, 2017, as "National Whistleblower Appreciation Day".</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A resolution designating July 30, 2017, as "National Whistleblower Appreciation Day".</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

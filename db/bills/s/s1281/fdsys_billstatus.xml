@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <orderedReported>1</orderedReported>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-25</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <committee />
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <createDate>2017-05-26T00:41:40Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-10-04T14:00:36Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-05-25T20:41:26Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>1281</billNumber>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+          <lisID>2302</lisID>
+        </identifiers>
+        <lastName>Hassan</lastName>
+        <bioguideId>H001076</bioguideId>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <state>NH</state>
+        <firstName>Margaret</firstName>
+        <middleName>Wood</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2017-05-25</introducedDate>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>3868</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Committee on Financial Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2017-09-28</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Treasury Innovation Act</latestTitle>
+      </item>
+      <item>
+        <congress>115</congress>
+        <number>2774</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.</text>
+          <actionDate>2017-06-15</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Hack DHS Act</latestTitle>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <title>Hack DHS Act</title>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <updateDate>2017-10-05T13:00:15Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Hack the Department of Homeland Security Act of 2017 or the Hack DHS Act</strong></p> <p>This bill directs the Department of Homeland Security (DHS) to establish a bug bounty pilot program to minimize vulnerabilities to DHS information systems.</p> <p> &quot;Bug bounty program&quot; is a program under which an approved computer security specialist or security researcher is temporarily authorized to identify and report vulnerabilities within DHS information systems in exchange for cash payment.</p> <p>Under such program, DHS shall:</p> <ul> <li>provide monetary compensation for reports of previously unidentified security vulnerabilities within the websites, applications, and other DHS information systems that are accessible to the public; </li> <li> develop an expeditious process by which computer security researchers can register with DHS, submit to a background check, and receive a determination as to approval for program participation; </li> <li> designate mission-critical operations within DHS that should be excluded; </li> <li>consult with the Department of Justice on how to ensure that program participants are protected from prosecution for activities authorized under the program;</li> <li> award competitive contracts to manage the program and for executing the remediation of identified vulnerabilities; and </li> <li> engage interested persons, including commercial sector representatives, about the structure of the program.</li> </ul>]]></text>
+          <lastSummaryUpdateDate>2017-09-20T22:00:27Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-05-25</actionDate>
+          <updateDate>2017-05-25T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <actionDate>2017-10-04</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <firstName>ROB</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <bioguideId>P000449</bioguideId>
+        <lastName>PORTMAN</lastName>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8252</gpoId>
+          <bioguideId>M001170</bioguideId>
+          <lisID>1820</lisID>
+        </identifiers>
+        <firstName>Claire</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <bioguideId>M001170</bioguideId>
+        <lastName>McCaskill</lastName>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <state>MO</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2301</lisID>
+          <gpoId />
+          <bioguideId>H001075</bioguideId>
+        </identifiers>
+        <firstName>Kamala</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <bioguideId>H001075</bioguideId>
+        <lastName>Harris</lastName>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <titles>
+      <item>
+        <title>Hack the Department of Homeland Security Act of 2017</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Hack DHS Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Hack the Department of Homeland Security Act of 2017</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>A bill to establish a bug bounty pilot program within the Department of Homeland Security, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Hack DHS Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

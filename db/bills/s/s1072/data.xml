@@ -1,0 +1,39 @@
+<bill session="115" type="s" number="1072" updated="2017-09-11T03:06:29Z">
+  <state datetime="2017-05-09">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-09"/>
+  </status>
+  <introduced datetime="2017-05-09"/>
+  <titles>
+    <title type="short" as="introduced">Homeless Veterans Prevention Act of 2017</title>
+    <title type="short" as="introduced">Homeless Veterans Prevention Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to improve the provision of services for homeless veterans, and for other purposes.</title>
+    <title type="display">Homeless Veterans Prevention Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="B001135"/>
+  <cosponsors>
+    <cosponsor bioguide_id="H001042" joined="2017-05-09"/>
+    <cosponsor bioguide_id="M001183" joined="2017-05-09"/>
+    <cosponsor bioguide_id="T000464" joined="2017-05-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-09">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="112"/>
+    <bill type="h" session="115" relation="unknown" number="1993"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

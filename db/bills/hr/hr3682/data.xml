@@ -1,0 +1,40 @@
+<bill session="115" type="h" number="3682" updated="2017-09-18T10:45:09Z">
+  <state datetime="2017-09-06">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-06"/>
+  </status>
+  <introduced datetime="2017-09-06"/>
+  <titles>
+    <title type="short" as="introduced">Blue Whales and Blue Skies Act</title>
+    <title type="short" as="introduced">Blue Whales and Blue Skies Act</title>
+    <title type="official" as="introduced">To direct the Director of the Office of National Marine Sanctuaries of the National Oceanic and Atmospheric Administration to create a Blue Whales and Blue Skies Program to reduce air pollution and harmful underwater acoustic impacts and the risk of fatal vessel whale strikes by recognizing voluntary reductions in the speed of vessels transiting the Greater Santa Barbara Channel Region, California, and for other purposes.</title>
+    <title type="display">Blue Whales and Blue Skies Act</title>
+  </titles>
+  <sponsor bioguide_id="L000579"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001285" joined="2017-09-06"/>
+    <cosponsor bioguide_id="C001112" joined="2017-09-06"/>
+    <cosponsor bioguide_id="K000389" joined="2017-09-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-06">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-06" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-09-07">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Coast Guard and Maritime Transportation" code="HSPW07" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

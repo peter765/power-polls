@@ -1,0 +1,69 @@
+<bill session="115" type="h" number="3115" updated="2017-09-11T02:33:46Z">
+  <state datetime="2017-07-26">REPORTED</state>
+  <status>
+    <unknown datetime="2017-07-26"/>
+  </status>
+  <introduced datetime="2017-06-29"/>
+  <titles>
+    <title type="short" as="introduced">Superior National Forest Land Exchange Act of 2017</title>
+    <title type="short" as="introduced">Superior National Forest Land Exchange Act of 2017</title>
+    <title type="short" as="reported to house">Superior National Forest Land Exchange Act of 2017</title>
+    <title type="short" as="reported to house">Superior National Forest Land Exchange Act of 2017</title>
+    <title type="official" as="introduced">To provide for a land exchange involving Federal land in the Superior National Forest in Minnesota acquired by the Secretary of Agriculture through the Weeks Law, and for other purposes.</title>
+    <title type="display">Superior National Forest Land Exchange Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="N000127"/>
+  <cosponsors>
+    <cosponsor bioguide_id="E000294" joined="2017-06-29"/>
+    <cosponsor bioguide_id="G000565" joined="2017-06-29"/>
+    <cosponsor bioguide_id="L000564" joined="2017-06-29"/>
+    <cosponsor bioguide_id="L000587" joined="2017-06-29"/>
+    <cosponsor bioguide_id="M001177" joined="2017-06-29"/>
+    <cosponsor bioguide_id="P000258" joined="2017-06-29"/>
+    <cosponsor bioguide_id="T000470" joined="2017-06-29"/>
+    <cosponsor bioguide_id="W000799" joined="2017-07-12"/>
+    <cosponsor bioguide_id="W000821" joined="2017-06-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-29">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-29" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-07-07">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2017-07-07">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+    <action datetime="2017-07-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2017-07-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-07-26" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 26 - 10.</text>
+    </calendar>
+    <action datetime="2017-09-05">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-287.</text>
+    </action>
+    <calendar datetime="2017-09-05" calendar="Union" number="206">
+      <text>Placed on the Union Calendar, Calendar No. 206.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Reporting, Markup, Referral"/>
+    <committee subcommittee="Federal Lands" code="HSII10" name="House Natural Resources" activity="Hearings, Referral"/>
+    <committee subcommittee="Energy and Mineral Resources" code="HSII06" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>H. Rept. 115-287</report>
+  </committee-reports>
+</bill>

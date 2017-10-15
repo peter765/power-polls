@@ -1,0 +1,53 @@
+<bill session="115" type="h" number="3925" updated="2017-10-08T20:30:14Z">
+  <state datetime="2017-10-03">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-03"/>
+  </status>
+  <introduced datetime="2017-10-03"/>
+  <titles>
+    <title type="short" as="introduced">Patriot Employer Act of 2017</title>
+    <title type="short" as="introduced">Patriot Employer Act of 2017</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide a tax credit to Patriot employers, and for other purposes.</title>
+    <title type="display">Patriot Employer Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="S001145"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001296" joined="2017-10-03"/>
+    <cosponsor bioguide_id="G000559" joined="2017-10-04"/>
+    <cosponsor bioguide_id="V000131" joined="2017-10-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-03">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H7734"/>
+    </action>
+    <action datetime="2017-10-03" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1778"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Disability and paralysis"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Employee hiring"/>
+    <term name="Employment and training programs"/>
+    <term name="Income tax credits"/>
+    <term name="Income tax deductions"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Labor standards"/>
+    <term name="Taxation of foreign income"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

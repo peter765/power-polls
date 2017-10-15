@@ -1,0 +1,68 @@
+<bill session="115" type="h" number="2805" updated="2017-09-11T03:03:04Z">
+  <state datetime="2017-07-26">REPORTED</state>
+  <status>
+    <unknown datetime="2017-07-26"/>
+  </status>
+  <introduced datetime="2017-06-07"/>
+  <titles>
+    <title type="short" as="introduced">Asia-Pacific Economic Cooperation Business Travel Cards Act of 2017</title>
+    <title type="short" as="reported to house">Asia-Pacific Economic Cooperation Business Travel Cards Act of 2017</title>
+    <title type="short" as="reported to house">Asia-Pacific Economic Cooperation Business Travel Cards Act of 2017</title>
+    <title type="official" as="introduced">To permanently authorize the Asia-Pacific Economic Cooperation Business Travel Card Program.</title>
+    <title type="display">Asia-Pacific Economic Cooperation Business Travel Cards Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="R000602"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001091" joined="2017-07-12"/>
+    <cosponsor bioguide_id="D000625" joined="2017-06-07"/>
+    <cosponsor bioguide_id="G000581" joined="2017-06-22"/>
+    <cosponsor bioguide_id="H001064" joined="2017-07-12"/>
+    <cosponsor bioguide_id="L000560" joined="2017-06-07"/>
+    <cosponsor bioguide_id="R000578" joined="2017-06-07"/>
+    <cosponsor bioguide_id="R000487" joined="2017-06-21"/>
+    <cosponsor bioguide_id="W000812" joined="2017-07-24"/>
+    <cosponsor bioguide_id="W000816" joined="2017-07-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-07">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-07" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2017-06-20">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+    </action>
+    <action datetime="2017-07-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-07-26" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-08-08">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-274.</text>
+    </action>
+    <calendar datetime="2017-08-08" calendar="Union" number="194">
+      <text>Placed on the Union Calendar, Calendar No. 194.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHM" name="House Homeland Security" activity="Reporting, Markup, Referral"/>
+    <committee subcommittee="Border and Maritime Security" code="HSHM11" name="House Homeland Security" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="504"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Asia"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Travel and tourism"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-06-07T04:00:00Z" status="Introduced in House">This bill amends the Asia-Pacific Economic Cooperation Business Travel Cards Act of 2011 to permanently authorize the Asia-Pacific Economic Cooperation business travel card program. (The program, which provides persons who are engaged in Asia-Pacific Economic Cooperation business with expedited airport processing, is scheduled to end on September 30, 2018.)</summary>
+  <committee-reports>
+    <report>H. Rept. 115-274</report>
+  </committee-reports>
+</bill>

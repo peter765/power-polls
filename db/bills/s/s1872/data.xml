@@ -1,0 +1,37 @@
+<bill session="115" type="s" number="1872" updated="2017-10-07T04:28:51Z">
+  <state datetime="2017-10-04">REPORTED</state>
+  <status>
+    <unknown datetime="2017-10-04"/>
+  </status>
+  <introduced datetime="2017-09-27"/>
+  <titles>
+    <title type="short" as="introduced">TSA Modernization Act</title>
+    <title type="short" as="introduced">TSA Modernization Act</title>
+    <title type="official" as="introduced">A bill to authorize the programs of the Transportation Security Administration relating to transportation security, and for other purposes.</title>
+    <title type="display">TSA Modernization Act</title>
+  </titles>
+  <sponsor bioguide_id="T000250"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000575" joined="2017-09-27"/>
+    <cosponsor bioguide_id="C000127" joined="2017-09-27"/>
+    <cosponsor bioguide_id="N000032" joined="2017-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-27">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-09-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2017-10-04" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,67 @@
+<bill session="115" type="h" number="3464" updated="2017-10-12T15:00:14Z">
+  <state datetime="2017-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-27"/>
+  </status>
+  <introduced datetime="2017-07-27"/>
+  <titles>
+    <title type="short" as="introduced">Background Check Completion Act of 2017</title>
+    <title type="short" as="introduced">Background Check Completion Act of 2017</title>
+    <title type="official" as="introduced">To prohibit firearms dealers from selling a firearm prior to the completion of a background check.</title>
+    <title type="display">Background Check Completion Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C000537"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001281" joined="2017-07-27"/>
+    <cosponsor bioguide_id="B000574" joined="2017-07-27"/>
+    <cosponsor bioguide_id="B001296" joined="2017-07-27"/>
+    <cosponsor bioguide_id="B001251" joined="2017-07-27"/>
+    <cosponsor bioguide_id="C001066" joined="2017-07-27"/>
+    <cosponsor bioguide_id="C001068" joined="2017-07-27"/>
+    <cosponsor bioguide_id="C000714" joined="2017-07-27"/>
+    <cosponsor bioguide_id="C001038" joined="2017-07-27"/>
+    <cosponsor bioguide_id="C000984" joined="2017-07-27"/>
+    <cosponsor bioguide_id="D000623" joined="2017-07-27"/>
+    <cosponsor bioguide_id="F000455" joined="2017-07-27"/>
+    <cosponsor bioguide_id="H000324" joined="2017-07-27"/>
+    <cosponsor bioguide_id="K000385" joined="2017-07-27"/>
+    <cosponsor bioguide_id="K000380" joined="2017-07-27"/>
+    <cosponsor bioguide_id="L000559" joined="2017-07-27"/>
+    <cosponsor bioguide_id="M000312" joined="2017-07-27"/>
+    <cosponsor bioguide_id="M001137" joined="2017-07-27"/>
+    <cosponsor bioguide_id="N000147" joined="2017-07-27"/>
+    <cosponsor bioguide_id="R000576" joined="2017-10-04"/>
+    <cosponsor bioguide_id="R000515" joined="2017-07-27"/>
+    <cosponsor bioguide_id="S000510" joined="2017-07-27"/>
+    <cosponsor bioguide_id="S001201" joined="2017-10-04"/>
+    <cosponsor bioguide_id="S001193" joined="2017-07-27"/>
+    <cosponsor bioguide_id="Y000062" joined="2017-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-27" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-09-06">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="1923"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Firearms and explosives"/>
+    <term name="Licensing and registrations"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

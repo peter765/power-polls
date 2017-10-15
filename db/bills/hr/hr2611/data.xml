@@ -1,0 +1,96 @@
+<bill session="115" type="h" number="2611" updated="2017-09-19T04:31:30Z">
+  <state datetime="2017-09-12T18:53:06-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-09-12T18:53:06-04:00"/>
+  </status>
+  <introduced datetime="2017-05-23"/>
+  <titles>
+    <title type="short" as="introduced">Little Rock Central High School National Historic Site Boundary Modification Act</title>
+    <title type="short" as="introduced">Little Rock Central High School National Historic Site Boundary Modification Act</title>
+    <title type="short" as="reported to house">Little Rock Central High School National Historic Site Boundary Modification Act</title>
+    <title type="short" as="reported to house">Little Rock Central High School National Historic Site Boundary Modification Act</title>
+    <title type="short" as="passed house">Little Rock Central High School National Historic Site Boundary Modification Act</title>
+    <title type="short" as="passed house">Little Rock Central High School National Historic Site Boundary Modification Act</title>
+    <title type="official" as="introduced">To modify the boundary of the Little Rock Central High School National Historic Site, and for other purposes.</title>
+    <title type="display">Little Rock Central High School National Historic Site Boundary Modification Act</title>
+  </titles>
+  <sponsor bioguide_id="H001072"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001087" joined="2017-06-21"/>
+    <cosponsor bioguide_id="L000287" joined="2017-05-23"/>
+    <cosponsor bioguide_id="W000821" joined="2017-06-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-23">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-23" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-06-07">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2017-07-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-07-26" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2017-09-05">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 115-290.</text>
+    </action>
+    <calendar datetime="2017-09-05" calendar="Union" number="209">
+      <text>Placed on the Union Calendar, Calendar No. 209.</text>
+    </calendar>
+    <action datetime="2017-09-12T13:50:58-04:00">
+      <text>Mr. Bishop (UT) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2017-09-12T13:51:09-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7251-7253" label="consideration"/>
+    </action>
+    <action datetime="2017-09-12T13:51:10-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2611.</text>
+    </action>
+    <action datetime="2017-09-12T14:11:13-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2017-09-12T18:25:24-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7287" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="485" datetime="2017-09-12T18:53:06-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 485).</text>
+      <reference ref="CR H7251" label="text"/>
+    </vote>
+    <action datetime="2017-09-12T18:53:07-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2017-09-13">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Reporting, Markup, Referral"/>
+    <committee subcommittee="Federal Lands" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1202"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-09-05T14:38:49Z" status="Reported to House without amendment">(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Little Rock Central High School National Historic Site Boundary Modification Act
+
+(Sec. 2) This bill adjusts the boundary of the Little Rock Central High School National Historic Site in Arkansas to include the seven residences on South Park Street in Little Rock, which consist of 1.47 acres of specified land.
+
+The Department of the Interior may enter into separate cooperative agreements with the owners of such residences to mark, interpret, improve, restore, and provide technical assistance for the preservation and interpretation of their properties.
+
+Such an agreement must include a provision specifying that no changes or alterations shall be made to the exterior of the properties except by mutual agreement.</summary>
+  <committee-reports>
+    <report>H. Rept. 115-290</report>
+  </committee-reports>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="115" type="hr" number="515" updated="2017-09-14T12:00:10Z">
+  <state datetime="2017-09-13">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-13"/>
+  </status>
+  <introduced datetime="2017-09-13"/>
+  <titles>
+    <title type="official" as="introduced">Establishing the Select Committee on White Supremacy and Domestic Terror Movements.</title>
+    <title type="display">Establishing the Select Committee on White Supremacy and Domestic Terror Movements.</title>
+  </titles>
+  <sponsor bioguide_id="C001038"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001080" joined="2017-09-13"/>
+    <cosponsor bioguide_id="L000580" joined="2017-09-13"/>
+    <cosponsor bioguide_id="P000607" joined="2017-09-13"/>
+    <cosponsor bioguide_id="R000588" joined="2017-09-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-13">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-13" state="REFERRED">
+      <text>Referred to the House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

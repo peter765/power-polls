@@ -1,0 +1,41 @@
+<bill session="115" type="hr" number="521" updated="2017-10-13T07:15:37Z">
+  <state datetime="2017-09-14">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-14"/>
+  </status>
+  <introduced datetime="2017-09-14"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives about a strategy to deploy fifth generation mobile networks (5G networks) and next-generation wireless and wired technologies to promote economic development and digital innovation throughout the United States.</title>
+    <title type="display">Expressing the sense of the House of Representatives about a strategy to deploy fifth generation mobile networks (5G networks) and next-generation wireless and wired technologies to promote economic development and digital innovation throughout the United States.</title>
+  </titles>
+  <sponsor bioguide_id="B001284"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000624" joined="2017-09-14"/>
+    <cosponsor bioguide_id="W000820" joined="2017-10-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-14">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="115" relation="identical" number="242"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Consumer affairs"/>
+    <term name="Economic development"/>
+    <term name="Internet and video services"/>
+    <term name="Rural conditions and development"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-09-20T18:57:54Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Sports and Recreation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Athletes</name>
+          </item>
+          <item>
+            <name>Museums, exhibitions, cultural centers</name>
+          </item>
+          <item>
+            <name>Professional sports</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Oversight and Government Reform Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-07-19T14:04:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Urging Tom Flores be inducted to the Pro Football Hall of Fame.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Urging Tom Flores be inducted to the Pro Football Hall of Fame.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>FL</state>
+        <bioguideId>S001200</bioguideId>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <middleName />
+        <district>9</district>
+        <firstName>Darren</firstName>
+        <lastName>Soto</lastName>
+        <identifiers>
+          <lisID>2319</lisID>
+          <bioguideId>S001200</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2017-07-28</actionDate>
+      <text>Sponsor introductory remarks on measure. (CR H6525)</text>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <title>Urging Tom Flores be inducted to the Pro Football Hall of Fame.</title>
+    <createDate>2017-07-20T03:11:30Z</createDate>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>R000599</bioguideId>
+        <district>36</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Ruiz</lastName>
+        <identifiers>
+          <bioguideId>R000599</bioguideId>
+          <gpoId />
+          <lisID>2109</lisID>
+        </identifiers>
+        <firstName>Raul</firstName>
+        <state>CA</state>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001059</bioguideId>
+        <district>16</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Costa</lastName>
+        <identifiers>
+          <lisID>1774</lisID>
+          <gpoId>7825</gpoId>
+          <bioguideId>C001059</bioguideId>
+        </identifiers>
+        <firstName>Jim</firstName>
+        <state>CA</state>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>G000581</bioguideId>
+        <district>15</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Gonzalez</lastName>
+        <identifiers>
+          <lisID>2349</lisID>
+          <bioguideId>G000581</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Vicente</firstName>
+        <state>TX</state>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>T000474</bioguideId>
+        <district>35</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Torres</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000474</bioguideId>
+          <lisID>2231</lisID>
+        </identifiers>
+        <firstName>Norma</firstName>
+        <state>CA</state>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>S001156</bioguideId>
+        <district>38</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SANCHEZ</lastName>
+        <identifiers>
+          <bioguideId>S001156</bioguideId>
+          <gpoId>7844</gpoId>
+          <lisID>1757</lisID>
+        </identifiers>
+        <firstName>LINDA</firstName>
+        <state>CA</state>
+        <middleName>T.</middleName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>V000081</bioguideId>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>VELAZQUEZ</lastName>
+        <identifiers>
+          <lisID>1184</lisID>
+          <bioguideId>V000081</bioguideId>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <firstName>NYDIA</firstName>
+        <state>NY</state>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>E000297</bioguideId>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Espaillat</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2342</lisID>
+          <bioguideId>E000297</bioguideId>
+        </identifiers>
+        <firstName>Adriano</firstName>
+        <state>NY</state>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001091</bioguideId>
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Castro</lastName>
+        <identifiers>
+          <lisID>2163</lisID>
+          <bioguideId>C001091</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Joaquin</firstName>
+        <state>TX</state>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>S001177</bioguideId>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Sablan</lastName>
+        <identifiers>
+          <lisID>1962</lisID>
+          <bioguideId>S001177</bioguideId>
+          <gpoId>8018</gpoId>
+        </identifiers>
+        <firstName>Gregorio</firstName>
+        <state>MP</state>
+        <middleName>Kilili Camacho</middleName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>G000535</bioguideId>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>GUTIERREZ</lastName>
+        <identifiers>
+          <lisID>478</lisID>
+          <bioguideId>G000535</bioguideId>
+          <gpoId>7924</gpoId>
+        </identifiers>
+        <firstName>LUIS</firstName>
+        <state>IL</state>
+        <middleName>V.</middleName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001112</bioguideId>
+        <district>24</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Carbajal, Salud O. [D-CA-24]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Carbajal</lastName>
+        <identifiers>
+          <lisID>2310</lisID>
+          <gpoId />
+          <bioguideId>C001112</bioguideId>
+        </identifiers>
+        <firstName>Salud</firstName>
+        <state>CA</state>
+        <middleName>O.</middleName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001110</bioguideId>
+        <district>46</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Correa</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2312</lisID>
+          <bioguideId>C001110</bioguideId>
+        </identifiers>
+        <firstName>J.</firstName>
+        <state>CA</state>
+        <middleName>Luis</middleName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>V000130</bioguideId>
+        <district>51</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Vargas</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>V000130</bioguideId>
+          <lisID>2112</lisID>
+        </identifiers>
+        <firstName>Juan</firstName>
+        <state>CA</state>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>G000551</bioguideId>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Grijalva</lastName>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <firstName>Raul</firstName>
+        <state>AZ</state>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>G000574</bioguideId>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Gallego</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2226</lisID>
+          <bioguideId>G000574</bioguideId>
+        </identifiers>
+        <firstName>Ruben</firstName>
+        <state>AZ</state>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>L000580</bioguideId>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lujan Grisham</lastName>
+        <identifiers>
+          <lisID>2146</lisID>
+          <bioguideId>L000580</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Michelle</firstName>
+        <state>NM</state>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001097</bioguideId>
+        <district>29</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cardenas</lastName>
+        <identifiers>
+          <lisID>2107</lisID>
+          <gpoId />
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <firstName>Tony</firstName>
+        <state>CA</state>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>N000179</bioguideId>
+        <district>32</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>NAPOLITANO</lastName>
+        <identifiers>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+        </identifiers>
+        <firstName>GRACE</firstName>
+        <state>CA</state>
+        <middleName>F.</middleName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>V000132</bioguideId>
+        <district>34</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Vela</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>V000132</bioguideId>
+          <lisID>2167</lisID>
+        </identifiers>
+        <firstName>Filemon</firstName>
+        <state>TX</state>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>R000486</bioguideId>
+        <district>40</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <identifiers>
+          <gpoId>7839</gpoId>
+          <bioguideId>R000486</bioguideId>
+          <lisID>997</lisID>
+        </identifiers>
+        <firstName>LUCILLE</firstName>
+        <state>CA</state>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>G000585</bioguideId>
+        <district>34</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gomez, Jimmy [D-CA-34]</fullName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Gomez</lastName>
+        <identifiers>
+          <lisID>2362</lisID>
+          <bioguideId>G000585</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Jimmy</firstName>
+        <state>CA</state>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>A000371</bioguideId>
+        <district>31</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Aguilar, Pete [D-CA-31]</fullName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Aguilar</lastName>
+        <identifiers>
+          <bioguideId>A000371</bioguideId>
+          <gpoId />
+          <lisID>2229</lisID>
+        </identifiers>
+        <firstName>Pete</firstName>
+        <state>CA</state>
+        <middleName />
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText />
+    <version>1.0.0</version>
+    <introducedDate>2017-07-19</introducedDate>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <notes />
+    <cboCostEstimates />
+    <billType>HRES</billType>
+    <amendments />
+    <billNumber>461</billNumber>
+    <calendarNumbers />
+    <policyArea>
+      <name>Sports and Recreation</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <committee />
+        <text>Sponsor introductory remarks on measure. (CR H6525)</text>
+        <type>IntroReferral</type>
+        <links>
+          <link>
+            <name>H6525</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6525</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>B00100</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

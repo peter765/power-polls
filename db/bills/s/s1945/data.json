@@ -1,0 +1,279 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6366-6367", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1945-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001277", 
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "CT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001288", 
+      "district": null, 
+      "name": "Booker, Cory A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "NJ", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000141", 
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "MD", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000174", 
+      "district": null, 
+      "name": "Carper, Thomas R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "DE", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000563", 
+      "district": null, 
+      "name": "Durbin, Richard J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "IL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000457", 
+      "district": null, 
+      "name": "Franken, Al", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "MN", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000555", 
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "NY", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001075", 
+      "district": null, 
+      "name": "Harris, Kamala D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "CA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001076", 
+      "district": null, 
+      "name": "Hassan, Margaret Wood", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "NH", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001042", 
+      "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "HI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000384", 
+      "district": null, 
+      "name": "Kaine, Tim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "VA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000133", 
+      "district": null, 
+      "name": "Markey, Edward J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "MA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001111", 
+      "district": null, 
+      "name": "Murray, Patty", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "WA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000122", 
+      "district": null, 
+      "name": "Reed, Jack", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "RI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000033", 
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "VT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000128", 
+      "district": null, 
+      "name": "Van Hollen, Chris", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "MD", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000817", 
+      "district": null, 
+      "name": "Warren, Elizabeth", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "MA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000802", 
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "RI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-05", 
+  "number": "1945", 
+  "official_title": "A bill to regulate large capacity ammunition feeding devices.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Keep Americans Safe Act", 
+  "sponsor": {
+    "bioguide_id": "M000639", 
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-05", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Crime and law enforcement", 
+    "Firearms and explosives", 
+    "Law enforcement administration and funding", 
+    "Retail and wholesale trades", 
+    "Trade restrictions"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Keep Americans Safe Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to regulate large capacity ammunition feeding devices.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Keep Americans Safe Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-12T17:15:12Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1945.xml"
+}

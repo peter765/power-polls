@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="3644" updated="2017-09-22T07:12:29Z">
+  <state datetime="2017-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-08-04"/>
+  </status>
+  <introduced datetime="2017-08-04"/>
+  <titles>
+    <title type="short" as="introduced">Drone Operator Safety Act of 2017</title>
+    <title type="short" as="introduced">Drone Operator Safety Act of 2017</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to provide for the punishment of unsafe operation of unmanned aircraft, and for other purposes.</title>
+    <title type="display">Drone Operator Safety Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="L000559"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-08-04">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-08-04" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-09-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="1755"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

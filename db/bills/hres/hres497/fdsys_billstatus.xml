@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <notes />
+    <originChamber>House</originChamber>
+    <billNumber>497</billNumber>
+    <constitutionalAuthorityStatementText />
+    <latestAction>
+      <text>Referred to the House Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2017-08-18</actionDate>
+    </latestAction>
+    <calendarNumbers />
+    <updateDate>2017-09-27T07:15:21Z</updateDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <introducedDate>2017-08-18</introducedDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Urging the Vice President and the Cabinet to fulfill their duties pursuant to Section 4 of the 25th Amendment to the U.S. Constitution.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Urging the Vice President and the Cabinet to fulfill their duties pursuant to Section 4 of the 25th Amendment to the U.S. Constitution.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-08-18</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-08-18</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-08-18</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <state>CA</state>
+        <district>19</district>
+        <firstName>ZOE</firstName>
+        <lastName>LOFGREN</lastName>
+        <bioguideId>L000397</bioguideId>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+          <lisID>701</lisID>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <committeeReports />
+    <relatedBills />
+    <createDate>2017-08-19T03:11:31Z</createDate>
+    <cosponsors>
+      <item>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-08-22</sponsorshipDate>
+        <district>9</district>
+        <identifiers>
+          <gpoId>8165</gpoId>
+          <bioguideId>G000553</bioguideId>
+          <lisID>1803</lisID>
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <firstName>Al</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Green</lastName>
+        <bioguideId>G000553</bioguideId>
+      </item>
+      <item>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-08-22</sponsorshipDate>
+        <district>4</district>
+        <identifiers>
+          <lisID>478</lisID>
+          <gpoId>7924</gpoId>
+          <bioguideId>G000535</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <firstName>LUIS</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>V.</middleName>
+        <lastName>GUTIERREZ</lastName>
+        <bioguideId>G000535</bioguideId>
+      </item>
+      <item>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-08-22</sponsorshipDate>
+        <district>7</district>
+        <identifiers>
+          <gpoId>8073</gpoId>
+          <lisID>1184</lisID>
+          <bioguideId>V000081</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <firstName>NYDIA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <lastName>VELAZQUEZ</lastName>
+        <bioguideId>V000081</bioguideId>
+      </item>
+      <item>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-08-22</sponsorshipDate>
+        <district>6</district>
+        <identifiers>
+          <lisID>1814</lisID>
+          <bioguideId>M001163</bioguideId>
+          <gpoId>7810</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <firstName>Doris</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>O.</middleName>
+        <lastName>Matsui</lastName>
+        <bioguideId>M001163</bioguideId>
+      </item>
+      <item>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-08-25</sponsorshipDate>
+        <district>14</district>
+        <identifiers>
+          <lisID>1890</lisID>
+          <gpoId>7817</gpoId>
+          <bioguideId>S001175</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <firstName>Jackie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Speier</lastName>
+        <bioguideId>S001175</bioguideId>
+      </item>
+      <item>
+        <state>HI</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-08-25</sponsorshipDate>
+        <district>1</district>
+        <identifiers>
+          <bioguideId>H001050</bioguideId>
+          <gpoId>7912</gpoId>
+          <lisID>2010</lisID>
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Hanabusa, Colleen [D-HI-1]</fullName>
+        <firstName>Colleen</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Hanabusa</lastName>
+        <bioguideId>H001050</bioguideId>
+      </item>
+      <item>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-08-25</sponsorshipDate>
+        <district>9</district>
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Cohen</lastName>
+        <bioguideId>C001068</bioguideId>
+      </item>
+      <item>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-08-25</sponsorshipDate>
+        <district>18</district>
+        <identifiers>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <firstName>SHEILA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>JACKSON LEE</lastName>
+        <bioguideId>J000032</bioguideId>
+      </item>
+      <item>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-08-25</sponsorshipDate>
+        <district>24</district>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+          <lisID>2004</lisID>
+          <gpoId>7889</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <firstName>Frederica</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>S.</middleName>
+        <lastName>Wilson</lastName>
+        <bioguideId>W000808</bioguideId>
+      </item>
+      <item>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+          <gpoId />
+          <lisID>2101</lisID>
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <firstName>Jared</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Huffman</lastName>
+        <bioguideId>H001068</bioguideId>
+      </item>
+    </cosponsors>
+    <title>Urging the Vice President and the Cabinet to fulfill their duties pursuant to Section 4 of the 25th Amendment to the U.S. Constitution.</title>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Congressional-executive branch relations</name>
+          </item>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <amendments />
+    <billType>HRES</billType>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-08-18T14:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

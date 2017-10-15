@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <type>SCONRES</type>
+        <number>3</number>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.</latestTitle>
+        <latestAction>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionDate>2017-01-13</actionDate>
+          <actionTime>15:32:13</actionTime>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+      <item>
+        <type>S</type>
+        <number>84</number>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A bill to provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces.</latestTitle>
+        <latestAction>
+          <text>Became Public Law No: 115-2.</text>
+          <actionDate>2017-01-20</actionDate>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <billType>HRES</billType>
+    <actions>
+      <actionTypeCounts>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <generalDebate>1</generalDebate>
+        <reportedToHouse>1</reportedToHouse>
+        <provisionsOfARule>1</provisionsOfARule>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+      </actionTypeCounts>
+      <item>
+        <actionTime>10:54:30</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <actionDate>2017-01-13</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionTime>10:54:28</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 235 - 188 (Roll no. 56). (text: CR H477)</text>
+        <committee />
+        <actionCode>H37100</actionCode>
+        <actionDate>2017-01-13</actionDate>
+        <links>
+          <link>
+            <name>H477</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H477</url>
+          </link>
+          <link>
+            <name>Roll no. 56</name>
+            <url>http://clerk.house.gov/evs/2017/roll056.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionTime>10:54:28</actionTime>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 235 - 188 (Roll no. 56).(text: CR H477)</text>
+        <committee />
+        <actionCode>8000</actionCode>
+        <actionDate>2017-01-13</actionDate>
+        <links>
+          <link>
+            <name>H477</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H477</url>
+          </link>
+          <link>
+            <name>Roll no. 56</name>
+            <url>http://clerk.house.gov/evs/2017/roll056.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionTime>10:48:03</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 234 - 179 (Roll no. 55). (consideration: CR H489-490)</text>
+        <committee />
+        <actionCode>H35000</actionCode>
+        <actionDate>2017-01-13</actionDate>
+        <links>
+          <link>
+            <name>H489-490</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H489-490</url>
+          </link>
+          <link>
+            <name>Roll no. 55</name>
+            <url>http://clerk.house.gov/evs/2017/roll055.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionTime>09:19:52</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 48.</text>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-01-13</actionDate>
+        <links>
+          <link>
+            <name>H. Res. 48</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/48</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionTime>09:16:23</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Considered as privileged matter. (consideration: CR H477-490)</text>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <actionDate>2017-01-13</actionDate>
+        <links>
+          <link>
+            <name>H477-490</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H477-490</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Calendars</type>
+        <text>Placed on the House Calendar, Calendar No. 4.</text>
+        <committee />
+        <actionCode>H12420</actionCode>
+        <actionDate>2017-01-12</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionTime>20:27:44</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>The resolution provides for two hours of general debate on S. Con. Res. 3 under a structured rule, and ninety minutes of debate on S.84. The resolution also provides for one motion to commit on S. 84.</text>
+        <committee />
+        <actionCode>H12700</actionCode>
+        <actionDate>2017-01-12</actionDate>
+        <links>
+          <link>
+            <name>S. 84</name>
+            <url>https://www.congress.gov/bill/115th-congress/senate-bill/84</url>
+          </link>
+          <link>
+            <name>S. Con. Res. 3</name>
+            <url>https://www.congress.gov/bill/115th-congress/senate-concurrent-resolution/3</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-4, by Mr. Woodall.</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>H12100</actionCode>
+        <actionDate>2017-01-12</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 115-4</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/4</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-4, by Mr. Woodall.</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>5000</actionCode>
+        <actionDate>2017-01-12</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 115-4</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/4</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-01-12</actionDate>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-12T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2017-01-12</actionDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[Sets forth the rule for consideration of the concurrent resolution (S. Con. Res. 3) setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026, and providing for consideration of the bill (S. 84) to provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces.]]></text>
+          <lastSummaryUpdateDate>2017-01-13T09:02:35Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-01-12</introducedDate>
+    <updateDate>2017-08-10T13:23:02Z</updateDate>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>Rob</firstName>
+        <lastName>Woodall</lastName>
+        <byRequestType />
+        <middleName />
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>W000810</bioguideId>
+          <gpoId>7904</gpoId>
+          <lisID>2008</lisID>
+        </identifiers>
+        <party>R</party>
+        <district>7</district>
+        <bioguideId>W000810</bioguideId>
+        <fullName>Rep. Woodall, Rob [R-GA-7]</fullName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <title>Providing for consideration of the concurrent resolution (S. Con. Res. 3) setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026, and providing for consideration of the bill (S. 84) to provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces.</title>
+    <createDate>2017-01-13T04:55:29Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2017-01-13T01:27:33Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <laws />
+    <constitutionalAuthorityStatementText />
+    <billNumber>48</billNumber>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>56</rollNumber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll056.xml</url>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <date>2017-01-13T15:54:28Z</date>
+      </recordedVote>
+      <recordedVote>
+        <rollNumber>55</rollNumber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll055.xml</url>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <date>2017-01-13T15:48:03Z</date>
+      </recordedVote>
+    </recordedVotes>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <calendarNumbers>
+      <item>
+        <calendar>H00004</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <title>Providing for consideration of the concurrent resolution (S. Con. Res. 3) setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026, and providing for consideration of the bill (S. 84) to provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Providing for consideration of the concurrent resolution (S. Con. Res. 3) setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026, and providing for consideration of the bill (S. 84) to provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-4</citation>
+      </committeeReport>
+    </committeeReports>
+    <latestAction>
+      <actionTime>10:54:30</actionTime>
+      <actionDate>2017-01-13</actionDate>
+      <links />
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

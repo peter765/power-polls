@@ -1,0 +1,41 @@
+<bill session="115" type="h" number="3666" updated="2017-10-11T07:16:32Z">
+  <state datetime="2017-08-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-08-25"/>
+  </status>
+  <introduced datetime="2017-08-25"/>
+  <titles>
+    <title type="short" as="introduced">Fort McClellan Health Registry Act</title>
+    <title type="short" as="introduced">Fort McClellan Health Registry Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to establish a registry of certain veterans who were stationed at Fort McClellan, Alabama, and for other purposes.</title>
+    <title type="display">Fort McClellan Health Registry Act</title>
+  </titles>
+  <sponsor bioguide_id="T000469"/>
+  <cosponsors>
+    <cosponsor bioguide_id="L000559" joined="2017-09-12"/>
+    <cosponsor bioguide_id="L000560" joined="2017-10-06"/>
+    <cosponsor bioguide_id="M001197" joined="2017-10-10"/>
+    <cosponsor bioguide_id="O000170" joined="2017-08-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-08-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-08-25" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-08-25">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="115" type="h" number="3169" updated="2017-09-14T07:15:36Z">
+  <state datetime="2017-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-10"/>
+  </status>
+  <introduced datetime="2017-07-10"/>
+  <titles>
+    <title type="short" as="introduced">VA Acquisition Workforce Improvement and Streamlining Act</title>
+    <title type="short" as="introduced">VA Acquisition Workforce Improvement and Streamlining Act</title>
+    <title type="official" as="introduced">To improve the hiring, training, and efficiency of acquisition personnel and organizations of the Department of Veterans Affairs, and for other purposes.</title>
+    <title type="display">VA Acquisition Workforce Improvement and Streamlining Act</title>
+  </titles>
+  <sponsor bioguide_id="P000611"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001301" joined="2017-07-10"/>
+    <cosponsor bioguide_id="C001077" joined="2017-08-01"/>
+    <cosponsor bioguide_id="K000382" joined="2017-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-10">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-10" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-10">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-10">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

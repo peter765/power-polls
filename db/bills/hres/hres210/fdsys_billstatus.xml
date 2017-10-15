@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <cosponsors />
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <introducedDate>2017-03-20</introducedDate>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>H00023</calendar>
+      </item>
+    </calendarNumbers>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2017-03-21</actionDate>
+      <links />
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>16:46:22</actionTime>
+    </latestAction>
+    <billType>HRES</billType>
+    <recordedVotes>
+      <recordedVote>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>180</rollNumber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll180.xml</url>
+        <date>2017-03-21T20:46:20Z</date>
+      </recordedVote>
+      <recordedVote>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>179</rollNumber>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll179.xml</url>
+        <date>2017-03-21T20:38:48Z</date>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2017-03-20T23:32:26Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <provisionsOfARule>1</provisionsOfARule>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <considerationByHouse>2</considerationByHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <generalDebate>2</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <reportedToHouse>1</reportedToHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee />
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionTime>16:46:22</actionTime>
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H2260</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2260</url>
+          </link>
+          <link>
+            <name>Roll no. 180</name>
+            <url>http://clerk.house.gov/evs/2017/roll180.xml</url>
+          </link>
+        </links>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 233 - 186 (Roll no. 180). (text of measure as passed: CR H2260)</text>
+        <type>Floor</type>
+        <actionTime>16:46:20</actionTime>
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H2260</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2260</url>
+          </link>
+          <link>
+            <name>Roll no. 180</name>
+            <url>http://clerk.house.gov/evs/2017/roll180.xml</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 233 - 186 (Roll no. 180).(text of measure as passed: CR H2260)</text>
+        <type>Floor</type>
+        <actionTime>16:46:20</actionTime>
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H2260-2267</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2260-2267</url>
+          </link>
+          <link>
+            <name>H2275</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2275</url>
+          </link>
+          <link>
+            <name>Roll no. 179</name>
+            <url>http://clerk.house.gov/evs/2017/roll179.xml</url>
+          </link>
+        </links>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 233 - 186 (Roll no. 179). (consideration: CR H2260-2267, H2275)</text>
+        <type>Floor</type>
+        <actionTime>16:38:48</actionTime>
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H2275-2276</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2275-2276</url>
+          </link>
+        </links>
+        <text>Considered as unfinished business. (consideration: CR H2275-2276)</text>
+        <type>Floor</type>
+        <actionTime>16:13:18</actionTime>
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H.Res. 210</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/210</url>
+          </link>
+        </links>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 210, the Chair put the question on ordering the previous question and by voice vote, announced that the ayes had prevailed. Mr. Polis demanded the yeas and nays and the Chair postponed further proceedings on the previous question until a time to be announced.</text>
+        <type>Floor</type>
+        <actionTime>14:40:21</actionTime>
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H. Res. 210</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/210</url>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 210.</text>
+        <type>Floor</type>
+        <actionTime>13:52:57</actionTime>
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H2260-2267</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2260-2267</url>
+          </link>
+        </links>
+        <text>Considered as privileged matter. (consideration: CR H2260-2267)</text>
+        <type>Floor</type>
+        <actionTime>13:52:26</actionTime>
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Placed on the House Calendar, Calendar No. 23.</text>
+        <type>Calendars</type>
+        <actionDate>2017-03-20</actionDate>
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H.R. 1101</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1101</url>
+          </link>
+        </links>
+        <text>Rule provides for consideration of H.R. 1101 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.</text>
+        <type>Floor</type>
+        <actionTime>19:32:27</actionTime>
+        <actionDate>2017-03-20</actionDate>
+        <actionCode>H12700</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-51</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/51</url>
+          </link>
+        </links>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-51, by Mr. Byrne.</text>
+        <type>Committee</type>
+        <actionDate>2017-03-20</actionDate>
+        <actionCode>H12100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-51</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/51</url>
+          </link>
+        </links>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-51, by Mr. Byrne.</text>
+        <type>Committee</type>
+        <actionDate>2017-03-20</actionDate>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-20</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <title>Providing for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees.</title>
+    <createDate>2017-03-21T04:51:58Z</createDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees.</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <notes />
+    <constitutionalAuthorityStatementText />
+    <updateDate>2017-08-10T13:23:05Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDate>2017-03-20</actionDate>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees.]]></text>
+          <lastSummaryUpdateDate>2017-03-21T08:03:52Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-20T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <firstName>Bradley</firstName>
+        <district>1</district>
+        <bioguideId>B001289</bioguideId>
+        <lastName>Byrne</lastName>
+        <party>R</party>
+        <state>AL</state>
+        <middleName />
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>B001289</bioguideId>
+          <lisID>2197</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-51</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <number>1101</number>
+        <latestTitle>Small Business Health Fairness Act of 2017</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-03-23</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billNumber>210</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,42 @@
+<bill session="115" type="h" number="3526" updated="2017-09-11T02:56:12Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Border Protection Fund Act</title>
+    <title type="short" as="introduced">Border Protection Fund Act</title>
+    <title type="official" as="introduced">To amend title 28, United States Code, to allow the use of the Department of Justice Asset Forfeiture Fund to finance United States border security measures, and for other purposes.</title>
+    <title type="display">Border Protection Fund Act</title>
+  </titles>
+  <sponsor bioguide_id="R000598"/>
+  <cosponsors>
+    <cosponsor bioguide_id="P000258" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-09-06">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+    <action datetime="2017-09-06">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

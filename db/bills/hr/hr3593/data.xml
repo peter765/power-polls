@@ -1,0 +1,44 @@
+<bill session="115" type="h" number="3593" updated="2017-09-11T02:56:25Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Securing Our Borders and Wilderness Act</title>
+    <title type="short" as="introduced">Securing Our Borders and Wilderness Act</title>
+    <title type="official" as="introduced">To amend the Wilderness Act to authorize U.S. Customs and Border Protection to conduct certain activities to secure the international land borders of the United States, and for other purposes.</title>
+    <title type="display">Securing Our Borders and Wilderness Act</title>
+  </titles>
+  <sponsor bioguide_id="J000299"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-28">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-08-15">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2017-08-29">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee subcommittee="Border and Maritime Security" code="HSHM11" name="House Homeland Security" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Federal Lands" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

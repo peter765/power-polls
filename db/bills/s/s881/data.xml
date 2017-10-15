@@ -1,0 +1,53 @@
+<bill session="115" type="s" number="881" updated="2017-09-11T02:59:28Z">
+  <state datetime="2017-04-06">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-06"/>
+  </status>
+  <introduced datetime="2017-04-06"/>
+  <titles>
+    <title type="short" as="introduced">21st Century Glass-Steagall Act of 2017</title>
+    <title type="short" as="introduced">21st Century Glass-Steagall Act of 2017</title>
+    <title type="official" as="introduced">A bill to reduce risks to the financial system by limiting banks' ability to engage in certain risky activities and limiting conflicts of interest, to reinstate certain Glass-Steagall Act protections that were repealed by the Gramm-Leach-Bliley Act, and for other purposes.</title>
+    <title type="display">21st Century Glass-Steagall Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="W000817"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001230" joined="2017-05-03"/>
+    <cosponsor bioguide_id="C000127" joined="2017-04-06"/>
+    <cosponsor bioguide_id="G000555" joined="2017-04-07"/>
+    <cosponsor bioguide_id="K000383" joined="2017-04-06"/>
+    <cosponsor bioguide_id="M000133" joined="2017-05-08"/>
+    <cosponsor bioguide_id="M000303" joined="2017-04-06"/>
+    <cosponsor bioguide_id="M001176" joined="2017-05-03"/>
+    <cosponsor bioguide_id="S000033" joined="2017-04-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-06">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-04-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2017-05-18">
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Hearings, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2585"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Bankruptcy"/>
+    <term name="Congressional oversight"/>
+    <term name="Contracts and agency"/>
+    <term name="Financial services and investments"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

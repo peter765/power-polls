@@ -1,0 +1,44 @@
+<bill session="115" type="h" number="3250" updated="2017-09-11T02:54:49Z">
+  <state datetime="2017-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-14"/>
+  </status>
+  <introduced datetime="2017-07-14"/>
+  <titles>
+    <title type="short" as="introduced">9/11 Immigrant Worker Freedom Act</title>
+    <title type="short" as="introduced">9/11 Immigrant Worker Freedom Act</title>
+    <title type="official" as="introduced">To provide aliens who performed rescue, recovery, demolition, debris cleanup, or other related services after the September 11 terrorist attacks an opportunity to adjust their status to that of an alien lawfully admitted for permanent residence, and for other purposes.</title>
+    <title type="display">9/11 Immigrant Worker Freedom Act</title>
+  </titles>
+  <sponsor bioguide_id="C001038"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001067" joined="2017-07-14"/>
+    <cosponsor bioguide_id="E000297" joined="2017-07-14"/>
+    <cosponsor bioguide_id="J000294" joined="2017-07-14"/>
+    <cosponsor bioguide_id="N000002" joined="2017-07-14"/>
+    <cosponsor bioguide_id="S000248" joined="2017-07-14"/>
+    <cosponsor bioguide_id="T000469" joined="2017-07-14"/>
+    <cosponsor bioguide_id="V000081" joined="2017-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-14">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-14" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-08-17">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

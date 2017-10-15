@@ -1,0 +1,74 @@
+<bill session="115" type="h" number="2083" updated="2017-09-12T19:45:09Z">
+  <state datetime="2017-07-26">REPORTED</state>
+  <status>
+    <unknown datetime="2017-07-26"/>
+  </status>
+  <introduced datetime="2017-04-08"/>
+  <titles>
+    <title type="short" as="introduced">Endangered Salmon and Fisheries Predation Prevention Act</title>
+    <title type="short" as="introduced">Endangered Salmon and Fisheries Predation Prevention Act</title>
+    <title type="short" as="reported to house">Endangered Salmon and Fisheries Predation Prevention Act</title>
+    <title type="short" as="reported to house">Endangered Salmon and Fisheries Predation Prevention Act</title>
+    <title type="official" as="introduced">To amend the Marine Mammal Protection Act of 1972 to reduce predation on endangered Columbia River salmon and other nonlisted species, and for other purposes.</title>
+    <title type="display">Endangered Salmon and Fisheries Predation Prevention Act</title>
+  </titles>
+  <sponsor bioguide_id="H001056"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001159" joined="2017-07-20"/>
+    <cosponsor bioguide_id="N000189" joined="2017-05-16"/>
+    <cosponsor bioguide_id="S001180" joined="2017-04-08"/>
+    <cosponsor bioguide_id="Y000033" joined="2017-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-08">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-08" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-04-24">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+    <action datetime="2017-06-08">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2017-07-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-07-26" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 21 - 14.</text>
+    </calendar>
+    <action datetime="2017-09-05">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 115-289.</text>
+    </action>
+    <calendar datetime="2017-09-05" calendar="Union" number="208">
+      <text>Placed on the Union Calendar, Calendar No. 208.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Reporting, Markup, Referral"/>
+    <committee subcommittee="Water, Power and Oceans" code="HSII13" name="House Natural Resources" activity="Hearings, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1702"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Fishes"/>
+    <term name="Idaho"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Lakes and rivers"/>
+    <term name="Licensing and registrations"/>
+    <term name="Mammals"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Oregon"/>
+    <term name="Pacific Ocean"/>
+    <term name="Washington State"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>H. Rept. 115-289</report>
+  </committee-reports>
+</bill>

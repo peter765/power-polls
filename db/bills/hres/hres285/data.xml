@@ -1,0 +1,46 @@
+<bill session="115" type="hr" number="285" updated="2017-09-13T16:15:12Z">
+  <state datetime="2017-04-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-26"/>
+  </status>
+  <introduced datetime="2017-04-26"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the United States House of Representatives that Congress and the President should empower the creation of police and community alliances designed to enhance and improve communication and collaboration between members of the law enforcement community and the public they serve.</title>
+    <title type="display">Expressing the sense of the United States House of Representatives that Congress and the President should empower the creation of police and community alliances designed to enhance and improve communication and collaboration between members of the law enforcement community and the public they serve.</title>
+  </titles>
+  <sponsor bioguide_id="T000477"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C000984" joined="2017-05-17"/>
+    <cosponsor bioguide_id="E000296" joined="2017-06-21"/>
+    <cosponsor bioguide_id="O000171" joined="2017-04-26"/>
+    <cosponsor bioguide_id="P000034" joined="2017-06-13"/>
+    <cosponsor bioguide_id="P000096" joined="2017-04-26"/>
+    <cosponsor bioguide_id="R000578" joined="2017-04-26"/>
+    <cosponsor bioguide_id="T000463" joined="2017-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-26" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-05-02">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Community life and organization"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-04-26T04:00:00Z" status="Introduced in House">Expresses the sense of Congress that Congress and the President should create police and community alliances to enhance and improve communication and collaboration between the law enforcement community and the public.</summary>
+  <committee-reports/>
+</bill>

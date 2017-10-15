@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <district>27</district>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <bioguideId>C001080</bioguideId>
+        <lastName>Chu</lastName>
+        <firstName>Judy</firstName>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <byRequestType />
+        <middleName />
+        <state>CA</state>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <actionDate>2017-05-18</actionDate>
+      <links />
+    </latestAction>
+    <constitutionalAuthorityStatementText />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A resolution recognizing the significance of May 2017 as Asian/Pacific American Heritage Month and as an important time to celebrate the significant contributions of Asian Americans and Pacific Islanders to the history of the United States.</latestTitle>
+        <type>SRES</type>
+        <number>183</number>
+        <latestAction>
+          <actionDate>2017-05-25</actionDate>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3225; text as passed Senate: CR S3224-3225)</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-05-18</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-05-18</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-05-18</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-18T14:01:15Z</date>
+            </item>
+          </activities>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-09-13T22:15:22Z</updateDate>
+    <cboCostEstimates />
+    <createDate>2017-05-19T03:11:37Z</createDate>
+    <billType>HRES</billType>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>Grace</firstName>
+        <bioguideId>M001188</bioguideId>
+        <middleName />
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001188</bioguideId>
+          <lisID>2148</lisID>
+        </identifiers>
+        <lastName>Meng</lastName>
+        <district>6</district>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>Madeleine</firstName>
+        <bioguideId>B001245</bioguideId>
+        <middleName>Z.</middleName>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <identifiers>
+          <bioguideId>B001245</bioguideId>
+          <lisID>1723</lisID>
+          <gpoId>7911</gpoId>
+        </identifiers>
+        <lastName>Bordallo</lastName>
+        <district>0</district>
+        <state>GU</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>Ted</firstName>
+        <bioguideId>L000582</bioguideId>
+        <middleName />
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+          <lisID>2230</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Lieu</lastName>
+        <district>33</district>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>Alan</firstName>
+        <bioguideId>L000579</bioguideId>
+        <middleName>S.</middleName>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <identifiers>
+          <bioguideId>L000579</bioguideId>
+          <lisID>2111</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Lowenthal</lastName>
+        <district>47</district>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <bioguideId>T000472</bioguideId>
+        <middleName />
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <identifiers>
+          <bioguideId>T000472</bioguideId>
+          <lisID>2110</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Takano</lastName>
+        <district>41</district>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>Gregorio</firstName>
+        <bioguideId>S001177</bioguideId>
+        <middleName>Kilili Camacho</middleName>
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <identifiers>
+          <lisID>1962</lisID>
+          <bioguideId>S001177</bioguideId>
+          <gpoId>8018</gpoId>
+        </identifiers>
+        <lastName>Sablan</lastName>
+        <district>0</district>
+        <state>MP</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>Tulsi</firstName>
+        <bioguideId>G000571</bioguideId>
+        <middleName />
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <identifiers>
+          <bioguideId>G000571</bioguideId>
+          <lisID>2122</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Gabbard</lastName>
+        <district>2</district>
+        <state>HI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>LINDA</firstName>
+        <bioguideId>S001156</bioguideId>
+        <middleName>T.</middleName>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <identifiers>
+          <lisID>1757</lisID>
+          <bioguideId>S001156</bioguideId>
+          <gpoId>7844</gpoId>
+        </identifiers>
+        <lastName>SANCHEZ</lastName>
+        <district>38</district>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>ADAM</firstName>
+        <bioguideId>S001150</bioguideId>
+        <middleName>B.</middleName>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <identifiers>
+          <lisID>1635</lisID>
+          <bioguideId>S001150</bioguideId>
+          <gpoId>7834</gpoId>
+        </identifiers>
+        <lastName>SCHIFF</lastName>
+        <district>28</district>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>Jackie</firstName>
+        <bioguideId>S001175</bioguideId>
+        <middleName />
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <identifiers>
+          <bioguideId>S001175</bioguideId>
+          <lisID>1890</lisID>
+          <gpoId>7817</gpoId>
+        </identifiers>
+        <lastName>Speier</lastName>
+        <district>14</district>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>Juan</firstName>
+        <bioguideId>V000130</bioguideId>
+        <middleName />
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <identifiers>
+          <bioguideId>V000130</bioguideId>
+          <lisID>2112</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Vargas</lastName>
+        <district>51</district>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>BARBARA</firstName>
+        <bioguideId>L000551</bioguideId>
+        <middleName />
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <lastName>LEE</lastName>
+        <district>13</district>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>Doris</firstName>
+        <bioguideId>M001163</bioguideId>
+        <middleName>O.</middleName>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <identifiers>
+          <lisID>1814</lisID>
+          <bioguideId>M001163</bioguideId>
+          <gpoId>7810</gpoId>
+        </identifiers>
+        <lastName>Matsui</lastName>
+        <district>6</district>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>Scott</firstName>
+        <bioguideId>P000608</bioguideId>
+        <middleName>H.</middleName>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <identifiers>
+          <bioguideId>P000608</bioguideId>
+          <lisID>2113</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Peters</lastName>
+        <district>52</district>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>GRACE</firstName>
+        <bioguideId>N000179</bioguideId>
+        <middleName>F.</middleName>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <identifiers>
+          <lisID>1602</lisID>
+          <bioguideId>N000179</bioguideId>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <lastName>NAPOLITANO</lastName>
+        <district>32</district>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>NYDIA</firstName>
+        <bioguideId>V000081</bioguideId>
+        <middleName>M.</middleName>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <identifiers>
+          <lisID>1184</lisID>
+          <bioguideId>V000081</bioguideId>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <lastName>VELAZQUEZ</lastName>
+        <district>7</district>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>Robert</firstName>
+        <bioguideId>S000185</bioguideId>
+        <middleName>C. "Bobby"</middleName>
+        <fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]</fullName>
+        <identifiers>
+          <lisID>1037</lisID>
+          <bioguideId>S000185</bioguideId>
+          <gpoId>8194</gpoId>
+        </identifiers>
+        <lastName>Scott</lastName>
+        <district>3</district>
+        <state>VA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>Colleen</firstName>
+        <bioguideId>H001050</bioguideId>
+        <middleName />
+        <fullName>Rep. Hanabusa, Colleen [D-HI-1]</fullName>
+        <identifiers>
+          <gpoId>7912</gpoId>
+          <bioguideId>H001050</bioguideId>
+          <lisID>2010</lisID>
+        </identifiers>
+        <lastName>Hanabusa</lastName>
+        <district>1</district>
+        <state>HI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>SUSAN</firstName>
+        <bioguideId>D000598</bioguideId>
+        <middleName>A.</middleName>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+        <identifiers>
+          <lisID>1641</lisID>
+          <bioguideId>D000598</bioguideId>
+          <gpoId>7858</gpoId>
+        </identifiers>
+        <lastName>DAVIS</lastName>
+        <district>53</district>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <introducedDate>2017-05-18</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-05-18T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-05-25T15:16:24Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Recognizes the significance of Asian/Pacific American Heritage Month as an important time to celebrate the contributions of Asian Americans and Pacific Islanders to the history of the United States. </p> <p>Recognizes that the Asian American and Pacific Islander communities enhance the rich diversity of the United States. </p>]]></text>
+          <actionDate>2017-05-18</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Recognizing the significance of Asian/Pacific American Heritage Month in May as an important time to celebrate the significant contributions of Asian Americans and Pacific Islanders to the history of the United States.</title>
+    <laws />
+    <billNumber>338</billNumber>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Recognizing the significance of Asian/Pacific American Heritage Month in May as an important time to celebrate the significant contributions of Asian Americans and Pacific Islanders to the history of the United States.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Recognizing the significance of Asian/Pacific American Heritage Month in May as an important time to celebrate the significant contributions of Asian Americans and Pacific Islanders to the history of the United States.</title>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

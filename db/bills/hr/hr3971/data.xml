@@ -1,0 +1,48 @@
+<bill session="115" type="h" number="3971" updated="2017-10-13T07:23:47Z">
+  <state datetime="2017-10-12">REPORTED</state>
+  <status>
+    <unknown datetime="2017-10-12"/>
+  </status>
+  <introduced datetime="2017-10-05"/>
+  <titles>
+    <title type="short" as="introduced">Community Institution Mortgage Relief Act of 2017</title>
+    <title type="short" as="introduced">Community Institution Mortgage Relief Act of 2017</title>
+    <title type="official" as="introduced">To amend the Truth in Lending Act and the Real Estate Settlement Procedures Act of 1974 to modify the requirements for community financial institutions with respect to certain rules relating to mortgage loans, and for other purposes.</title>
+    <title type="display">Community Institution Mortgage Relief Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="T000478"/>
+  <cosponsors>
+    <cosponsor bioguide_id="S000344" joined="2017-10-05"/>
+    <cosponsor bioguide_id="W000816" joined="2017-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-05">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-05" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2017-10-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2017-10-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-10-12" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 41 - 19.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="10"/>
+    <bill type="h" session="115" relation="unknown" number="3280"/>
+    <bill type="h" session="115" relation="unknown" number="3354"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

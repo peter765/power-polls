@@ -1,0 +1,141 @@
+<bill session="115" type="s" number="1312" updated="2017-09-28T04:32:52Z">
+  <state datetime="2017-09-11">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2017-09-11"/>
+  </status>
+  <introduced datetime="2017-06-07"/>
+  <titles>
+    <title type="short" as="introduced">Trafficking Victims Protection Act of 2017</title>
+    <title type="short" as="introduced">Trafficking Victims Protection Act of 2017</title>
+    <title type="short" as="reported to senate">Trafficking Victims Protection Act of 2017</title>
+    <title type="short" as="reported to senate">Trafficking Victims Protection Act of 2017</title>
+    <title type="short" as="reported to senate" partial="1">Public-Private Partnership Advisory Council to End Human Trafficking Act</title>
+    <title type="short" as="passed senate">Trafficking Victims Protection Act of 2017</title>
+    <title type="short" as="passed senate">Trafficking Victims Protection Act of 2017</title>
+    <title type="short" as="passed senate" partial="1">Public-Private Partnership Advisory Council to End Human Trafficking Act</title>
+    <title type="official" as="introduced">A bill to prioritize the fight against human trafficking in the United States.</title>
+    <title type="display">Trafficking Victims Protection Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="G000386"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001277" joined="2017-06-21"/>
+    <cosponsor bioguide_id="B000944" joined="2017-06-28"/>
+    <cosponsor bioguide_id="C001075" joined="2017-08-03"/>
+    <cosponsor bioguide_id="C000567" joined="2017-08-03"/>
+    <cosponsor bioguide_id="C001035" joined="2017-08-03"/>
+    <cosponsor bioguide_id="C001088" joined="2017-06-26"/>
+    <cosponsor bioguide_id="C001071" joined="2017-06-07"/>
+    <cosponsor bioguide_id="C001056" joined="2017-06-07"/>
+    <cosponsor bioguide_id="C001113" joined="2017-07-12"/>
+    <cosponsor bioguide_id="C000880" joined="2017-06-15"/>
+    <cosponsor bioguide_id="C001098" joined="2017-07-19"/>
+    <cosponsor bioguide_id="D000563" joined="2017-06-29"/>
+    <cosponsor bioguide_id="F000062" joined="2017-06-07"/>
+    <cosponsor bioguide_id="H000338" joined="2017-06-13"/>
+    <cosponsor bioguide_id="K000393" joined="2017-07-10"/>
+    <cosponsor bioguide_id="K000367" joined="2017-06-07"/>
+    <cosponsor bioguide_id="L000174" joined="2017-06-26"/>
+    <cosponsor bioguide_id="M000303" joined="2017-08-03"/>
+    <cosponsor bioguide_id="M001170" joined="2017-07-10"/>
+    <cosponsor bioguide_id="P000595" joined="2017-07-17"/>
+    <cosponsor bioguide_id="R000595" joined="2017-06-07"/>
+    <cosponsor bioguide_id="T000476" joined="2017-06-27"/>
+    <cosponsor bioguide_id="V000128" joined="2017-07-17"/>
+    <cosponsor bioguide_id="W000817" joined="2017-08-02"/>
+    <cosponsor bioguide_id="W000437" joined="2017-08-03"/>
+    <cosponsor bioguide_id="Y000064" joined="2017-06-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-07">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S3335-3336" label="Sponsor introductory remarks on measure"/>
+    </action>
+    <calendar datetime="2017-06-29" state="REPORTED">
+      <text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2017-08-01">
+      <text>Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2017-08-01" calendar="Senate Legislative" under="General Orders" number="189">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 189.</text>
+    </calendar>
+    <action datetime="2017-09-11">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S5179-5189" label="consideration"/>
+    </action>
+    <action datetime="2017-09-11">
+      <text>The committee substitute as amended agreed to by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2017-09-11" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S5184-5189" label="text"/>
+    </vote>
+    <action datetime="2017-09-12T17:06:23-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2017-09-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2017-09-12">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-09-12">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-09-12">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-09-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1392"/>
+    <bill type="h" session="115" relation="unknown" number="1808"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Adoption and foster care"/>
+    <term name="Advisory bodies"/>
+    <term name="Child safety and welfare"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime prevention"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against children"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Department of Justice"/>
+    <term name="Department of Labor"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Family relationships"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government studies and investigations"/>
+    <term name="Human trafficking"/>
+    <term name="Internet and video services"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Pornography"/>
+    <term name="Public-private cooperation"/>
+    <term name="Sex offenses"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Travel and tourism"/>
+  </subjects>
+  <amendments>
+    <amendment number="s937"/>
+  </amendments>
+  <committee-reports/>
+</bill>

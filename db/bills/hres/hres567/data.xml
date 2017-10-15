@@ -1,0 +1,33 @@
+<bill session="115" type="hr" number="567" updated="2017-10-12T19:00:15Z">
+  <state datetime="2017-10-11">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-11"/>
+  </status>
+  <introduced datetime="2017-10-11"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for the physician assistant (PA) profession and the designation of the week of October 6 through 12, 2017, as "National PA Week".</title>
+    <title type="display">Expressing support for the physician assistant (PA) profession and the designation of the week of October 6 through 12, 2017, as "National PA Week".</title>
+  </titles>
+  <sponsor bioguide_id="B001270"/>
+  <cosponsors>
+    <cosponsor bioguide_id="E000296" joined="2017-10-11"/>
+    <cosponsor bioguide_id="G000551" joined="2017-10-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-11">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-11" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

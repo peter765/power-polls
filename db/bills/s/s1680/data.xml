@@ -1,0 +1,39 @@
+<bill session="115" type="s" number="1680" updated="2017-09-11T03:06:48Z">
+  <state datetime="2017-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-31"/>
+  </status>
+  <introduced datetime="2017-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Food Recovery Act of 2017</title>
+    <title type="short" as="introduced">Food Recovery Act of 2017</title>
+    <title type="official" as="introduced">A bill to decrease the incidence of food waste, and for other purposes.</title>
+    <title type="display">Food Recovery Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="B001277"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001288" joined="2017-07-31"/>
+    <cosponsor bioguide_id="M001176" joined="2017-07-31"/>
+    <cosponsor bioguide_id="S001194" joined="2017-07-31"/>
+    <cosponsor bioguide_id="W000779" joined="2017-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-31">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="3444"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

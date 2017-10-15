@@ -1,0 +1,36 @@
+<bill session="115" type="h" number="3080" updated="2017-09-11T02:53:56Z">
+  <state datetime="2017-06-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-27"/>
+  </status>
+  <introduced datetime="2017-06-27"/>
+  <titles>
+    <title type="official" as="introduced">To provide installation reutilization authority for arsenals, depots, and plants.</title>
+    <title type="display">To provide installation reutilization authority for arsenals, depots, and plants.</title>
+  </titles>
+  <sponsor bioguide_id="L000565"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001286" joined="2017-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-27" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2017-07-26">
+      <text>Referred to the Subcommittee on Readiness.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="Readiness" code="HSAS03" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

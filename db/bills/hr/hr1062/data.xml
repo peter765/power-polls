@@ -1,0 +1,67 @@
+<bill session="115" type="h" number="1062" updated="2017-09-11T03:02:54Z">
+  <state datetime="2017-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2017-02-15"/>
+  </status>
+  <introduced datetime="2017-02-15"/>
+  <titles>
+    <title type="short" as="introduced">Geolocational Privacy and Surveillance Act</title>
+    <title type="short" as="introduced">Geolocational Privacy and Surveillance Act</title>
+    <title type="short" as="introduced">GPS Act</title>
+    <title type="short" as="introduced">GPS Act</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to specify the circumstances in which a person may acquire geolocation information, and for other purposes.</title>
+    <title type="display">GPS Act</title>
+  </titles>
+  <sponsor bioguide_id="C001076"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C000714" joined="2017-02-15"/>
+    <cosponsor bioguide_id="I000056" joined="2017-02-15"/>
+    <cosponsor bioguide_id="J000289" joined="2017-02-15"/>
+    <cosponsor bioguide_id="L000573" joined="2017-02-15"/>
+    <cosponsor bioguide_id="L000562" joined="2017-02-15"/>
+    <cosponsor bioguide_id="P000592" joined="2017-02-15"/>
+    <cosponsor bioguide_id="S000051" joined="2017-06-13"/>
+    <cosponsor bioguide_id="W000800" joined="2017-02-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-02-15">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-02-15" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-02-15">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2017-02-15">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent"/>
+    </action>
+    <action datetime="2017-03-06">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HLIG" name="House Intelligence (Permanent)" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="395"/>
+    <bill type="h" session="115" relation="identical" number="3470"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Civil actions and liability"/>
+    <term name="Computers and information technology"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Right of privacy"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

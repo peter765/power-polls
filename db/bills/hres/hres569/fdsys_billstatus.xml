@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House for portions of this bill</titleType>
+        <chamberCode>H</chamberCode>
+        <title>Bankruptcy Judgeship Act of 2017</title>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House for portions of this bill</titleType>
+        <chamberCode>H</chamberCode>
+        <title>Additional Supplemental Appropriations for Disaster Relief Requirements Act of 2017</title>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <title>Additional Supplemental Appropriations for Disaster Relief Requirements Act, 2017</title>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>Providing for the concurrence by the House in the Senate amendment to H.R. 2266, with an amendment.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Providing for the concurrence by the House in the Senate amendment to H.R. 2266, with an amendment.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <title>Providing for the concurrence by the House in the Senate amendment to H.R. 2266, with an amendment.</title>
+    <relatedBills>
+      <item>
+        <number>2266</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>House agreed to Senate amendment with amendment pursuant to H.Res. 569. (consideration: CR H7989-7992; text as House agreed to Senate amendment: CR H7989-7992)</text>
+          <actionDate>2017-10-12</actionDate>
+          <actionTime>15:24:28</actionTime>
+        </latestAction>
+        <latestTitle>Additional Supplemental Appropriations for Disaster Relief Requirements Act, 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <policyArea />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees />
+    </committees>
+    <billNumber>569</billNumber>
+    <cosponsors />
+    <updateDate>2017-10-13T16:57:11Z</updateDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>FRELINGHUYSEN</lastName>
+        <fullName>Rep. Frelinghuysen, Rodney P. [R-NJ-11]</fullName>
+        <party>R</party>
+        <identifiers>
+          <lisID>414</lisID>
+          <bioguideId>F000372</bioguideId>
+          <gpoId>8053</gpoId>
+        </identifiers>
+        <bioguideId>F000372</bioguideId>
+        <district>11</district>
+        <middleName />
+        <firstName>RODNEY</firstName>
+        <byRequestType />
+        <state>NJ</state>
+      </item>
+    </sponsors>
+    <recordedVotes>
+      <recordedVote>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>566</rollNumber>
+        <date>2017-10-12T19:24:07Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll566.xml</url>
+        <congress>115</congress>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+      </recordedVote>
+    </recordedVotes>
+    <constitutionalAuthorityStatementText />
+    <notes />
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <placeholderTextForH>1</placeholderTextForH>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <generalDebate>1</generalDebate>
+        <considerationByHouse>2</considerationByHouse>
+      </actionTypeCounts>
+      <item>
+        <actionTime>15:24:26</actionTime>
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <actionTime>15:24:07</actionTime>
+        <links>
+          <link>
+            <name>H7989-7992</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7989-7992</url>
+          </link>
+          <link>
+            <name>Roll no. 566</name>
+            <url>http://clerk.house.gov/evs/2017/roll566.xml</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 353 - 69 (Roll no. 566). (text: CR H7989-7992)</text>
+        <committee />
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>H37300</actionCode>
+      </item>
+      <item>
+        <actionTime>15:24:07</actionTime>
+        <links>
+          <link>
+            <name>Roll no. 566</name>
+            <url>http://clerk.house.gov/evs/2017/roll566.xml</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 353 - 69 (Roll no. 566).</text>
+        <committee />
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <actionTime>15:16:13</actionTime>
+        <links>
+          <link>
+            <name>H8010</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8010</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Considered as unfinished business. (consideration: CR H8010)</text>
+        <committee />
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <actionTime>13:10:26</actionTime>
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <committee />
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>H37220</actionCode>
+      </item>
+      <item>
+        <actionTime>12:22:55</actionTime>
+        <links>
+          <link>
+            <name>H. Res. 569</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/569</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 569.</text>
+        <committee />
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <actionTime>12:22:54</actionTime>
+        <links>
+          <link>
+            <name>H7989-7997</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7989-7997</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Considered under suspension of the rules. (consideration: CR H7989-7997)</text>
+        <committee />
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <actionTime>12:21:45</actionTime>
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Mr. Frelinghuysen moved to suspend the rules and agree to the resolution.</text>
+        <committee />
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>H30300</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <createDate>2017-10-13T03:11:17Z</createDate>
+    <billType>HRES</billType>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionTime>15:24:26</actionTime>
+      <links />
+      <actionDate>2017-10-12</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </latestAction>
+    <committeeReports />
+    <congress>115</congress>
+    <introducedDate>2017-10-12</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

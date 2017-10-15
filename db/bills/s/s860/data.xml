@@ -1,0 +1,101 @@
+<bill session="115" type="s" number="860" updated="2017-09-11T03:06:28Z">
+  <state datetime="2017-08-01">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2017-08-01"/>
+  </status>
+  <introduced datetime="2017-04-05"/>
+  <titles>
+    <title type="short" as="introduced">Juvenile Justice and Delinquency Prevention Reauthorization Act of 2017</title>
+    <title type="short" as="introduced">Juvenile Justice and Delinquency Prevention Reauthorization Act of 2017</title>
+    <title type="short" as="passed senate">Juvenile Justice and Delinquency Prevention Reauthorization Act of 2017</title>
+    <title type="short" as="passed senate">Juvenile Justice and Delinquency Prevention Reauthorization Act of 2017</title>
+    <title type="official" as="introduced">A bill to reauthorize and improve the Juvenile Justice and Delinquency Prevention Act of 1974, and for other purposes.</title>
+    <title type="display">Juvenile Justice and Delinquency Prevention Reauthorization Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="G000386"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000575" joined="2017-04-05"/>
+    <cosponsor bioguide_id="B001288" joined="2017-07-24"/>
+    <cosponsor bioguide_id="C001056" joined="2017-04-05"/>
+    <cosponsor bioguide_id="D000563" joined="2017-04-05"/>
+    <cosponsor bioguide_id="E000295" joined="2017-07-24"/>
+    <cosponsor bioguide_id="F000062" joined="2017-04-05"/>
+    <cosponsor bioguide_id="F000457" joined="2017-05-16"/>
+    <cosponsor bioguide_id="H000338" joined="2017-04-05"/>
+    <cosponsor bioguide_id="K000367" joined="2017-04-05"/>
+    <cosponsor bioguide_id="L000174" joined="2017-04-05"/>
+    <cosponsor bioguide_id="R000595" joined="2017-05-16"/>
+    <cosponsor bioguide_id="T000476" joined="2017-04-05"/>
+    <cosponsor bioguide_id="W000802" joined="2017-04-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-05">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-04-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-08-01">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2017-08-01">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S4649-4659" label="consideration"/>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="2017-08-01" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+      <reference ref="CR S4651-4659" label="text"/>
+    </vote>
+    <action datetime="2017-08-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2017-08-04T13:04:45-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2017-08-04T14:30:59-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Discharged, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="1809"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Accounting and auditing"/>
+    <term name="Child care and development"/>
+    <term name="Child health"/>
+    <term name="Child safety and welfare"/>
+    <term name="Congressional oversight"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against children"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Detention of persons"/>
+    <term name="Disability and paralysis"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Food assistance and relief"/>
+    <term name="Government studies and investigations"/>
+    <term name="Human trafficking"/>
+    <term name="Indian social and development programs"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Juvenile crime and gang violence"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Mental health"/>
+    <term name="Performance measurement"/>
+    <term name="Sex offenses"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="State and local government operations"/>
+    <term name="Teenage pregnancy"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments>
+    <amendment number="s741"/>
+  </amendments>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S4673</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4673</url>
+          </link>
+          <link>
+            <name>S4695</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4695</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695; text of measure as introduced: CR S4673)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S4695; text of measure as introduced: CR S4673)</text>
+        <links>
+          <link>
+            <name>S4673</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4673</url>
+          </link>
+          <link>
+            <name>S4695</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4695</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2017-08-01</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-08-01</actionDate>
+      </item>
+    </actions>
+    <updateDate>2017-10-12T04:36:34Z</updateDate>
+    <latestAction>
+      <actionDate>2017-08-01</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695; text of measure as introduced: CR S4673)</text>
+      <links />
+    </latestAction>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-09-26T19:01:20Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p> Commends the University of Florida for winning the 2017 National Collegiate Athletic Association College World Series.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-08-01T04:00:00Z</updateDate>
+          <actionDate>2017-08-01</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-09-26T19:01:30Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p> Commends the University of Florida for winning the 2017 National Collegiate Athletic Association College World Series.</p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <updateDate>2017-08-01T13:16:35Z</updateDate>
+          <actionDate>2017-08-01</actionDate>
+          <versionCode>82</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A resolution congratulating the University of Florida baseball team for winning the 2017 National Collegiate Athletic Association College World Series.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>A resolution congratulating the University of Florida baseball team for winning the 2017 National Collegiate Athletic Association College World Series.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees />
+    </committees>
+    <recordedVotes />
+    <createDate>2017-08-02T00:26:43Z</createDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <bioguideId>N000032</bioguideId>
+        <firstName>CLARENCE</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>WILLIAM</middleName>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <state>FL</state>
+        <lastName>NELSON</lastName>
+      </item>
+    </cosponsors>
+    <amendments />
+    <committeeReports />
+    <introducedDate>2017-08-01</introducedDate>
+    <billType>SRES</billType>
+    <title>A resolution congratulating the University of Florida baseball team for winning the 2017 National Collegiate Athletic Association College World Series.</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Sports and Recreation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Athletes</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Florida</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>School athletics</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Sports and Recreation</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>Marco</firstName>
+        <middleName />
+        <bioguideId>R000595</bioguideId>
+        <byRequestType />
+        <lastName>Rubio</lastName>
+        <state>FL</state>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <billNumber>240</billNumber>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <relatedBills />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

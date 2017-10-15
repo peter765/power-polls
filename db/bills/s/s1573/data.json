@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-18", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-18", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1573-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001047", 
+      "district": null, 
+      "name": "Capito, Shelley Moore", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-18", 
+      "state": "WV", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-18", 
+  "number": "1573", 
+  "official_title": "A bill to authorize the Secretary of the Interior and the Secretary of Agriculture to place signage on Federal land along the trail known as the \"American Discovery Trail\", and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "American Discovery Trail Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "C001088", 
+    "district": null, 
+    "name": "Coons, Christopher A.", 
+    "state": "DE", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-07-18", 
+  "subjects": [
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in Senate", 
+    "date": "2017-07-18T04:00:00Z", 
+    "text": "American Discovery Trail Act of 2017\n\nThis bill authorizes the Department of the Interior and the Department of Agriculture to place on federal land at points along the American Discovery Trail (from Cape Henlopen State Park, Delaware, to Point Reyes National Seashore, California) acceptable signage donated to the United States for that purpose.\n\nNo federal funding may be used to acquire the signage authorized for placement by this bill."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "American Discovery Trail Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "American Discovery Trail Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to authorize the Secretary of the Interior and the Secretary of Agriculture to place signage on Federal land along the trail known as the \"American Discovery Trail\", and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "American Discovery Trail Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-09-11T03:01:53Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1573.xml"
+}

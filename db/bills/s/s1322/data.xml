@@ -1,0 +1,41 @@
+<bill session="115" type="s" number="1322" updated="2017-09-08T20:27:41Z">
+  <state datetime="2017-08-02">REPORTED</state>
+  <status>
+    <unknown datetime="2017-08-02"/>
+  </status>
+  <introduced datetime="2017-06-08"/>
+  <titles>
+    <title type="short" as="introduced">American Fisheries Advisory Committee Act</title>
+    <title type="short" as="introduced">American Fisheries Advisory Committee Act</title>
+    <title type="official" as="introduced">A bill to establish the American Fisheries Advisory Committee to assist in the awarding of fisheries research and development grants, and for other purposes.</title>
+    <title type="display">American Fisheries Advisory Committee Act</title>
+  </titles>
+  <sponsor bioguide_id="S001198"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C000127" joined="2017-06-08"/>
+    <cosponsor bioguide_id="M001153" joined="2017-06-08"/>
+    <cosponsor bioguide_id="W000817" joined="2017-09-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-08">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2017-08-02" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="214"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

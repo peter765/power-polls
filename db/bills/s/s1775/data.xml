@@ -1,0 +1,36 @@
+<bill session="115" type="s" number="1775" updated="2017-10-12T04:46:37Z">
+  <state datetime="2017-09-07">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-07"/>
+  </status>
+  <introduced datetime="2017-09-07"/>
+  <titles>
+    <title type="short" as="introduced">Rural Veterans Travel Enhancement Act of 2017</title>
+    <title type="short" as="introduced">Rural Veterans Travel Enhancement Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to make permanent the authority of the Secretary of Veterans Affairs to transport individuals to and from facilities of the Department of Veterans Affairs in connection with rehabilitation, counseling, examination, treatment, and care, and for other purposes.</title>
+    <title type="display">Rural Veterans Travel Enhancement Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="T000464"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001111" joined="2017-09-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-07">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-09-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="3720"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

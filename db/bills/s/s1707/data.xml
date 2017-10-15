@@ -1,0 +1,34 @@
+<bill session="115" type="s" number="1707" updated="2017-09-15T23:15:12Z">
+  <state datetime="2017-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2017-08-02"/>
+  </status>
+  <introduced datetime="2017-08-02"/>
+  <titles>
+    <title type="short" as="introduced">SNAP Standard Medical Expense Deduction Act of 2017</title>
+    <title type="short" as="introduced">SNAP Standard Medical Expense Deduction Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend the Food and Nutrition Act of 2008 to provide for a standard medical expense deduction under the supplemental nutrition assistance program, and for other purposes.</title>
+    <title type="display">SNAP Standard Medical Expense Deduction Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="G000555"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-08-02">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-08-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="3749"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

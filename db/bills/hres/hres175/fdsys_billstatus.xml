@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <constitutionalAuthorityStatementText />
+    <cosponsors />
+    <updateDate>2017-08-10T13:23:04Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-03-07T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder.]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2017-03-07</actionDate>
+          <lastSummaryUpdateDate>2017-03-08T09:03:35Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>Ken</firstName>
+        <party>R</party>
+        <state>CO</state>
+        <fullName>Rep. Buck, Ken [R-CO-4]</fullName>
+        <bioguideId>B001297</bioguideId>
+        <middleName />
+        <district>4</district>
+        <lastName>Buck</lastName>
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <lisID>2233</lisID>
+          <bioguideId>B001297</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <laws />
+    <relatedBills>
+      <item>
+        <number>725</number>
+        <latestTitle>Innocent Party Protection Act</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-03-13</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <createDate>2017-03-08T05:28:12Z</createDate>
+    <recordedVotes>
+      <recordedVote>
+        <date>2017-03-08T19:45:38Z</date>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <rollNumber>130</rollNumber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll130.xml</url>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+      <recordedVote>
+        <date>2017-03-08T19:37:53Z</date>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <rollNumber>129</rollNumber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll129.xml</url>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <billType>HRES</billType>
+    <latestAction>
+      <actionTime>14:45:40</actionTime>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+      <actionDate>2017-03-08</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2017-03-08T00:24:11Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-03-07</introducedDate>
+    <actions>
+      <item>
+        <links />
+        <actionDate>2017-03-08</actionDate>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>14:45:40</actionTime>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1611</url>
+            <name>H1611</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll130.xml</url>
+            <name>Roll no. 130</name>
+          </link>
+        </links>
+        <actionDate>2017-03-08</actionDate>
+        <type>Floor</type>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 235 - 185 (Roll no. 130). (text: CR H1611)</text>
+        <actionTime>14:45:38</actionTime>
+        <committee />
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1611</url>
+            <name>H1611</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll130.xml</url>
+            <name>Roll no. 130</name>
+          </link>
+        </links>
+        <actionDate>2017-03-08</actionDate>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 235 - 185 (Roll no. 130).(text: CR H1611)</text>
+        <actionTime>14:45:38</actionTime>
+        <committee />
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1616-1617</url>
+            <name>H1616-1617</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll129.xml</url>
+            <name>Roll no. 129</name>
+          </link>
+        </links>
+        <actionDate>2017-03-08</actionDate>
+        <type>Floor</type>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 230 - 184 (Roll no. 129). (consideration: CR H1616-1617)</text>
+        <actionTime>14:37:53</actionTime>
+        <committee />
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/175</url>
+            <name>H. Res. 175</name>
+          </link>
+        </links>
+        <actionDate>2017-03-08</actionDate>
+        <type>Floor</type>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 175.</text>
+        <actionTime>13:32:04</actionTime>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1611-1618</url>
+            <name>H1611-1618</name>
+          </link>
+        </links>
+        <actionDate>2017-03-08</actionDate>
+        <type>Floor</type>
+        <text>Considered as privileged matter. (consideration: CR H1611-1618)</text>
+        <actionTime>13:30:19</actionTime>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-03-07</actionDate>
+        <type>Calendars</type>
+        <text>Placed on the House Calendar, Calendar No. 17.</text>
+        <committee />
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/725</url>
+            <name>H.R. 725</name>
+          </link>
+        </links>
+        <actionDate>2017-03-07</actionDate>
+        <type>Floor</type>
+        <text>Rule providing for consideration of H.R. 725</text>
+        <actionTime>19:24:12</actionTime>
+        <committee />
+        <actionCode>H12700</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/27</url>
+            <name>H. Rept. 115-27</name>
+          </link>
+        </links>
+        <actionDate>2017-03-07</actionDate>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-27, by Mr. Buck.</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>H12100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/27</url>
+            <name>H. Rept. 115-27</name>
+          </link>
+        </links>
+        <actionDate>2017-03-07</actionDate>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-27, by Mr. Buck.</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-03-07</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <considerationByHouse>1</considerationByHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <provisionsOfARule>1</provisionsOfARule>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <introducedInHouse>1</introducedInHouse>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <generalDebate>1</generalDebate>
+        <reportedToHouse>1</reportedToHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <title>Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder.</title>
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder.</title>
+      </item>
+    </titles>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>H00017</calendar>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>175</billNumber>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-27</citation>
+      </committeeReport>
+    </committeeReports>
+    <originChamber>House</originChamber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

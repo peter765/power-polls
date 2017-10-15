@@ -1,0 +1,53 @@
+<bill session="115" type="h" number="2033" updated="2017-06-19T21:45:15Z">
+  <state datetime="2017-04-06">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-06"/>
+  </status>
+  <introduced datetime="2017-04-06"/>
+  <titles>
+    <title type="short" as="introduced">Undetectable Firearms Modernization Act</title>
+    <title type="short" as="introduced">Undetectable Firearms Modernization Act</title>
+    <title type="official" as="introduced">To modernize the Undetectable Firearms Act of 1988.</title>
+    <title type="display">Undetectable Firearms Modernization Act</title>
+  </titles>
+  <sponsor bioguide_id="K000390"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000574" joined="2017-04-06"/>
+    <cosponsor bioguide_id="C001084" joined="2017-04-06"/>
+    <cosponsor bioguide_id="L000559" joined="2017-04-06"/>
+    <cosponsor bioguide_id="R000606" joined="2017-04-06"/>
+    <cosponsor bioguide_id="S001190" joined="2017-04-06"/>
+    <cosponsor bioguide_id="S000480" joined="2017-04-06"/>
+    <cosponsor bioguide_id="T000465" joined="2017-04-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-06">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2769"/>
+    </action>
+    <action datetime="2017-04-06" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-04-06">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="533"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Aviation and airports"/>
+    <term name="Firearms and explosives"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

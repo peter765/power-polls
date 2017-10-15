@@ -1,0 +1,37 @@
+<bill session="115" type="h" number="3515" updated="2017-10-13T07:17:03Z">
+  <state datetime="2017-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-27"/>
+  </status>
+  <introduced datetime="2017-07-27"/>
+  <titles>
+    <title type="short" as="introduced">HEAT Act of 2017</title>
+    <title type="short" as="introduced">HEAT Act of 2017</title>
+    <title type="short" as="introduced">HVAC Expensing and Technology Act of 2017</title>
+    <title type="short" as="introduced">HVAC Expensing and Technology Act of 2017</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for expensing of qualified energy efficient heating and air-conditioning property for certain taxpayers and accelerated cost recovery for such property for other taxpayers.</title>
+    <title type="display">HEAT Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="T000462"/>
+  <cosponsors>
+    <cosponsor bioguide_id="K000188" joined="2017-07-27"/>
+    <cosponsor bioguide_id="W000813" joined="2017-10-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-27" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

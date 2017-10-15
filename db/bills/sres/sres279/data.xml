@@ -1,0 +1,46 @@
+<bill session="115" type="sr" number="279" updated="2017-10-11T04:29:25Z">
+  <state datetime="2017-10-03">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-03"/>
+  </status>
+  <introduced datetime="2017-10-03"/>
+  <titles>
+    <title type="official" as="introduced">A resolution reaffirming the commitment of the United States to promote democracy, human rights, and the rule of law in Cambodia.</title>
+    <title type="display">A resolution reaffirming the commitment of the United States to promote democracy, human rights, and the rule of law in Cambodia.</title>
+  </titles>
+  <sponsor bioguide_id="M000303"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000563" joined="2017-10-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-03">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-10-03" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S6290-6291" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Cambodia"/>
+    <term name="Detention of persons"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Foreign property"/>
+    <term name="Human rights"/>
+    <term name="News media and reporting"/>
+    <term name="Political parties and affiliation"/>
+    <term name="Protest and dissent"/>
+    <term name="Rule of law and government transparency"/>
+    <term name="Sanctions"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

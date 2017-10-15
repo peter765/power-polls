@@ -1,0 +1,59 @@
+<bill session="115" type="h" number="2991" updated="2017-09-11T02:39:23Z">
+  <state datetime="2017-06-21">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-21"/>
+  </status>
+  <introduced datetime="2017-06-21"/>
+  <titles>
+    <title type="short" as="introduced">Susquehanna National Heritage Area Act</title>
+    <title type="short" as="introduced">Susquehanna National Heritage Area Act</title>
+    <title type="official" as="introduced">To establish the Susquehanna National Heritage Area in the State of Pennsylvania, and for other purposes.</title>
+    <title type="display">Susquehanna National Heritage Area Act</title>
+  </titles>
+  <sponsor bioguide_id="S001199"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001269" joined="2017-07-14"/>
+    <cosponsor bioguide_id="C001090" joined="2017-07-27"/>
+    <cosponsor bioguide_id="C001106" joined="2017-07-14"/>
+    <cosponsor bioguide_id="D000604" joined="2017-07-14"/>
+    <cosponsor bioguide_id="F000466" joined="2017-07-26"/>
+    <cosponsor bioguide_id="K000376" joined="2017-07-26"/>
+    <cosponsor bioguide_id="M001179" joined="2017-07-14"/>
+    <cosponsor bioguide_id="M001181" joined="2017-06-21"/>
+    <cosponsor bioguide_id="M001151" joined="2017-07-26"/>
+    <cosponsor bioguide_id="P000605" joined="2017-06-21"/>
+    <cosponsor bioguide_id="R000598" joined="2017-07-26"/>
+    <cosponsor bioguide_id="S001154" joined="2017-07-24"/>
+    <cosponsor bioguide_id="T000467" joined="2017-07-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-21">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-21" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-06-30">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Federal Lands" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="400"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-06-21T04:00:00Z" status="Introduced in House">Susquehanna National Heritage Area Act
+
+ This bill establishes the Susquehanna National Heritage Area in Pennsylvania.
+
+ The Susquehanna Heritage Corporation is designated as the local coordinating entity for the area.
+
+ The Corporation shall prepare and submit a management plan for the area.</summary>
+  <committee-reports/>
+</bill>

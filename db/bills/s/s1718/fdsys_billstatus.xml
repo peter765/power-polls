@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>2303</lisID>
+          <bioguideId>K000393</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Kennedy</lastName>
+        <bioguideId>K000393</bioguideId>
+        <middleName>Neely</middleName>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <state>LA</state>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <billNumber>1718</billNumber>
+    <updateDate>2017-10-05T04:47:16Z</updateDate>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <cboCostEstimates />
+    <notes />
+    <cosponsors>
+      <item>
+        <middleName>WILLIAM</middleName>
+        <firstName>CLARENCE</firstName>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <bioguideId>N000032</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-08-02</sponsorshipDate>
+        <party>D</party>
+        <lastName>NELSON</lastName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8236</gpoId>
+          <lisID>859</lisID>
+          <bioguideId>N000032</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <firstName>JIM</firstName>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <bioguideId>I000024</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-08-02</sponsorshipDate>
+        <party>R</party>
+        <lastName>INHOFE</lastName>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Marco</firstName>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <bioguideId>R000595</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-08-02</sponsorshipDate>
+        <party>R</party>
+        <lastName>Rubio</lastName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Bill</firstName>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <bioguideId>C001075</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-08-02</sponsorshipDate>
+        <party>R</party>
+        <lastName>Cassidy</lastName>
+        <state>LA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1925</lisID>
+          <gpoId>7964</gpoId>
+          <bioguideId>C001075</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <firstName>Elizabeth</firstName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <bioguideId>W000817</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-08-02</sponsorshipDate>
+        <party>D</party>
+        <lastName>Warren</lastName>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2182</lisID>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName>C.</middleName>
+        <firstName>Gary</firstName>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <bioguideId>P000595</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <party>D</party>
+        <lastName>Peters</lastName>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <middleName>F.</middleName>
+        <firstName>ROGER</firstName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <bioguideId>W000437</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <party>R</party>
+        <lastName>WICKER</lastName>
+        <state>MS</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Steve</firstName>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <bioguideId>D000618</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <party>R</party>
+        <lastName>Daines</lastName>
+        <state>MT</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2138</lisID>
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName>F.</middleName>
+        <firstName>JOHN</firstName>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <bioguideId>R000122</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <party>D</party>
+        <lastName>REED</lastName>
+        <state>RI</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName>MARGARET</middleName>
+        <firstName>SUSAN</firstName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <bioguideId>C001035</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <party>R</party>
+        <lastName>COLLINS</lastName>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Tom</firstName>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <bioguideId>C001095</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <party>R</party>
+        <lastName>Cotton</lastName>
+        <state>AR</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2098</lisID>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <firstName>EDWARD</firstName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <bioguideId>M000133</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <party>D</party>
+        <lastName>MARKEY</lastName>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Angus</firstName>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <bioguideId>K000383</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <party>I</party>
+        <lastName>King</lastName>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2185</lisID>
+          <gpoId />
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Martin</firstName>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <bioguideId>H001046</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <party>D</party>
+        <lastName>Heinrich</lastName>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8056</gpoId>
+          <bioguideId>H001046</bioguideId>
+          <lisID>1937</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Roy</firstName>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <bioguideId>B000575</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <party>R</party>
+        <lastName>Blunt</lastName>
+        <state>MO</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <billType>S</billType>
+    <latestAction>
+      <actionDate>2017-08-02</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </latestAction>
+    <congress>115</congress>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-08-02</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-08-02</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-08-03T00:41:46Z</createDate>
+    <introducedDate>2017-08-02</introducedDate>
+    <laws />
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <amendments />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-08-02T21:06:28Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>75th Anniversary of the End of World War II Commemorative Coin Act</title>
+    <titles>
+      <item>
+        <chamberName />
+        <title>75th Anniversary of the End of World War II Commemorative Coin Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>A bill to authorize the minting of a coin in honor of the 75th anniversary of the end of World War II, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>75th Anniversary of the End of World War II Commemorative Coin Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>75th Anniversary of the End of World War II Commemorative Coin Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

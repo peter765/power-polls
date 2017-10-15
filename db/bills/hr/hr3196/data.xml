@@ -1,0 +1,35 @@
+<bill session="115" type="h" number="3196" updated="2017-09-11T02:54:26Z">
+  <state datetime="2017-07-12">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-12"/>
+  </status>
+  <introduced datetime="2017-07-12"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Servicemembers from Debt Collectors Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Defense to review and update Department of Defense regulations to ensure such regulations comply with Federal consumer protection law with respect to the collection of debt.</title>
+    <title type="display">Protecting Servicemembers from Debt Collectors Act</title>
+  </titles>
+  <sponsor bioguide_id="M001185"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-12">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-12" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2017-07-26">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

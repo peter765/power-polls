@@ -1,0 +1,53 @@
+<bill session="115" type="h" number="2898" updated="2017-09-28T07:16:21Z">
+  <state datetime="2017-06-13">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-13"/>
+  </status>
+  <introduced datetime="2017-06-13"/>
+  <titles>
+    <title type="short" as="introduced">RAC Reform Act of 2017</title>
+    <title type="short" as="introduced">RAC Reform Act of 2017</title>
+    <title type="official" as="introduced">To amend the Secure Rural Schools and Community Self-Determination Act of 2000 to modify the appointment and composition of resource advisory committees.</title>
+    <title type="display">RAC Reform Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="O000171"/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000574" joined="2017-09-25"/>
+    <cosponsor bioguide_id="G000565" joined="2017-09-27"/>
+    <cosponsor bioguide_id="G000551" joined="2017-07-18"/>
+    <cosponsor bioguide_id="S001191" joined="2017-07-13"/>
+    <cosponsor bioguide_id="W000821" joined="2017-06-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-13">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-13" state="REFERRED">
+      <text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-06-13">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2017-06-13">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2017-06-22">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2017-07-11">
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Conservation and Forestry" code="HSAG15" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Federal Lands" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

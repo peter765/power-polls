@@ -1,0 +1,61 @@
+<bill session="115" type="h" number="3245" updated="2017-10-12T07:12:56Z">
+  <state datetime="2017-10-04">REPORTED</state>
+  <status>
+    <unknown datetime="2017-10-04"/>
+  </status>
+  <introduced datetime="2017-07-14"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Civil and Criminal Penalties Update Act</title>
+    <title type="official" as="introduced">To amend title XI of the Social Security Act to increase civil money penalties and criminal fines for Federal health care program fraud and abuse, and for other purposes.</title>
+    <title type="display">Medicare Civil and Criminal Penalties Update Act</title>
+  </titles>
+  <sponsor bioguide_id="B001257"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001066" joined="2017-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-14">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-14" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-14">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5925"/>
+    </action>
+    <action datetime="2017-07-21">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2017-07-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2017-09-13">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2017-09-13">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+    <action datetime="2017-10-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-10-04" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Markup, Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Reporting, Markup, Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="Health" code="HSWM02" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

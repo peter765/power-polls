@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <bioguideId>M001170</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1820</lisID>
+          <bioguideId>M001170</bioguideId>
+          <gpoId>8252</gpoId>
+        </identifiers>
+        <firstName>Claire</firstName>
+        <lastName>McCaskill</lastName>
+        <state>MO</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>115-67</number>
+      </item>
+    </laws>
+    <introducedDate>2017-04-04</introducedDate>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>1894</number>
+        <latestTitle>To facilitate construction of a bridge on certain property in Christian County, Missouri, and for other purposes.</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Highways and Transit.</text>
+          <actionDate>2017-04-05</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <title>A bill to facilitate construction of a bridge on certain property in Christian County, Missouri, and for other purposes.</title>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Coast Guard and Maritime Transportation Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-08-07T16:42:01Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw07</systemCode>
+            </item>
+            <item>
+              <name>Highways and Transit Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-08-07T16:41:19Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw12</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-08-04T18:44:18Z</date>
+            </item>
+          </activities>
+          <systemCode>hspw00</systemCode>
+        </item>
+        <item>
+          <name>Environment and Public Works Committee</name>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-08-02T18:33:51Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-07-12T13:45:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-04T15:48:35Z</date>
+            </item>
+          </activities>
+          <systemCode>ssev00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <reportedToSenate>2</reportedToSenate>
+        <billReferrals>1</billReferrals>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedSenate>1</passedSenate>
+        <presentedToPresident>1</presentedToPresident>
+        <becamePublicLaw>2</becamePublicLaw>
+        <placeholderTextForE>3</placeholderTextForE>
+        <considerationByHouse>1</considerationByHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <orderedReported>1</orderedReported>
+        <generalDebate>1</generalDebate>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInSenate>1</introducedInSenate>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <sentToHouse>1</sentToHouse>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+        <senate>9</senate>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>E40000</actionCode>
+        <text>Became Public Law No: 115-67.</text>
+        <links />
+        <type>President</type>
+        <committee />
+        <actionDate>2017-10-06</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>36000</actionCode>
+        <text>Became Public Law No: 115-67.</text>
+        <links />
+        <type>BecameLaw</type>
+        <committee />
+        <actionDate>2017-10-06</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>E30000</actionCode>
+        <text>Signed by President.</text>
+        <links />
+        <type>President</type>
+        <committee />
+        <actionDate>2017-10-06</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>36000</actionCode>
+        <text>Signed by President.</text>
+        <links />
+        <type>BecameLaw</type>
+        <committee />
+        <actionDate>2017-10-06</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>E20000</actionCode>
+        <text>Presented to President.</text>
+        <links />
+        <type>Floor</type>
+        <committee />
+        <actionDate>2017-09-28</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>28000</actionCode>
+        <text>Presented to President.</text>
+        <links />
+        <type>President</type>
+        <committee />
+        <actionDate>2017-09-28</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionTime>16:58:45</actionTime>
+        <actionCode>H38310</actionCode>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionDate>2017-09-25</actionDate>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H7456-7457</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7456-7457</url>
+          </link>
+        </links>
+        <actionTime>16:58:43</actionTime>
+        <actionCode>H37300</actionCode>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7456-7457)</text>
+        <actionDate>2017-09-25</actionDate>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionTime>16:58:43</actionTime>
+        <actionCode>8000</actionCode>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+        <actionDate>2017-09-25</actionDate>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S. 810</name>
+            <url>https://www.congress.gov/bill/115th-congress/senate-bill/810</url>
+          </link>
+        </links>
+        <actionTime>16:54:59</actionTime>
+        <actionCode>H8D000</actionCode>
+        <text>DEBATE - The House proceeded with forty minutes of debate on S. 810.</text>
+        <actionDate>2017-09-25</actionDate>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H7456-7457</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7456-7457</url>
+          </link>
+        </links>
+        <actionTime>16:54:57</actionTime>
+        <actionCode>H30000</actionCode>
+        <text>Considered under suspension of the rules. (consideration: CR H7456-7457)</text>
+        <actionDate>2017-09-25</actionDate>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionTime>16:54:45</actionTime>
+        <actionCode>H30300</actionCode>
+        <text>Mr. Ferguson moved to suspend the rules and pass the bill.</text>
+        <actionDate>2017-09-25</actionDate>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-08-07</actionDate>
+        <committee>
+          <systemCode>hspw07</systemCode>
+          <name>Coast Guard and Maritime Transportation Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-08-07</actionDate>
+        <committee>
+          <systemCode>hspw12</systemCode>
+          <name>Highways and Transit Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <actionDate>2017-08-04</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionTime>13:06:39</actionTime>
+        <actionCode>H14000</actionCode>
+        <text>Received in the House.</text>
+        <actionDate>2017-08-04</actionDate>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-08-04</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-08-03</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S4892</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4892</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4892; text: CR S4892)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <links />
+        <type>Floor</type>
+        <committee />
+        <actionDate>2017-08-03</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-08-02</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 192.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-08-02</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-142</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/142</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-142.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>14000</actionCode>
+        <text>Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-142.</text>
+        <links>
+          <link>
+            <name>report No. 115-142</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/142</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <actionDate>2017-08-02</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-04-04</actionDate>
+      </item>
+    </actions>
+    <updateDate>2017-10-13T04:33:47Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-08-19T16:05:43Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>This bill authorizes the construction and operation of a bridge (Riverside Bridge Project) on certain property conveyed to Christian County, Missouri, by the Riverside Inn, Inc. </p> <p>The county shall:</p> <ul> <li>carryout the project in a manner that ensures that no flood damage occurs, and</li> <li>be liable for any such flood damage that does occur.</li> </ul> <p>No federal disaster assistance may be provided with respect to the covered property or project.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-04-04T04:00:00Z</updateDate>
+          <actionDate>2017-04-04</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <links />
+      <actionDate>2017-10-06</actionDate>
+      <text>Became Public Law No: 115-67.</text>
+    </latestAction>
+    <notes />
+    <createDate>2017-04-05T07:27:15Z</createDate>
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <firstName>Roy</firstName>
+        <lastName>Blunt</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <middleName />
+        <state>MO</state>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-142</citation>
+      </committeeReport>
+    </committeeReports>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Floods and storm protection</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Missouri</name>
+          </item>
+          <item>
+            <name>Outdoor recreation</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Wetlands</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to facilitate construction of a bridge on certain property in Christian County, Missouri, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to facilitate construction of a bridge on certain property in Christian County, Missouri, and for other purposes.</title>
+      </item>
+    </titles>
+    <amendments />
+    <billNumber>810</billNumber>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0192</number>
+      </item>
+    </calendarNumbers>
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

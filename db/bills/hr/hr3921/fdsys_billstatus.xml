@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 28 - 23.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-03</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-10-03</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-10-03</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-10-03</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <updateDate>2017-10-12T14:15:15Z</updateDate>
+    <latestAction>
+      <actionDate>2017-10-04</actionDate>
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 28 - 23.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-10-06T17:42:41Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Helping Ensure Access for Little Ones, Toddlers, and Hopeful Youth by Keeping Insurance Delivery Stable Act of 2017 or the HEALTHY KIDS Act</strong></p> <p>This bill amends titles XI (General Provisions), XVIII (Medicare), XIX (Medicaid), and XXI (Children's Health Insurance Program) (CHIP) of the Social Security Act to&nbsp;extend funding for&nbsp;CHIP through FY2022 and otherwise revise CHIP, Medicaid, and Medicare. </p> <p>The bill also extends funding through FY2022 for:</p> <ul> <li>the Child Enrollment Contingency Fund, </li> <li>the Childhood Obesity Demonstration Project, </li> <li>the Pediatric Quality Measures Program, and</li> <li>specified outreach and enrollment grants.</li></ul> <p>In addition, the bill reauthorizes through FY2022:</p> <ul> <li>the qualifying-states option (which allows states that provided coverage to now CHIP-eligible children prior to CHIP's enactment to continue to provide such coverage), and</li> <li>the express-lane eligibility option (which allows states to use eligibility findings from other public benefit programs to determine&nbsp;children's eligibility for Medicaid and CHIP).</li></ul> <p>Beginning in FY2020, the bill allows&nbsp;state child-health plans&nbsp;to adopt more restrictive eligibility standards with respect to children in families whose income exceeds 300% of the poverty line.</p> <p>Current law provides states with an enhanced Federal Matching Assistance Percentage (FMAP) for child-health assistance through FY2019. The bill&nbsp;maintains the&nbsp;enhanced FMAP&nbsp;in FY2020, but&nbsp;halves the&nbsp;percentage-point increase.</p> <p>The bill eliminates Medicaid payment reductions&nbsp;for disproportionate-share hospitals (which receive additional payment under Medicaid for treating a large share of low-income patients)&nbsp;in FY2018, but extends such reductions by two years (through FY2027).</p> <p>The bill also increases Medicaid funding for Puerto Rico through FY2019. Such funding&nbsp;shall be further increased through 2019 if Puerto Rico takes specified actions&nbsp;to improve its&nbsp;Medicaid program.</p> <p>In addition, the bill:</p> <ul> <li>alters provisions related to third-party liability under Medicaid and CHIP, </li> <li>specifies how a state must treat qualified lottery winnings and lump-sum income for purposes of determining Medicaid eligibility, and </li> <li>eliminates&nbsp;Medicare premium subsidies&nbsp;for beneficiaries with annual incomes&nbsp;exceeding $500,000.</li></ul>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-10-03T04:00:00Z</updateDate>
+          <actionDate>2017-10-03</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>HEALTHY KIDS Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Helping Ensure Access for Little Ones, Toddlers, and Hopeful Youth by Keeping Insurance Delivery Stable Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To extend funding for the Children's Health Insurance Program, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>HEALTHY KIDS Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>HEALTHY KIDS Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Helping Ensure Access for Little Ones, Toddlers, and Hopeful Youth by Keeping Insurance Delivery Stable Act of 2017</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-10-04T14:28:20Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-03T14:01:35Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-03T14:01:40Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <createDate>2017-10-04T03:11:23Z</createDate>
+    <cosponsors />
+    <amendments />
+    <committeeReports />
+    <introducedDate>2017-10-03</introducedDate>
+    <billType>HR</billType>
+    <title>HEALTHY KIDS Act</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ROS-LEHTINEN:H.R. 2061.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2792]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>Michael</firstName>
+        <middleName>C.</middleName>
+        <bioguideId>B001248</bioguideId>
+        <byRequestType />
+        <lastName>Burgess</lastName>
+        <state>TX</state>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <identifiers>
+          <lisID>1751</lisID>
+          <bioguideId>B001248</bioguideId>
+          <gpoId>8182</gpoId>
+        </identifiers>
+        <party>R</party>
+        <district>26</district>
+      </item>
+    </sponsors>
+    <billNumber>3921</billNumber>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <latestTitle>HELP Puerto Rico Act</latestTitle>
+        <latestAction>
+          <actionDate>2017-10-03</actionDate>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+        </latestAction>
+        <number>3932</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Prioritizing the Most Vulnerable Over Lottery Winners Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-02-07</actionDate>
+          <text>Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 20 - 11 .</text>
+        </latestAction>
+        <number>829</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Medicaid Third Party Liability Act</latestTitle>
+        <latestAction>
+          <actionDate>2017-02-10</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <number>938</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>KIDS Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-09-18</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>1827</number>
+        <type>S</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>To amend title XXI to allow for the blending of risk pools of children's health insurance buy-in programs with the risk pools of State child health plans under such title, and for other purposes.</latestTitle>
+        <latestAction>
+          <actionDate>2017-10-03</actionDate>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <number>3927</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,50 @@
+<bill session="115" type="h" number="2564" updated="2017-09-11T03:03:02Z">
+  <state datetime="2017-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-19"/>
+  </status>
+  <introduced datetime="2017-05-19"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 10, United States Code, to require an annual report on the personnel, training, and equipment needs of the non-federalized National Guard.</title>
+    <title type="display">To amend title 10, United States Code, to require an annual report on the personnel, training, and equipment needs of the non-federalized National Guard.</title>
+  </titles>
+  <sponsor bioguide_id="L000554"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001299" joined="2017-05-19"/>
+    <cosponsor bioguide_id="B001245" joined="2017-05-19"/>
+    <cosponsor bioguide_id="B001283" joined="2017-05-22"/>
+    <cosponsor bioguide_id="B001289" joined="2017-05-19"/>
+    <cosponsor bioguide_id="C001090" joined="2017-06-27"/>
+    <cosponsor bioguide_id="C001069" joined="2017-06-07"/>
+    <cosponsor bioguide_id="G000571" joined="2017-05-19"/>
+    <cosponsor bioguide_id="G000579" joined="2017-05-19"/>
+    <cosponsor bioguide_id="J000255" joined="2017-05-19"/>
+    <cosponsor bioguide_id="K000387" joined="2017-05-19"/>
+    <cosponsor bioguide_id="L000559" joined="2017-05-19"/>
+    <cosponsor bioguide_id="S001189" joined="2017-05-19"/>
+    <cosponsor bioguide_id="W000799" joined="2017-05-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-19">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2017-06-16">
+      <text>Referred to the Subcommittee on Readiness.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="Readiness" code="HSAS03" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2810"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

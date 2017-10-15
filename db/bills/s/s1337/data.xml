@@ -1,0 +1,44 @@
+<bill session="115" type="s" number="1337" updated="2017-10-04T04:49:56Z">
+  <state datetime="2017-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-12"/>
+  </status>
+  <introduced datetime="2017-06-12"/>
+  <titles>
+    <title type="short" as="introduced">Capitalizing on American Storage Potential Act</title>
+    <title type="short" as="introduced">Capitalizing on American Storage Potential Act</title>
+    <title type="official" as="introduced">A bill to amend the Energy Policy Act of 2005 to make certain strategic energy infrastructure projects eligible for certain loan guarantees, and for other purposes.</title>
+    <title type="display">Capitalizing on American Storage Potential Act</title>
+  </titles>
+  <sponsor bioguide_id="M001183"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000944" joined="2017-06-13"/>
+    <cosponsor bioguide_id="C001047" joined="2017-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-12">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2017-10-03">
+      <text>Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee subcommittee="Energy" code="SSEG01" name="Senate Energy and Natural Resources" activity="Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="3143"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-06-12T04:00:00Z" status="Introduced in Senate">Capitalizing on American Storage Potential Act
+
+This bill amends the Energy Policy Act of 2005 to expand the Department of Energy's existing loan guarantee program to any strategic energy infrastructure project that is a regional project which supports a more effective energy market performance and that has the potential to significantly contribute to the economic resilience of the region in which the project is located.</summary>
+  <committee-reports/>
+</bill>

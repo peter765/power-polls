@@ -1,0 +1,44 @@
+<bill session="115" type="s" number="1526" updated="2017-09-11T03:06:43Z">
+  <state datetime="2017-07-11">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-11"/>
+  </status>
+  <introduced datetime="2017-07-11"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Access to Care Act of 2017</title>
+    <title type="short" as="introduced">Veterans Access to Care Act of 2017</title>
+    <title type="official" as="introduced">A bill to appropriate amounts to the Department of Veterans Affairs to improve the provision of health care to veterans, and for other purposes.</title>
+    <title type="display">Veterans Access to Care Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="T000464"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001230" joined="2017-07-11"/>
+    <cosponsor bioguide_id="B001277" joined="2017-07-11"/>
+    <cosponsor bioguide_id="B000944" joined="2017-07-11"/>
+    <cosponsor bioguide_id="H001042" joined="2017-07-11"/>
+    <cosponsor bioguide_id="K000383" joined="2017-07-11"/>
+    <cosponsor bioguide_id="M001111" joined="2017-07-11"/>
+    <cosponsor bioguide_id="N000032" joined="2017-07-20"/>
+    <cosponsor bioguide_id="P000595" joined="2017-07-17"/>
+    <cosponsor bioguide_id="S000033" joined="2017-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-11">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1527"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

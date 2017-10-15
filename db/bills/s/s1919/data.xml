@@ -1,0 +1,39 @@
+<bill session="115" type="s" number="1919" updated="2017-10-12T15:30:16Z">
+  <state datetime="2017-10-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-04"/>
+  </status>
+  <introduced datetime="2017-10-04"/>
+  <titles>
+    <title type="short" as="introduced">Refuge from Cruel Trapping Act</title>
+    <title type="short" as="introduced">Refuge from Cruel Trapping Act</title>
+    <title type="official" as="introduced">A bill to end the use of body-gripping traps in the National Wildlife Refuge System.</title>
+    <title type="display">Refuge from Cruel Trapping Act</title>
+  </titles>
+  <sponsor bioguide_id="B001288"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001070" joined="2017-10-04"/>
+    <cosponsor bioguide_id="M001176" joined="2017-10-04"/>
+    <cosponsor bioguide_id="M001111" joined="2017-10-04"/>
+    <cosponsor bioguide_id="P000595" joined="2017-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-04">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-10-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="1438"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

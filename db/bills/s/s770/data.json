@@ -1,0 +1,363 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-03-29", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-29", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-04-05", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2017-09-11", 
+      "action_code": "", 
+      "committee": "Commerce, Science, and Transportation", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-153.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2017-09-11", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "217", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 217.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2017-09-28", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "CR S6232-6233", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-28", 
+      "action_code": "", 
+      "references": [], 
+      "text": "The committee substitute as amended agreed to by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-28", 
+      "action_code": "", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6233", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2017-09-29", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-02T14:04:48-04:00", 
+      "action_code": "H14000", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-02T16:51:02-04:00", 
+      "action_code": "H15000", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt977-115", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "977"
+    }
+  ], 
+  "bill_id": "s770-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [
+    "S. Rept. 115-153"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C000127", 
+      "district": null, 
+      "name": "Cantwell, Maria", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-29", 
+      "state": "WA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001113", 
+      "district": null, 
+      "name": "Cortez Masto, Catherine", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-04-04", 
+      "state": "NV", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000562", 
+      "district": null, 
+      "name": "Gardner, Cory", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-04-04", 
+      "state": "CO", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000555", 
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-05-03", 
+      "state": "NY", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001076", 
+      "district": null, 
+      "name": "Hassan, Margaret Wood", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-04-05", 
+      "state": "NH", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001170", 
+      "district": null, 
+      "name": "McCaskill, Claire", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-05-03", 
+      "state": "MO", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000032", 
+      "district": null, 
+      "name": "Nelson, Bill", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-29", 
+      "state": "FL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000584", 
+      "district": null, 
+      "name": "Risch, James E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-29", 
+      "state": "ID", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000250", 
+      "district": null, 
+      "name": "Thune, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-29", 
+      "state": "SD", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-09-11", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2017-09-28", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-03-29", 
+  "number": "770", 
+  "official_title": "A bill to require the Director of the National Institute of Standards and Technology to disseminate resources to help reduce small business cybersecurity risks, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2105-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "MAIN STREET Cybersecurity Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "S001194", 
+    "district": null, 
+    "name": "Schatz, Brian", 
+    "state": "HI", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2017-09-28", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Government information and archives", 
+    "Infrastructure development", 
+    "Science, technology, communications", 
+    "Small business"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced in Senate", 
+    "date": "2017-03-29T04:00:00Z", 
+    "text": "Making Available Information Now to Strengthen Trust and Resilience and Enhance Enterprise Technology Cybersecurity Act of 2017 or the MAIN STREET Cybersecurity Act of 2017\n\nThis bill amends the National Institute of Standards and Technology Act to require the National Institute of Standards and Technology (NIST) to consider small businesses when it facilitates and supports the development of voluntary, consensus-based, industry-led guidelines and procedures to cost-effectively reduce cyber risks to critical infrastructure.\n\nNIST must disseminate, and publish on its website, standard and method resources that small business may use voluntarily to help reduce their cybersecurity risks. The resources must be: (1) technology-neutral, (2) based on international standards to the extent possible, (3) able to vary with the nature and size of the implementing small business and the sensitivity of the data collected or stored on the information systems, and (4) consistent with the national cybersecurity awareness and education program under the Cybersecurity Enhancement Act of 2014.\n\nOther federal agencies that NIST considers appropriate must also publish the resources on their own websites."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "MAIN STREET Cybersecurity Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "MAIN STREET Cybersecurity Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Making Available Information Now to Strengthen Trust and Resilience and Enhance Enterprise Technology Cybersecurity Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Making Available Information Now to Strengthen Trust and Resilience and Enhance Enterprise Technology Cybersecurity Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "MAIN STREET Cybersecurity Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "MAIN STREET Cybersecurity Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Making Available Information Now to Strengthen Trust and Resilience and Enhance Enterprise Technology Cybersecurity Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Making Available Information Now to Strengthen Trust and Resilience and Enhance Enterprise Technology Cybersecurity Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "MAIN STREET Cybersecurity Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "MAIN STREET Cybersecurity Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Making Available Information Now to Strengthen Trust and Resilience and Enhance Enterprise Technology Cybersecurity Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Making Available Information Now to Strengthen Trust and Resilience and Enhance Enterprise Technology Cybersecurity Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require the Director of the National Institute of Standards and Technology to disseminate resources to help reduce small business cybersecurity risks, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "MAIN STREET Cybersecurity Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-04T04:48:32Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s770.xml"
+}

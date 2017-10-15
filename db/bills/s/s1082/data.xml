@@ -1,0 +1,39 @@
+<bill session="115" type="s" number="1082" updated="2017-08-10T12:26:52Z">
+  <state datetime="2017-05-10">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-10"/>
+  </status>
+  <introduced datetime="2017-05-10"/>
+  <titles>
+    <title type="short" as="introduced">United States Employee Ownership Bank Act</title>
+    <title type="short" as="introduced">United States Employee Ownership Bank Act</title>
+    <title type="official" as="introduced">A bill to provide for the establishment of the United States Employee Ownership Bank, and for other purposes.</title>
+    <title type="display">United States Employee Ownership Bank Act</title>
+  </titles>
+  <sponsor bioguide_id="S000033"/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000555" joined="2017-05-10"/>
+    <cosponsor bioguide_id="H001076" joined="2017-05-10"/>
+    <cosponsor bioguide_id="L000174" joined="2017-05-10"/>
+    <cosponsor bioguide_id="S001181" joined="2017-05-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-10">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="2357"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

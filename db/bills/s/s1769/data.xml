@@ -1,0 +1,44 @@
+<bill session="115" type="s" number="1769" updated="2017-10-13T15:12:12Z">
+  <state datetime="2017-10-04">REPORTED</state>
+  <status>
+    <unknown datetime="2017-10-04"/>
+  </status>
+  <introduced datetime="2017-09-07"/>
+  <titles>
+    <title type="short" as="introduced">Connected Government Act</title>
+    <title type="short" as="introduced">Connected Government Act</title>
+    <title type="official" as="introduced">A bill to require a new or updated Federal website that is intended for use by the public to be mobile friendly, and for other purposes.</title>
+    <title type="display">Connected Government Act</title>
+  </titles>
+  <sponsor bioguide_id="H001076"/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000562" joined="2017-09-07"/>
+    <cosponsor bioguide_id="M001170" joined="2017-10-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-07">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-09-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2017-10-04" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2331"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Internet and video services"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-08-29T16:00:13Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-09-27T14:45:09Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Accidents</name>
+          </item>
+          <item>
+            <name>Australia</name>
+          </item>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Oceania</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2017-08-29</actionDate>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2017-08-29</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2017-08-29</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText />
+    <createDate>2017-08-30T03:11:30Z</createDate>
+    <sponsors>
+      <item>
+        <bioguideId>N000179</bioguideId>
+        <lastName>NAPOLITANO</lastName>
+        <middleName>F.</middleName>
+        <firstName>GRACE</firstName>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <district>32</district>
+        <party>D</party>
+        <byRequestType />
+        <identifiers>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <billNumber>498</billNumber>
+    <congress>115</congress>
+    <notes />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-08-29</sponsorshipDate>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>E000298</bioguideId>
+        <state>KS</state>
+        <identifiers>
+          <lisID>2358</lisID>
+          <bioguideId>E000298</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Estes, Ron [R-KS-4]</fullName>
+        <party>R</party>
+        <lastName>Estes</lastName>
+        <firstName>Ron</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-08-29</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000611</bioguideId>
+        <state>ME</state>
+        <identifiers>
+          <bioguideId>P000611</bioguideId>
+          <lisID>2247</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Poliquin, Bruce [R-ME-2]</fullName>
+        <party>R</party>
+        <lastName>Poliquin</lastName>
+        <firstName>Bruce</firstName>
+        <middleName />
+      </item>
+    </cosponsors>
+    <laws />
+    <committeeReports />
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Extends the deepest sympathies of the House of Representatives to the families and friends of fallen Marines Lance Corporal Ruben Velasco of West Covina, California, Corporal Nathaniel Ordway of Wichita, Kansas, and Captain Benjamin Cross of Bethel, Maine, in their bereavement.</p>]]></text>
+          <actionDate>2017-08-29</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-08-29T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-09-27T14:43:02Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <title>Honoring the lives of Lance Corporal Ruben Velasco of West Covina, California, Corporal Nathaniel Ordway of Wichita, Kansas, and Captain Benjamin Cross of Bethel, Maine, who perished on August 5, 2017, during military operations off the coast of Australia.</title>
+    <introducedDate>2017-08-29</introducedDate>
+    <version>1.0.0</version>
+    <relatedBills />
+    <amendments />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-08-29</actionDate>
+      <links />
+      <text>Referred to the House Committee on Armed Services.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Honoring the lives of Lance Corporal Ruben Velasco of West Covina, California, Corporal Nathaniel Ordway of Wichita, Kansas, and Captain Benjamin Cross of Bethel, Maine, who perished on August 5, 2017, during military operations off the coast of Australia.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Honoring the lives of Lance Corporal Ruben Velasco of West Covina, California, Corporal Nathaniel Ordway of Wichita, Kansas, and Captain Benjamin Cross of Bethel, Maine, who perished on August 5, 2017, during military operations off the coast of Australia.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

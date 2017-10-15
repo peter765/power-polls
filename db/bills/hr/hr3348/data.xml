@@ -1,0 +1,36 @@
+<bill session="115" type="h" number="3348" updated="2017-09-11T02:55:18Z">
+  <state datetime="2017-07-20">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-20"/>
+  </status>
+  <introduced datetime="2017-07-20"/>
+  <titles>
+    <title type="short" as="introduced">Adding Middle East Respiratory Syndrome to the FDA Priority Review Voucher Program Act</title>
+    <title type="short" as="introduced">Adding Middle East Respiratory Syndrome to the FDA Priority Review Voucher Program Act</title>
+    <title type="official" as="introduced">To expand the tropical disease product priority review voucher program to encourage treatments for the Middle East respiratory syndrome.</title>
+    <title type="display">Adding Middle East Respiratory Syndrome to the FDA Priority Review Voucher Program Act</title>
+  </titles>
+  <sponsor bioguide_id="P000608"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001296" joined="2017-07-20"/>
+    <cosponsor bioguide_id="M001198" joined="2017-07-20"/>
+    <cosponsor bioguide_id="R000598" joined="2017-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-20">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-20" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

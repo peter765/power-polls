@@ -1,0 +1,40 @@
+<bill session="115" type="h" number="3283" updated="2017-09-11T03:06:14Z">
+  <state datetime="2017-07-18">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-18"/>
+  </status>
+  <introduced datetime="2017-07-18"/>
+  <titles>
+    <title type="official" as="introduced">To restrict the mailability of tableting machines, encapsulating machines, and controlled substance counterfeiting materials, and for other purposes.</title>
+    <title type="display">To restrict the mailability of tableting machines, encapsulating machines, and controlled substance counterfeiting materials, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="D000625"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-18">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-18" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-18">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-08-17">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="1781"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

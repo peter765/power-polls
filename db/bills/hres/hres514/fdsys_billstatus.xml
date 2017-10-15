@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+      <actionDate>2017-09-13</actionDate>
+    </latestAction>
+    <laws />
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-09-13T14:00:43Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HRES</billType>
+    <calendarNumbers />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Adult education and literacy</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Community life and organization</name>
+          </item>
+          <item>
+            <name>Family relationships</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Families</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2017-09-13</introducedDate>
+    <createDate>2017-09-14T03:11:18Z</createDate>
+    <amendments />
+    <cboCostEstimates />
+    <policyArea>
+      <name>Families</name>
+    </policyArea>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>J000174</bioguideId>
+          <lisID>603</lisID>
+          <gpoId>8159</gpoId>
+        </identifiers>
+        <bioguideId>J000174</bioguideId>
+        <middleName />
+        <lastName>JOHNSON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <firstName>SAM</firstName>
+        <district>3</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Johnson, Sam [R-TX-3]</fullName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000389</bioguideId>
+        <middleName />
+        <lastName>Khanna</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <firstName>Ro</firstName>
+        <district>17</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8140</gpoId>
+          <bioguideId>L000559</bioguideId>
+          <lisID>1668</lisID>
+        </identifiers>
+        <bioguideId>L000559</bioguideId>
+        <middleName>R.</middleName>
+        <lastName>LANGEVIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>RI</state>
+        <firstName>JAMES</firstName>
+        <district>2</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <middleName>HOLMES</middleName>
+        <lastName>NORTON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>DC</state>
+        <firstName>ELEANOR</firstName>
+        <district>0</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1940</lisID>
+          <gpoId>7493</gpoId>
+          <bioguideId>T000468</bioguideId>
+        </identifiers>
+        <bioguideId>T000468</bioguideId>
+        <middleName />
+        <lastName>Titus</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NV</state>
+        <firstName>Dina</firstName>
+        <district>1</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-09-14</actionDate>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5748-5749; text: CR S5748-5749)</text>
+        </latestAction>
+        <type>SRES</type>
+        <latestTitle>A resolution expressing support for the designation of the week of September 11 through September 15, 2017, as "National Family Service Learning Week".</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>259</number>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <title>Expressing support for designation of the week of September 11 through 15, 2017, as "National Family Service Learning Week".</title>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-09-13</actionDate>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-09-13</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-09-13</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <constitutionalAuthorityStatementText />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Supports the designation of National Family Service Learning Week to raise awareness about the importance of family service learning, family literacy, community service, and two-generational learning experiences.</p>]]></text>
+          <updateDate>2017-09-13T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-09-28T18:24:10Z</lastSummaryUpdateDate>
+          <actionDate>2017-09-13</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing support for designation of the week of September 11 through 15, 2017, as "National Family Service Learning Week".</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing support for designation of the week of September 11 through 15, 2017, as "National Family Service Learning Week".</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2017-10-06T15:30:20Z</updateDate>
+    <sponsors>
+      <item>
+        <middleName>A.</middleName>
+        <firstName>John</firstName>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <bioguideId>Y000062</bioguideId>
+        <lastName>Yarmuth</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>Y000062</bioguideId>
+          <lisID>1853</lisID>
+          <gpoId>7955</gpoId>
+        </identifiers>
+        <state>KY</state>
+        <district>3</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billNumber>514</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

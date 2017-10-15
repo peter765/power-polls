@@ -1,0 +1,60 @@
+<bill session="115" type="h" number="3775" updated="2017-10-05T07:16:46Z">
+  <state datetime="2017-09-14">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-14"/>
+  </status>
+  <introduced datetime="2017-09-14"/>
+  <titles>
+    <title type="short" as="introduced">Immigration in the National Interest Act of 2017</title>
+    <title type="short" as="introduced">Immigration in the National Interest Act of 2017</title>
+    <title type="official" as="introduced">To amend the Immigration and Nationality Act to establish a skills-based immigration points system, to focus family-sponsored immigration on spouses and minor children, to eliminate the Diversity Visa Program, to set a limit on the number of refugees admitted annually to the United States, and for other purposes.</title>
+    <title type="display">Immigration in the National Interest Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="S000583"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001299" joined="2017-09-14"/>
+    <cosponsor bioguide_id="B001269" joined="2017-09-27"/>
+    <cosponsor bioguide_id="B001290" joined="2017-09-14"/>
+    <cosponsor bioguide_id="B001274" joined="2017-09-14"/>
+    <cosponsor bioguide_id="C001103" joined="2017-09-14"/>
+    <cosponsor bioguide_id="D000626" joined="2017-09-14"/>
+    <cosponsor bioguide_id="D000615" joined="2017-09-14"/>
+    <cosponsor bioguide_id="D000533" joined="2017-09-14"/>
+    <cosponsor bioguide_id="H001052" joined="2017-09-14"/>
+    <cosponsor bioguide_id="H001071" joined="2017-09-14"/>
+    <cosponsor bioguide_id="H001067" joined="2017-10-04"/>
+    <cosponsor bioguide_id="H001048" joined="2017-09-14"/>
+    <cosponsor bioguide_id="J000255" joined="2017-09-14"/>
+    <cosponsor bioguide_id="K000362" joined="2017-09-14"/>
+    <cosponsor bioguide_id="M001158" joined="2017-09-14"/>
+    <cosponsor bioguide_id="M001157" joined="2017-09-14"/>
+    <cosponsor bioguide_id="P000605" joined="2017-09-14"/>
+    <cosponsor bioguide_id="P000606" joined="2017-09-18"/>
+    <cosponsor bioguide_id="R000607" joined="2017-09-14"/>
+    <cosponsor bioguide_id="W000806" joined="2017-09-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-14">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-14" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-09-28">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="354"/>
+    <bill type="s" session="115" relation="unknown" number="1720"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

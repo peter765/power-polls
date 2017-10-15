@@ -1,0 +1,39 @@
+<bill session="115" type="s" number="1845" updated="2017-09-29T04:34:20Z">
+  <state datetime="2017-09-19">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-19"/>
+  </status>
+  <introduced datetime="2017-09-19"/>
+  <titles>
+    <title type="short" as="introduced">Lead-Safe Housing for Kids Act of 2017</title>
+    <title type="short" as="introduced">Lead-Safe Housing for Kids Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend the Lead-Based Paint Poisoning Prevention Act to provide for additional procedures for families with children under the age of 6, and for other purposes.</title>
+    <title type="display">Lead-Safe Housing for Kids Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="D000563"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000607" joined="2017-09-19"/>
+    <cosponsor bioguide_id="D000622" joined="2017-09-19"/>
+    <cosponsor bioguide_id="M000639" joined="2017-09-19"/>
+    <cosponsor bioguide_id="S001184" joined="2017-09-19"/>
+    <cosponsor bioguide_id="Y000064" joined="2017-09-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-19">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-09-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <reference ref="CR S5864-5865" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-02-28</introducedDate>
+    <title>Providing for consideration of the bill (H.R. 1004) to amend chapter 3 of title 5, United States Code, to require the publication of information relating to pending agency regulatory actions, and for other purposes, and providing for consideration of the bill (H.R. 1009) to amend title 44, United States Code, to require the Administrator of the Office of Information and Regulatory Affairs to review regulations, and for other purposes.</title>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billNumber>156</billNumber>
+    <version>1.0.0</version>
+    <latestAction>
+      <links />
+      <actionDate>2017-03-01</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>15:21:48</actionTime>
+    </latestAction>
+    <createDate>2017-03-01T05:20:49Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-02-28T21:34:25Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <constitutionalAuthorityStatementText />
+    <sponsors>
+      <item>
+        <bioguideId>S000250</bioguideId>
+        <party>R</party>
+        <firstName>PETE</firstName>
+        <state>TX</state>
+        <byRequestType />
+        <middleName />
+        <lastName>SESSIONS</lastName>
+        <identifiers>
+          <lisID>1525</lisID>
+          <bioguideId>S000250</bioguideId>
+          <gpoId>8188</gpoId>
+        </identifiers>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <district>32</district>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <number>1004</number>
+        <latestTitle>Regulatory Integrity Act of 2017</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-03-02</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+      </item>
+      <item>
+        <number>1009</number>
+        <latestTitle>OIRA Insight, Reform, and Accountability Act</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-03-02</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors />
+    <congress>115</congress>
+    <actions>
+      <actionTypeCounts>
+        <provisionsOfARule>1</provisionsOfARule>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <considerationByHouse>2</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <generalDebate>2</generalDebate>
+        <reportedToHouse>1</reportedToHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <actionCode>H38310</actionCode>
+        <actionTime>15:21:48</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-03-01</actionDate>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>Roll no. 116</name>
+            <url>http://clerk.house.gov/evs/2017/roll116.xml</url>
+          </link>
+        </links>
+        <actionCode>H37100</actionCode>
+        <actionTime>15:21:47</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-03-01</actionDate>
+        <committee />
+        <text>On agreeing to the resolution Agreed to by recorded vote: 234 - 180 (Roll no. 116). (text: CR 1403-1404)</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>Roll no. 116</name>
+            <url>http://clerk.house.gov/evs/2017/roll116.xml</url>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <actionTime>15:21:47</actionTime>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-03-01</actionDate>
+        <committee />
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 234 - 180 (Roll no. 116).(text: CR 1403-1404)</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H1408</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1408</url>
+          </link>
+          <link>
+            <name>H1419-1420</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1419-1420</url>
+          </link>
+          <link>
+            <name>Roll no. 115</name>
+            <url>http://clerk.house.gov/evs/2017/roll115.xml</url>
+          </link>
+        </links>
+        <actionCode>H35000</actionCode>
+        <actionTime>15:14:56</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-03-01</actionDate>
+        <committee />
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 233 - 189 (Roll no. 115). (consideration: CR H1408, H1419-1420)</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H1419-1421</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1419-1421</url>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <actionTime>15:08:28</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-03-01</actionDate>
+        <committee />
+        <text>Considered as unfinished business. (consideration: CR H1419-1421)</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H.Res. 156</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/156</url>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <actionTime>13:07:26</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-03-01</actionDate>
+        <committee />
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 156, the Chair put the question on ordering the previous question and by voice vote, announced that the ayes had prevailed. Mr. Polis demanded the yeas and nays and the Chair postponed further proceedings on ordering the previous question until later in the legislative day.</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H. Res. 156</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/156</url>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <actionTime>12:29:04</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-03-01</actionDate>
+        <committee />
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 156.</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H1403-1408</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1403-1408</url>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <actionTime>12:24:55</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-03-01</actionDate>
+        <committee />
+        <text>Considered as privileged matter. (consideration: CR H1403-1408)</text>
+      </item>
+      <item>
+        <text>Placed on the House Calendar, Calendar No. 14.</text>
+        <actionCode>H12420</actionCode>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Calendars</type>
+        <actionDate>2017-02-28</actionDate>
+        <committee />
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H.R. 1004</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1004</url>
+          </link>
+          <link>
+            <name>H.R. 1009</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1009</url>
+          </link>
+        </links>
+        <actionCode>H12700</actionCode>
+        <actionTime>16:34:26</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-02-28</actionDate>
+        <committee />
+        <text>Providing for consideration of H.R. 1004 and H.R. 1009.</text>
+      </item>
+      <item>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-21, by Mr. Sessions.</text>
+        <actionCode>H12100</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-21</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/21</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2017-02-28</actionDate>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-21, by Mr. Sessions.</text>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-21</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/21</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2017-02-28</actionDate>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-02-28</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers>
+      <item>
+        <calendar>H00014</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <amendments />
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-21</citation>
+      </committeeReport>
+    </committeeReports>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-02-28T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2017-02-28</actionDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 1004) to amend chapter 3 of title 5, United States Code, to require the publication of information relating to pending agency regulatory actions, and for other purposes, and providing for consideration of the bill (H.R. 1009) to amend title 44, United States Code, to require the Administrator of the Office of Information and Regulatory Affairs to review regulations.]]></text>
+          <lastSummaryUpdateDate>2017-03-01T09:03:34Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2017-08-10T13:23:03Z</updateDate>
+    <recordedVotes>
+      <recordedVote>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-03-01T20:21:47Z</date>
+        <rollNumber>116</rollNumber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll116.xml</url>
+        <chamber>House</chamber>
+      </recordedVote>
+      <recordedVote>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-03-01T20:14:56Z</date>
+        <rollNumber>115</rollNumber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll115.xml</url>
+        <chamber>House</chamber>
+      </recordedVote>
+    </recordedVotes>
+    <billType>HRES</billType>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for consideration of the bill (H.R. 1004) to amend chapter 3 of title 5, United States Code, to require the publication of information relating to pending agency regulatory actions, and for other purposes, and providing for consideration of the bill (H.R. 1009) to amend title 44, United States Code, to require the Administrator of the Office of Information and Regulatory Affairs to review regulations, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for consideration of the bill (H.R. 1004) to amend chapter 3 of title 5, United States Code, to require the publication of information relating to pending agency regulatory actions, and for other purposes, and providing for consideration of the bill (H.R. 1009) to amend title 44, United States Code, to require the Administrator of the Office of Information and Regulatory Affairs to review regulations, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,44 @@
+<bill session="115" type="h" number="3949" updated="2017-10-12T14:00:17Z">
+  <state datetime="2017-10-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-04"/>
+  </status>
+  <introduced datetime="2017-10-04"/>
+  <titles>
+    <title type="short" as="introduced">VALOR Act</title>
+    <title type="short" as="introduced">VALOR Act</title>
+    <title type="short" as="introduced">Veterans Apprenticeship and Labor Opportunity Reform Act</title>
+    <title type="short" as="introduced">Veterans Apprenticeship and Labor Opportunity Reform Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for the designation of State approving agencies for multi-State apprenticeship programs for purposes of the educational assistance programs of the Department of Veterans Affairs.</title>
+    <title type="display">VALOR Act</title>
+  </titles>
+  <sponsor bioguide_id="K000389"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000375" joined="2017-10-04"/>
+    <cosponsor bioguide_id="O000170" joined="2017-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-04">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-04" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-10-04">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2017-10-11">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Hearings, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

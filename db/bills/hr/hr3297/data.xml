@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="3297" updated="2017-09-11T03:06:14Z">
+  <state datetime="2017-07-19">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-19"/>
+  </status>
+  <introduced datetime="2017-07-19"/>
+  <titles>
+    <title type="short" as="introduced">Paperwork Reduction for Farmers Act</title>
+    <title type="short" as="introduced">Paperwork Reduction for Farmers Act</title>
+    <title type="official" as="introduced">To streamline the application process for H-2A employers and for other purposes.</title>
+    <title type="display">Paperwork Reduction for Farmers Act</title>
+  </titles>
+  <sponsor bioguide_id="K000388"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-19">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-19" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-08-17">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="1578"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

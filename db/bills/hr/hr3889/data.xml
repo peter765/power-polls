@@ -1,0 +1,41 @@
+<bill session="115" type="h" number="3889" updated="2017-10-12T07:17:23Z">
+  <state datetime="2017-09-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-28"/>
+  </status>
+  <introduced datetime="2017-09-28"/>
+  <titles>
+    <title type="short" as="introduced">Waiving Hindrances to Economic Enterprise and Labor Act</title>
+    <title type="short" as="introduced">Waiving Hindrances to Economic Enterprise and Labor Act</title>
+    <title type="short" as="introduced">WHEEL Act</title>
+    <title type="short" as="introduced">WHEEL Act</title>
+    <title type="official" as="introduced">To amend the FAST Act to modify eligibility requirements for participation in a commercial driver pilot program, and for other purposes.</title>
+    <title type="display">WHEEL Act</title>
+  </titles>
+  <sponsor bioguide_id="T000478"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001063" joined="2017-10-11"/>
+    <cosponsor bioguide_id="G000577" joined="2017-10-10"/>
+    <cosponsor bioguide_id="H001077" joined="2017-09-28"/>
+    <cosponsor bioguide_id="L000566" joined="2017-10-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-28" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-09-29">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

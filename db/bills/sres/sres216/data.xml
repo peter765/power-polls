@@ -1,0 +1,39 @@
+<bill session="115" type="sr" number="216" updated="2017-09-11T03:06:22Z">
+  <state datetime="2017-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-10"/>
+  </status>
+  <introduced datetime="2017-07-10"/>
+  <titles>
+    <title type="official" as="introduced">A resolution calling on the Government of Iran to release unjustly detained United States citizens and legal permanent resident aliens, and for other purposes.</title>
+    <title type="display">A resolution calling on the Government of Iran to release unjustly detained United States citizens and legal permanent resident aliens, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="C001098"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-10">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-10" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="115" relation="unknown" number="317"/>
+    <bill type="sr" session="115" relation="unknown" number="245"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Detention of persons"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Human rights"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Iran"/>
+    <term name="Middle East"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

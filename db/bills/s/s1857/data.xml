@@ -1,0 +1,36 @@
+<bill session="115" type="s" number="1857" updated="2017-10-05T04:32:14Z">
+  <state datetime="2017-09-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-26"/>
+  </status>
+  <introduced datetime="2017-09-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish a compliance deadline of May 15, 2023, for Step 2 emissions standards for new residential wood heaters, new residential hydronic heaters, and forced-air furnaces.</title>
+    <title type="display">A bill to establish a compliance deadline of May 15, 2023, for Step 2 emissions standards for new residential wood heaters, new residential hydronic heaters, and forced-air furnaces.</title>
+  </titles>
+  <sponsor bioguide_id="C001047"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001183" joined="2017-09-26"/>
+    <cosponsor bioguide_id="M001170" joined="2017-09-26"/>
+    <cosponsor bioguide_id="S000320" joined="2017-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-26">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-09-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="453"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

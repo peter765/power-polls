@@ -1,0 +1,42 @@
+<bill session="115" type="h" number="1934" updated="2017-09-14T07:15:55Z">
+  <state datetime="2017-04-05">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-05"/>
+  </status>
+  <introduced datetime="2017-04-05"/>
+  <titles>
+    <title type="official" as="introduced">To establish a 5-year ban on individuals appointed to Executive Schedule positions and Members of Congress engaging in lobbying activities at the Federal level.</title>
+    <title type="display">To establish a 5-year ban on individuals appointed to Executive Schedule positions and Members of Congress engaging in lobbying activities at the Federal level.</title>
+  </titles>
+  <sponsor bioguide_id="G000579"/>
+  <cosponsors>
+    <cosponsor bioguide_id="F000466" joined="2017-09-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-05">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-05" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-04-26">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="522"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federal officials"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Members of Congress"/>
+    <term name="Public participation and lobbying"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

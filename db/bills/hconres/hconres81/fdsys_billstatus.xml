@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Directing the President pursuant to section 5(c) of the War Powers Resolution to remove United States Armed Forces from unauthorized hostilities in the Republic of Yemen.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Directing the President pursuant to section 5(c) of the War Powers Resolution to remove United States Armed Forces from unauthorized hostilities in the Republic of Yemen.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <title>Directing the President pursuant to section 5(c) of the War Powers Resolution to remove United States Armed Forces from unauthorized hostilities in the Republic of Yemen.</title>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-27T19:02:45Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>81</billNumber>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <district>4</district>
+        <identifiers>
+          <lisID>2094</lisID>
+          <bioguideId>M001184</bioguideId>
+          <gpoId>8371</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <bioguideId>M001184</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Thomas</firstName>
+        <state>KY</state>
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Massie</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>2</district>
+        <identifiers>
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <bioguideId>P000607</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <state>WI</state>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Pocan</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <bioguideId>J000255</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>WALTER</firstName>
+        <state>NC</state>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <lastName>JONES</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>13</district>
+        <identifiers>
+          <lisID>229</lisID>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>C000714</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <state>MI</state>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>CONYERS</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>33</district>
+        <identifiers>
+          <lisID>2230</lisID>
+          <bioguideId>L000582</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>L000582</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ted</firstName>
+        <state>CA</state>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Lieu</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>7</district>
+        <identifiers>
+          <lisID>1564</lisID>
+          <bioguideId>C001037</bioguideId>
+          <gpoId>7973</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>C001037</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>MICHAEL</firstName>
+        <state>MA</state>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <lastName>CAPUANO</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>5</district>
+        <identifiers>
+          <bioguideId>E000288</bioguideId>
+          <gpoId>8005</gpoId>
+          <lisID>1857</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>E000288</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Keith</firstName>
+        <state>MN</state>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Ellison</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>M000312</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+        <state>MA</state>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <lastName>MCGOVERN</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>13</district>
+        <identifiers>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>L000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>BARBARA</firstName>
+        <state>CA</state>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>LEE</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>8</district>
+        <identifiers>
+          <lisID>2332</lisID>
+          <bioguideId>R000606</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>R000606</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jamie</firstName>
+        <state>MD</state>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Raskin</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>7</district>
+        <identifiers>
+          <lisID>2354</lisID>
+          <gpoId />
+          <bioguideId>J000298</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>J000298</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Pramila</firstName>
+        <state>WA</state>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Jayapal</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>2</district>
+        <identifiers>
+          <lisID>2122</lisID>
+          <bioguideId>G000571</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>G000571</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tulsi</firstName>
+        <state>HI</state>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Gabbard</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>37</district>
+        <identifiers>
+          <lisID>1996</lisID>
+          <bioguideId>B001270</bioguideId>
+          <gpoId>7838</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>B001270</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Karen</firstName>
+        <state>CA</state>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Bass</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>6</district>
+        <identifiers>
+          <bioguideId>P000034</bioguideId>
+          <lisID>887</lisID>
+          <gpoId>8048</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>P000034</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>FRANK</firstName>
+        <state>NJ</state>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>PALLONE</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>4</district>
+        <identifiers>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>D000191</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>PETER</firstName>
+        <state>OR</state>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <lastName>DEFAZIO</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>8</district>
+        <identifiers>
+          <lisID>867</lisID>
+          <gpoId />
+          <bioguideId>N000127</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>N000127</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>RICHARD</firstName>
+        <state>MN</state>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>NOLAN</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>19</district>
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+          <lisID>701</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>L000397</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>ZOE</firstName>
+        <state>CA</state>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>LOFGREN</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>9</district>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>C001068</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <state>TN</state>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Cohen</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>25</district>
+        <identifiers>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+          <bioguideId>S000480</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>S000480</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>LOUISE</firstName>
+        <state>NY</state>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <lastName>SLAUGHTER</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>3</district>
+        <identifiers>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>B000574</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>EARL</firstName>
+        <state>OR</state>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>BLUMENAUER</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>0</district>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELEANOR</firstName>
+        <state>DC</state>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>HOLMES</middleName>
+        <lastName>NORTON</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>12</district>
+        <identifiers>
+          <lisID>2251</lisID>
+          <bioguideId>D000624</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <bioguideId>D000624</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Debbie</firstName>
+        <state>MI</state>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Dingell</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>1</district>
+        <identifiers>
+          <lisID>1856</lisID>
+          <bioguideId>W000799</bioguideId>
+          <gpoId>8001</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <bioguideId>W000799</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Timothy</firstName>
+        <state>MN</state>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <lastName>Walz</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>35</district>
+        <identifiers>
+          <bioguideId>D000399</bioguideId>
+          <lisID>303</lisID>
+          <gpoId>8181</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <bioguideId>D000399</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>LLOYD</firstName>
+        <state>TX</state>
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>DOGGETT</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>0</district>
+        <identifiers>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+          <lisID>1879</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <bioguideId>W000800</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Peter</firstName>
+        <state>VT</state>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Welch</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <bioguideId>G000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Raul</firstName>
+        <state>AZ</state>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <lastName>Grijalva</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>1</district>
+        <identifiers>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <bioguideId>R000515</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>BOBBY</firstName>
+        <state>IL</state>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <lastName>RUSH</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>4</district>
+        <identifiers>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <bioguideId>M001143</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>BETTY</firstName>
+        <state>MN</state>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>MCCOLLUM</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>5</district>
+        <identifiers>
+          <lisID>2196</lisID>
+          <gpoId />
+          <bioguideId>C001101</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <bioguideId>C001101</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Katherine</firstName>
+        <state>MA</state>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <lastName>Clark</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>27</district>
+        <identifiers>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <bioguideId>C001080</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Judy</firstName>
+        <state>CA</state>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Chu</lastName>
+      </item>
+    </cosponsors>
+    <updateDate>2017-10-13T07:15:33Z</updateDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>Khanna</lastName>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+          <gpoId />
+          <lisID>2308</lisID>
+        </identifiers>
+        <bioguideId>K000389</bioguideId>
+        <district>17</district>
+        <middleName />
+        <firstName>Ro</firstName>
+        <byRequestType />
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText />
+    <notes />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2017-09-27T04:00:00Z</updateDate>
+          <text><![CDATA[<p> Directs the President to remove U.S. Armed Forces from hostilities in the Republic of Yemen, except those engaged in operations directed at Al Qaeda in the Arabian Peninsula, within 30 days after adoption of this concurrent resolution, unless the President requests and Congress authorizes a later date, and unless and until a declaration of war or specific authorization for the use of U.S. Armed Forces has been enacted. </p>]]></text>
+          <actionDate>2017-09-27</actionDate>
+          <lastSummaryUpdateDate>2017-10-10T16:34:51Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionCode>H8D000</actionCode>
+        <actionTime>17:03:19</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <name>H.Con.Res. 81</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-concurrent-resolution/81</url>
+          </link>
+        </links>
+        <text>UNANIMOUS CONSENT - Mr. Collins (GA) asked unanimous consent that the provisions of section 7 of the War Powers Resolution (50 U.S.C. 1546) shall apply to H.Con.Res. 81 not earlier than November 2, 2017, but on the same terms that would have adhered on October 13, 2017. Agreed to without objection.</text>
+      </item>
+      <item>
+        <actionDate>2017-09-27</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+      </item>
+      <item>
+        <actionDate>2017-09-27</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-09-27</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <generalDebate>1</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <createDate>2017-09-28T03:11:17Z</createDate>
+    <billType>HCONRES</billType>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>War and emergency powers</name>
+          </item>
+          <item>
+            <name>Yemen</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionTime>17:03:19</actionTime>
+      <links />
+      <actionDate>2017-10-11</actionDate>
+      <text>UNANIMOUS CONSENT - Mr. Collins (GA) asked unanimous consent that the provisions of section 7 of the War Powers Resolution (50 U.S.C. 1546) shall apply to H.Con.Res. 81 not earlier than November 2, 2017, but on the same terms that would have adhered on October 13, 2017. Agreed to without objection.</text>
+    </latestAction>
+    <committeeReports />
+    <congress>115</congress>
+    <introducedDate>2017-09-27</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

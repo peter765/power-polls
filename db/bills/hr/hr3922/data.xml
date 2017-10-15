@@ -1,0 +1,46 @@
+<bill session="115" type="h" number="3922" updated="2017-10-12T13:45:15Z">
+  <state datetime="2017-10-04">REPORTED</state>
+  <status>
+    <unknown datetime="2017-10-04"/>
+  </status>
+  <introduced datetime="2017-10-03"/>
+  <titles>
+    <title type="short" as="introduced">CHAMPION Act</title>
+    <title type="short" as="introduced">CHAMPION Act</title>
+    <title type="short" as="introduced">Community Health And Medical Professionals Improve Our Nation Act of 2017</title>
+    <title type="short" as="introduced">Community Health And Medical Professionals Improve Our Nation Act of 2017</title>
+    <title type="official" as="introduced">To extend funding for certain public health programs, and for other purposes.</title>
+    <title type="display">CHAMPION Act</title>
+  </titles>
+  <sponsor bioguide_id="W000791"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-10-03">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-03" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-10-03">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-10-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-10-04" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 28 - 23.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Markup, Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="3900"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

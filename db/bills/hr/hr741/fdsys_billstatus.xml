@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-09</actionDate>
+        <committee>
+          <systemCode>hswm02</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-03</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-01-30</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Ways and Means</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-01-30</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Energy and Commerce</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-01-30</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-01-30</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-01-30</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-01-31T05:23:09Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-30T17:05:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-02-09T22:08:11Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hswm02</systemCode>
+            </item>
+          </subcommittees>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-30T17:04:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-02-03T15:55:56Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>741</billNumber>
+    <sponsors>
+      <item>
+        <district>2</district>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <identifiers>
+          <gpoId>7950</gpoId>
+          <lisID>1921</lisID>
+          <bioguideId>J000290</bioguideId>
+        </identifiers>
+        <lastName>Jenkins</lastName>
+        <bioguideId>J000290</bioguideId>
+        <party>R</party>
+        <state>KS</state>
+        <firstName>Lynn</firstName>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2017-01-30</introducedDate>
+    <relatedBills>
+      <item>
+        <number>243</number>
+        <type>S</type>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-01-30</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Rural Hospital Regulatory Relief Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <title>Rural Hospital Regulatory Relief Act of 2017</title>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2017-10-07T07:15:28Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-01-30T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-02-14T21:56:15Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-30</actionDate>
+          <text><![CDATA[<p><strong>Rural Hospital Regulatory Relief Act of 2017</strong></p> <p>This bill amends title XVIII (Medicare) of the Social Security Act to permanently extend the application by the Centers for Medicare &amp; Medicaid Services of an instruction&nbsp;against&nbsp;the enforcement of&nbsp;certain physician supervision requirements with respect to outpatient therapeutic services in critical access hospitals and small rural hospitals.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2017-02-09</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <lastName>Loebsack</lastName>
+        <bioguideId>L000565</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000565</bioguideId>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+        </identifiers>
+        <state>IA</state>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <lastName>Smith</lastName>
+        <bioguideId>S001172</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Adrian</firstName>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>S001172</bioguideId>
+          <lisID>1860</lisID>
+          <gpoId>8040</gpoId>
+        </identifiers>
+        <state>NE</state>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <lastName>PETERSON</lastName>
+        <bioguideId>P000258</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>COLLIN</firstName>
+        <middleName>C.</middleName>
+        <party>D</party>
+        <identifiers>
+          <lisID>910</lisID>
+          <bioguideId>P000258</bioguideId>
+          <gpoId>8007</gpoId>
+        </identifiers>
+        <state>MN</state>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <lastName>O'Halleran</lastName>
+        <bioguideId>O000171</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>O000171</bioguideId>
+          <lisID>2306</lisID>
+          <gpoId />
+        </identifiers>
+        <state>AZ</state>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <fullName>Rep. Hensarling, Jeb [R-TX-5]</fullName>
+        <lastName>Hensarling</lastName>
+        <bioguideId>H001036</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeb</firstName>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>1749</lisID>
+          <gpoId>8161</gpoId>
+          <bioguideId>H001036</bioguideId>
+        </identifiers>
+        <state>TX</state>
+        <sponsorshipDate>2017-03-06</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <lastName>Cramer</lastName>
+        <bioguideId>C001096</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kevin</firstName>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>2144</lisID>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <state>ND</state>
+        <sponsorshipDate>2017-03-20</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <lastName>Tipton</lastName>
+        <bioguideId>T000470</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Scott</firstName>
+        <middleName>R.</middleName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7861</gpoId>
+          <lisID>1997</lisID>
+          <bioguideId>T000470</bioguideId>
+        </identifiers>
+        <state>CO</state>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <lastName>Lujan</lastName>
+        <bioguideId>L000570</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ben</firstName>
+        <middleName>Ray</middleName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8058</gpoId>
+          <lisID>1939</lisID>
+          <bioguideId>L000570</bioguideId>
+        </identifiers>
+        <state>NM</state>
+        <sponsorshipDate>2017-04-12</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <lastName>Marshall</lastName>
+        <bioguideId>M001198</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Roger</firstName>
+        <middleName>W.</middleName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2328</lisID>
+          <bioguideId>M001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>KS</state>
+        <sponsorshipDate>2017-04-17</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <lastName>Walz</lastName>
+        <bioguideId>W000799</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Timothy</firstName>
+        <middleName>J.</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>W000799</bioguideId>
+          <lisID>1856</lisID>
+          <gpoId>8001</gpoId>
+        </identifiers>
+        <state>MN</state>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+        <lastName>Duffy</lastName>
+        <bioguideId>D000614</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Sean</firstName>
+        <middleName>P.</middleName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>D000614</bioguideId>
+          <gpoId>8220</gpoId>
+          <lisID>2072</lisID>
+        </identifiers>
+        <state>WI</state>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <lastName>Rosen</lastName>
+        <bioguideId>R000608</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jacky</firstName>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+          <lisID>2339</lisID>
+          <gpoId />
+        </identifiers>
+        <state>NV</state>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <lastName>KIND</lastName>
+        <bioguideId>K000188</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>RON</firstName>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <state>WI</state>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Fortenberry, Jeff [R-NE-1]</fullName>
+        <lastName>Fortenberry</lastName>
+        <bioguideId>F000449</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeff</firstName>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>1793</lisID>
+          <bioguideId>F000449</bioguideId>
+          <gpoId>8038</gpoId>
+        </identifiers>
+        <state>NE</state>
+        <sponsorshipDate>2017-09-12</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <fullName>Rep. Gianforte, Greg [R-MT-At Large]</fullName>
+        <lastName>Gianforte</lastName>
+        <bioguideId>G000584</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Greg</firstName>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000584</bioguideId>
+          <lisID>2359</lisID>
+          <gpoId />
+        </identifiers>
+        <state>MT</state>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Bishop, Rob [R-UT-1]</fullName>
+        <lastName>Bishop</lastName>
+        <bioguideId>B001250</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Rob</firstName>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001250</bioguideId>
+          <lisID>1753</lisID>
+          <gpoId>8189</gpoId>
+        </identifiers>
+        <state>UT</state>
+        <sponsorshipDate>2017-10-06</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. Estes, Ron [R-KS-4]</fullName>
+        <lastName>Estes</lastName>
+        <bioguideId>E000298</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ron</firstName>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>2358</lisID>
+          <bioguideId>E000298</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>KS</state>
+        <sponsorshipDate>2017-10-06</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Home and outpatient care</name>
+          </item>
+          <item>
+            <name>Hospital care</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Rural Hospital Regulatory Relief Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Rural Hospital Regulatory Relief Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XVIII of the Social Security Act to provide for a permanent extension of the enforcement instruction on Medicare supervision requirements for outpatient therapeutic services in critical access and small rural hospitals.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Rural Hospital Regulatory Relief Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. JENKINS of Kansas:H.R. 741.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8:The Congress shall have Power To lay and collect Taxes,Duties, Imposts and Excises, to pay the Debts and provide forthe common Defense and general Welfare of the United States;but all Duties, Imposts and Excises shall be uniformthroughout the United States.Article I, Section 9:No Money shall be drawn from the Treasury, but inConsequence of Appropriations made by Law.[Page H746]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,48 @@
+<bill session="115" type="h" number="2916" updated="2017-07-21T07:16:22Z">
+  <state datetime="2017-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-15"/>
+  </status>
+  <introduced datetime="2017-06-15"/>
+  <titles>
+    <title type="short" as="introduced">Charities Helping Americans Regularly Throughout the Year Act of 2017</title>
+    <title type="short" as="introduced">Charities Helping Americans Regularly Throughout the Year Act of 2017</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code to extend and modify certain charitable tax provisions.</title>
+    <title type="display">Charities Helping Americans Regularly Throughout the Year Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="K000376"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000574" joined="2017-06-15"/>
+    <cosponsor bioguide_id="D000624" joined="2017-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-15">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-15" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="587"/>
+    <bill type="s" session="115" relation="identical" number="1343"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Business investment and capital"/>
+    <term name="Charitable contributions"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Financial services and investments"/>
+    <term name="Income tax deductions"/>
+    <term name="Income tax exclusion"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Tax-exempt organizations"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

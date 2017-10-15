@@ -1,0 +1,49 @@
+<bill session="115" type="s" number="1133" updated="2017-06-19T22:15:15Z">
+  <state datetime="2017-05-16">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-16"/>
+  </status>
+  <introduced datetime="2017-05-16"/>
+  <titles>
+    <title type="short" as="introduced">Patient Access to Higher Quality Health Care Act of 2017</title>
+    <title type="short" as="introduced">Patient Access to Higher Quality Health Care Act of 2017</title>
+    <title type="official" as="introduced">A bill to repeal changes made by health care reform laws to the Medicare exception to the prohibition on certain physician referrals for hospitals, and for other purposes.</title>
+    <title type="display">Patient Access to Higher Quality Health Care Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="L000575"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001261" joined="2017-05-16"/>
+    <cosponsor bioguide_id="B001236" joined="2017-05-16"/>
+    <cosponsor bioguide_id="C001075" joined="2017-05-16"/>
+    <cosponsor bioguide_id="C001056" joined="2017-05-16"/>
+    <cosponsor bioguide_id="C001095" joined="2017-05-16"/>
+    <cosponsor bioguide_id="C000880" joined="2017-05-16"/>
+    <cosponsor bioguide_id="C001098" joined="2017-06-06"/>
+    <cosponsor bioguide_id="I000024" joined="2017-05-16"/>
+    <cosponsor bioguide_id="T000476" joined="2017-05-16"/>
+    <cosponsor bioguide_id="Y000064" joined="2017-05-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-16">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="1156"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health personnel"/>
+    <term name="Medical ethics"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

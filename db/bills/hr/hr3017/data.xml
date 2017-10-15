@@ -1,0 +1,70 @@
+<bill session="115" type="h" number="3017" updated="2017-10-13T07:23:19Z">
+  <state datetime="2017-06-28">REPORTED</state>
+  <status>
+    <unknown datetime="2017-06-28"/>
+  </status>
+  <introduced datetime="2017-06-22"/>
+  <titles>
+    <title type="short" as="introduced">Brownfields Enhancement, Economic Redevelopment, and Reauthorization Act of 2017</title>
+    <title type="short" as="introduced">Brownfields Enhancement, Economic Redevelopment, and Reauthorization Act of 2017</title>
+    <title type="official" as="introduced">To amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to reauthorize and improve the brownfields program, and for other purposes.</title>
+    <title type="display">Brownfields Enhancement, Economic Redevelopment, and Reauthorization Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="M001180"/>
+  <cosponsors>
+    <cosponsor bioguide_id="P000034" joined="2017-06-22"/>
+    <cosponsor bioguide_id="S000364" joined="2017-06-22"/>
+    <cosponsor bioguide_id="T000469" joined="2017-06-22"/>
+    <cosponsor bioguide_id="W000791" joined="2017-06-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-22">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-22" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-06-22">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-06-23">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2017-06-23">
+      <text>Referred to the Subcommittee on Environment.</text>
+    </action>
+    <action datetime="2017-06-23">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2017-06-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-06-28" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-09-11">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 115-303, Part I.</text>
+    </action>
+    <action datetime="2017-09-11">
+      <text>House Committee on Transportation Granted an extension for further consideration ending not later than Oct. 13, 2017.</text>
+    </action>
+    <action datetime="2017-10-12">
+      <text>House Committee on Transportation Granted an extension for further consideration ending not later than Nov. 9, 2017.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Reporting, Markup, Referral"/>
+    <committee subcommittee="Environment and the Economy" code="HSIF18" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>H. Rept. 115-303</report>
+  </committee-reports>
+</bill>

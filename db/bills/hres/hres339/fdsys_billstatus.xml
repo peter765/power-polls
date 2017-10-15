@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Calling upon the United States Senate to give its advice and consent to the ratification of the United Nations Convention on the Law of the Sea.</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Calling upon the United States Senate to give its advice and consent to the ratification of the United Nations Convention on the Law of the Sea.</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Affirms that it is in the U.S. national interest to become a formal signatory to the United Nations Convention of the Law of the Sea.</p> <p> Urges the Senate to give its advice and consent to the convention's ratification. </p> <p>Recommends the ratification remain a top Administration priority, having received bipartisan support from every President since 1994, and having most recently been underscored by the strategic challenges the United States faces in the Asia-Pacific region and more specifically in the South China Sea.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-05-22T20:33:21Z</lastSummaryUpdateDate>
+          <updateDate>2017-05-18T04:00:00Z</updateDate>
+          <actionDate>2017-05-18</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>China</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Pacific Ocean</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <billType>HRES</billType>
+    <amendments />
+    <constitutionalAuthorityStatementText />
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2017-05-18</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-18</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-18</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <actionDate>2017-05-18</actionDate>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <introducedDate>2017-05-18</introducedDate>
+    <updateDate>2017-09-14T18:45:08Z</updateDate>
+    <laws />
+    <relatedBills />
+    <billNumber>339</billNumber>
+    <createDate>2017-05-19T03:11:37Z</createDate>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <lastName>Courtney</lastName>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <party>D</party>
+        <bioguideId>C001069</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001069</bioguideId>
+          <lisID>1836</lisID>
+          <gpoId>7867</gpoId>
+        </identifiers>
+        <byRequestType />
+        <state>CT</state>
+        <district>2</district>
+        <firstName>Joe</firstName>
+      </item>
+    </sponsors>
+    <title>Calling upon the United States Senate to give its advice and consent to the ratification of the United Nations Convention on the Law of the Sea.</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-05-18T14:04:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>DON</firstName>
+        <bioguideId>Y000033</bioguideId>
+        <middleName>E.</middleName>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <identifiers>
+          <lisID>1256</lisID>
+          <bioguideId>Y000033</bioguideId>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <lastName>YOUNG</lastName>
+        <district>0</district>
+        <state>AK</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>Madeleine</firstName>
+        <bioguideId>B001245</bioguideId>
+        <middleName>Z.</middleName>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <identifiers>
+          <bioguideId>B001245</bioguideId>
+          <lisID>1723</lisID>
+          <gpoId>7911</gpoId>
+        </identifiers>
+        <lastName>Bordallo</lastName>
+        <district>0</district>
+        <state>GU</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>SUSAN</firstName>
+        <bioguideId>D000598</bioguideId>
+        <middleName>A.</middleName>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+        <identifiers>
+          <lisID>1641</lisID>
+          <bioguideId>D000598</bioguideId>
+          <gpoId>7858</gpoId>
+        </identifiers>
+        <lastName>DAVIS</lastName>
+        <district>53</district>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>RICK</firstName>
+        <bioguideId>L000560</bioguideId>
+        <middleName />
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <identifiers>
+          <lisID>1675</lisID>
+          <bioguideId>L000560</bioguideId>
+          <gpoId>8206</gpoId>
+        </identifiers>
+        <lastName>LARSEN</lastName>
+        <district>2</district>
+        <state>WA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>Ruben</firstName>
+        <bioguideId>G000574</bioguideId>
+        <middleName />
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <identifiers>
+          <bioguideId>G000574</bioguideId>
+          <lisID>2226</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Gallego</lastName>
+        <district>7</district>
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>ADAM</firstName>
+        <bioguideId>S000510</bioguideId>
+        <middleName />
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+        <identifiers>
+          <bioguideId>S000510</bioguideId>
+          <lisID>1528</lisID>
+          <gpoId>8213</gpoId>
+        </identifiers>
+        <lastName>SMITH</lastName>
+        <district>9</district>
+        <state>WA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>John</firstName>
+        <bioguideId>G000559</bioguideId>
+        <middleName />
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <identifiers>
+          <bioguideId>G000559</bioguideId>
+          <lisID>1973</lisID>
+          <gpoId>7815</gpoId>
+        </identifiers>
+        <lastName>Garamendi</lastName>
+        <district>3</district>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>JAMES</firstName>
+        <bioguideId>L000559</bioguideId>
+        <middleName>R.</middleName>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <identifiers>
+          <lisID>1668</lisID>
+          <bioguideId>L000559</bioguideId>
+          <gpoId>8140</gpoId>
+        </identifiers>
+        <lastName>LANGEVIN</lastName>
+        <district>2</district>
+        <state>RI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,40 @@
+<bill session="115" type="s" number="1511" updated="2017-09-11T03:06:40Z">
+  <state datetime="2017-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-29"/>
+  </status>
+  <introduced datetime="2017-06-29"/>
+  <titles>
+    <title type="short" as="introduced">Keeping Health Insurance Affordable Act of 2017</title>
+    <title type="short" as="introduced">Keeping Health Insurance Affordable Act of 2017</title>
+    <title type="official" as="introduced">A bill to bring stability to the individual insurance market, make insurance coverage more affordable, lower prescription drug prices, and improve Medicaid.</title>
+    <title type="display">Keeping Health Insurance Affordable Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C000141"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-06-29">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="1307"/>
+    <bill type="s" session="115" relation="unknown" number="252"/>
+    <bill type="s" session="115" relation="unknown" number="1354"/>
+    <bill type="s" session="115" relation="unknown" number="1462"/>
+    <bill type="h" session="115" relation="unknown" number="3311"/>
+    <bill type="h" session="115" relation="unknown" number="3258"/>
+    <bill type="s" session="115" relation="unknown" number="1688"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

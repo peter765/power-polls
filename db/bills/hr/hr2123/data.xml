@@ -1,0 +1,67 @@
+<bill session="115" type="h" number="2123" updated="2017-10-04T07:15:59Z">
+  <state datetime="2017-04-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-25"/>
+  </status>
+  <introduced datetime="2017-04-25"/>
+  <titles>
+    <title type="short" as="introduced">Veterans E-Health and Telemedicine Support Act of 2017</title>
+    <title type="short" as="introduced">Veterans E-Health and Telemedicine Support Act of 2017</title>
+    <title type="short" as="introduced">VETS Act of 2017</title>
+    <title type="short" as="introduced">VETS Act of 2017</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to improve the ability of health care professionals to treat veterans through the use of telemedicine, and for other purposes.</title>
+    <title type="display">VETS Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="T000467"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000375" joined="2017-10-03"/>
+    <cosponsor bioguide_id="B001301" joined="2017-10-03"/>
+    <cosponsor bioguide_id="B001285" joined="2017-04-25"/>
+    <cosponsor bioguide_id="B001251" joined="2017-06-28"/>
+    <cosponsor bioguide_id="C000754" joined="2017-04-28"/>
+    <cosponsor bioguide_id="E000297" joined="2017-04-25"/>
+    <cosponsor bioguide_id="G000546" joined="2017-06-06"/>
+    <cosponsor bioguide_id="J000255" joined="2017-07-25"/>
+    <cosponsor bioguide_id="K000376" joined="2017-05-02"/>
+    <cosponsor bioguide_id="K000382" joined="2017-09-08"/>
+    <cosponsor bioguide_id="L000554" joined="2017-04-25"/>
+    <cosponsor bioguide_id="M001159" joined="2017-06-06"/>
+    <cosponsor bioguide_id="O000170" joined="2017-05-24"/>
+    <cosponsor bioguide_id="P000607" joined="2017-05-11"/>
+    <cosponsor bioguide_id="R000600" joined="2017-08-08"/>
+    <cosponsor bioguide_id="R000515" joined="2017-04-28"/>
+    <cosponsor bioguide_id="R000577" joined="2017-05-11"/>
+    <cosponsor bioguide_id="S001183" joined="2017-05-11"/>
+    <cosponsor bioguide_id="W000791" joined="2017-07-28"/>
+    <cosponsor bioguide_id="W000800" joined="2017-09-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-25" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="925"/>
+    <bill type="h" session="115" relation="unknown" number="1152"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Health personnel"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Licensing and registrations"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-04-25T04:00:00Z" status="Introduced in House">Veterans E-Health and Telemedicine Support Act of 2017 or the VETS Act of 2017
+
+This bill allows a licensed health care professional of the Department of Veterans Affairs to practice his or her profession using telemedicine at any location in any state, regardless of where the professional or patient is located.</summary>
+  <committee-reports/>
+</bill>

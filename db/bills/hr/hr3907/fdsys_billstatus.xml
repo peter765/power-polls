@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-02</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-10-02</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-10-02</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <updateDate>2017-10-11T14:15:15Z</updateDate>
+    <latestAction>
+      <actionDate>2017-10-02</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Wildland Firefighter Recognition Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require the Director of the Office of Personnel Management to create a classification that more accurately reflects the vital role of wildland firefighters.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Wildland Firefighter Recognition Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Wildland Firefighter Recognition Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-02T16:00:32Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <createDate>2017-10-03T03:11:21Z</createDate>
+    <cosponsors>
+      <item>
+        <middleName />
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000623</bioguideId>
+        <district>11</district>
+        <party>D</party>
+        <firstName>Mark</firstName>
+        <identifiers>
+          <bioguideId>D000623</bioguideId>
+          <gpoId />
+          <lisID>2227</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <lastName>DeSaulnier</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000191</bioguideId>
+        <district>4</district>
+        <party>D</party>
+        <firstName>PETER</firstName>
+        <identifiers>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <lastName>DEFAZIO</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OR</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000559</bioguideId>
+        <district>3</district>
+        <party>D</party>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1973</lisID>
+          <gpoId>7815</gpoId>
+          <bioguideId>G000559</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <lastName>Garamendi</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>Y000033</bioguideId>
+        <district>0</district>
+        <party>R</party>
+        <firstName>DON</firstName>
+        <identifiers>
+          <lisID>1256</lisID>
+          <bioguideId>Y000033</bioguideId>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <lastName>YOUNG</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AK</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. DeGette, Diana [D-CO-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000197</bioguideId>
+        <district>1</district>
+        <party>D</party>
+        <firstName>DIANA</firstName>
+        <identifiers>
+          <bioguideId>D000197</bioguideId>
+          <lisID>1479</lisID>
+          <gpoId>7859</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <lastName>DEGETTE</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CO</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Gianforte, Greg [R-MT-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000584</bioguideId>
+        <district>0</district>
+        <party>R</party>
+        <firstName>Greg</firstName>
+        <identifiers>
+          <lisID>2359</lisID>
+          <gpoId />
+          <bioguideId>G000584</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <lastName>Gianforte</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MT</state>
+      </item>
+    </cosponsors>
+    <amendments />
+    <committeeReports />
+    <introducedDate>2017-10-02</introducedDate>
+    <billType>HR</billType>
+    <title>Wildland Firefighter Recognition Act</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LaMALFA:H.R. 3907.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18 of the Constitution of theUnited States[Page H7672]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea />
+    <sponsors>
+      <item>
+        <firstName>Doug</firstName>
+        <middleName />
+        <bioguideId>L000578</bioguideId>
+        <byRequestType />
+        <lastName>LaMalfa</lastName>
+        <state>CA</state>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <identifiers>
+          <bioguideId>L000578</bioguideId>
+          <gpoId />
+          <lisID>2100</lisID>
+        </identifiers>
+        <party>R</party>
+        <district>1</district>
+      </item>
+    </sponsors>
+    <billNumber>3907</billNumber>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>949</number>
+        <latestTitle>Wildland Firefighter Recognition Act</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S2561)</text>
+          <actionDate>2017-04-26</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

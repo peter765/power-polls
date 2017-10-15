@@ -1,0 +1,45 @@
+<bill session="115" type="h" number="3966" updated="2017-10-13T07:17:30Z">
+  <state datetime="2017-10-05">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-05"/>
+  </status>
+  <introduced datetime="2017-10-05"/>
+  <titles>
+    <title type="short" as="introduced">Puerto Rico Humanitarian Relief Act</title>
+    <title type="short" as="introduced">Puerto Rico Humanitarian Relief Act</title>
+    <title type="official" as="introduced">To provide that provisions of title 46, United States Code, popularly known as the Jones Act and relating to carriage of passenger and merchandise in coastwise trade shall not apply for 5 years with respect to such carriage to and from Puerto Rico.</title>
+    <title type="display">Puerto Rico Humanitarian Relief Act</title>
+  </titles>
+  <sponsor bioguide_id="P000609"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001302" joined="2017-10-05"/>
+    <cosponsor bioguide_id="B001290" joined="2017-10-05"/>
+    <cosponsor bioguide_id="H001078" joined="2017-10-12"/>
+    <cosponsor bioguide_id="V000081" joined="2017-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-05">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-05" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-10-05">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-10-06">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Coast Guard and Maritime Transportation" code="HSPW07" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

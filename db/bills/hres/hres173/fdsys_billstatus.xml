@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <laws />
+    <version>1.0.0</version>
+    <cosponsors />
+    <billNumber>173</billNumber>
+    <latestAction>
+      <actionDate>2017-03-17</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>09:14:24</actionTime>
+      <links />
+    </latestAction>
+    <createDate>2017-03-08T05:28:12Z</createDate>
+    <actions>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>09:14:24</actionTime>
+        <actionDate>2017-03-17</actionDate>
+        <actionCode>H38310</actionCode>
+        <links />
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>09:14:18</actionTime>
+        <actionDate>2017-03-17</actionDate>
+        <actionCode>H37100</actionCode>
+        <links>
+          <link>
+            <name>H2154-2155</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2154-2155</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <text>On agreeing to the resolution Agreed to by voice vote. (text of measure as passed: CR H2154-2155)</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>09:14:18</actionTime>
+        <actionDate>2017-03-17</actionDate>
+        <actionCode>8000</actionCode>
+        <links>
+          <link>
+            <name>H2154-2155</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2154-2155</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text of measure as passed: CR H2154-2155)</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>09:14:15</actionTime>
+        <actionDate>2017-03-17</actionDate>
+        <actionCode>H35000</actionCode>
+        <links />
+        <type>Floor</type>
+        <text>The previous question was ordered without objection.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>09:11:25</actionTime>
+        <actionDate>2017-03-17</actionDate>
+        <actionCode>H8D000</actionCode>
+        <links>
+          <link>
+            <name>H. Res. 173</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/173</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 173.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>09:10:32</actionTime>
+        <actionDate>2017-03-17</actionDate>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <name>H2154-2155</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2154-2155</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <text>Considered as privileged matter. (consideration: CR H2154-2155)</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-03-15</actionDate>
+        <actionCode>H12420</actionCode>
+        <links />
+        <type>Calendars</type>
+        <text>Placed on the House Calendar, Calendar No. 20.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionDate>2017-03-15</actionDate>
+        <actionCode>H12200</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-38</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/38</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <text>Reported by the Committee on House Administration. H. Rept. 115-38.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionDate>2017-03-15</actionDate>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-38</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/38</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <text>Reported by the Committee on House Administration. H. Rept. 115-38.</text>
+      </item>
+      <item>
+        <actionDate>2017-03-08</actionDate>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionDate>2017-03-07</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on House Administration.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-03-07</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-03-07</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <reportedToHouse>1</reportedToHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <considerationByHouse>1</considerationByHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <generalDebate>1</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <passageOfAMeasure>1</passageOfAMeasure>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Sets forth the levels of payment for 115th Congress expenses (including staff salaries) for the House Committees on: (1) Agriculture; (2) Armed Services; (3) the Budget; (4) Education and the Workforce; (5) Energy and Commerce; (6) Ethics; (7) Financial Services; (8) Foreign Affairs; (9) Homeland Security; (10) House Administration; (11) Permanent Select Committee on Intelligence; (12) the Judiciary; (13) Natural Resources; (14) Oversight and Government Reform; (15) Rules; (16) Science, Space, and Technology; (17) Small Business; (18) Transportation and Infrastructure; (19) Veterans' Affairs; and (20) Ways and Means.</p> <p>Prescribes limitations to such expenses for the 1st and 2nd sessions of the 115th Congress.</p> <p>Establishes a reserve fund for unanticipated committee expenses for the 115th Congress.</p> <p>Authorizes the Committee on House Administration to make adjustments to the committee expense accounts, if necessary to comply with a sequestration order by the President issued under the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) to enforce a specified budget goal or to conform to any change in appropriations for purposes of this resolution.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-04-20T17:33:57Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-07</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-03-07T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <versionCode>79</versionCode>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p>(Sec. 1) Sets forth the levels of payment for 115th Congress expenses (including staff salaries) for the House Committees on: (1) Agriculture; (2) Armed Services; (3) the Budget; (4) Education and the Workforce; (5) Energy and Commerce; (6) Ethics; (7) Financial Services; (8) Foreign Affairs; (9) Homeland Security; (10) House Administration; (11) Permanent Select Committee on Intelligence; (12) the Judiciary; (13) Natural Resources; (14) Oversight and Government Reform; (15) Rules; (16) Science, Space, and Technology; (17) Small Business; (18) Transportation and Infrastructure; (19) Veterans' Affairs; and (20) Ways and Means.</p> <p>(Sec. 2) Prescribes limitations to such expenses for the 1st and 2nd sessions of the 115th Congress.</p> <p>(Sec. 6) Establishes a reserve fund for unanticipated committee expenses for the 115th Congress.</p> <p>(Sec. 7) Authorizes the Committee on House Administration to make adjustments to the committee expense accounts, if necessary to comply with a sequestration order by the President issued under the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) to enforce a specified budget goal or to conform to any change in appropriations for purposes of this resolution.</p>]]></text>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-04-20T17:34:59Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-15</actionDate>
+          <name>Reported to House without amendment</name>
+          <updateDate>2017-03-15T13:33:39Z</updateDate>
+        </item>
+        <item>
+          <versionCode>81</versionCode>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)</p> <p>(Sec. 1) Sets forth the levels of payment for 115th Congress expenses (including staff salaries) for the House Committees on: (1) Agriculture; (2) Armed Services; (3) the Budget; (4) Education and the Workforce; (5) Energy and Commerce; (6) Ethics; (7) Financial Services; (8) Foreign Affairs; (9) Homeland Security; (10) House Administration; (11) Permanent Select Committee on Intelligence; (12) the Judiciary; (13) Natural Resources; (14) Oversight and Government Reform; (15) Rules; (16) Science, Space, and Technology; (17) Small Business; (18) Transportation and Infrastructure; (19) Veterans' Affairs; and (20) Ways and Means.</p> <p>(Sec. 2) Prescribes limitations to such expenses for the 1st and 2nd sessions of the 115th Congress.</p> <p>(Sec. 6) Establishes a reserve fund for unanticipated committee expenses for the 115th Congress.</p> <p>(Sec. 7) Authorizes the Committee on House Administration to make adjustments to the committee expense accounts, if necessary to comply with a sequestration order by the President issued under the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) to enforce a specified budget goal or to conform to any change in appropriations for purposes of this resolution.</p>]]></text>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-04-21T11:55:50Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-17</actionDate>
+          <name>Passed House without amendment</name>
+          <updateDate>2017-03-17T11:54:02Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <title>Providing for the expenses of certain committees of the House of Representatives in the One Hundred Fifteenth Congress.</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-38</citation>
+      </committeeReport>
+    </committeeReports>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>Gregg</firstName>
+        <party>R</party>
+        <bioguideId>H001045</bioguideId>
+        <district>3</district>
+        <middleName />
+        <byRequestType />
+        <lastName>Harper</lastName>
+        <state>MS</state>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <identifiers>
+          <bioguideId>H001045</bioguideId>
+          <lisID>1933</lisID>
+          <gpoId>8021</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>H00020</calendar>
+      </item>
+    </calendarNumbers>
+    <constitutionalAuthorityStatementText />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsha00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <name>House Administration Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-03-16T00:04:35Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-07T17:02:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <relatedBills />
+    <billType>HRES</billType>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Providing for the expenses of certain committees of the House of Representatives in the One Hundred Fifteenth Congress.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Providing for the expenses of certain committees of the House of Representatives in the One Hundred Fifteenth Congress.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-03-07</introducedDate>
+    <recordedVotes />
+    <updateDate>2017-08-10T13:23:03Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on Agriculture</name>
+          </item>
+          <item>
+            <name>House Committee on Armed Services</name>
+          </item>
+          <item>
+            <name>House Committee on Education and the Workforce</name>
+          </item>
+          <item>
+            <name>House Committee on Energy and Commerce</name>
+          </item>
+          <item>
+            <name>House Committee on Ethics</name>
+          </item>
+          <item>
+            <name>House Committee on Financial Services</name>
+          </item>
+          <item>
+            <name>House Committee on Foreign Affairs</name>
+          </item>
+          <item>
+            <name>House Committee on Homeland Security</name>
+          </item>
+          <item>
+            <name>House Committee on House Administration</name>
+          </item>
+          <item>
+            <name>House Committee on Natural Resources</name>
+          </item>
+          <item>
+            <name>House Committee on Oversight and Government Reform</name>
+          </item>
+          <item>
+            <name>House Committee on Rules</name>
+          </item>
+          <item>
+            <name>House Committee on Science, Space, and Technology</name>
+          </item>
+          <item>
+            <name>House Committee on Small Business</name>
+          </item>
+          <item>
+            <name>House Committee on Transportation and Infrastructure</name>
+          </item>
+          <item>
+            <name>House Committee on Veterans' Affairs</name>
+          </item>
+          <item>
+            <name>House Committee on Ways and Means</name>
+          </item>
+          <item>
+            <name>House Committee on the Budget</name>
+          </item>
+          <item>
+            <name>House Committee on the Judiciary</name>
+          </item>
+          <item>
+            <name>House Permanent Select Committee on Intelligence</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

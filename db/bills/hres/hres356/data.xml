@@ -1,0 +1,47 @@
+<bill session="115" type="hr" number="356" updated="2017-09-14T22:00:13Z">
+  <state datetime="2017-05-24">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-24"/>
+  </status>
+  <introduced datetime="2017-05-24"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that the Senate should give its advice and consent to the ratification of the Convention on the Elimination of All Forms of Discrimination Against Women.</title>
+    <title type="display">Expressing the sense of the House of Representatives that the Senate should give its advice and consent to the ratification of the Convention on the Elimination of All Forms of Discrimination Against Women.</title>
+  </titles>
+  <sponsor bioguide_id="M000087"/>
+  <cosponsors>
+    <cosponsor bioguide_id="S001145" joined="2017-05-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-24">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E712"/>
+    </action>
+    <action datetime="2017-05-24" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2017-06-27">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Africa, Global Health, Global Human Rights and International Organizations" code="HSFA16" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Human rights"/>
+    <term name="International law and treaties"/>
+    <term name="Senate"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-05-24T04:00:00Z" status="Introduced in House">Expresses the sense of the House of Representatives that: (1) the full realization of the rights of women is vital to the development and well-being of people of all nations; and (2) the Senate should, therefore, give its advice and consent to the ratification of the Convention on the Elimination of All Forms of Discrimination Against Women.</summary>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="115" type="h" number="3201" updated="2017-09-19T19:30:12Z">
+  <state datetime="2017-07-12">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-12"/>
+  </status>
+  <introduced datetime="2017-07-12"/>
+  <titles>
+    <title type="short" as="introduced">Maritime Administration Authorization and Enhancement Act for Fiscal Year 2018</title>
+    <title type="short" as="introduced">Maritime Administration Authorization and Enhancement Act for Fiscal Year 2018</title>
+    <title type="official" as="introduced">To amend and enhance certain maritime programs of the Department of Transportation, and for other purposes.</title>
+    <title type="display">Maritime Administration Authorization and Enhancement Act for Fiscal Year 2018</title>
+  </titles>
+  <sponsor bioguide_id="B001298"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-12">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-12" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2017-08-21">
+      <text>Referred to the Subcommittee on Seapower and Projection Forces.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="Seapower and Projection Forces" code="HSAS28" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1100"/>
+    <bill type="s" session="115" relation="identical" number="1096"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

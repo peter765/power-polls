@@ -1,0 +1,36 @@
+<bill session="115" type="h" number="3242" updated="2017-09-11T02:54:46Z">
+  <state datetime="2017-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-14"/>
+  </status>
+  <introduced datetime="2017-07-14"/>
+  <titles>
+    <title type="official" as="introduced">To expand access to the Rural Community Facilities Program of the Department of Agriculture, and for other purposes.</title>
+    <title type="display">To expand access to the Rural Community Facilities Program of the Department of Agriculture, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="H001053"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001198" joined="2017-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-14">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-14" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2017-08-08">
+      <text>Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Commodity Exchanges, Energy, and Credit" code="HSAG22" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

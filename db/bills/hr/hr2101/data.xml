@@ -1,0 +1,43 @@
+<bill session="115" type="h" number="2101" updated="2017-10-11T07:16:13Z">
+  <state datetime="2017-04-17">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-17"/>
+  </status>
+  <introduced datetime="2017-04-17"/>
+  <titles>
+    <title type="short" as="introduced">Prior Approval Reform Act</title>
+    <title type="short" as="introduced">Prior Approval Reform Act</title>
+    <title type="official" as="introduced">To amend the Federal Election Campaign Act of 1971 to expand the ability of trade associations to solicit contributions from the stockholders and executive or administrative personnel of their member corporations, and for other purposes.</title>
+    <title type="display">Prior Approval Reform Act</title>
+  </titles>
+  <sponsor bioguide_id="A000369"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001269" joined="2017-06-20"/>
+    <cosponsor bioguide_id="B001282" joined="2017-10-10"/>
+    <cosponsor bioguide_id="B001289" joined="2017-10-10"/>
+    <cosponsor bioguide_id="G000579" joined="2017-09-25"/>
+    <cosponsor bioguide_id="G000576" joined="2017-06-28"/>
+    <cosponsor bioguide_id="P000605" joined="2017-07-17"/>
+    <cosponsor bioguide_id="S001199" joined="2017-06-06"/>
+    <cosponsor bioguide_id="W000809" joined="2017-06-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-17">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-17" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Corporate finance and management"/>
+    <term name="Elections, voting, political campaign regulation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

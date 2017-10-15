@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <district>6</district>
+        <firstName>Luke</firstName>
+        <identifiers>
+          <bioguideId>M001189</bioguideId>
+          <gpoId />
+          <lisID>2130</lisID>
+        </identifiers>
+        <lastName>Messer</lastName>
+        <bioguideId>M001189</bioguideId>
+        <middleName />
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <state>IN</state>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <billNumber>2817</billNumber>
+    <updateDate>2017-10-06T17:45:11Z</updateDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-06-07</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Child Tax Credit Integrity Preservation Act </b></p> <p>This bill amends the Internal Revenue Code to expand the identification requirements for the child tax credit to require taxpayers to provide a valid identification number on their tax returns in addition to the name and identification number of each qualifying child. </p> <p>A &quot;valid identification number&quot; includes: (1) in the case of the taxpayer or a spouse, a Social Security number issued by the Social Security Administration; and (2) in the case of the qualifying child, a taxpayer identification number. It does not include the Social Security number of an individual who is prohibited from engaging in employment in the United States. </p>]]></text>
+          <updateDate>2017-06-07T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-10-06T17:43:52Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <cboCostEstimates />
+    <notes />
+    <cosponsors />
+    <relatedBills />
+    <billType>HR</billType>
+    <latestAction>
+      <actionDate>2017-06-07</actionDate>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <congress>115</congress>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-06-08T03:11:42Z</createDate>
+    <title>Child Tax Credit Integrity Preservation Act</title>
+    <introducedDate>2017-06-07</introducedDate>
+    <laws />
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <amendments />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-07T14:01:20Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MESSER:H.R. 2817.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1--The Congress shall havepower to lay and collect taxes, duties, imposts and excises,to pay the debts and provide for the common defense andgeneral welfare of the United States; but all duties, impostsand excises shall be uniform throughout the United States.[Page H4702]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Child Tax Credit Integrity Preservation Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Child Tax Credit Integrity Preservation Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to clarify eligibility for the child tax credit.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Child Tax Credit Integrity Preservation Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

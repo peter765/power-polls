@@ -1,0 +1,78 @@
+<bill session="115" type="h" number="3400" updated="2017-10-04T07:16:24Z">
+  <state datetime="2017-07-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-26"/>
+  </status>
+  <introduced datetime="2017-07-26"/>
+  <titles>
+    <title type="short" as="introduced">Recreation Not Red-Tape Act</title>
+    <title type="short" as="introduced">Recreation Not Red-Tape Act</title>
+    <title type="official" as="introduced">To promote innovative approaches to outdoor recreation on Federal land and to open up opportunities for collaboration with non-Federal partners, and for other purposes.</title>
+    <title type="display">Recreation Not Red-Tape Act</title>
+  </titles>
+  <sponsor bioguide_id="B001250"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001292" joined="2017-10-03"/>
+    <cosponsor bioguide_id="L000584" joined="2017-10-03"/>
+    <cosponsor bioguide_id="P000598" joined="2017-10-03"/>
+    <cosponsor bioguide_id="S001148" joined="2017-10-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-26" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Transportation and Infrastructure, Energy and Commerce, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-26">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Transportation and Infrastructure, Energy and Commerce, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-26">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Transportation and Infrastructure, Energy and Commerce, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-26">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Transportation and Infrastructure, Energy and Commerce, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-26">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Transportation and Infrastructure, Energy and Commerce, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-27">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2017-07-28">
+      <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+    </action>
+    <action datetime="2017-08-08">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2017-08-08">
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </action>
+    <action datetime="2017-08-21">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+    <action datetime="2017-10-03">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Federal Lands" code="HSII10" name="House Natural Resources" activity="Hearings, Referral"/>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Conservation and Forestry" code="HSAG15" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Commerce, Manufacturing, and Trade" code="HSIF17" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="1633"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

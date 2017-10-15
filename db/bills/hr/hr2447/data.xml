@@ -1,0 +1,47 @@
+<bill session="115" type="h" number="2447" updated="2017-06-19T22:15:14Z">
+  <state datetime="2017-05-16">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-16"/>
+  </status>
+  <introduced datetime="2017-05-16"/>
+  <titles>
+    <title type="short" as="introduced">Low-Income Solar Act</title>
+    <title type="short" as="introduced">Low-Income Solar Act</title>
+    <title type="official" as="introduced">To require the Secretary of Energy to provide loans and grants for solar installations in low-income and underserved areas.</title>
+    <title type="display">Low-Income Solar Act</title>
+  </titles>
+  <sponsor bioguide_id="C001097"/>
+  <cosponsors>
+    <cosponsor bioguide_id="E000288" joined="2017-05-16"/>
+    <cosponsor bioguide_id="L000551" joined="2017-05-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-16">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-16" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2017-05-19">
+      <text>Referred to the Subcommittee on Energy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Energy and Power" code="HSIF03" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2479"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Employment and training programs"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Low- and moderate-income housing"/>
+    <term name="Residential rehabilitation and home repair"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

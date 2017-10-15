@@ -1,0 +1,40 @@
+<bill session="115" type="h" number="3575" updated="2017-09-11T03:06:20Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Housing Accountability Act of 2017</title>
+    <title type="short" as="introduced">Housing Accountability Act of 2017</title>
+    <title type="official" as="introduced">To provide standards for physical condition and management of housing receiving assistance payments under section 8 of the United States Housing Act of 1937.</title>
+    <title type="display">Housing Accountability Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C001068"/>
+  <cosponsors>
+    <cosponsor bioguide_id="R000593" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1087"/>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="73"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

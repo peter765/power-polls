@@ -1,0 +1,42 @@
+<bill session="115" type="s" number="1690" updated="2017-10-06T05:02:30Z">
+  <state datetime="2017-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2017-08-01"/>
+  </status>
+  <introduced datetime="2017-08-01"/>
+  <titles>
+    <title type="short" as="introduced">CCAMPIS Reauthorization Act</title>
+    <title type="short" as="introduced">CCAMPIS Reauthorization Act</title>
+    <title type="short" as="introduced">Child Care Access Means Parents in School Reauthorization Act</title>
+    <title type="short" as="introduced">Child Care Access Means Parents in School Reauthorization Act</title>
+    <title type="official" as="introduced">A bill to amend the Higher Education Act of 1965 to provide greater support to students with dependents, and for other purposes.</title>
+    <title type="display">CCAMPIS Reauthorization Act</title>
+  </titles>
+  <sponsor bioguide_id="D000622"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001230" joined="2017-10-05"/>
+    <cosponsor bioguide_id="C001070" joined="2017-08-01"/>
+    <cosponsor bioguide_id="D000563" joined="2017-08-01"/>
+    <cosponsor bioguide_id="G000555" joined="2017-08-01"/>
+    <cosponsor bioguide_id="M001111" joined="2017-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-08-01">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-08-01" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="3463"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

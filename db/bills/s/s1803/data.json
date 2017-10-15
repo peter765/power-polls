@@ -1,0 +1,172 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-13", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-13", 
+      "action_code": "", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [
+        {
+          "reference": "CR S5483-5484", 
+          "type": "Sponsor introductory remarks on measure"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1803-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001088", 
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-13", 
+      "state": "DE", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000562", 
+      "district": null, 
+      "name": "Gardner, Cory", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-13", 
+      "state": "CO", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000555", 
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-10-02", 
+      "state": "NY", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001194", 
+      "district": null, 
+      "name": "Schatz, Brian", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-13", 
+      "state": "HI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000476", 
+      "district": null, 
+      "name": "Tillis, Thom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-13", 
+      "state": "NC", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-13", 
+  "number": "1803", 
+  "official_title": "A bill to improve medical research on marijuana.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Marijuana Effective Drug Studies Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "H000338", 
+    "district": null, 
+    "name": "Hatch, Orrin G.", 
+    "state": "UT", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-13", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Alternative treatments", 
+    "Crime and Law Enforcement", 
+    "Drug safety, medical device, and laboratory regulation", 
+    "Drug therapy", 
+    "Drug trafficking and controlled substances", 
+    "Health", 
+    "Health personnel", 
+    "Licensing and registrations", 
+    "Medical research", 
+    "Research administration and funding"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Marijuana Effective Drug Studies Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Marijuana Effective Drug Studies Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "MEDS Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "MEDS Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to improve medical research on marijuana.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "MEDS Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-03T05:02:28Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1803.xml"
+}

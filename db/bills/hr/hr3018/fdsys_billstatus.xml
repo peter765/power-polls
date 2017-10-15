@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>3018</billNumber>
+    <amendments />
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <firstName>Martha</firstName>
+        <state>AZ</state>
+        <fullName>Rep. McSally, Martha [R-AZ-2]</fullName>
+        <identifiers>
+          <bioguideId>M001197</bioguideId>
+          <lisID>2225</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>M001197</bioguideId>
+        <byRequestType />
+        <district>2</district>
+        <lastName>McSally</lastName>
+        <middleName />
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-12T21:09:06Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Veterans' Entry to Apprenticeship Act</strong></p> <p>This bill requires the Department of Veterans Affairs to treat a pre-apprenticeship program as a program of apprenticeship, for purposes of providing educational assistance: (1) if such pre-apprenticeship program is recognized under or compliant with relevant state standards for a postsecondary pre-apprenticeship program, or (2) in the case of a program for which a state does not require any such standards, if the curriculum of the pre-apprenticeship program is approved by a sponsor who certifies that the program will prepare an individual with skills and competencies needed to enroll in a registered apprenticeship program and the pre-apprenticeship program maintains conduct and attendance policies in accordance with such sponsor.</p> <p>A covered individual enrolled in a pre-apprenticeship program must receive the same amount and kind of educational assistance the individual would receive if the individual were enrolled in a program of apprenticeship, with an exception of specified housing assistance if the individual is not paid as part of such pre-apprenticeship program. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-06-22T04:00:00Z</updateDate>
+          <actionDate>2017-06-22</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <createDate>2017-06-23T03:11:37Z</createDate>
+    <committeeReports />
+    <recordedVotes />
+    <title>Veterans' Entry to Apprenticeship Act</title>
+    <introducedDate>2017-06-22</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-22T14:04:00Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Economic Opportunity Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2017-10-11T19:48:05Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-22T16:44:18Z</date>
+                </item>
+              </activities>
+              <systemCode>hsvr10</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <committee>
+          <systemCode>hsvr10</systemCode>
+          <name>Economic Opportunity Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-22</actionDate>
+        <committee>
+          <systemCode>hsvr10</systemCode>
+          <name>Economic Opportunity Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-06-22</actionDate>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-06-22</actionDate>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-06-22</actionDate>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <prayer>1</prayer>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Veterans' Entry to Apprenticeship Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 38, United States Code, to ensure that veterans may attend pre-apprenticeship programs using certain educational assistance provided by the Secretary of Veterans Affairs, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Veterans' Entry to Apprenticeship Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Veterans’ Entry to Apprenticeship Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. McSALLY:H.R. 3018.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1: The Congress shall havePower To lay and collect Taxes, Duties, Imposts and Excises,to pay the Debts and provide for the common Defence andgeneral Welfare of the United States; but all Duties, Impostsand Excises shall be uniform throught the United States.Article 1, Section 8, Clause 12: To raise and supportArmies . . .Article 1, Section 8, Clause 13: To provide and maintain anavy.Article 1, Section 8, Clause 18: To make all laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H5110]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2017-10-12T07:13:18Z</updateDate>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <bioguideId>H001073</bioguideId>
+        <identifiers>
+          <lisID>2269</lisID>
+          <bioguideId>H001073</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Hurd, Will [R-TX-23]</fullName>
+        <party>R</party>
+        <firstName>Will</firstName>
+        <lastName>Hurd</lastName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>23</district>
+      </item>
+      <item>
+        <bioguideId>A000374</bioguideId>
+        <identifiers>
+          <lisID>2244</lisID>
+          <gpoId />
+          <bioguideId>A000374</bioguideId>
+        </identifiers>
+        <middleName>Lee</middleName>
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <party>R</party>
+        <firstName>Ralph</firstName>
+        <lastName>Abraham</lastName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+      </item>
+      <item>
+        <bioguideId>B001295</bioguideId>
+        <identifiers>
+          <bioguideId>B001295</bioguideId>
+          <lisID>2243</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <lastName>Bost</lastName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>12</district>
+      </item>
+      <item>
+        <bioguideId>B001291</bioguideId>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+          <lisID>2270</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <party>R</party>
+        <firstName>Brian</firstName>
+        <lastName>Babin</lastName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>36</district>
+      </item>
+      <item>
+        <bioguideId>S001196</bioguideId>
+        <identifiers>
+          <lisID>2263</lisID>
+          <gpoId />
+          <bioguideId>S001196</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <party>R</party>
+        <firstName>Elise</firstName>
+        <lastName>Stefanik</lastName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>21</district>
+      </item>
+      <item>
+        <bioguideId>S000248</bioguideId>
+        <identifiers>
+          <lisID>1042</lisID>
+          <bioguideId>S000248</bioguideId>
+          <gpoId>8077</gpoId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <party>D</party>
+        <firstName>JOSE</firstName>
+        <lastName>SERRANO</lastName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>15</district>
+      </item>
+      <item>
+        <bioguideId>W000799</bioguideId>
+        <identifiers>
+          <bioguideId>W000799</bioguideId>
+          <lisID>1856</lisID>
+          <gpoId>8001</gpoId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <party>D</party>
+        <firstName>Timothy</firstName>
+        <lastName>Walz</lastName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+      </item>
+      <item>
+        <bioguideId>C001096</bioguideId>
+        <identifiers>
+          <lisID>2144</lisID>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <party>R</party>
+        <firstName>Kevin</firstName>
+        <lastName>Cramer</lastName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>ND</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+      </item>
+      <item>
+        <bioguideId>H001072</bioguideId>
+        <identifiers>
+          <lisID>2223</lisID>
+          <gpoId />
+          <bioguideId>H001072</bioguideId>
+        </identifiers>
+        <middleName>French</middleName>
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+        <party>R</party>
+        <firstName>J.</firstName>
+        <lastName>Hill</lastName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>AR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <bioguideId>L000584</bioguideId>
+        <identifiers>
+          <bioguideId>L000584</bioguideId>
+          <lisID>2271</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>B.</middleName>
+        <fullName>Rep. Love, Mia B. [R-UT-4]</fullName>
+        <party>R</party>
+        <firstName>Mia</firstName>
+        <lastName>Love</lastName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>UT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <bioguideId>K000386</bioguideId>
+        <identifiers>
+          <lisID>2264</lisID>
+          <bioguideId>K000386</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <party>R</party>
+        <firstName>John</firstName>
+        <lastName>Katko</lastName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>24</district>
+      </item>
+      <item>
+        <bioguideId>G000571</bioguideId>
+        <identifiers>
+          <lisID>2122</lisID>
+          <gpoId />
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <party>D</party>
+        <firstName>Tulsi</firstName>
+        <lastName>Gabbard</lastName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>HI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <bioguideId>T000475</bioguideId>
+        <identifiers>
+          <lisID>2250</lisID>
+          <gpoId />
+          <bioguideId>T000475</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <fullName>Rep. Trott, David A. [R-MI-11]</fullName>
+        <party>R</party>
+        <firstName>David</firstName>
+        <lastName>Trott</lastName>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <text>Subcommittee Hearings Held.</text>
+      <actionDate>2017-10-11</actionDate>
+      <links />
+    </latestAction>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

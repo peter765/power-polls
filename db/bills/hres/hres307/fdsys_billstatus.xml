@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HRES</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>First Amendment rights</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <lastName>Roe</lastName>
+        <identifiers>
+          <bioguideId>R000582</bioguideId>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <firstName>David</firstName>
+        <bioguideId>R000582</bioguideId>
+        <state>TN</state>
+        <district>1</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <actions>
+      <item>
+        <actionDate>2017-05-11</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2017-05-03</actionDate>
+        <links />
+        <text>Referred to House Judiciary</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <actionDate>2017-05-03</actionDate>
+        <links />
+        <text>Referred to House Education and the Workforce</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-05-03</actionDate>
+        <links />
+        <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-05-03</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-05-03</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-08-23T20:05:10Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Expresses the sense of the House of Representatives that free speech zones and restrictive speech codes are inherently at odds with the freedom of speech guaranteed by the First Amendment of the Constitution. Urges institutions of higher education to facilitate and recommit themselves to protecting the free and open exchange of ideas.</p>]]></text>
+          <updateDate>2017-05-03T04:00:00Z</updateDate>
+          <actionDate>2017-05-03</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-05-03</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution and Civil Justice Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-05-11T18:08:09Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2017-05-03T14:00:34Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+          <name>Education and the Workforce Committee</name>
+          <activities>
+            <item>
+              <date>2017-05-03T14:00:29Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Expressing the sense of the House of Representatives relating to protecting freedom of speech, thought, and expression at institutions of higher education.</title>
+    <congress>115</congress>
+    <calendarNumbers />
+    <relatedBills />
+    <latestAction>
+      <actionDate>2017-05-11</actionDate>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <links />
+    </latestAction>
+    <createDate>2017-05-04T03:11:43Z</createDate>
+    <updateDate>2017-10-07T07:15:20Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <billNumber>307</billNumber>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the sense of the House of Representatives relating to protecting freedom of speech, thought, and expression at institutions of higher education.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing the sense of the House of Representatives relating to protecting freedom of speech, thought, and expression at institutions of higher education.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <firstName>Rick</firstName>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <bioguideId>A000372</bioguideId>
+        <identifiers>
+          <bioguideId>A000372</bioguideId>
+          <lisID>2239</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Allen</lastName>
+        <state>GA</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <middleName>W.</middleName>
+        <district>12</district>
+      </item>
+      <item>
+        <firstName>Todd</firstName>
+        <fullName>Rep. Rokita, Todd [R-IN-4]</fullName>
+        <bioguideId>R000592</bioguideId>
+        <identifiers>
+          <bioguideId>R000592</bioguideId>
+          <gpoId>7943</gpoId>
+          <lisID>2017</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rokita</lastName>
+        <state>IN</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <middleName />
+        <district>4</district>
+      </item>
+      <item>
+        <firstName>Glenn</firstName>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <bioguideId>G000576</bioguideId>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Grothman</lastName>
+        <state>WI</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <middleName />
+        <district>6</district>
+      </item>
+      <item>
+        <firstName>Jason</firstName>
+        <fullName>Rep. Lewis, Jason [R-MN-2]</fullName>
+        <bioguideId>L000587</bioguideId>
+        <identifiers>
+          <lisID>2335</lisID>
+          <gpoId />
+          <bioguideId>L000587</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lewis</lastName>
+        <state>MN</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <middleName />
+        <district>2</district>
+      </item>
+      <item>
+        <firstName>Bradley</firstName>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <bioguideId>B001289</bioguideId>
+        <identifiers>
+          <bioguideId>B001289</bioguideId>
+          <lisID>2197</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Byrne</lastName>
+        <state>AL</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <middleName />
+        <district>1</district>
+      </item>
+      <item>
+        <firstName>Jamie</firstName>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <bioguideId>R000606</bioguideId>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Raskin</lastName>
+        <state>MD</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <middleName />
+        <district>8</district>
+      </item>
+      <item>
+        <firstName>Rod</firstName>
+        <fullName>Rep. Blum, Rod [R-IA-1]</fullName>
+        <bioguideId>B001294</bioguideId>
+        <identifiers>
+          <lisID>2241</lisID>
+          <gpoId />
+          <bioguideId>B001294</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Blum</lastName>
+        <state>IA</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <middleName />
+        <district>1</district>
+      </item>
+      <item>
+        <firstName>Blaine</firstName>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <bioguideId>L000569</bioguideId>
+        <identifiers>
+          <lisID>1931</lisID>
+          <bioguideId>L000569</bioguideId>
+          <gpoId>8017</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Luetkemeyer</lastName>
+        <state>MO</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <middleName />
+        <district>3</district>
+      </item>
+      <item>
+        <firstName>Neal</firstName>
+        <fullName>Rep. Dunn, Neal P. [R-FL-2]</fullName>
+        <bioguideId>D000628</bioguideId>
+        <identifiers>
+          <bioguideId>D000628</bioguideId>
+          <lisID>2315</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Dunn</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <middleName>P.</middleName>
+        <district>2</district>
+      </item>
+      <item>
+        <firstName>Don</firstName>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <bioguideId>B001298</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001298</bioguideId>
+          <lisID>2337</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bacon</lastName>
+        <state>NE</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <middleName />
+        <district>2</district>
+      </item>
+      <item>
+        <firstName>Ron</firstName>
+        <fullName>Rep. DeSantis, Ron [R-FL-6]</fullName>
+        <bioguideId>D000621</bioguideId>
+        <identifiers>
+          <lisID>2116</lisID>
+          <gpoId />
+          <bioguideId>D000621</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>DeSantis</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <middleName />
+        <district>6</district>
+      </item>
+      <item>
+        <firstName>Paul</firstName>
+        <fullName>Rep. Mitchell, Paul [R-MI-10]</fullName>
+        <bioguideId>M001201</bioguideId>
+        <identifiers>
+          <bioguideId>M001201</bioguideId>
+          <lisID>2334</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Mitchell</lastName>
+        <state>MI</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <middleName />
+        <district>10</district>
+      </item>
+      <item>
+        <firstName>A.</firstName>
+        <fullName>Rep. Ferguson, A. Drew, IV [R-GA-3]</fullName>
+        <bioguideId>F000465</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2324</lisID>
+          <bioguideId>F000465</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ferguson</lastName>
+        <state>GA</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <middleName>Drew</middleName>
+        <district>3</district>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <bioguideId>R000609</bioguideId>
+        <identifiers>
+          <lisID>2316</lisID>
+          <gpoId />
+          <bioguideId>R000609</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rutherford</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <middleName>H.</middleName>
+        <district>4</district>
+      </item>
+      <item>
+        <firstName>Tim</firstName>
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+        <bioguideId>W000798</bioguideId>
+        <identifiers>
+          <lisID>1855</lisID>
+          <bioguideId>W000798</bioguideId>
+          <gpoId>7992</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Walberg</lastName>
+        <state>MI</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+        <middleName />
+        <district>7</district>
+      </item>
+      <item>
+        <firstName>Dave</firstName>
+        <fullName>Rep. Brat, Dave [R-VA-7]</fullName>
+        <bioguideId>B001290</bioguideId>
+        <identifiers>
+          <lisID>2203</lisID>
+          <gpoId />
+          <bioguideId>B001290</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Brat</lastName>
+        <state>VA</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <middleName />
+        <district>7</district>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <bioguideId>K000376</bioguideId>
+        <identifiers>
+          <bioguideId>K000376</bioguideId>
+          <lisID>2051</lisID>
+          <gpoId>8708</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kelly</lastName>
+        <state>PA</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <middleName />
+        <district>3</district>
+      </item>
+      <item>
+        <firstName>Keith</firstName>
+        <fullName>Rep. Rothfus, Keith J. [R-PA-12]</fullName>
+        <bioguideId>R000598</bioguideId>
+        <identifiers>
+          <lisID>2158</lisID>
+          <gpoId />
+          <bioguideId>R000598</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rothfus</lastName>
+        <state>PA</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName>J.</middleName>
+        <district>12</district>
+      </item>
+      <item>
+        <firstName>Paul</firstName>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <bioguideId>G000565</bioguideId>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gosar</lastName>
+        <state>AZ</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName>A.</middleName>
+        <district>4</district>
+      </item>
+      <item>
+        <firstName>Matt</firstName>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <bioguideId>G000578</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2314</lisID>
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gaetz</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <middleName />
+        <district>1</district>
+      </item>
+      <item>
+        <firstName>Francis</firstName>
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <bioguideId>R000607</bioguideId>
+        <identifiers>
+          <bioguideId>R000607</bioguideId>
+          <gpoId />
+          <lisID>2323</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rooney</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <middleName />
+        <district>19</district>
+      </item>
+      <item>
+        <firstName>Glenn</firstName>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <bioguideId>T000467</bioguideId>
+        <identifiers>
+          <gpoId>8123</gpoId>
+          <bioguideId>T000467</bioguideId>
+          <lisID>1952</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Thompson</lastName>
+        <state>PA</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <middleName />
+        <district>5</district>
+      </item>
+      <item>
+        <firstName>Tom</firstName>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <bioguideId>M001177</bioguideId>
+        <identifiers>
+          <gpoId>7809</gpoId>
+          <bioguideId>M001177</bioguideId>
+          <lisID>1908</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>McClintock</lastName>
+        <state>CA</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-08-08</sponsorshipDate>
+        <middleName />
+        <district>4</district>
+      </item>
+      <item>
+        <firstName>Karen</firstName>
+        <fullName>Rep. Handel, Karen C. [R-GA-6]</fullName>
+        <bioguideId>H001078</bioguideId>
+        <identifiers>
+          <lisID>2360</lisID>
+          <bioguideId>H001078</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Handel</lastName>
+        <state>GA</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-08-08</sponsorshipDate>
+        <middleName>C.</middleName>
+        <district>6</district>
+      </item>
+      <item>
+        <firstName>Luke</firstName>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <bioguideId>M001189</bioguideId>
+        <identifiers>
+          <bioguideId>M001189</bioguideId>
+          <lisID>2130</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Messer</lastName>
+        <state>IN</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-06</sponsorshipDate>
+        <middleName />
+        <district>6</district>
+      </item>
+    </cosponsors>
+    <notes />
+    <amendments />
+    <committeeReports />
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

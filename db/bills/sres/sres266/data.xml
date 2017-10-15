@@ -1,0 +1,50 @@
+<bill session="115" type="sr" number="266" updated="2017-10-11T04:29:25Z">
+  <state datetime="2017-09-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-25"/>
+  </status>
+  <introduced datetime="2017-09-25"/>
+  <titles>
+    <title type="official" as="introduced">A resolution reaffirming the United States-Liberia partnership, calling for free, fair, and peaceful elections in Liberia in October 2017.</title>
+    <title type="display">A resolution reaffirming the United States-Liberia partnership, calling for free, fair, and peaceful elections in Liberia in October 2017.</title>
+  </titles>
+  <sponsor bioguide_id="C001088"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001288" joined="2017-09-25"/>
+    <cosponsor bioguide_id="D000563" joined="2017-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-25">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-09-25" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S5887-5888" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="115" relation="identical" number="552"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Congressional tributes"/>
+    <term name="Department of State"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Economic development"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Federal officials"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Liberia"/>
+    <term name="Political parties and affiliation"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

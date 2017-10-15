@@ -1,0 +1,48 @@
+<bill session="115" type="h" number="3202" updated="2017-09-11T02:54:27Z">
+  <state datetime="2017-07-26">REPORTED</state>
+  <status>
+    <unknown datetime="2017-07-26"/>
+  </status>
+  <introduced datetime="2017-07-12"/>
+  <titles>
+    <title type="short" as="introduced">Cyber Vulnerability Disclosure Reporting Act</title>
+    <title type="short" as="introduced">Cyber Vulnerability Disclosure Reporting Act</title>
+    <title type="short" as="reported to house">Cyber Vulnerability Disclosure Reporting Act</title>
+    <title type="short" as="reported to house">Cyber Vulnerability Disclosure Reporting Act</title>
+    <title type="official" as="introduced">To require the Secretary of Homeland Security to submit a report on cyber vulnerability disclosures, and for other purposes.</title>
+    <title type="display">Cyber Vulnerability Disclosure Reporting Act</title>
+  </titles>
+  <sponsor bioguide_id="J000032"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-12">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-12" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2017-07-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-07-26" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-09-01">
+      <text>Reported by the Committee on Homeland Security. H. Rept. 115-283.</text>
+    </action>
+    <calendar datetime="2017-09-01" calendar="Union" number="203">
+      <text>Placed on the Union Calendar, Calendar No. 203.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHM" name="House Homeland Security" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>H. Rept. 115-283</report>
+  </committee-reports>
+</bill>

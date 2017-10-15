@@ -1,0 +1,49 @@
+<bill session="115" type="h" number="3452" updated="2017-10-11T15:30:19Z">
+  <state datetime="2017-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-27"/>
+  </status>
+  <introduced datetime="2017-07-27"/>
+  <titles>
+    <title type="short" as="introduced">Relief for Recovering Communities Act</title>
+    <title type="short" as="introduced">Relief for Recovering Communities Act</title>
+    <title type="official" as="introduced">To amend section 5307 of title 49, United States Code, with respect to the treatment of a community as an urbanized area following a major disaster.</title>
+    <title type="display">Relief for Recovering Communities Act</title>
+  </titles>
+  <sponsor bioguide_id="W000814"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001291" joined="2017-09-18"/>
+    <cosponsor bioguide_id="C001063" joined="2017-10-10"/>
+    <cosponsor bioguide_id="C001048" joined="2017-07-28"/>
+    <cosponsor bioguide_id="F000460" joined="2017-08-25"/>
+    <cosponsor bioguide_id="G000377" joined="2017-10-11"/>
+    <cosponsor bioguide_id="G000410" joined="2017-09-18"/>
+    <cosponsor bioguide_id="R000603" joined="2017-10-03"/>
+    <cosponsor bioguide_id="S000250" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-27" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-07-28">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2017-07-28">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Economic Development, Public Buildings and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

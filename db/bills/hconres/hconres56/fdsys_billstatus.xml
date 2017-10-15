@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <constitutionalAuthorityStatementText />
+    <sponsors>
+      <item>
+        <state>NC</state>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>M001187</bioguideId>
+        <firstName>Mark</firstName>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <lastName>Meadows</lastName>
+        <party>R</party>
+        <district>11</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-05-18T14:02:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Transportation and Infrastructure Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <cboCostEstimates />
+    <billType>HCONRES</billType>
+    <titles>
+      <item>
+        <chamberName />
+        <title>Expressing support for designation of October 28 as "Honoring the Nation's First Responders Day".</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Expressing support for designation of October 28 as "Honoring the Nation's First Responders Day".</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <introducedDate>2017-05-18</introducedDate>
+    <title>Expressing support for designation of October 28 as "Honoring the Nation's First Responders Day".</title>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1564</lisID>
+          <bioguideId>C001037</bioguideId>
+          <gpoId>7973</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>MICHAEL</firstName>
+        <state>MA</state>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <lastName>CAPUANO</lastName>
+        <party>D</party>
+        <bioguideId>C001037</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>256</lisID>
+          <bioguideId>C000984</bioguideId>
+          <gpoId>7982</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELIJAH</firstName>
+        <state>MD</state>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <lastName>CUMMINGS</lastName>
+        <party>D</party>
+        <bioguideId>C000984</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2106</lisID>
+          <gpoId />
+          <bioguideId>B001285</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Julia</firstName>
+        <state>CA</state>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>26</district>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <lastName>Brownley</lastName>
+        <party>D</party>
+        <bioguideId>B001285</bioguideId>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-05-18</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Expresses support for the designation of Honoring the Nation's First Responders Day.</p> <ul> </ul>]]></text>
+          <updateDate>2017-05-18T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-08-24T15:34:03Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-05-18</actionDate>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-05-18</actionDate>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-10-06T07:15:21Z</updateDate>
+    <amendments />
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <latestTitle>A concurrent resolution expressing support for the designation of October 28, 2017, as "Honoring the Nation's First Responders Day".</latestTitle>
+        <number>15</number>
+        <congress>115</congress>
+        <type>SCONRES</type>
+        <latestAction>
+          <text>Held at the desk.</text>
+          <actionDate>2017-08-04</actionDate>
+          <actionTime>14:31:37</actionTime>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <createDate>2017-05-19T03:11:37Z</createDate>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <actionDate>2017-05-18</actionDate>
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </latestAction>
+    <billNumber>56</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

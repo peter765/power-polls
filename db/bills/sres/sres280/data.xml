@@ -1,0 +1,38 @@
+<bill session="115" type="sr" number="280" updated="2017-10-12T04:40:49Z">
+  <state datetime="2017-10-03">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-03"/>
+  </status>
+  <introduced datetime="2017-10-03"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating the week of October 2 through October 6, 2017, as "National Health Information Technology Week" to recognize the value of health information technology in transforming and improving the healthcare system for all people in the United States.</title>
+    <title type="display">A resolution designating the week of October 2 through October 6, 2017, as "National Health Information Technology Week" to recognize the value of health information technology in transforming and improving the healthcare system for all people in the United States.</title>
+  </titles>
+  <sponsor bioguide_id="S000770"/>
+  <cosponsors>
+    <cosponsor bioguide_id="K000383" joined="2017-10-04"/>
+    <cosponsor bioguide_id="K000367" joined="2017-10-04"/>
+    <cosponsor bioguide_id="T000250" joined="2017-10-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-03">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-10-03" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S6291-6292" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Health information and medical records"/>
+    <term name="Health technology, devices, supplies"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

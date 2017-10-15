@@ -1,0 +1,49 @@
+<bill session="115" type="h" number="3669" updated="2017-10-13T07:23:45Z">
+  <state datetime="2017-09-07">REPORTED</state>
+  <status>
+    <unknown datetime="2017-09-07"/>
+  </status>
+  <introduced datetime="2017-09-01"/>
+  <titles>
+    <title type="short" as="introduced">Securing General Aviation and Commercial Charter Air Carrier Service Act of 2017</title>
+    <title type="short" as="introduced">Securing General Aviation and Commercial Charter Air Carrier Service Act of 2017</title>
+    <title type="short" as="reported to house">Securing General Aviation and Commercial Charter Air Carrier Service Act of 2017</title>
+    <title type="official" as="introduced">To improve and streamline security procedures related to general aviation and commercial charter air carrier utilizing risk-based security standards, and for other purposes.</title>
+    <title type="display">Securing General Aviation and Commercial Charter Air Carrier Service Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="E000298"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001157" joined="2017-09-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-01">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-01" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2017-09-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-09-07" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-10-12">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-346.</text>
+    </action>
+    <calendar datetime="2017-10-12" calendar="Union" number="250">
+      <text>Placed on the Union Calendar, Calendar No. 250.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHM" name="House Homeland Security" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>H. Rept. 115-346</report>
+  </committee-reports>
+</bill>

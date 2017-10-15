@@ -1,0 +1,63 @@
+<bill session="115" type="h" number="3326" updated="2017-09-11T22:30:11Z">
+  <state datetime="2017-07-25">REPORTED</state>
+  <status>
+    <unknown datetime="2017-07-25"/>
+  </status>
+  <introduced datetime="2017-07-20"/>
+  <titles>
+    <title type="short" as="introduced">World Bank Accountability Act of 2017</title>
+    <title type="short" as="introduced">World Bank Accountability Act of 2017</title>
+    <title type="short" as="reported to house">World Bank Accountability Act of 2017</title>
+    <title type="short" as="reported to house">World Bank Accountability Act of 2017</title>
+    <title type="official" as="introduced">To increase accountability, combat corruption, and strengthen management effectiveness at the World Bank.</title>
+    <title type="display">World Bank Accountability Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="B001282"/>
+  <cosponsors>
+    <cosponsor bioguide_id="S000344" joined="2017-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-20">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-20" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2017-07-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-07-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 60 - 0.</text>
+    </calendar>
+    <action datetime="2017-09-07">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 115-298.</text>
+    </action>
+    <calendar datetime="2017-09-07" calendar="Union" number="214">
+      <text>Placed on the Union Calendar, Calendar No. 214.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Accounting and auditing"/>
+    <term name="Appropriations"/>
+    <term name="Congressional oversight"/>
+    <term name="Due process and equal protection"/>
+    <term name="Economic development"/>
+    <term name="Foreign loans and debt"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Multilateral development programs"/>
+    <term name="Political movements and philosophies"/>
+    <term name="Property rights"/>
+    <term name="Rule of law and government transparency"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>H. Rept. 115-298</report>
+  </committee-reports>
+</bill>

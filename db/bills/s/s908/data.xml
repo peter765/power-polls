@@ -1,0 +1,44 @@
+<bill session="115" type="s" number="908" updated="2017-09-11T02:59:42Z">
+  <state datetime="2017-04-07">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-07"/>
+  </status>
+  <introduced datetime="2017-04-07"/>
+  <titles>
+    <title type="short" as="introduced">Make it in America Act</title>
+    <title type="short" as="introduced">Make it in America Act</title>
+    <title type="official" as="introduced">A bill to amend chapter 83 of title 41, United States Code, to increase the requirement for American-made content, to strengthen the waiver provisions, and for other purposes.</title>
+    <title type="display">Make it in America Act</title>
+  </titles>
+  <sponsor bioguide_id="S000770"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001230" joined="2017-04-07"/>
+    <cosponsor bioguide_id="P000595" joined="2017-04-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-07">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-04-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="904"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Buy American requirements"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Manufacturing"/>
+    <term name="Office of Management and Budget (OMB)"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

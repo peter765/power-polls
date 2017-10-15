@@ -1,0 +1,30 @@
+<bill session="115" type="h" number="4033" updated="2017-10-13T07:23:44Z">
+  <state datetime="2017-10-12">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-12"/>
+  </status>
+  <introduced datetime="2017-10-12"/>
+  <titles>
+    <title type="official" as="introduced">To reauthorize the National Geologic Mapping Act of 1992.</title>
+    <title type="display">To reauthorize the National Geologic Mapping Act of 1992.</title>
+  </titles>
+  <sponsor bioguide_id="L000564"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001304" joined="2017-10-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-12">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-12" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

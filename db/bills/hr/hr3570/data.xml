@@ -1,0 +1,48 @@
+<bill session="115" type="h" number="3570" updated="2017-09-28T07:16:38Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Transportation and Trailer Modernization Act of 2017</title>
+    <title type="short" as="introduced">Transportation and Trailer Modernization Act of 2017</title>
+    <title type="official" as="introduced">To amend part A of title II of the Clean Air Act to exclude trailers and other vehicles that rely on a connection to a self-propelled vehicle from the definition of a motor vehicle.</title>
+    <title type="display">Transportation and Trailer Modernization Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C001103"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000055" joined="2017-09-12"/>
+    <cosponsor bioguide_id="B001291" joined="2017-07-28"/>
+    <cosponsor bioguide_id="C001096" joined="2017-07-28"/>
+    <cosponsor bioguide_id="F000460" joined="2017-07-28"/>
+    <cosponsor bioguide_id="F000461" joined="2017-07-28"/>
+    <cosponsor bioguide_id="F000449" joined="2017-07-28"/>
+    <cosponsor bioguide_id="L000583" joined="2017-07-28"/>
+    <cosponsor bioguide_id="M001180" joined="2017-07-28"/>
+    <cosponsor bioguide_id="R000592" joined="2017-09-27"/>
+    <cosponsor bioguide_id="S001180" joined="2017-09-05"/>
+    <cosponsor bioguide_id="Y000065" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2017-08-04">
+      <text>Referred to the Subcommittee on Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Environment and the Economy" code="HSIF18" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

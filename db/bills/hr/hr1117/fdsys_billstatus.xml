@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Technology assessment</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-10-12T07:12:45Z</updateDate>
+    <amendments />
+    <calendarNumbers>
+      <item>
+        <calendar>U00013</calendar>
+        <number />
+      </item>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0222</number>
+      </item>
+    </calendarNumbers>
+    <notes />
+    <actions>
+      <item>
+        <text>Presented to President.</text>
+        <type>Floor</type>
+        <links />
+        <actionDate>2017-10-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>E20000</actionCode>
+      </item>
+      <item>
+        <text>Presented to President.</text>
+        <type>President</type>
+        <links />
+        <actionDate>2017-10-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>28000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S6324</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6324</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S6324)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <links />
+        <actionDate>2017-10-04</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-09-18</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 222.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-09-18</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-158</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/158</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-158.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-158.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>report No. 115-158</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/158</url>
+          </link>
+        </links>
+        <actionDate>2017-09-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <actionCode>14000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-28</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <links />
+        <actionDate>2017-03-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <actionTime>18:54:30</actionTime>
+      </item>
+      <item>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 195). (text: CR H2448)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H2448</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2448</url>
+          </link>
+          <link>
+            <name>Roll no. 195</name>
+            <url>http://clerk.house.gov/evs/2017/roll195.xml</url>
+          </link>
+        </links>
+        <actionDate>2017-03-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H37300</actionCode>
+        <actionTime>18:54:29</actionTime>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 195).(text: CR H2448)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H2448</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2448</url>
+          </link>
+          <link>
+            <name>Roll no. 195</name>
+            <url>http://clerk.house.gov/evs/2017/roll195.xml</url>
+          </link>
+        </links>
+        <actionDate>2017-03-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>8000</actionCode>
+        <actionTime>18:54:29</actionTime>
+      </item>
+      <item>
+        <text>Considered as unfinished business. (consideration: CR H2452-2453)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H2452-2453</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2452-2453</url>
+          </link>
+        </links>
+        <actionDate>2017-03-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <actionTime>18:31:26</actionTime>
+      </item>
+      <item>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <type>Floor</type>
+        <links />
+        <actionDate>2017-03-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H37220</actionCode>
+        <actionTime>17:10:29</actionTime>
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1117.</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 1117</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1117</url>
+          </link>
+        </links>
+        <actionDate>2017-03-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <actionTime>17:02:50</actionTime>
+      </item>
+      <item>
+        <text>Considered under suspension of the rules. (consideration: CR H2448-2450)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H2448-2450</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2448-2450</url>
+          </link>
+        </links>
+        <actionDate>2017-03-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <actionTime>17:02:48</actionTime>
+      </item>
+      <item>
+        <text>Mr. Barletta moved to suspend the rules and pass the bill, as amended.</text>
+        <type>Floor</type>
+        <links />
+        <actionDate>2017-03-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H30300</actionCode>
+        <actionTime>17:02:31</actionTime>
+      </item>
+      <item>
+        <text>Placed on the Union Calendar, Calendar No. 13.</text>
+        <type>Calendars</type>
+        <links />
+        <actionDate>2017-03-09</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H12410</actionCode>
+      </item>
+      <item>
+        <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-31.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-31</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/31</url>
+          </link>
+        </links>
+        <actionDate>2017-03-09</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionCode>H12200</actionCode>
+      </item>
+      <item>
+        <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-31.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-31</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/31</url>
+          </link>
+        </links>
+        <actionDate>2017-03-09</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionCode>5000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-02-28</actionDate>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-28</actionDate>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-28</actionDate>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-17</actionDate>
+        <committee>
+          <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+          <systemCode>hspw13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-02-16</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-02-16</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-02-16</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>18</houseOfRepresentatives>
+        <senate>8</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <orderedReported>1</orderedReported>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passedSenate>1</passedSenate>
+        <generalDebate>1</generalDebate>
+        <placeholderTextForE>1</placeholderTextForE>
+        <sentToHouse>1</sentToHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <placeholderTextForH>4</placeholderTextForH>
+        <reportedToHouse>1</reportedToHouse>
+        <reportedToSenate>2</reportedToSenate>
+        <considerationByHouse>2</considerationByHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <presentedToPresident>1</presentedToPresident>
+        <actionStageOverride>1</actionStageOverride>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. HARTZLER:H.R. 1117.Congress has the power to enact this legislation pursuantto the following:Article I: Section 8: Clause 3 The United States Congressshall have power``To regulate Commerce with foreign Nations, and among theseveral States, and with the Indian Tribes.''[Page H1303]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2032</lisID>
+          <bioguideId>H001053</bioguideId>
+          <gpoId>8012</gpoId>
+        </identifiers>
+        <bioguideId>H001053</bioguideId>
+        <party>R</party>
+        <district>4</district>
+        <firstName>Vicky</firstName>
+        <middleName />
+        <state>MO</state>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <lastName>Hartzler</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <relatedBills />
+    <recordedVotes>
+      <recordedVote>
+        <url>http://clerk.house.gov/evs/2017/roll195.xml</url>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <rollNumber>195</rollNumber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <date>2017-03-27T22:54:29Z</date>
+        <congress>115</congress>
+      </recordedVote>
+    </recordedVotes>
+    <cosponsors />
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-02-16T05:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill directs the Federal Emergency Management Agency (FEMA) to report to Congress regarding its plans to provide: (1) consistent guidance to applicants on FEMA disaster funding procedures during the response to an emergency or disaster, (2) appropriate record maintenance and transfer of documents to new teams during staff transitions, and (3) accurate assistance to applicants and grantees to ease the administrative burden throughout the process of obtaining and monitoring assistance.</p> <p>The report must: (1) include a plan for implementing operating procedures and document retention requirements to ensure the maintenance of appropriate records throughout the life cycle of the emergency or disaster; and (2) identify new technologies to aid the disaster workforce in partnering with state, local, and tribal governments and private nonprofits in the wake of a disaster or emergency to educate, assist, and inform applicants on the status of their applications and projects.</p> <ul> </ul>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-02-27T19:56:24Z</lastSummaryUpdateDate>
+          <actionDate>2017-02-16</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <updateDate>2017-03-09T14:13:12Z</updateDate>
+          <text><![CDATA[<p>(Sec. 1) This bill directs the Federal Emergency Management Agency (FEMA) to report to Congress regarding its plans to provide: (1) consistent guidance to applicants on FEMA disaster funding procedures during the response to an emergency or disaster, (2) appropriate record maintenance and transfer of documents to new teams during staff transitions, and (3) accurate assistance to applicants and grantees to ease the administrative burden throughout the process of obtaining and monitoring assistance.</p> <p>The report must: (1) include a plan for implementing operating procedures and document retention requirements to ensure the maintenance of appropriate records throughout the life cycle of the emergency or disaster; and (2) identify new technologies to aid the disaster workforce in partnering with state, local, and tribal governments and private nonprofits in the wake of a disaster or emergency to educate, assist, and inform applicants on the status of their applications and projects.</p> <ul> </ul>]]></text>
+          <name>Reported to House with amendment(s)</name>
+          <lastSummaryUpdateDate>2017-07-19T18:39:48Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-09</actionDate>
+          <actionDesc>Reported to House with amendment(s)</actionDesc>
+          <versionCode>17</versionCode>
+        </item>
+        <item>
+          <updateDate>2017-03-27T15:06:21Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was reported to the House on March 9, 2017. The summary of that version is repeated here.)</p> <p>(Sec. 1) This bill directs the Federal Emergency Management Agency (FEMA) to report to Congress regarding its plans to provide: (1) consistent guidance to applicants on FEMA disaster funding procedures during the response to an emergency or disaster, (2) appropriate record maintenance and transfer of documents to new teams during staff transitions, and (3) accurate assistance to applicants and grantees to ease the administrative burden throughout the process of obtaining and monitoring assistance.</p> <p>The report must: (1) include a plan for implementing operating procedures and document retention requirements to ensure the maintenance of appropriate records throughout the life cycle of the emergency or disaster; and (2) identify new technologies to aid the disaster workforce in partnering with state, local, and tribal governments and private nonprofits in the wake of a disaster or emergency to educate, assist, and inform applicants on the status of their applications and projects. </p>]]></text>
+          <name>Passed House amended</name>
+          <lastSummaryUpdateDate>2017-07-19T18:40:33Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-27</actionDate>
+          <actionDesc>Passed House amended</actionDesc>
+          <versionCode>36</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <createDate>2017-02-17T04:46:13Z</createDate>
+    <title>To require the Administrator of the Federal Emergency Management Agency to submit a report regarding certain plans regarding assistance to applicants and grantees during the response to an emergency or disaster.</title>
+    <originChamber>House</originChamber>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-03-07T22:07:30Z</pubDate>
+        <url>https://www.cbo.gov/publication/52476</url>
+        <title>H.R. 1117, a bill to require the Administrator of the Federal Emergency Management Agency to submit a report regarding certain plans regarding assistance to applicants and grantees during the response to an emergency or disaster</title>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <latestAction>
+      <actionDate>2017-10-06</actionDate>
+      <text>Presented to President.</text>
+      <links />
+    </latestAction>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-31</citation>
+      </committeeReport>
+      <committeeReport>
+        <citation>S. Rept. 115-158</citation>
+      </committeeReport>
+    </committeeReports>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To require the Administrator of the Federal Emergency Management Agency to submit a report regarding certain plans regarding assistance to applicants and grantees during the response to an emergency or disaster.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>To require the Administrator of the Federal Emergency Management Agency to submit a report regarding certain plans regarding assistance to applicants and grantees during the response to an emergency or disaster.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <billNumber>1117</billNumber>
+    <introducedDate>2017-02-16</introducedDate>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+          <activities>
+            <item>
+              <date>2017-09-18T20:25:24Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-07-26T14:00:34Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-03-28T15:43:03Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-02-28T17:02:02Z</date>
+                  <name>Discharged from</name>
+                </item>
+                <item>
+                  <date>2017-02-17T14:51:27Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+              <systemCode>hspw13</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+          <activities>
+            <item>
+              <date>2017-03-09T20:14:54Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-02-28T16:40:25Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-02-16T15:13:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

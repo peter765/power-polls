@@ -1,0 +1,156 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-06-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-06-15", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-15", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 26.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2017-09-11", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 115-304.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-11", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "217", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 217.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2874-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 115-304"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-06-15", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-06-12", 
+  "number": "2874", 
+  "official_title": "To achieve reforms to improve the financial stability of the National Flood Insurance Program, to enhance the development of more accurate estimates of flood risk through new technology and better maps, to increase the role of private markets in the management of flood insurance risks, and to provide for alternative methods to insure against flood peril, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "21st Century Flood Reform Act", 
+  "sponsor": {
+    "bioguide_id": "D000614", 
+    "district": "7", 
+    "name": "Duffy, Sean P.", 
+    "state": "WI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-06-15", 
+  "subjects": [
+    "Finance and financial sector"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-06-12T04:00:00Z", 
+    "text": "21st Century Flood Reform Act\n\nThis bill amends the National Flood Insurance Act of 1968 to change annual limits on premium increases for insurance obtained through the National Flood Insurance Program (NFIP). The Federal Emergency Management Agency (FEMA) must provide financial assistance, through state programs, for low income families to purchase NFIP insurance.\n\nFEMA must allow a Write Your Own company to sell private flood insurance. (A Write Your Own company writes and services federal standard flood insurance policies in its own name.)\n\nFEMA must provide: (1) an annual explanation of premiums; (2) historical flood data to property owners upon request; and (3) data related to NFIP risks and premiums, including community-level data, through a publicly available data system.\n\nFEMA must commission an annual independent actuarial review of the financial status of NFIP.\n\nThe Government Accountability Office must report on: (1) the feasibility of reducing flood insurance premiums and eliminating the need for flood insurance coverage by authorizing flood damage savings accounts, and (2) flood insurance requirements for mortgages.\n\nFEMA denials of requests for updated flood maps may be appealed.\n\nThe bill revises the NFIP community rating program to require FEMA to provide premium credits in communities that protect natural and beneficial floodplain functions.\n\nThis bill revises NFIP coverage for: (1) properties that have incurred multiple flood losses, (2) properties that have exceeded specified levels of claim payments, and (3) certain high-risk properties.\n\nThis bill amends the Flood Disaster Protection Act of 1973 to increase penalties for violations of the flood insurance requirement for mortgages."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "21st Century Flood Reform Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "21st Century Flood Reform Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "21st Century Flood Reform Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "21st Century Flood Reform Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To achieve reforms to improve the financial stability of the National Flood Insurance Program, to enhance the development of more accurate estimates of flood risk through new technology and better maps, to increase the role of private markets in the management of flood insurance risks, and to provide for alternative methods to insure against flood peril, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "21st Century Flood Reform Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-09-27T22:30:12Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr2874.xml"
+}

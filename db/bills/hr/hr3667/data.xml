@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="3667" updated="2017-09-19T07:12:21Z">
+  <state datetime="2017-08-29">REFERRED</state>
+  <status>
+    <introduced datetime="2017-08-29"/>
+  </status>
+  <introduced datetime="2017-08-29"/>
+  <titles>
+    <title type="short" as="introduced">Veteran and Beginning Farmers Assistance Act</title>
+    <title type="short" as="introduced">Veteran and Beginning Farmers Assistance Act</title>
+    <title type="official" as="introduced">To amend the Consolidated Farm and Rural Development Act to provide for a 5-year extension of the appropriate technology transfer for rural areas program.</title>
+    <title type="display">Veteran and Beginning Farmers Assistance Act</title>
+  </titles>
+  <sponsor bioguide_id="F000464"/>
+  <cosponsors>
+    <cosponsor bioguide_id="K000382" joined="2017-08-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-08-29">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-08-29" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2017-09-15">
+      <text>Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Commodity Exchanges, Energy, and Credit" code="HSAG22" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

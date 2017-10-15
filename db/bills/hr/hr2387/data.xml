@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="2387" updated="2017-06-19T22:15:24Z">
+  <state datetime="2017-05-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-04"/>
+  </status>
+  <introduced datetime="2017-05-04"/>
+  <titles>
+    <title type="short" as="introduced">Worker Ownership, Readiness, and Knowledge Act</title>
+    <title type="short" as="introduced">Worker Ownership, Readiness, and Knowledge Act</title>
+    <title type="official" as="introduced">To establish an Employee Ownership and Participation Initiative, and for other purposes.</title>
+    <title type="display">Worker Ownership, Readiness, and Knowledge Act</title>
+  </titles>
+  <sponsor bioguide_id="P000598"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000620" joined="2017-05-04"/>
+    <cosponsor bioguide_id="P000034" joined="2017-06-08"/>
+    <cosponsor bioguide_id="P000607" joined="2017-05-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-04">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-04" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1081"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

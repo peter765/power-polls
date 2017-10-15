@@ -1,0 +1,201 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-27", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-27", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-09-28", 
+      "action_code": "", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2017-09-28", 
+      "action_code": "", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3445-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001270", 
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-27", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000179", 
+      "district": "16", 
+      "name": "Engel, Eliot L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-27", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000582", 
+      "district": "33", 
+      "name": "Lieu, Ted", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-09-13", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001185", 
+      "district": "7", 
+      "name": "Sewell, Terri A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-08-01", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000522", 
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-27", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-09-28", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-27", 
+  "number": "3445", 
+  "official_title": "To enhance the transparency and accelerate the impact of programs under the African Growth and Opportunity Act and the Millennium Challenge Corporation, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s832-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "African Growth and Opportunity Act and Millennium Challenge Act Modernization Act", 
+  "sponsor": {
+    "bioguide_id": "R000487", 
+    "district": "39", 
+    "name": "Royce, Edward R.", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-09-28", 
+  "subjects": [
+    "Africa", 
+    "Business education", 
+    "Competitiveness, trade promotion, trade deficits", 
+    "Congressional oversight", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Foreign aid and international relief", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "International affairs", 
+    "Sovereignty, recognition, national governance and status", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-07-27T04:00:00Z", 
+    "text": "African Growth and Opportunity Act and Millennium Challenge Act Modernization Act or the AGOA and MCA Modernization Act\n\n This bill directs the President to establish a website for the collection and dissemination of information regarding the African Growth and Opportunity Act (AGOA).\n\n The Department of State is urged to promote the use by eligible sub-Saharan African countries of the benefits available under the African Growth and Opportunity Act.\n\n The President is urged to:\n\n facilitate trans-boundary trade among eligible sub-Saharan African countries; provide training for business and government trade officials on accessing AGOA benefits; provide capacity building for African entrepreneurs and trade associations on production strategies, quality standards, and market development; provide capacity building training to promote product diversification and value-added processing; and provide capacity building and technical assistance funding to help African businesses and institutions comply with U.S. counter-terrorism policies. The Millennium Challenge Act of 2003 is amended to permit an eligible country that has entered into a Millennium Challenge Compact to enter into one additional compact under specified conditions.\n\nThe bill establishes, beginning with FY2013, new assistance criteria for a low-income or a lower middle income candidate country eligible to enter into a Millennium Challenge Compact with the United States.\n\n The Millennium Challenge Corporation shall: (1) before selecting a compact country, provide the Board of Directors with information regarding the country's treatment of civil society; and (2) submit an assessment of the feasibility of developing partnerships at the sub national level within candidate countries."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "African Growth and Opportunity Act and Millennium Challenge Act Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "African Growth and Opportunity Act and Millennium Challenge Act Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "AGOA and MCA Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "AGOA and MCA Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To enhance the transparency and accelerate the impact of programs under the African Growth and Opportunity Act and the Millennium Challenge Corporation, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "AGOA and MCA Modernization Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-11T20:57:15Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3445.xml"
+}

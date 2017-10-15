@@ -1,0 +1,58 @@
+<bill session="115" type="h" number="2868" updated="2017-09-19T17:00:12Z">
+  <state datetime="2017-06-15">REPORTED</state>
+  <status>
+    <unknown datetime="2017-06-15"/>
+  </status>
+  <introduced datetime="2017-06-08"/>
+  <titles>
+    <title type="short" as="introduced">National Flood Insurance Program Policyholder Protection Act of 2017</title>
+    <title type="short" as="introduced">National Flood Insurance Program Policyholder Protection Act of 2017</title>
+    <title type="short" as="reported to house">National Flood Insurance Program Policyholder Protection Act of 2017</title>
+    <title type="short" as="reported to house">National Flood Insurance Program Policyholder Protection Act of 2017</title>
+    <title type="official" as="introduced">To protect National Flood Insurance Program policyholders from unreasonable premium rates and to require the Program to consider the unique characteristics of urban properties, and for other purposes.</title>
+    <title type="display">National Flood Insurance Program Policyholder Protection Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="Z000017"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M000087" joined="2017-06-15"/>
+    <cosponsor bioguide_id="S000480" joined="2017-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-08">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-08" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-06-15" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 53 - 0.</text>
+    </calendar>
+    <action datetime="2017-07-11">
+      <text>Reported by the Committee on Financial Services. H. Rept. 115-211.</text>
+    </action>
+    <calendar datetime="2017-07-11" calendar="Union" number="148">
+      <text>Placed on the Union Calendar, Calendar No. 148.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-06-08T04:00:00Z" status="Introduced in House">National Flood Insurance Program Policyholder Protection Act of 2017
+
+This bill amends the National Flood Insurance Act of 1968 to limit the flood insurance premium for a residential property having four or fewer residences to no more than $10,000 a year, subject to adjustments for future inflation.
+
+In determining premium rates, the Federal Emergency Management Agency (FEMA) shall offer a rate reduction if policyholders implement specified flood damage mitigation methods. Mitigation techniques that qualify for a rate reduction include methods that can be utilized on a block or neighborhood scale, and the elevation of mechanical systems.
+
+FEMA shall conduct a study of the feasibility of providing coverage for individual units in cooperative housing projects.</summary>
+  <committee-reports>
+    <report>H. Rept. 115-211</report>
+  </committee-reports>
+</bill>

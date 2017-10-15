@@ -1,0 +1,41 @@
+<bill session="115" type="h" number="3846" updated="2017-10-11T07:12:39Z">
+  <state datetime="2017-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-27"/>
+  </status>
+  <introduced datetime="2017-09-27"/>
+  <titles>
+    <title type="short" as="introduced">POWER Counties Act</title>
+    <title type="short" as="introduced">POWER Counties Act</title>
+    <title type="short" as="introduced">Providing Opportunity With Energy Revenues in Counties Act</title>
+    <title type="short" as="introduced">Providing Opportunity With Energy Revenues in Counties Act</title>
+    <title type="official" as="introduced">To amend the Mineral Leasing Act to require payment to counties of a portion of certain revenues received by the United States under Federal oil and gas leases, and for other purposes.</title>
+    <title type="display">POWER Counties Act</title>
+  </titles>
+  <sponsor bioguide_id="J000292"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-09-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-27" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-10-02">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Energy and Mineral Resources" code="HSII06" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy revenues and royalties"/>
+    <term name="Oil and gas"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

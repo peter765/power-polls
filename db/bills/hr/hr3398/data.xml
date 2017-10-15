@@ -1,0 +1,35 @@
+<bill session="115" type="h" number="3398" updated="2017-09-11T02:55:47Z">
+  <state datetime="2017-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-25"/>
+  </status>
+  <introduced datetime="2017-07-25"/>
+  <titles>
+    <title type="short" as="introduced">REAL ID Act Modification for Freely Associated States Act</title>
+    <title type="short" as="introduced">REAL ID Act Modification for Freely Associated States Act</title>
+    <title type="official" as="introduced">To amend the Real ID Act of 2005 to permit Freely Associated States to meet identification requirements under such Act, and for other purposes.</title>
+    <title type="display">REAL ID Act Modification for Freely Associated States Act</title>
+  </titles>
+  <sponsor bioguide_id="Y000033"/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000571" joined="2017-07-25"/>
+    <cosponsor bioguide_id="H001050" joined="2017-09-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-25" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

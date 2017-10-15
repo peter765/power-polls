@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-07", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-07", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1779-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "R000584", 
+      "district": null, 
+      "name": "Risch, James E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-09-18", 
+      "state": "ID", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-07", 
+  "number": "1779", 
+  "official_title": "A bill to repeal certain provisions of the Federal Switchblade Act to allow domestic manufacturers to ship and sell their products to buyers located in other States and to permit the importation of certain knife parts.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Freedom of Commerce Act", 
+  "sponsor": {
+    "bioguide_id": "C000880", 
+    "district": null, 
+    "name": "Crapo, Mike", 
+    "state": "ID", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-07", 
+  "subjects": [
+    "Commerce"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Freedom of Commerce Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Freedom of Commerce Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to repeal certain provisions of the Federal Switchblade Act to allow domestic manufacturers to ship and sell their products to buyers located in other States and to permit the importation of certain knife parts.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Freedom of Commerce Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-12T04:47:30Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1779.xml"
+}

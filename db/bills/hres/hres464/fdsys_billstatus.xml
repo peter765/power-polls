@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-07-21T03:11:33Z</createDate>
+    <billType>HRES</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>226</number>
+        <type>SRES</type>
+        <latestAction>
+          <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4118-4119)</text>
+          <actionDate>2017-07-20</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A resolution designating the week of July 17 through July 21, 2017, as "National Ectodermal Dysplasias Week" and supporting the goals and ideals of National Ectodermal Dysplasias Week to raise awareness and understanding of ectodermal dysplasias.</latestTitle>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001150</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>ADAM</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <district>28</district>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S001150</bioguideId>
+          <lisID>1635</lisID>
+          <gpoId>7834</gpoId>
+        </identifiers>
+        <lastName>SCHIFF</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000389</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ro</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <district>17</district>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Khanna</lastName>
+      </item>
+      <item>
+        <middleName>C.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000258</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>COLLIN</firstName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <district>7</district>
+        <state>MN</state>
+        <identifiers>
+          <lisID>910</lisID>
+          <bioguideId>P000258</bioguideId>
+          <gpoId>8007</gpoId>
+        </identifiers>
+        <lastName>PETERSON</lastName>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001106</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ryan</firstName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <district>6</district>
+        <state>PA</state>
+        <identifiers>
+          <lisID>2266</lisID>
+          <bioguideId>C001106</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Costello</lastName>
+      </item>
+      <item>
+        <middleName>P.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M000312</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <district>2</district>
+        <state>MA</state>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <lastName>MCGOVERN</lastName>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000602</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kathleen</firstName>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <district>4</district>
+        <state>NY</state>
+        <identifiers>
+          <lisID>2262</lisID>
+          <bioguideId>R000602</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Rice</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000594</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Erik</firstName>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <district>3</district>
+        <state>MN</state>
+        <identifiers>
+          <lisID>1930</lisID>
+          <bioguideId>P000594</bioguideId>
+          <gpoId>8003</gpoId>
+        </identifiers>
+        <lastName>Paulsen</lastName>
+      </item>
+      <item>
+        <middleName>HOLMES</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELEANOR</firstName>
+        <sponsorshipDate>2017-09-21</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <district>0</district>
+        <state>DC</state>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <lastName>NORTON</lastName>
+      </item>
+      <item>
+        <middleName>JAMES</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000244</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>F.</firstName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <district>5</district>
+        <state>WI</state>
+        <identifiers>
+          <lisID>1041</lisID>
+          <gpoId>8218</gpoId>
+          <bioguideId>S000244</bioguideId>
+        </identifiers>
+        <lastName>SENSENBRENNER</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000460</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Blake</firstName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <district>27</district>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>F000460</bioguideId>
+          <lisID>2067</lisID>
+          <gpoId>8183</gpoId>
+        </identifiers>
+        <lastName>Farenthold</lastName>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <notes />
+    <introducedDate>2017-07-20</introducedDate>
+    <laws />
+    <committeeReports />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Designating the week of July 17 through July 21, 2017, as "National Ectodermal Dysplasias Week" and supporting the goals and ideals of National Ectodermal Dysplasias Week to raise awareness and understanding of ectodermal dysplasias.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Designating the week of July 17 through July 21, 2017, as "National Ectodermal Dysplasias Week" and supporting the goals and ideals of National Ectodermal Dysplasias Week to raise awareness and understanding of ectodermal dysplasias.</title>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>7817</gpoId>
+          <lisID>1890</lisID>
+          <bioguideId>S001175</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <firstName>Jackie</firstName>
+        <bioguideId>S001175</bioguideId>
+        <lastName>Speier</lastName>
+        <district>14</district>
+        <party>D</party>
+        <state>CA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <date>2017-07-20T13:02:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <billNumber>464</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-07-20</actionDate>
+          <updateDate>2017-07-20T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-09-20T20:03:10Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Expresses support for the designation of National Ectodermal Dysplasias Week. (Ectodermal dysplasias are a group of genetic conditions that commonly affect the hair, nails, teeth, and sweat glands.)</p> <p>Encourages Americans to become more informed about ectodermal dysplasias and the role of treatment in improving quality of life.</p>]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText />
+    <title>Designating the week of July 17 through July 21, 2017, as "National Ectodermal Dysplasias Week" and supporting the goals and ideals of National Ectodermal Dysplasias Week to raise awareness and understanding of ectodermal dysplasias.</title>
+    <updateDate>2017-10-03T07:15:33Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Dental care</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Hereditary and development disorders</name>
+          </item>
+          <item>
+            <name>Musculoskeletal and skin diseases</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-07-20</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

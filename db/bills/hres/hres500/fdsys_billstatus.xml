@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <district>4</district>
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <bioguideId>C001053</bioguideId>
+        <lastName>Cole</lastName>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <byRequestType />
+        <middleName />
+        <state>OK</state>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <calendarNumbers>
+      <item>
+        <calendar>H00079</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-295</citation>
+      </committeeReport>
+    </committeeReports>
+    <latestAction>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionDate>2017-09-06</actionDate>
+      <actionTime>16:17:39</actionTime>
+      <links />
+    </latestAction>
+    <constitutionalAuthorityStatementText />
+    <recordedVotes>
+      <recordedVote>
+        <url>http://clerk.house.gov/evs/2017/roll443.xml</url>
+        <date>2017-09-06T20:17:37Z</date>
+        <rollNumber>443</rollNumber>
+        <congress>115</congress>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+      <recordedVote>
+        <url>http://clerk.house.gov/evs/2017/roll442.xml</url>
+        <date>2017-09-06T20:09:23Z</date>
+        <rollNumber>442</rollNumber>
+        <congress>115</congress>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>3354</number>
+        <type>HR</type>
+        <latestTitle>Department of the Interior, Environment, and Related Agencies Appropriations Act, 2018</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business.</text>
+          <actionDate>2017-09-08</actionDate>
+          <actionTime>11:51:53</actionTime>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-09-06</actionDate>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <actionTime>16:17:39</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H6678</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6678</url>
+          </link>
+          <link>
+            <name>Roll no. 443</name>
+            <url>http://clerk.house.gov/evs/2017/roll443.xml</url>
+          </link>
+        </links>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 230 - 191 (Roll no. 443). (text: CR H6678)</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-09-06</actionDate>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <actionTime>16:17:37</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>Roll no. 443</name>
+            <url>http://clerk.house.gov/evs/2017/roll443.xml</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 230 - 191 (Roll no. 443).</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-09-06</actionDate>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <actionTime>16:17:37</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H6694</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6694</url>
+          </link>
+          <link>
+            <name>Roll no. 442</name>
+            <url>http://clerk.house.gov/evs/2017/roll442.xml</url>
+          </link>
+        </links>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 233 - 187 (Roll no. 442). (consideration: CR H6694)</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-09-06</actionDate>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <actionTime>16:09:23</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H. Res. 500</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/500</url>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 500.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-09-06</actionDate>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <actionTime>14:21:07</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H6678-6694</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6678-6694</url>
+          </link>
+        </links>
+        <text>Considered as privileged matter. (consideration: CR H6678-6694)</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-09-06</actionDate>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <actionTime>14:15:29</actionTime>
+      </item>
+      <item>
+        <links />
+        <text>Placed on the House Calendar, Calendar No. 79.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-09-05</actionDate>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+      </item>
+      <item>
+        <links />
+        <text>The rule also provides that it shall be in order at any time through the legislative day of September 9, 2017, for the Speaker to entertain motions that the House suspend the rules.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-09-05</actionDate>
+        <type>Floor</type>
+        <actionCode>H12700</actionCode>
+        <actionTime>23:55:01</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H. Rept. 115-295</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/295</url>
+          </link>
+        </links>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-295, by Mr. Cole.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <actionDate>2017-09-05</actionDate>
+        <type>Committee</type>
+        <actionCode>H12100</actionCode>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H. Rept. 115-295</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/295</url>
+          </link>
+        </links>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-295, by Mr. Cole.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <actionDate>2017-09-05</actionDate>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-09-05</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <considerationByHouse>1</considerationByHouse>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <generalDebate>1</generalDebate>
+        <provisionsOfARule>1</provisionsOfARule>
+        <introducedInHouse>1</introducedInHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <date>2017-09-06T03:55:00Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-09-11T03:02:47Z</updateDate>
+    <cboCostEstimates />
+    <createDate>2017-09-06T03:11:30Z</createDate>
+    <billType>HRES</billType>
+    <cosponsors />
+    <congress>115</congress>
+    <introducedDate>2017-09-05</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-09-05T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-09-05</actionDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-09-06T08:06:35Z</lastSummaryUpdateDate>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 3354) making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2018, and for other purposes; providing for consideration of motions to suspend the rules; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Providing for consideration of the bill (H.R. 3354) making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2018, and for other purposes; providing for consideration of motions to suspend the rules; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.</title>
+    <laws />
+    <billNumber>500</billNumber>
+    <titles>
+      <item>
+        <title>Providing for consideration of the bill (H.R. 3354) making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2018, and for other purposes; providing for consideration of motions to suspend the rules; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Providing for consideration of the bill (H.R. 3354) making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2018, and for other purposes; providing for consideration of motions to suspend the rules; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

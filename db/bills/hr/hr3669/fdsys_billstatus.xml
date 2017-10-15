@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ESTES of Kansas:H.R. 3669.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18--To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States or in anyDepartment or Officer thereof.[Page H6632]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>115</congress>
+    <cboCostEstimates />
+    <updateDate>2017-10-13T07:23:45Z</updateDate>
+    <latestAction>
+      <actionDate>2017-10-12</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 250.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Homeland Security Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-10-12T16:02:57Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-09-07T20:14:03Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-01T17:00:49Z</date>
+            </item>
+          </activities>
+          <systemCode>hshm00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>M001157</bioguideId>
+        <middleName>T.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001157</bioguideId>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <lastName>McCaul</lastName>
+        <state>TX</state>
+        <party>R</party>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <district>10</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-01</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-09-01</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <billType>HR</billType>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <laws />
+    <billNumber>3669</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Calendars</type>
+        <committee />
+        <links />
+        <text>Placed on the Union Calendar, Calendar No. 250.</text>
+      </item>
+      <item>
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-346</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/346</url>
+          </link>
+        </links>
+        <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-346.</text>
+      </item>
+      <item>
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-346</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/346</url>
+          </link>
+        </links>
+        <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-346.</text>
+      </item>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-01</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Homeland Security.</text>
+      </item>
+      <item>
+        <actionDate>2017-09-01</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-09-01</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <billReferrals>1</billReferrals>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <introducedInHouse>1</introducedInHouse>
+        <reportedToHouse>1</reportedToHouse>
+      </actionTypeCounts>
+    </actions>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-346</citation>
+      </committeeReport>
+    </committeeReports>
+    <title>Securing General Aviation and Commercial Charter Air Carrier Service Act of 2017</title>
+    <createDate>2017-09-02T03:11:31Z</createDate>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00250</calendar>
+      </item>
+    </calendarNumbers>
+    <titles>
+      <item>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <title>Securing General Aviation and Commercial Charter Air Carrier Service Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Securing General Aviation and Commercial Charter Air Carrier Service Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To improve and streamline security procedures related to general aviation and commercial charter air carrier utilizing risk-based security standards, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Securing General Aviation and Commercial Charter Air Carrier Service Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Securing General Aviation and Commercial Charter Air Carrier Service Act of 2017</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>KS</state>
+        <byRequestType />
+        <bioguideId>E000298</bioguideId>
+        <firstName>Ron</firstName>
+        <identifiers>
+          <lisID>2358</lisID>
+          <bioguideId>E000298</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <district>4</district>
+        <lastName>Estes</lastName>
+        <fullName>Rep. Estes, Ron [R-KS-4]</fullName>
+      </item>
+    </sponsors>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

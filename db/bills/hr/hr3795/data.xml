@@ -1,0 +1,47 @@
+<bill session="115" type="h" number="3795" updated="2017-10-05T15:00:14Z">
+  <state datetime="2017-09-14">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-14"/>
+  </status>
+  <introduced datetime="2017-09-14"/>
+  <titles>
+    <title type="short" as="introduced">Tijuana River Valley Comprehensive Protection and Rehabilitation Act of 2017</title>
+    <title type="short" as="introduced">Tijuana River Valley Comprehensive Protection and Rehabilitation Act of 2017</title>
+    <title type="official" as="introduced">To direct the Secretary of the Army, acting through the Chief of Engineers, to carry out a comprehensive protection and rehabilitation program for the Tijuana River Valley, and for other purposes.</title>
+    <title type="display">Tijuana River Valley Comprehensive Protection and Rehabilitation Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="V000130"/>
+  <cosponsors>
+    <cosponsor bioguide_id="I000056" joined="2017-09-14"/>
+    <cosponsor bioguide_id="P000608" joined="2017-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-14">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-14" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-09-14">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-09-15">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2017-09-15">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Economic Development, Public Buildings and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

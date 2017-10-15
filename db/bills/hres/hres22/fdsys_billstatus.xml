@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hsru00</systemCode>
+          <activities>
+            <item>
+              <date>2017-01-04T22:00:16Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <cosponsors />
+    <notes />
+    <introducedDate>2017-01-04</introducedDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-1</citation>
+      </committeeReport>
+    </committeeReports>
+    <createDate>2017-01-05T04:47:31Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <provisionsOfARule>1</provisionsOfARule>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <generalDebate>1</generalDebate>
+        <reportedToHouse>1</reportedToHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <actionCode>H38310</actionCode>
+        <actionTime>14:29:47</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-01-05</actionDate>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H113</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H113</url>
+          </link>
+          <link>
+            <name>Roll no. 10</name>
+            <url>http://clerk.house.gov/evs/2017/roll010.xml</url>
+          </link>
+        </links>
+        <actionCode>H37100</actionCode>
+        <actionTime>14:29:44</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-01-05</actionDate>
+        <committee />
+        <text>On agreeing to the resolution Agreed to by recorded vote: 231 - 187 (Roll no. 10). (text: CR H113)</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H113</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H113</url>
+          </link>
+          <link>
+            <name>Roll no. 10</name>
+            <url>http://clerk.house.gov/evs/2017/roll010.xml</url>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <actionTime>14:29:44</actionTime>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-01-05</actionDate>
+        <committee />
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 231 - 187 (Roll no. 10).(text: CR H113)</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H122-123</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H122-123</url>
+          </link>
+          <link>
+            <name>Roll no. 9</name>
+            <url>http://clerk.house.gov/evs/2017/roll009.xml</url>
+          </link>
+        </links>
+        <actionCode>H35000</actionCode>
+        <actionTime>14:11:53</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-01-05</actionDate>
+        <committee />
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 235 - 188 (Roll no. 9). (consideration: CR H122-123)</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H. Res. 22</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/22</url>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <actionTime>12:40:00</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-01-05</actionDate>
+        <committee />
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 22.</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H113-124</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H113-124</url>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <actionTime>12:37:25</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-01-05</actionDate>
+        <committee />
+        <text>Considered as privileged matter. (consideration: CR H113-124)</text>
+      </item>
+      <item>
+        <text>Placed on the House Calendar, Calendar No. 1.</text>
+        <actionCode>H12420</actionCode>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Calendars</type>
+        <actionDate>2017-01-04</actionDate>
+        <committee />
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H.R. 26</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/26</url>
+          </link>
+        </links>
+        <actionCode>H12700</actionCode>
+        <actionTime>17:00:17</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-01-04</actionDate>
+        <committee />
+        <text>Both measures shall be considered as read, the previous questions shall be considered as ordered without intervening motion or demand for division of the question except one hour of debate. The rule makes in order a motion to recommit H.R. 26 with or without instructions.</text>
+      </item>
+      <item>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-1, by Mr. Collins (GA).</text>
+        <actionCode>H12100</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-1</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/1</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2017-01-04</actionDate>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-1, by Mr. Collins (GA).</text>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-1</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/1</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2017-01-04</actionDate>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-04</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2017-08-10T13:23:02Z</updateDate>
+    <billType>HRES</billType>
+    <constitutionalAuthorityStatementText />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <fullName>Rep. Collins, Doug [R-GA-9]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001093</bioguideId>
+          <lisID>2121</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Collins</lastName>
+        <firstName>Doug</firstName>
+        <bioguideId>C001093</bioguideId>
+        <party>R</party>
+        <district>9</district>
+        <byRequestType />
+        <state>GA</state>
+      </item>
+    </sponsors>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>10</rollNumber>
+        <sessionNumber>1</sessionNumber>
+        <url>http://clerk.house.gov/evs/2017/roll010.xml</url>
+        <congress>115</congress>
+        <date>2017-01-05T19:29:44Z</date>
+        <chamber>House</chamber>
+        <fullActionName>Passage of a Measure</fullActionName>
+      </recordedVote>
+      <recordedVote>
+        <rollNumber>9</rollNumber>
+        <sessionNumber>1</sessionNumber>
+        <url>http://clerk.house.gov/evs/2017/roll009.xml</url>
+        <congress>115</congress>
+        <date>2017-01-05T19:11:53Z</date>
+        <chamber>House</chamber>
+        <fullActionName>Motion for Previous Question</fullActionName>
+      </recordedVote>
+    </recordedVotes>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>H00001</calendar>
+      </item>
+    </calendarNumbers>
+    <billNumber>22</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-04T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-01-05T09:02:16Z</lastSummaryUpdateDate>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 26) to amend chapter 8 of title 5, United States Code, to provide that major rules of the executive branch shall have no force or effect unless a joint resolution of approval is enacted into law, and providing for consideration of the resolution (H. Res. 11) objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace.]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDate>2017-01-04</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Providing for consideration of the bill (H.R. 26) to amend chapter 8 of title 5, United States Code, to provide that major rules of the executive branch shall have no force or effect unless a joint resolution of approval is enacted into law, and providing for consideration of the resolution (H. Res. 11) objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes.</title>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for consideration of the bill (H.R. 26) to amend chapter 8 of title 5, United States Code, to provide that major rules of the executive branch shall have no force or effect unless a joint resolution of approval is enacted into law, and providing for consideration of the resolution (H. Res. 11) objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for consideration of the bill (H.R. 26) to amend chapter 8 of title 5, United States Code, to provide that major rules of the executive branch shall have no force or effect unless a joint resolution of approval is enacted into law, and providing for consideration of the resolution (H. Res. 11) objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <number>26</number>
+        <latestAction>
+          <actionDate>2017-03-29</actionDate>
+          <text>Committee on Small Business and Entrepreneurship. Hearings held. Hearings printed: S.Hrg. 115-21.</text>
+        </latestAction>
+        <latestTitle>Regulations from the Executive in Need of Scrutiny Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+      </item>
+      <item>
+        <type>HRES</type>
+        <number>11</number>
+        <latestAction>
+          <actionDate>2017-01-05</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>19:04:43</actionTime>
+        </latestAction>
+        <latestTitle>Objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-01-05</actionDate>
+      <actionTime>14:29:47</actionTime>
+      <links />
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </latestAction>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

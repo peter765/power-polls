@@ -1,0 +1,72 @@
+<bill session="115" type="h" number="1951" updated="2017-10-04T07:15:56Z">
+  <state datetime="2017-04-05">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-05"/>
+  </status>
+  <introduced datetime="2017-04-05"/>
+  <titles>
+    <title type="short" as="introduced">No Ongoing Perks Enrichment Act</title>
+    <title type="short" as="introduced">No Ongoing Perks Enrichment Act</title>
+    <title type="short" as="introduced">NOPE Act</title>
+    <title type="official" as="introduced">To provide that the salaries of Members of a House of Congress will be held in escrow if that House has not agreed to a concurrent resolution on the budget for fiscal year 2018 by April 15, 2017, to eliminate automatic pay adjustments for Members of Congress, to prohibit the use of funds provided for the official travel expenses of Members of Congress and other officers and employees of the legislative branch for first-class airline accommodations, and to amend title 18, United States Code, to establish a uniform 5-year post-employment ban on lobbying by former Members of Congress.</title>
+    <title type="display">NOPE Act</title>
+  </titles>
+  <sponsor bioguide_id="O000171"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001112" joined="2017-04-06"/>
+    <cosponsor bioguide_id="K000390" joined="2017-04-05"/>
+    <cosponsor bioguide_id="M001185" joined="2017-10-03"/>
+    <cosponsor bioguide_id="M001202" joined="2017-04-06"/>
+    <cosponsor bioguide_id="R000599" joined="2017-06-13"/>
+    <cosponsor bioguide_id="S001190" joined="2017-07-26"/>
+    <cosponsor bioguide_id="S001191" joined="2017-04-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-05">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-05" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committees on the Judiciary, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-04-05">
+      <text>Referred to House Administration</text>
+    </action>
+    <action datetime="2017-04-05">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2017-04-05">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2017-04-26">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="342"/>
+    <bill type="h" session="115" relation="unknown" number="429"/>
+    <bill type="h" session="115" relation="unknown" number="668"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Aviation and airports"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Budget process"/>
+    <term name="Congressional officers and employees"/>
+    <term name="Congressional oversight"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="House of Representatives"/>
+    <term name="Inflation and prices"/>
+    <term name="Members of Congress"/>
+    <term name="Public participation and lobbying"/>
+    <term name="Transportation costs"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

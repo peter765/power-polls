@@ -1,0 +1,58 @@
+<bill session="115" type="h" number="3100" updated="2017-09-12T16:00:23Z">
+  <state datetime="2017-06-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-28"/>
+  </status>
+  <introduced datetime="2017-06-28"/>
+  <titles>
+    <title type="official" as="introduced">To require the President to develop a national strategy for combating the financing of terrorism and related forms of illicit finance, and for other purposes.</title>
+    <title type="display">To require the President to develop a national strategy for combating the financing of terrorism and related forms of illicit finance, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="S001191"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000490" joined="2017-07-25"/>
+    <cosponsor bioguide_id="B001305" joined="2017-06-28"/>
+    <cosponsor bioguide_id="C001110" joined="2017-07-25"/>
+    <cosponsor bioguide_id="C001059" joined="2017-07-25"/>
+    <cosponsor bioguide_id="C001111" joined="2017-07-25"/>
+    <cosponsor bioguide_id="C001063" joined="2017-07-25"/>
+    <cosponsor bioguide_id="D000620" joined="2017-06-28"/>
+    <cosponsor bioguide_id="G000581" joined="2017-07-25"/>
+    <cosponsor bioguide_id="G000583" joined="2017-06-28"/>
+    <cosponsor bioguide_id="J000294" joined="2017-06-28"/>
+    <cosponsor bioguide_id="K000380" joined="2017-06-28"/>
+    <cosponsor bioguide_id="L000563" joined="2017-07-25"/>
+    <cosponsor bioguide_id="L000562" joined="2017-06-28"/>
+    <cosponsor bioguide_id="M000087" joined="2017-07-19"/>
+    <cosponsor bioguide_id="M001181" joined="2017-07-11"/>
+    <cosponsor bioguide_id="M001189" joined="2017-06-28"/>
+    <cosponsor bioguide_id="M001202" joined="2017-07-25"/>
+    <cosponsor bioguide_id="O000171" joined="2017-07-25"/>
+    <cosponsor bioguide_id="R000593" joined="2017-06-28"/>
+    <cosponsor bioguide_id="S001190" joined="2017-07-25"/>
+    <cosponsor bioguide_id="S001189" joined="2017-06-28"/>
+    <cosponsor bioguide_id="S000344" joined="2017-06-28"/>
+    <cosponsor bioguide_id="S001187" joined="2017-06-28"/>
+    <cosponsor bioguide_id="T000460" joined="2017-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-28" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="3364"/>
+    <bill type="s" session="115" relation="unknown" number="722"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

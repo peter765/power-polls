@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-05-02</introducedDate>
+    <committeeReports />
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>12:35:19</actionTime>
+        <links />
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>12:35:15</actionTime>
+        <links>
+          <link>
+            <name>H3013</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H3013</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H3013)</text>
+        <actionCode>H37100</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionTime>12:35:15</actionTime>
+        <links>
+          <link>
+            <name>H3013</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H3013</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3013)</text>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>12:34:47</actionTime>
+        <links>
+          <link>
+            <name>H3013</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H3013</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <text>Considered as privileged matter. (consideration: CR H3013)</text>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billNumber>303</billNumber>
+    <latestAction>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionDate>2017-05-02</actionDate>
+      <actionTime>12:35:19</actionTime>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <notes />
+    <laws />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <createDate>2017-05-03T03:11:39Z</createDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Electing a Member to certain standing committees of the House of Representatives.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Electing a Member to certain standing committees of the House of Representatives.</title>
+      </item>
+    </titles>
+    <congress>115</congress>
+    <title>Electing a Member to certain standing committees of the House of Representatives.</title>
+    <committees>
+      <billCommittees />
+    </committees>
+    <constitutionalAuthorityStatementText />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <updateDate>2017-09-13T17:15:12Z</updateDate>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <billType>HRES</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-05-02T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-05-31T20:20:38Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Elects a specified Member to the House Committees on: (1) Education and the Workforce, and (2) Small Business.</p>]]></text>
+          <actionDate>2017-05-02</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+        <item>
+          <updateDate>2017-05-02T18:14:56Z</updateDate>
+          <versionCode>81</versionCode>
+          <name>Passed House without amendment</name>
+          <lastSummaryUpdateDate>2017-05-31T20:21:13Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Elects a specified Member to the House Committees on: (1) Education and the Workforce, and (2) Small Business.</p>]]></text>
+          <actionDate>2017-05-02</actionDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors />
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>B001289</bioguideId>
+        <lastName>Byrne</lastName>
+        <district>1</district>
+        <identifiers>
+          <bioguideId>B001289</bioguideId>
+          <lisID>2197</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Bradley</firstName>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <state>AL</state>
+        <byRequestType />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on Education and the Workforce</name>
+          </item>
+          <item>
+            <name>House Committee on Small Business</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,65 @@
+<bill session="115" type="s" number="1134" updated="2017-06-19T22:15:14Z">
+  <state datetime="2017-05-16">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-16"/>
+  </status>
+  <introduced datetime="2017-05-16"/>
+  <titles>
+    <title type="short" as="introduced">Back the Blue Act of 2017</title>
+    <title type="short" as="introduced">Back the Blue Act of 2017</title>
+    <title type="official" as="introduced">A bill to protect law enforcement officers, and for other purposes.</title>
+    <title type="display">Back the Blue Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C001056"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001261" joined="2017-05-22"/>
+    <cosponsor bioguide_id="B000575" joined="2017-05-16"/>
+    <cosponsor bioguide_id="B001236" joined="2017-05-16"/>
+    <cosponsor bioguide_id="C001047" joined="2017-05-16"/>
+    <cosponsor bioguide_id="C001075" joined="2017-05-16"/>
+    <cosponsor bioguide_id="C001098" joined="2017-05-16"/>
+    <cosponsor bioguide_id="D000618" joined="2017-05-16"/>
+    <cosponsor bioguide_id="F000463" joined="2017-05-16"/>
+    <cosponsor bioguide_id="H001041" joined="2017-05-16"/>
+    <cosponsor bioguide_id="P000612" joined="2017-05-16"/>
+    <cosponsor bioguide_id="P000449" joined="2017-05-16"/>
+    <cosponsor bioguide_id="R000595" joined="2017-05-16"/>
+    <cosponsor bioguide_id="S001202" joined="2017-05-16"/>
+    <cosponsor bioguide_id="S001198" joined="2017-05-16"/>
+    <cosponsor bioguide_id="T000476" joined="2017-05-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-16">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S2966-2968" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="2437"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Civil actions and liability"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Detention of persons"/>
+    <term name="Firearms and explosives"/>
+    <term name="Fires"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Judges"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Violent crime"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

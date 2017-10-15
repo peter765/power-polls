@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <cosponsors />
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <introducedDate>2017-03-20</introducedDate>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>H00022</calendar>
+      </item>
+    </calendarNumbers>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2017-03-21</actionDate>
+      <links />
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>13:43:31</actionTime>
+    </latestAction>
+    <billType>HRES</billType>
+    <recordedVotes>
+      <recordedVote>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>177</rollNumber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll177.xml</url>
+        <date>2017-03-21T17:43:30Z</date>
+      </recordedVote>
+      <recordedVote>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>176</rollNumber>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll176.xml</url>
+        <date>2017-03-21T17:36:48Z</date>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hsru00</systemCode>
+          <activities>
+            <item>
+              <date>2017-03-20T23:28:48Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>13:43:31</actionTime>
+        <links />
+        <committee />
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 234 - 182 (Roll no. 177). (text of measure as passed: CR H2253)</text>
+        <actionTime>13:43:30</actionTime>
+        <links>
+          <link>
+            <name>H2253</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2253</url>
+          </link>
+          <link>
+            <name>Roll no. 177</name>
+            <url>http://clerk.house.gov/evs/2017/roll177.xml</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>H37100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 234 - 182 (Roll no. 177).(text of measure as passed: CR H2253)</text>
+        <actionTime>13:43:30</actionTime>
+        <links>
+          <link>
+            <name>H2253</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2253</url>
+          </link>
+          <link>
+            <name>Roll no. 177</name>
+            <url>http://clerk.house.gov/evs/2017/roll177.xml</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 231 - 185 (Roll no. 176). (consideration: CR H2253-2259)</text>
+        <actionTime>13:36:48</actionTime>
+        <links>
+          <link>
+            <name>H2253-2259</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2253-2259</url>
+          </link>
+          <link>
+            <name>Roll no. 176</name>
+            <url>http://clerk.house.gov/evs/2017/roll176.xml</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>H35000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 209.</text>
+        <actionTime>12:29:33</actionTime>
+        <links>
+          <link>
+            <name>H. Res. 209</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/209</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Considered as privileged matter. (consideration: CR H2252-2259)</text>
+        <actionTime>12:28:19</actionTime>
+        <links>
+          <link>
+            <name>H2252-2259</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2252-2259</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-03-21</actionDate>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Calendars</type>
+        <text>Placed on the House Calendar, Calendar No. 22.</text>
+        <links />
+        <committee />
+        <actionDate>2017-03-20</actionDate>
+        <actionCode>H12420</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Rule provides for consideration of H.R. 372 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text>
+        <actionTime>19:28:49</actionTime>
+        <links>
+          <link>
+            <name>H.R. 372</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/372</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-03-20</actionDate>
+        <actionCode>H12700</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-50, by Mr. Collins (GA).</text>
+        <links>
+          <link>
+            <name>H. Rept. 115-50</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/50</url>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionDate>2017-03-20</actionDate>
+        <actionCode>H12100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-50, by Mr. Collins (GA).</text>
+        <links>
+          <link>
+            <name>H. Rept. 115-50</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/50</url>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionDate>2017-03-20</actionDate>
+        <actionCode>5000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-03-20</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <generalDebate>1</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <considerationByHouse>1</considerationByHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <provisionsOfARule>1</provisionsOfARule>
+      </actionTypeCounts>
+    </actions>
+    <title>Providing for consideration of the bill (H.R. 372) to restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers.</title>
+    <createDate>2017-03-21T04:51:58Z</createDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for consideration of the bill (H.R. 372) to restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for consideration of the bill (H.R. 372) to restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers.</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <notes />
+    <constitutionalAuthorityStatementText />
+    <updateDate>2017-08-10T13:23:04Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-03-20T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-21T08:03:51Z</lastSummaryUpdateDate>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 372) to restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers.]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDate>2017-03-20</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <firstName>Doug</firstName>
+        <district>9</district>
+        <bioguideId>C001093</bioguideId>
+        <lastName>Collins</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <middleName />
+        <fullName>Rep. Collins, Doug [R-GA-9]</fullName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>C001093</bioguideId>
+          <lisID>2121</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-50</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Competitive Health Insurance Reform Act of 2017</latestTitle>
+        <number>372</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-03-23</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billNumber>209</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

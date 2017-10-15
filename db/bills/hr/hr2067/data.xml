@@ -1,0 +1,39 @@
+<bill session="115" type="h" number="2067" updated="2017-09-12T16:00:22Z">
+  <state datetime="2017-04-06">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-06"/>
+  </status>
+  <introduced datetime="2017-04-06"/>
+  <titles>
+    <title type="short" as="introduced">Cents and Sensibility Act</title>
+    <title type="short" as="introduced">Cents and Sensibility Act</title>
+    <title type="official" as="introduced">To amend title 31, United States Code, to save the American taxpayers money by immediately altering the metallic composition of the one-cent, five-cent, dime, and quarter dollar coins, and for other purposes.</title>
+    <title type="display">Cents and Sensibility Act</title>
+  </titles>
+  <sponsor bioguide_id="S001187"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001281" joined="2017-04-06"/>
+    <cosponsor bioguide_id="T000462" joined="2017-04-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-06">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-06" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Buy American requirements"/>
+    <term name="Currency"/>
+    <term name="Metals"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

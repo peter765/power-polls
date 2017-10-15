@@ -1,0 +1,41 @@
+<bill session="115" type="h" number="2600" updated="2017-10-06T21:30:14Z">
+  <state datetime="2017-10-04">REPORTED</state>
+  <status>
+    <unknown datetime="2017-10-04"/>
+  </status>
+  <introduced datetime="2017-05-23"/>
+  <titles>
+    <title type="official" as="introduced">To provide for the conveyance to the State of Iowa of the reversionary interest held by the United States in certain land in Pottawattamie County, Iowa, and for other purposes.</title>
+    <title type="display">To provide for the conveyance to the State of Iowa of the reversionary interest held by the United States in certain land in Pottawattamie County, Iowa, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="Y000066"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-05-23">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-23" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-06-07">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2017-10-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-10-04" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Markup, Referral"/>
+    <committee subcommittee="Federal Lands" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-05-23T04:00:00Z" status="Introduced in House">This bill directs the Department of the Interior to convey to the state of Iowa, without consideration, the reversionary interest held by the United States in certain land in Pottawattamie County described in the quit claim deed dated April 13, 1998.</summary>
+  <committee-reports/>
+</bill>

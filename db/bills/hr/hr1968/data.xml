@@ -1,0 +1,61 @@
+<bill session="115" type="h" number="1968" updated="2017-09-07T16:45:18Z">
+  <state datetime="2017-04-06">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-06"/>
+  </status>
+  <introduced datetime="2017-04-06"/>
+  <titles>
+    <title type="short" as="introduced">Military Asset Protection Act</title>
+    <title type="short" as="introduced">Military Asset Protection Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to improve the authority of the Secretary of Defense to protect certain military facilities, assets, and information from unmanned aircraft.</title>
+    <title type="display">Military Asset Protection Act</title>
+  </titles>
+  <sponsor bioguide_id="D000628"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001298" joined="2017-05-17"/>
+    <cosponsor bioguide_id="B001301" joined="2017-05-17"/>
+    <cosponsor bioguide_id="B001289" joined="2017-05-18"/>
+    <cosponsor bioguide_id="G000578" joined="2017-05-22"/>
+    <cosponsor bioguide_id="H001050" joined="2017-05-17"/>
+    <cosponsor bioguide_id="R000608" joined="2017-05-17"/>
+    <cosponsor bioguide_id="R000609" joined="2017-05-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-06">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-06" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-04-06">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2017-04-06">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2017-04-07">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="2017-04-24">
+      <text>Referred to the Subcommittee on Tactical Air and Land Forces.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="Tactical Air and Land Forces" code="HSAS25" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Aviation" code="HSPW05" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Aviation and airports"/>
+    <term name="Homeland security"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Military command and structure"/>
+    <term name="Military facilities and property"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

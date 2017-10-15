@@ -1,0 +1,190 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-07", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-07", 
+      "action_code": "", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [
+        {
+          "reference": "CR S5059-5060", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1781-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001088", 
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-07", 
+      "state": "DE", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000062", 
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-09-25", 
+      "state": "CA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000386", 
+      "district": null, 
+      "name": "Grassley, Chuck", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-07", 
+      "state": "IA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H000338", 
+      "district": null, 
+      "name": "Hatch, Orrin G.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-07", 
+      "state": "UT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000393", 
+      "district": null, 
+      "name": "Kennedy, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-07", 
+      "state": "LA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000367", 
+      "district": null, 
+      "name": "Klobuchar, Amy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-07", 
+      "state": "MN", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001183", 
+      "district": null, 
+      "name": "Manchin, Joe, III", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-07", 
+      "state": "WV", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000476", 
+      "district": null, 
+      "name": "Tillis, Thom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-07", 
+      "state": "NC", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000805", 
+      "district": null, 
+      "name": "Warner, Mark R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-07", 
+      "state": "VA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-07", 
+  "number": "1781", 
+  "official_title": "A bill to reauthorize grant programs to improve the prevention, investigation, and prosecution of economic, high technology, Internet, and other white collar crimes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National White Collar Crime Control Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "C001056", 
+    "district": null, 
+    "name": "Cornyn, John", 
+    "state": "TX", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-07", 
+  "subjects": [
+    "Crime and law enforcement"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National White Collar Crime Control Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National White Collar Crime Control Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to reauthorize grant programs to improve the prevention, investigation, and prosecution of economic, high technology, Internet, and other white collar crimes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "National White Collar Crime Control Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-09-26T05:29:19Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1781.xml"
+}

@@ -1,0 +1,51 @@
+<bill session="115" type="h" number="898" updated="2017-09-11T03:02:52Z">
+  <state datetime="2017-02-07">REFERRED</state>
+  <status>
+    <introduced datetime="2017-02-07"/>
+  </status>
+  <introduced datetime="2017-02-07"/>
+  <titles>
+    <title type="short" as="introduced">Credit Score Competition Act of 2017</title>
+    <title type="short" as="introduced">Credit Score Competition Act of 2017</title>
+    <title type="official" as="introduced">To require Fannie Mae and Freddie Mac to establish procedures for considering certain credit scores in making a determination whether to purchase a residential mortgage, and for other purposes.</title>
+    <title type="display">Credit Score Competition Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="R000487"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001077" joined="2017-03-15"/>
+    <cosponsor bioguide_id="G000553" joined="2017-04-03"/>
+    <cosponsor bioguide_id="H001047" joined="2017-03-01"/>
+    <cosponsor bioguide_id="M000087" joined="2017-03-01"/>
+    <cosponsor bioguide_id="M001137" joined="2017-02-13"/>
+    <cosponsor bioguide_id="P000606" joined="2017-02-16"/>
+    <cosponsor bioguide_id="R000608" joined="2017-06-14"/>
+    <cosponsor bioguide_id="S000250" joined="2017-02-21"/>
+    <cosponsor bioguide_id="S001185" joined="2017-02-07"/>
+    <cosponsor bioguide_id="S001191" joined="2017-02-07"/>
+    <cosponsor bioguide_id="T000470" joined="2017-03-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-02-07">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-02-07" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1685"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Consumer credit"/>
+    <term name="Federal Housing Finance Agency"/>
+    <term name="Government corporations and government-sponsored enterprises"/>
+    <term name="Housing finance and home ownership"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

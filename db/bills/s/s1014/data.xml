@@ -1,0 +1,54 @@
+<bill session="115" type="s" number="1014" updated="2017-10-06T04:52:11Z">
+  <state datetime="2017-05-03">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-03"/>
+  </status>
+  <introduced datetime="2017-05-03"/>
+  <titles>
+    <title type="short" as="introduced">PAWS Act of 2017</title>
+    <title type="short" as="introduced">PAWS Act of 2017</title>
+    <title type="short" as="introduced">Puppies Assisting Wounded Servicemembers Act of 2017</title>
+    <title type="short" as="introduced">Puppies Assisting Wounded Servicemembers Act of 2017</title>
+    <title type="official" as="introduced">A bill to direct the Secretary of Veterans Affairs to make grants to eligible organizations to provide service dogs to veterans with severe post-traumatic stress disorder, and for other purposes.</title>
+    <title type="display">PAWS Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="F000463"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001288" joined="2017-05-03"/>
+    <cosponsor bioguide_id="K000393" joined="2017-07-24"/>
+    <cosponsor bioguide_id="M000639" joined="2017-07-24"/>
+    <cosponsor bioguide_id="N000032" joined="2017-06-06"/>
+    <cosponsor bioguide_id="R000595" joined="2017-06-14"/>
+    <cosponsor bioguide_id="S001202" joined="2017-06-27"/>
+    <cosponsor bioguide_id="W000817" joined="2017-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-03">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2327"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Mammals"/>
+    <term name="Mental health"/>
+    <term name="Neurological disorders"/>
+    <term name="Service animals"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

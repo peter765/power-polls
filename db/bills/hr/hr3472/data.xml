@@ -1,0 +1,40 @@
+<bill session="115" type="h" number="3472" updated="2017-10-04T07:16:26Z">
+  <state datetime="2017-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-27"/>
+  </status>
+  <introduced datetime="2017-07-27"/>
+  <titles>
+    <title type="short" as="introduced">Puerto Rico Air Cargo Industry Empowerment Act</title>
+    <title type="short" as="introduced">Puerto Rico Air Cargo Industry Empowerment Act</title>
+    <title type="official" as="introduced">To amend title 49, United States Code, with respect to air cargo in Puerto Rico, and for other purposes.</title>
+    <title type="display">Puerto Rico Air Cargo Industry Empowerment Act</title>
+  </titles>
+  <sponsor bioguide_id="G000582"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001193" joined="2017-10-03"/>
+    <cosponsor bioguide_id="S001200" joined="2017-10-03"/>
+    <cosponsor bioguide_id="V000081" joined="2017-09-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-27" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-07-31">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Aviation" code="HSPW05" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

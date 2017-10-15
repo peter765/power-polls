@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <links />
+      <actionDate>2017-10-02</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>16:51:02</actionTime>
+    </latestAction>
+    <laws />
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>sscm00</systemCode>
+          <type>Standing</type>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <activities>
+            <item>
+              <date>2017-09-11T19:54:42Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-04-05T14:00:00Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-03-29T21:16:48Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0217</number>
+      </item>
+    </calendarNumbers>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2017-03-29</introducedDate>
+    <createDate>2017-03-30T04:33:15Z</createDate>
+    <amendments>
+      <amendment>
+        <createDate>2017-09-13T11:49:10Z</createDate>
+        <amendedBill>
+          <originChamber>Senate</originChamber>
+          <type>S</type>
+          <title>MAIN STREET Cybersecurity Act of 2017</title>
+          <congress>115</congress>
+          <originChamberCode>S</originChamberCode>
+          <number>770</number>
+        </amendedBill>
+        <type>SAMDT</type>
+        <cosponsors>
+          <currentCount>0</currentCount>
+          <totalCount>0</totalCount>
+        </cosponsors>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <congress>115</congress>
+        <submittedDate>2017-09-12T04:00:00Z</submittedDate>
+        <sponsors>
+          <item>
+            <identifiers>
+              <lisID>2173</lisID>
+              <gpoId />
+              <bioguideId>S001194</bioguideId>
+            </identifiers>
+            <firstName>Brian</firstName>
+            <bioguideId>S001194</bioguideId>
+            <party>D</party>
+            <middleName />
+            <lastName>Schatz</lastName>
+            <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+            <state>HI</state>
+          </item>
+        </sponsors>
+        <purpose>To improve the bill.</purpose>
+        <titles />
+        <actions>
+          <count>6</count>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+          <actions>
+            <item>
+              <actionDate>2017-09-28</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/977</url>
+                  <name>S.Amdt.977</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/977</url>
+                  <name>SA 977</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 977 as modified agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-09-28</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/977</url>
+                  <name>S.Amdt.977</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6232-6233</url>
+                  <name>S6232-6233</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6233</url>
+                  <name>S6233</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/977</url>
+                  <name>SA 977</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 977 proposed by Senator McConnell for Senator Schatz. (consideration: CR S6232-6233; text: CR S6233)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-09-12</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2017-09-28</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 977 proposed by Senator McConnell for Senator Schatz.</text>
+              <committee />
+              <actionCode>93000</actionCode>
+              <type>Floor</type>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/977</url>
+                  <name>S.Amdt.977</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6232-6233</url>
+                  <name>S6232-6233</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6233</url>
+                  <name>S6233</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/977</url>
+                  <name>SA 977</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-09-28</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 977 as modified agreed to in Senate by Unanimous Consent.</text>
+              <committee />
+              <actionCode>94000</actionCode>
+              <type>Floor</type>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/977</url>
+                  <name>S.Amdt.977</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/977</url>
+                  <name>SA 977</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-09-12</actionDate>
+              <text>Senate amendment submitted</text>
+              <committee />
+              <actionCode>91000</actionCode>
+              <type>Floor</type>
+              <links />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+          </actionTypeCounts>
+        </actions>
+        <description />
+        <chamber>Senate</chamber>
+        <amendedAmendment />
+        <proposedDate>2017-09-28T04:00:00Z</proposedDate>
+        <version>1.0.0</version>
+        <updateDate>2017-10-04T00:47:41Z</updateDate>
+        <links />
+        <notes />
+        <number>977</number>
+        <purpose>To improve the bill.</purpose>
+        <type>SAMDT</type>
+        <number>977</number>
+        <description />
+        <latestAction>
+          <actionDate>2017-09-28</actionDate>
+          <text>Amendment SA 977 as modified agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <congress>115</congress>
+      </amendment>
+    </amendments>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-05-08T15:01:04Z</pubDate>
+        <title>S. 770, MAIN STREET Cybersecurity Act of 2017</title>
+        <url>https://www.cbo.gov/publication/52702</url>
+      </item>
+    </cboCostEstimates>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <middleName>E.</middleName>
+        <firstName>James</firstName>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <bioguideId>R000584</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <party>R</party>
+        <lastName>Risch</lastName>
+        <state>ID</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+          <lisID>1896</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <middleName>R.</middleName>
+        <firstName>JOHN</firstName>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <bioguideId>T000250</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <party>R</party>
+        <lastName>THUNE</lastName>
+        <state>SD</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <firstName>MARIA</firstName>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <bioguideId>C000127</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <party>D</party>
+        <lastName>CANTWELL</lastName>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+          <bioguideId>C000127</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName>WILLIAM</middleName>
+        <firstName>CLARENCE</firstName>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <bioguideId>N000032</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <party>D</party>
+        <lastName>NELSON</lastName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Cory</firstName>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <bioguideId>G000562</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <party>R</party>
+        <lastName>Gardner</lastName>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Catherine</firstName>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <bioguideId>C001113</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <party>D</party>
+        <lastName>Cortez Masto</lastName>
+        <state>NV</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001113</bioguideId>
+          <lisID>2299</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <middleName>Wood</middleName>
+        <firstName>Margaret</firstName>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <bioguideId>H001076</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <party>D</party>
+        <lastName>Hassan</lastName>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Claire</firstName>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <bioguideId>M001170</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <party>D</party>
+        <lastName>McCaskill</lastName>
+        <state>MO</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001170</bioguideId>
+          <lisID>1820</lisID>
+          <gpoId>8252</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <firstName>Kirsten</firstName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <bioguideId>G000555</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <party>D</party>
+        <lastName>Gillibrand</lastName>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-153</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>2105</number>
+        <latestTitle>NIST Small Business Cybersecurity Act of 2017</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-05-02</actionDate>
+          <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <title>MAIN STREET Cybersecurity Act of 2017</title>
+    <actions>
+      <actionTypeCounts>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <reportedToSenate>2</reportedToSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <orderedReported>1</orderedReported>
+        <amendmentAgreedTo>1</amendmentAgreedTo>
+        <introducedInSenate>1</introducedInSenate>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <referredToCommittee>1</referredToCommittee>
+        <passedSenate>1</passedSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-02</actionDate>
+        <actionCode>H15000</actionCode>
+        <actionTime>16:51:02</actionTime>
+        <committee />
+        <text>Held at the desk.</text>
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-10-02</actionDate>
+        <actionCode>H14000</actionCode>
+        <actionTime>14:04:48</actionTime>
+        <committee />
+        <text>Received in the House.</text>
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-09-29</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S6233</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6233</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text: CR S6233)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>Floor</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>The committee substitute as amended agreed to by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S6232-6233</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6232-6233</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S6232-6233)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-09-11</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 217.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-09-11</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-153</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/153</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-153.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-11</actionDate>
+        <actionCode>14000</actionCode>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-153.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>report No. 115-153</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/153</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>11</senate>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-03-29T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-05-04T21:53:12Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-29</actionDate>
+          <text><![CDATA[<p><b>Making Available Information Now to Strengthen Trust and Resilience and Enhance Enterprise Technology Cybersecurity Act of 2017 or the MAIN STREET Cybersecurity Act of 2017</b></p> <p>This bill amends the National Institute of Standards and Technology Act to require the National Institute of Standards and Technology (NIST) to consider small businesses when it facilitates and supports the development of voluntary, consensus-based, industry-led guidelines and procedures to cost-effectively reduce cyber risks to critical infrastructure.</p> <p>NIST must disseminate, and publish on its website, standard and method resources that small business may use voluntarily to help reduce their cybersecurity risks. The resources must be: (1) technology-neutral, (2) based on international standards to the extent possible, (3) able to vary with the nature and size of the implementing small business and the sensitivity of the data collected or stored on the information systems, and (4) consistent with the national cybersecurity awareness and education program under the Cybersecurity Enhancement Act of 2014.</p> <p>Other federal agencies that NIST considers appropriate must also publish the resources on their own websites. </p>]]></text>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <title>MAIN STREET Cybersecurity Act of 2017</title>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <title>Making Available Information Now to Strengthen Trust and Resilience and Enhance Enterprise Technology Cybersecurity Act of 2017</title>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <title>MAIN STREET Cybersecurity Act of 2017</title>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <title>Making Available Information Now to Strengthen Trust and Resilience and Enhance Enterprise Technology Cybersecurity Act of 2017</title>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>MAIN STREET Cybersecurity Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Making Available Information Now to Strengthen Trust and Resilience and Enhance Enterprise Technology Cybersecurity Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require the Director of the National Institute of Standards and Technology to disseminate resources to help reduce small business cybersecurity risks, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>MAIN STREET Cybersecurity Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <title>MAIN STREET Cybersecurity Act of 2017</title>
+        <chamberName>Senate</chamberName>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <title>Making Available Information Now to Strengthen Trust and Resilience and Enhance Enterprise Technology Cybersecurity Act of 2017</title>
+        <chamberName>Senate</chamberName>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <title>MAIN STREET Cybersecurity Act of 2017</title>
+        <chamberName>Senate</chamberName>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <title>Making Available Information Now to Strengthen Trust and Resilience and Enhance Enterprise Technology Cybersecurity Act of 2017</title>
+        <chamberName>Senate</chamberName>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>MAIN STREET Cybersecurity Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Making Available Information Now to Strengthen Trust and Resilience and Enhance Enterprise Technology Cybersecurity Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2017-10-04T04:48:32Z</updateDate>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Brian</firstName>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <bioguideId>S001194</bioguideId>
+        <lastName>Schatz</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <state>HI</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billNumber>770</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

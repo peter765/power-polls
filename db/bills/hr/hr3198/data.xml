@@ -1,0 +1,45 @@
+<bill session="115" type="h" number="3198" updated="2017-09-11T02:54:26Z">
+  <state datetime="2017-07-12">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-12"/>
+  </status>
+  <introduced datetime="2017-07-12"/>
+  <titles>
+    <title type="short" as="introduced">FAA Leadership in Groundbreaking High-Tech Research and Development Act</title>
+    <title type="short" as="introduced">FAA Leadership in Groundbreaking High-Tech Research and Development Act</title>
+    <title type="short" as="introduced">FLIGHT R&amp;D Act</title>
+    <title type="short" as="introduced">FLIGHT R&amp;D Act</title>
+    <title type="official" as="introduced">To provide for Federal Aviation Administration research and development, and for other purposes.</title>
+    <title type="display">FLIGHT R&amp;D Act</title>
+  </titles>
+  <sponsor bioguide_id="K000387"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001291" joined="2017-07-12"/>
+    <cosponsor bioguide_id="S000583" joined="2017-07-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-12">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-12" state="REFERRED">
+      <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-12">
+      <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-13">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Aviation" code="HSPW05" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

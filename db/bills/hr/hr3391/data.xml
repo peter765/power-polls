@@ -1,0 +1,50 @@
+<bill session="115" type="h" number="3391" updated="2017-09-11T03:06:17Z">
+  <state datetime="2017-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-25"/>
+  </status>
+  <introduced datetime="2017-07-25"/>
+  <titles>
+    <title type="short" as="introduced">Medical Marijuana Research Act of 2017</title>
+    <title type="short" as="introduced">Medical Marijuana Research Act of 2017</title>
+    <title type="official" as="introduced">To amend the Controlled Substances Act to make marijuana accessible for use by qualified marijuana researchers for medical purposes, and for other purposes.</title>
+    <title type="display">Medical Marijuana Research Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="H001052"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000574" joined="2017-07-25"/>
+    <cosponsor bioguide_id="G000568" joined="2017-07-25"/>
+    <cosponsor bioguide_id="L000397" joined="2017-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-25" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-25">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-28">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2017-09-06">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="780"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

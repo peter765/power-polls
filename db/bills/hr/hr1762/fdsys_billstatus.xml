@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-12</actionDate>
+        <committee>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-28</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-03-28</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-03-28</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <updateDate>2017-10-12T07:16:26Z</updateDate>
+    <latestAction>
+      <actionDate>2017-04-12</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2017-03-28T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-07-25T14:30:11Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2017-03-28</actionDate>
+          <text><![CDATA[<p><b>Pro bono Work to Empower and Represent Act of 2017 or the POWER Act </b></p> <p>This bill requires each U.S. Attorney for each judicial district to lead at least one public event that promotes pro bono legal services as a critical way to: (1) empower survivors of domestic violence, dating violence, sexual assault, and stalking; and (2) engage citizens in assisting those survivors.</p> <p>A similar requirement applies to districts containing Indian tribes and tribal organizations.</p> <p>Each U.S. Attorney shall: (1) have discretion on the design, organization, and implementation of such public events; and (2) seek to maximize an event's local impact and the access of such survivors to high-quality pro bono legal services. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>POWER Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Pro bono Work to Empower and Represent Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>POWER Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Pro bono Work to Empower and Represent Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To promote pro bono legal services as a critical way in which to empower survivors of domestic violence.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>POWER Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-28T14:03:15Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-12T17:41:33Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <createDate>2017-03-29T05:08:01Z</createDate>
+    <cosponsors>
+      <item>
+        <middleName />
+        <lastName>Gabbard</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <firstName>Tulsi</firstName>
+        <bioguideId>G000571</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>HI</state>
+        <identifiers>
+          <lisID>2122</lisID>
+          <gpoId />
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+        <district>2</district>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <lastName>YOUNG</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <firstName>DON</firstName>
+        <bioguideId>Y000033</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AK</state>
+        <identifiers>
+          <lisID>1256</lisID>
+          <gpoId>7785</gpoId>
+          <bioguideId>Y000033</bioguideId>
+        </identifiers>
+        <district>0</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>McMorris Rodgers</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <firstName>Cathy</firstName>
+        <bioguideId>M001159</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WA</state>
+        <identifiers>
+          <lisID>1809</lisID>
+          <gpoId>8209</gpoId>
+          <bioguideId>M001159</bioguideId>
+        </identifiers>
+        <district>5</district>
+      </item>
+      <item>
+        <middleName>W.</middleName>
+        <lastName>Brooks</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <firstName>Susan</firstName>
+        <bioguideId>B001284</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IN</state>
+        <identifiers>
+          <lisID>2129</lisID>
+          <bioguideId>B001284</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <lastName>Kuster</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <firstName>Ann</firstName>
+        <bioguideId>K000382</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Meehan</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <firstName>Patrick</firstName>
+        <bioguideId>M001181</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>M001181</bioguideId>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+        </identifiers>
+        <district>7</district>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <lastName>Clark</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <firstName>Katherine</firstName>
+        <bioguideId>C001101</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>C001101</bioguideId>
+          <lisID>2196</lisID>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Cohen</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <firstName>Steve</firstName>
+        <bioguideId>C001068</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <district>9</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Swalwell</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <firstName>Eric</firstName>
+        <bioguideId>S001193</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S001193</bioguideId>
+          <lisID>2104</lisID>
+          <gpoId />
+        </identifiers>
+        <district>15</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Tsongas</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Tsongas, Niki [D-MA-3]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <firstName>Niki</firstName>
+        <bioguideId>T000465</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MA</state>
+        <identifiers>
+          <lisID>1884</lisID>
+          <gpoId>7970</gpoId>
+          <bioguideId>T000465</bioguideId>
+        </identifiers>
+        <district>3</district>
+      </item>
+      <item>
+        <middleName>P.</middleName>
+        <lastName>Joyce</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <firstName>David</firstName>
+        <bioguideId>J000295</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <identifiers>
+          <lisID>2154</lisID>
+          <gpoId />
+          <bioguideId>J000295</bioguideId>
+        </identifiers>
+        <district>14</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Speier</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <firstName>Jackie</firstName>
+        <bioguideId>S001175</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1890</lisID>
+          <bioguideId>S001175</bioguideId>
+          <gpoId>7817</gpoId>
+        </identifiers>
+        <district>14</district>
+      </item>
+      <item>
+        <middleName>P.</middleName>
+        <lastName>MCGOVERN</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <firstName>JAMES</firstName>
+        <bioguideId>M000312</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <district>2</district>
+      </item>
+      <item>
+        <middleName>Patrick</middleName>
+        <lastName>Maloney</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <firstName>Sean</firstName>
+        <bioguideId>M001185</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <identifiers>
+          <lisID>2150</lisID>
+          <bioguideId>M001185</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>18</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Ruiz</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <firstName>Raul</firstName>
+        <bioguideId>R000599</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>R000599</bioguideId>
+          <lisID>2109</lisID>
+          <gpoId />
+        </identifiers>
+        <district>36</district>
+      </item>
+      <item>
+        <middleName>N.</middleName>
+        <lastName>Cicilline</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <firstName>David</firstName>
+        <bioguideId>C001084</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>RI</state>
+        <identifiers>
+          <lisID>2055</lisID>
+          <gpoId>8139</gpoId>
+          <bioguideId>C001084</bioguideId>
+        </identifiers>
+        <district>1</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Davis</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <firstName>Rodney</firstName>
+        <bioguideId>D000619</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <identifiers>
+          <lisID>2126</lisID>
+          <gpoId />
+          <bioguideId>D000619</bioguideId>
+        </identifiers>
+        <district>13</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Perlmutter</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <firstName>Ed</firstName>
+        <bioguideId>P000593</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1835</lisID>
+          <bioguideId>P000593</bioguideId>
+          <gpoId>7865</gpoId>
+        </identifiers>
+        <district>7</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Lance</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <firstName>Leonard</firstName>
+        <bioguideId>L000567</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>1936</lisID>
+          <bioguideId>L000567</bioguideId>
+          <gpoId>8049</gpoId>
+        </identifiers>
+        <district>7</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Bacon</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <firstName>Don</firstName>
+        <bioguideId>B001298</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NE</state>
+        <identifiers>
+          <bioguideId>B001298</bioguideId>
+          <lisID>2337</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+      </item>
+      <item>
+        <middleName>JAMES</middleName>
+        <lastName>SENSENBRENNER</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <firstName>F.</firstName>
+        <bioguideId>S000244</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>S000244</bioguideId>
+          <gpoId>8218</gpoId>
+          <lisID>1041</lisID>
+        </identifiers>
+        <district>5</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Ratcliffe</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>John</firstName>
+        <bioguideId>R000601</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>R000601</bioguideId>
+          <gpoId />
+          <lisID>2268</lisID>
+        </identifiers>
+        <district>4</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Gowdy</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gowdy, Trey [R-SC-4]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>Trey</firstName>
+        <bioguideId>G000566</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>SC</state>
+        <identifiers>
+          <lisID>2058</lisID>
+          <gpoId>8144</gpoId>
+          <bioguideId>G000566</bioguideId>
+        </identifiers>
+        <district>4</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>CHABOT</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <firstName>STEVE</firstName>
+        <bioguideId>C000266</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <identifiers>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <district>1</district>
+      </item>
+    </cosponsors>
+    <amendments />
+    <committeeReports />
+    <introducedDate>2017-03-28</introducedDate>
+    <billType>HR</billType>
+    <title>POWER Act</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Lawyers and legal services</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KENNEDY:H.R. 1762.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2517]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>Joseph</firstName>
+        <middleName>P.</middleName>
+        <bioguideId>K000379</bioguideId>
+        <byRequestType />
+        <lastName>Kennedy</lastName>
+        <state>MA</state>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <identifiers>
+          <lisID>2172</lisID>
+          <bioguideId>K000379</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <district>4</district>
+      </item>
+    </sponsors>
+    <billNumber>1762</billNumber>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <latestTitle>POWER Act</latestTitle>
+        <type>S</type>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-08-23</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>717</number>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

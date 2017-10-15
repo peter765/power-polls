@@ -1,0 +1,35 @@
+<bill session="115" type="h" number="3455" updated="2017-09-11T02:55:57Z">
+  <state datetime="2017-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-27"/>
+  </status>
+  <introduced datetime="2017-07-27"/>
+  <titles>
+    <title type="short" as="introduced">Fairness for Agricultural Machinery and Equipment Act</title>
+    <title type="short" as="introduced">Fairness for Agricultural Machinery and Equipment Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to treat certain farming business machinery and equipment as 5-year property for purposes of depreciation.</title>
+    <title type="display">Fairness for Agricultural Machinery and Equipment Act</title>
+  </titles>
+  <sponsor bioguide_id="A000374"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001087" joined="2017-07-27"/>
+    <cosponsor bioguide_id="P000258" joined="2017-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-27" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="115" type="h" number="3584" updated="2017-09-11T02:56:24Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend certain credits against tax related to empowerment zones.</title>
+    <title type="display">To amend the Internal Revenue Code of 1986 to extend certain credits against tax related to empowerment zones.</title>
+  </titles>
+  <sponsor bioguide_id="E000297"/>
+  <cosponsors>
+    <cosponsor bioguide_id="N000147" joined="2017-07-28"/>
+    <cosponsor bioguide_id="R000395" joined="2017-07-28"/>
+    <cosponsor bioguide_id="S000248" joined="2017-07-28"/>
+    <cosponsor bioguide_id="V000081" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="115" type="h" number="3211" updated="2017-09-14T07:16:15Z">
+  <state datetime="2017-07-12">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-12"/>
+  </status>
+  <introduced datetime="2017-07-12"/>
+  <titles>
+    <title type="short" as="introduced">Safeguard Tribal Objects of Patrimony Act of 2017</title>
+    <title type="short" as="introduced">Safeguard Tribal Objects of Patrimony Act of 2017</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to enhance protections of Native American tangible cultural heritage, and for other purposes.</title>
+    <title type="display">Safeguard Tribal Objects of Patrimony Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="L000570"/>
+  <cosponsors>
+    <cosponsor bioguide_id="L000580" joined="2017-09-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-12">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-12" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-12">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-24">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2017-08-03">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Indian, Insular and Alaska Native Affairs" code="HSII24" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="1400"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

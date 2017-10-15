@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Armed Services Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsas00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <name>Military Personnel Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-05T14:07:41Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-29T12:01:45Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <committee>
+          <systemCode>hsas02</systemCode>
+          <name>Military Personnel Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-04-05</actionDate>
+        <links>
+          <link>
+            <name>H2699</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2699</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Sponsor introductory remarks on measure. (CR H2699)</text>
+        <type>IntroReferral</type>
+        <actionCode>B00100</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <actionDate>2017-03-29</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-03-29</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-03-29</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <lastName>Shea-Porter</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001170</bioguideId>
+          <gpoId>7528</gpoId>
+          <lisID>1861</lisID>
+        </identifiers>
+        <middleName />
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <firstName>Carol</firstName>
+        <party>D</party>
+        <bioguideId>S001170</bioguideId>
+        <district>1</district>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Courtney</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7867</gpoId>
+          <bioguideId>C001069</bioguideId>
+          <lisID>1836</lisID>
+        </identifiers>
+        <middleName />
+        <state>CT</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <firstName>Joe</firstName>
+        <party>D</party>
+        <bioguideId>C001069</bioguideId>
+        <district>2</district>
+        <sponsorshipDate>2017-04-08</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Hanabusa</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2010</lisID>
+          <gpoId>7912</gpoId>
+          <bioguideId>H001050</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>HI</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Hanabusa, Colleen [D-HI-1]</fullName>
+        <firstName>Colleen</firstName>
+        <party>D</party>
+        <bioguideId>H001050</bioguideId>
+        <district>1</district>
+        <sponsorshipDate>2017-04-08</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Coffman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7864</gpoId>
+          <lisID>1912</lisID>
+          <bioguideId>C001077</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <bioguideId>C001077</bioguideId>
+        <district>6</district>
+        <sponsorshipDate>2017-04-08</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Peters</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000608</bioguideId>
+          <lisID>2113</lisID>
+        </identifiers>
+        <middleName>H.</middleName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <firstName>Scott</firstName>
+        <party>D</party>
+        <bioguideId>P000608</bioguideId>
+        <district>52</district>
+        <sponsorshipDate>2017-04-08</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>GRAVES</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8014</gpoId>
+          <bioguideId>G000546</bioguideId>
+          <lisID>1656</lisID>
+        </identifiers>
+        <middleName />
+        <state>MO</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
+        <firstName>SAM</firstName>
+        <party>R</party>
+        <bioguideId>G000546</bioguideId>
+        <district>6</district>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Mast</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001199</bioguideId>
+          <gpoId />
+          <lisID>2322</lisID>
+        </identifiers>
+        <middleName>J.</middleName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <firstName>Brian</firstName>
+        <party>R</party>
+        <bioguideId>M001199</bioguideId>
+        <district>18</district>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>DEFAZIO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8117</gpoId>
+          <bioguideId>D000191</bioguideId>
+          <lisID>279</lisID>
+        </identifiers>
+        <middleName>A.</middleName>
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <firstName>PETER</firstName>
+        <party>D</party>
+        <bioguideId>D000191</bioguideId>
+        <district>4</district>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>SHIMKUS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7939</gpoId>
+          <bioguideId>S000364</bioguideId>
+          <lisID>1527</lisID>
+        </identifiers>
+        <middleName>M.</middleName>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Shimkus, John [R-IL-15]</fullName>
+        <firstName>JOHN</firstName>
+        <party>R</party>
+        <bioguideId>S000364</bioguideId>
+        <district>15</district>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Gallagher</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2355</lisID>
+          <bioguideId>G000579</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <bioguideId>G000579</bioguideId>
+        <district>8</district>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Gabbard</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2122</lisID>
+          <gpoId />
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>HI</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <firstName>Tulsi</firstName>
+        <party>D</party>
+        <bioguideId>G000571</bioguideId>
+        <district>2</district>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Russell</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2265</lisID>
+          <bioguideId>R000604</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Russell, Steve [R-OK-5]</fullName>
+        <firstName>Steve</firstName>
+        <party>R</party>
+        <bioguideId>R000604</bioguideId>
+        <district>5</district>
+        <sponsorshipDate>2017-05-08</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Sablan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1962</lisID>
+          <gpoId>8018</gpoId>
+          <bioguideId>S001177</bioguideId>
+        </identifiers>
+        <middleName>Kilili Camacho</middleName>
+        <state>MP</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <firstName>Gregorio</firstName>
+        <party>D</party>
+        <bioguideId>S001177</bioguideId>
+        <district>0</district>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Radewagen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2222</lisID>
+          <bioguideId>R000600</bioguideId>
+        </identifiers>
+        <middleName>Coleman</middleName>
+        <state>AS</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <firstName>Aumua Amata</firstName>
+        <party>R</party>
+        <bioguideId>R000600</bioguideId>
+        <district>0</district>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>McKinley</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+          <bioguideId>M001180</bioguideId>
+        </identifiers>
+        <middleName>B.</middleName>
+        <state>WV</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <firstName>David</firstName>
+        <party>R</party>
+        <bioguideId>M001180</bioguideId>
+        <district>1</district>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>RYAN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <middleName />
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <firstName>TIM</firstName>
+        <party>D</party>
+        <bioguideId>R000577</bioguideId>
+        <district>13</district>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Marshall</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2328</lisID>
+          <bioguideId>M001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>W.</middleName>
+        <state>KS</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <firstName>Roger</firstName>
+        <party>R</party>
+        <bioguideId>M001198</bioguideId>
+        <district>1</district>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Banks</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001299</bioguideId>
+          <gpoId />
+          <lisID>2326</lisID>
+        </identifiers>
+        <middleName />
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <firstName>Jim</firstName>
+        <party>R</party>
+        <bioguideId>B001299</bioguideId>
+        <district>3</district>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Bacon</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2337</lisID>
+          <bioguideId>B001298</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>NE</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <firstName>Don</firstName>
+        <party>R</party>
+        <bioguideId>B001298</bioguideId>
+        <district>2</district>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Poe</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8158</gpoId>
+          <lisID>1802</lisID>
+          <bioguideId>P000592</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <firstName>Ted</firstName>
+        <party>R</party>
+        <bioguideId>P000592</bioguideId>
+        <district>2</district>
+        <sponsorshipDate>2017-06-02</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <firstName>WALTER</firstName>
+        <party>R</party>
+        <district>3</district>
+        <bioguideId>J000255</bioguideId>
+        <middleName>B.</middleName>
+        <state>NC</state>
+        <lastName>JONES</lastName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <identifiers>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <billType>HCONRES</billType>
+    <congress>115</congress>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <introducedDate>2017-03-29</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-03-29T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-06-15T18:48:48Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Honors the members of the U.S. Armed Forces for their service during World War I.</p>  <p>Congratulates the U.S. Army, Navy, Marine Corps, Air Force, and Coast Guard during the commemoration of the centennial of World War I.</p>  <ul> </ul>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-03-29</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <actionDate>2017-04-05</actionDate>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <notes />
+    <billNumber>41</billNumber>
+    <committeeReports />
+    <recordedVotes />
+    <updateDate>2017-09-19T20:00:13Z</updateDate>
+    <laws />
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Military history</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Veterans' organizations and recognition</name>
+          </item>
+          <item>
+            <name>World history</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Commemorating the 100th anniversary of the United States declaration of war against Germany and entry into World War I and recognizing and appreciating the lasting historical significance and heroic human endeavor and sacrifice of the United States Armed Forces in that conflict.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Commemorating the 100th anniversary of the United States declaration of war against Germany and entry into World War I and recognizing and appreciating the lasting historical significance and heroic human endeavor and sacrifice of the United States Armed Forces in that conflict.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <createDate>2017-03-30T04:33:00Z</createDate>
+    <relatedBills>
+      <item>
+        <number>2810</number>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2018</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-09-18</actionDate>
+          <text>Senate ordered measure printed as passed.</text>
+        </latestAction>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <title>Commemorating the 100th anniversary of the United States declaration of war against Germany and entry into World War I and recognizing and appreciating the lasting historical significance and heroic human endeavor and sacrifice of the United States Armed Forces in that conflict.</title>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

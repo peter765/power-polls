@@ -1,0 +1,44 @@
+<bill session="115" type="h" number="2389" updated="2017-09-11T02:46:32Z">
+  <state datetime="2017-05-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-04"/>
+  </status>
+  <introduced datetime="2017-05-04"/>
+  <titles>
+    <title type="official" as="introduced">To reauthorize the West Valley demonstration project, and for other purposes.</title>
+    <title type="display">To reauthorize the West Valley demonstration project, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="R000585"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000625" joined="2017-05-16"/>
+    <cosponsor bioguide_id="H001038" joined="2017-05-04"/>
+    <cosponsor bioguide_id="L000480" joined="2017-05-18"/>
+    <cosponsor bioguide_id="N000002" joined="2017-05-04"/>
+    <cosponsor bioguide_id="S000480" joined="2017-05-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-04">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-04" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2017-05-05">
+      <text>Referred to the Subcommittee on Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Environment and the Economy" code="HSIF18" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="New York State"/>
+    <term name="Nuclear weapons"/>
+    <term name="Radioactive wastes and releases"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

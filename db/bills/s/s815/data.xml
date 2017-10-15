@@ -1,0 +1,42 @@
+<bill session="115" type="s" number="815" updated="2017-07-20T16:56:22Z">
+  <state datetime="2017-04-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-04"/>
+  </status>
+  <introduced datetime="2017-04-04"/>
+  <titles>
+    <title type="short" as="introduced">Territories Medicare Prescription Drug Assistance Equity Act of 2017</title>
+    <title type="short" as="introduced">Territories Medicare Prescription Drug Assistance Equity Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend titles XVIII and XIX of the Social Security Act to make premium and cost-sharing subsidies available to low-income Medicare part D beneficiaries who reside in Puerto Rico or another territory of the United States.</title>
+    <title type="display">Territories Medicare Prescription Drug Assistance Equity Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="N000032"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001277" joined="2017-04-04"/>
+    <cosponsor bioguide_id="G000555" joined="2017-04-04"/>
+    <cosponsor bioguide_id="M000639" joined="2017-04-04"/>
+    <cosponsor bioguide_id="R000595" joined="2017-04-07"/>
+    <cosponsor bioguide_id="S000148" joined="2017-04-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-04">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-04-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Prescription drugs"/>
+    <term name="U.S. territories and protectorates"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

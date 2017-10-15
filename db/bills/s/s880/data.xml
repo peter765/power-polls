@@ -1,0 +1,46 @@
+<bill session="115" type="s" number="880" updated="2017-09-11T02:59:28Z">
+  <state datetime="2017-04-06">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-06"/>
+  </status>
+  <introduced datetime="2017-04-06"/>
+  <titles>
+    <title type="short" as="introduced">Made in America Water Infrastructure Act</title>
+    <title type="short" as="introduced">Made in America Water Infrastructure Act</title>
+    <title type="official" as="introduced">A bill to ensure the use of American iron and steel in public water systems, and for other purposes.</title>
+    <title type="display">Made in America Water Infrastructure Act</title>
+  </titles>
+  <sponsor bioguide_id="B001230"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000944" joined="2017-04-06"/>
+    <cosponsor bioguide_id="F000457" joined="2017-04-06"/>
+    <cosponsor bioguide_id="M001170" joined="2017-04-06"/>
+    <cosponsor bioguide_id="S000033" joined="2017-04-06"/>
+    <cosponsor bioguide_id="S000770" joined="2017-04-06"/>
+    <cosponsor bioguide_id="V000128" joined="2017-04-28"/>
+    <cosponsor bioguide_id="W000817" joined="2017-04-06"/>
+    <cosponsor bioguide_id="W000802" joined="2017-04-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-06">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-04-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Buy American requirements"/>
+    <term name="Manufacturing"/>
+    <term name="Metals"/>
+    <term name="Water quality"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

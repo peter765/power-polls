@@ -1,0 +1,64 @@
+<bill session="115" type="h" number="2585" updated="2017-09-11T02:46:59Z">
+  <state datetime="2017-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-22"/>
+  </status>
+  <introduced datetime="2017-05-22"/>
+  <titles>
+    <title type="short" as="introduced">21st Century Glass-Steagall Act of 2017</title>
+    <title type="short" as="introduced">21st Century Glass-Steagall Act of 2017</title>
+    <title type="official" as="introduced">To reduce risks to the financial system by limiting banks' ability to engage in certain risky activities and limiting conflicts of interest, to reinstate certain Glass-Steagall Act protections that were repealed by the Gramm-Leach-Bliley Act, and for other purposes.</title>
+    <title type="display">21st Century Glass-Steagall Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C001037"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C000714" joined="2017-05-22"/>
+    <cosponsor bioguide_id="E000288" joined="2017-05-22"/>
+    <cosponsor bioguide_id="G000571" joined="2017-07-26"/>
+    <cosponsor bioguide_id="G000410" joined="2017-05-22"/>
+    <cosponsor bioguide_id="J000255" joined="2017-05-22"/>
+    <cosponsor bioguide_id="L000551" joined="2017-08-08"/>
+    <cosponsor bioguide_id="M000312" joined="2017-05-22"/>
+    <cosponsor bioguide_id="N000147" joined="2017-05-22"/>
+    <cosponsor bioguide_id="T000469" joined="2017-05-22"/>
+    <cosponsor bioguide_id="T000465" joined="2017-08-08"/>
+    <cosponsor bioguide_id="W000800" joined="2017-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-22">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-22" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-05-22">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2017-05-22">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2017-06-23">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Regulatory Reform, Commercial And Antitrust Law" code="HSJU05" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="881"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Bankruptcy"/>
+    <term name="Congressional oversight"/>
+    <term name="Contracts and agency"/>
+    <term name="Financial services and investments"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

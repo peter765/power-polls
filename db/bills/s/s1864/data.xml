@@ -1,0 +1,39 @@
+<bill session="115" type="s" number="1864" updated="2017-10-06T04:50:19Z">
+  <state datetime="2017-09-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-26"/>
+  </status>
+  <introduced datetime="2017-09-26"/>
+  <titles>
+    <title type="short" as="introduced">Affordable College Textbook Act</title>
+    <title type="short" as="introduced">Affordable College Textbook Act</title>
+    <title type="official" as="introduced">A bill to expand the use of open textbooks in order to achieve savings for students.</title>
+    <title type="display">Affordable College Textbook Act</title>
+  </titles>
+  <sponsor bioguide_id="D000563"/>
+  <cosponsors>
+    <cosponsor bioguide_id="F000457" joined="2017-09-26"/>
+    <cosponsor bioguide_id="K000383" joined="2017-09-26"/>
+    <cosponsor bioguide_id="R000122" joined="2017-09-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-26">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-09-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S6136-6137" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="3840"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="115" type="sr" number="285" updated="2017-10-12T22:30:11Z">
+  <state datetime="2017-10-05">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-05"/>
+  </status>
+  <introduced datetime="2017-10-05"/>
+  <titles>
+    <title type="official" as="introduced">A resolution honoring the life and achievements of Dr. Samuel DuBois Cook.</title>
+    <title type="display">A resolution honoring the life and achievements of Dr. Samuel DuBois Cook.</title>
+  </titles>
+  <sponsor bioguide_id="W000817"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001135" joined="2017-10-05"/>
+    <cosponsor bioguide_id="C001075" joined="2017-10-05"/>
+    <cosponsor bioguide_id="T000476" joined="2017-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-05">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-10-05" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S6367" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-10-05T04:00:00Z" status="Introduced in Senate">Honors the life and achievements of Dr. Samuel DuBois Cook.</summary>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="115" type="s" number="699" updated="2017-09-11T03:06:26Z">
+  <state datetime="2017-03-22">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-22"/>
+  </status>
+  <introduced datetime="2017-03-22"/>
+  <titles>
+    <title type="short" as="introduced">Honor Our Commitment Act of 2017</title>
+    <title type="short" as="introduced">Honor Our Commitment Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to direct the Secretary of Veterans Affairs to furnish mental and behavioral health care to certain individuals discharged or released from the active military, naval, or air service under conditions other than honorable, and for other purposes.</title>
+    <title type="display">Honor Our Commitment Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="M001169"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001230" joined="2017-03-22"/>
+    <cosponsor bioguide_id="B001267" joined="2017-03-22"/>
+    <cosponsor bioguide_id="B001277" joined="2017-03-22"/>
+    <cosponsor bioguide_id="F000457" joined="2017-03-22"/>
+    <cosponsor bioguide_id="M000133" joined="2017-03-22"/>
+    <cosponsor bioguide_id="M001111" joined="2017-03-22"/>
+    <cosponsor bioguide_id="P000595" joined="2017-03-23"/>
+    <cosponsor bioguide_id="S001194" joined="2017-03-22"/>
+    <cosponsor bioguide_id="T000464" joined="2017-03-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-22">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-03-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1557"/>
+    <bill type="h" session="115" relation="unknown" number="1685"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Mental health"/>
+    <term name="Military operations and strategy"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

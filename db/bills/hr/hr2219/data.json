@@ -1,0 +1,202 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-04-27", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-04-27", 
+      "action_code": "H11100-A", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-04-27", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Foreign Affairs", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-04-27", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Financial Services", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2219-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "F000466", 
+      "district": "8", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-09-06", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000375", 
+      "district": "9", 
+      "name": "Keating, William R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-27", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000584", 
+      "district": "4", 
+      "name": "Love, Mia B.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-27", 
+      "state": "UT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000087", 
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-27", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001181", 
+      "district": "7", 
+      "name": "Meehan, Patrick", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-12", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001191", 
+      "district": "9", 
+      "name": "Sinema, Kyrsten", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-09-27", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-04-27", 
+  "number": "2219", 
+  "official_title": "To increase the role of the financial industry in combating human trafficking.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s952-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "End Banking for Human Traffickers Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "R000487", 
+    "district": "39", 
+    "name": "Royce, Edward R.", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-04-27", 
+  "subjects": [
+    "Banking and financial institutions regulation", 
+    "Congressional oversight", 
+    "Crime victims", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Department of the Treasury", 
+    "Executive agency funding and structure", 
+    "Federal officials", 
+    "Finance and financial sector", 
+    "Fraud offenses and financial crimes", 
+    "Human trafficking", 
+    "International organizations and cooperation", 
+    "Sex offenses"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-04-27T04:00:00Z", 
+    "text": "End Banking for Human Traffickers Act of 2017\n\nThis bill amends the Victims of Trafficking and Violence Protection Act of 2000 to add the Secretary of the Treasury as a member of the President's Interagency Task Force to Monitor and Combat Trafficking. The task force must submit to Congress recommendations\u00a0for the revision of\u00a0anti-money laundering programs to specifically target money laundering related to human trafficking.\n\nThe Federal Financial Institutions Examination Council\u00a0must review and enhance, where necessary: (1) training and procedures to improve the ability of anti-money laundering programs to target human trafficking operations, and (2) procedures for referring potential human trafficking cases to the appropriate law enforcement agency.\n\nThe Department of State must report on: (1)\u00a0efforts to eliminate money laundering related to human trafficking; and (2) the number of investigations, arrests, indictments, and convictions in money laundering cases related to human trafficking."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "End Banking for Human Traffickers Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "End Banking for Human Traffickers Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To increase the role of the financial industry in combating human trafficking.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "End Banking for Human Traffickers Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-09-28T07:16:12Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr2219.xml"
+}

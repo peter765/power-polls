@@ -1,0 +1,45 @@
+<bill session="115" type="h" number="2139" updated="2017-09-25T21:00:13Z">
+  <state datetime="2017-04-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-25"/>
+  </status>
+  <introduced datetime="2017-04-25"/>
+  <titles>
+    <title type="official" as="introduced">To amend the FAA Modernization and Reform Act of 2012 and title 49, United States Code, with respect to disadvantaged business enterprises, and for other purposes.</title>
+    <title type="display">To amend the FAA Modernization and Reform Act of 2012 and title 49, United States Code, with respect to disadvantaged business enterprises, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="M001160"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-04-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-25" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-04-25">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Aviation" code="HSPW05" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Accounting and auditing"/>
+    <term name="Aviation and airports"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Minority and disadvantaged businesses"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small business"/>
+    <term name="Transportation programs funding"/>
+    <term name="User charges and fees"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

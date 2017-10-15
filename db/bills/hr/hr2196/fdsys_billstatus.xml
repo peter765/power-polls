@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-04-28T03:11:52Z</createDate>
+    <introducedDate>2017-04-27</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-10-10T17:17:26Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-05-02T19:21:54Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-27T14:05:20Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Oversight and Government Reform Committee</name>
+          <type>Standing</type>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00247</calendar>
+      </item>
+    </calendarNumbers>
+    <congress>115</congress>
+    <title>To amend title 5, United States Code, to allow whistleblowers to disclose information to certain recipients.</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-342</citation>
+      </committeeReport>
+    </committeeReports>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend title 5, United States Code, to allow whistleblowers to disclose information to certain recipients.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>To amend title 5, United States Code, to allow whistleblowers to disclose information to certain recipients.</title>
+      </item>
+    </titles>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <updateDate>2017-10-12T12:42:14Z</updateDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2017-04-27T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-10-10T18:10:11Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2017-04-27</actionDate>
+          <text><![CDATA[<p>This bill expands the list of individuals to whom a whistleblower may disclose information evidencing a violation of law, gross mismanagement, waste of funds, abuse of authority, or danger to public health or safety to include such whistleblower's immediate supervisor or agency head, the Director of National Intelligence, the Inspector General of the Intelligence Community, or an employee designated to receive such disclosures.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <billNumber>2196</billNumber>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>256</lisID>
+          <gpoId>7982</gpoId>
+          <bioguideId>C000984</bioguideId>
+        </identifiers>
+        <lastName>CUMMINGS</lastName>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <bioguideId>C000984</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELIJAH</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <middleName>F.</middleName>
+        <identifiers>
+          <lisID>1686</lisID>
+          <bioguideId>L000562</bioguideId>
+          <gpoId>7974</gpoId>
+        </identifiers>
+        <lastName>Lynch</lastName>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <bioguideId>L000562</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Stephen</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <bioguideId>F000460</bioguideId>
+          <lisID>2067</lisID>
+          <gpoId>8183</gpoId>
+        </identifiers>
+        <lastName>Farenthold</lastName>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <bioguideId>F000460</bioguideId>
+        <district>27</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Blake</firstName>
+      </item>
+    </cosponsors>
+    <laws />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>R000604</bioguideId>
+        <firstName>Steve</firstName>
+        <fullName>Rep. Russell, Steve [R-OK-5]</fullName>
+        <state>OK</state>
+        <identifiers>
+          <lisID>2265</lisID>
+          <bioguideId>R000604</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+        <byRequestType />
+        <lastName>Russell</lastName>
+        <middleName />
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/52759</url>
+        <title>H.R. 2196, a bill to amend title 5, United States Code, to allow whistleblowers to disclose information to certain recipients</title>
+        <pubDate>2017-05-23T19:51:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <latestAction>
+      <actionTime>15:31:05</actionTime>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+      <actionDate>2017-10-11</actionDate>
+    </latestAction>
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <links />
+        <actionDate>2017-10-11</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <actionTime>15:31:05</actionTime>
+      </item>
+      <item>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7950)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H7950</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7950</url>
+          </link>
+        </links>
+        <actionDate>2017-10-11</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H37300</actionCode>
+        <actionTime>15:31:03</actionTime>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <type>Floor</type>
+        <links />
+        <actionDate>2017-10-11</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>8000</actionCode>
+        <actionTime>15:31:03</actionTime>
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2196.</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 2196</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2196</url>
+          </link>
+        </links>
+        <actionDate>2017-10-11</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <actionTime>15:24:37</actionTime>
+      </item>
+      <item>
+        <text>Considered under suspension of the rules. (consideration: CR H7950-7951)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H7950-7951</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7950-7951</url>
+          </link>
+        </links>
+        <actionDate>2017-10-11</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <actionTime>15:24:36</actionTime>
+      </item>
+      <item>
+        <text>Mr. Russell moved to suspend the rules and pass the bill, as amended.</text>
+        <type>Floor</type>
+        <links />
+        <actionDate>2017-10-11</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H30300</actionCode>
+        <actionTime>15:24:24</actionTime>
+      </item>
+      <item>
+        <text>Placed on the Union Calendar, Calendar No. 247.</text>
+        <type>Calendars</type>
+        <links />
+        <actionDate>2017-10-10</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H12410</actionCode>
+      </item>
+      <item>
+        <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 115-342.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-342</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/342</url>
+          </link>
+        </links>
+        <actionDate>2017-10-10</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionCode>H12200</actionCode>
+      </item>
+      <item>
+        <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 115-342.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-342</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/342</url>
+          </link>
+        </links>
+        <actionDate>2017-10-10</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionCode>5000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-04-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-04-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-04-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>14</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <generalDebate>1</generalDebate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <reportedToHouse>1</reportedToHouse>
+        <actionStageOverride>1</actionStageOverride>
+      </actionTypeCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RUSSELL:H.R. 2196.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18[Page H2942]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

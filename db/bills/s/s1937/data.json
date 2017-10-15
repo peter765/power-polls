@@ -1,0 +1,85 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6362-6363", 
+          "type": "Sponsor introductory remarks on measure"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1937-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-05", 
+  "number": "1937", 
+  "official_title": "A bill to authorize appropriations for border infrastructure construction, to provide conditional resident status to certain aliens, and to amend the Immigration and Nationality Act to include grounds of inadmissibility and deportability for alien members of criminal gangs and cartels, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "F000444", 
+    "district": null, 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-05", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to authorize appropriations for border infrastructure construction, to provide conditional resident status to certain aliens, and to amend the Immigration and Nationality Act to include grounds of inadmissibility and deportability for alien members of criminal gangs and cartels, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to authorize appropriations for border infrastructure construction, to provide conditional resident status to certain aliens, and to amend the Immigration and Nationality Act to include grounds of inadmissibility and deportability for alien members of criminal gangs and cartels, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-10T12:27:09Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1937.xml"
+}

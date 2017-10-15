@@ -1,0 +1,47 @@
+<bill session="115" type="h" number="3133" updated="2017-09-26T07:17:00Z">
+  <state datetime="2017-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-29"/>
+  </status>
+  <introduced datetime="2017-06-29"/>
+  <titles>
+    <title type="short" as="introduced">SEA Act of 2017</title>
+    <title type="short" as="introduced">SEA Act of 2017</title>
+    <title type="short" as="introduced">Streamlining Environmental Approvals Act of 2017</title>
+    <title type="short" as="introduced">Streamlining Environmental Approvals Act of 2017</title>
+    <title type="official" as="introduced">To amend the Marine Mammal Protection Act of 1972 to reduce unnecessary permitting delays by clarifying associated procedures to increase economic development and support coastal restoration programs, and for other purposes.</title>
+    <title type="display">SEA Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="J000299"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000374" joined="2017-06-29"/>
+    <cosponsor bioguide_id="D000615" joined="2017-06-29"/>
+    <cosponsor bioguide_id="G000577" joined="2017-06-29"/>
+    <cosponsor bioguide_id="H001071" joined="2017-06-29"/>
+    <cosponsor bioguide_id="H001077" joined="2017-06-29"/>
+    <cosponsor bioguide_id="L000583" joined="2017-09-06"/>
+    <cosponsor bioguide_id="P000601" joined="2017-09-25"/>
+    <cosponsor bioguide_id="R000603" joined="2017-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-29">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-29" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-07-19">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Water, Power and Oceans" code="HSII13" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Animals"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

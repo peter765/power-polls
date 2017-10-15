@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Brian</firstName>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <state>NY</state>
+        <bioguideId>H001038</bioguideId>
+        <identifiers>
+          <gpoId>8088</gpoId>
+          <lisID>1794</lisID>
+          <bioguideId>H001038</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <byRequestType />
+        <lastName>Higgins</lastName>
+        <district>26</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <lastName>Jayapal</lastName>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000298</bioguideId>
+        <firstName>Pramila</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2354</lisID>
+          <bioguideId>J000298</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <state>WA</state>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>Raskin</lastName>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000606</bioguideId>
+        <firstName>Jamie</firstName>
+        <identifiers>
+          <lisID>2332</lisID>
+          <bioguideId>R000606</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <state>MD</state>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>Moulton</lastName>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001196</bioguideId>
+        <firstName>Seth</firstName>
+        <identifiers>
+          <lisID>2246</lisID>
+          <bioguideId>M001196</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <sponsorshipDate>2017-07-18</sponsorshipDate>
+        <state>MA</state>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <title>Require a Score Before the Floor Resolution</title>
+    <billType>HRES</billType>
+    <notes />
+    <latestAction>
+      <actionDate>2017-07-13</actionDate>
+      <text>Sponsor introductory remarks on measure. (CR H5771)</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <recordedVotes />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <date>2017-07-12T14:02:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsru00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>B00100</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5771</url>
+            <name>H5771</name>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR H5771)</text>
+        <actionDate>2017-07-13</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Rules.</text>
+        <actionDate>2017-07-12</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-07-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-07-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Congressional Budget Office (CBO)</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Require a Score Before the Floor Resolution</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Amending the Rules of the House of Representatives to prohibit the consideration of any bill or joint resolution until a cost estimate prepared by the Congressional Budget Office has been available to the public, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Require a Score Before the Floor Resolution</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Require a Score Before the Floor Resolution</title>
+      </item>
+    </titles>
+    <introducedDate>2017-07-12</introducedDate>
+    <createDate>2017-07-13T03:11:32Z</createDate>
+    <constitutionalAuthorityStatementText />
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <billNumber>441</billNumber>
+    <amendments />
+    <updateDate>2017-09-20T18:57:44Z</updateDate>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,50 @@
+<bill session="115" type="s" number="1746" updated="2017-09-27T12:15:18Z">
+  <state datetime="2017-08-03">REFERRED</state>
+  <status>
+    <introduced datetime="2017-08-03"/>
+  </status>
+  <introduced datetime="2017-08-03"/>
+  <titles>
+    <title type="short" as="introduced">CBO Show Your Work Act</title>
+    <title type="short" as="introduced">CBO Show Your Work Act</title>
+    <title type="official" as="introduced">A bill to require the Congressional Budget Office to make publicly available the fiscal and mathematical models, data, and other details of computations used in cost analysis and scoring.</title>
+    <title type="display">CBO Show Your Work Act</title>
+  </titles>
+  <sponsor bioguide_id="L000577"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000575" joined="2017-08-03"/>
+    <cosponsor bioguide_id="C001095" joined="2017-08-03"/>
+    <cosponsor bioguide_id="C001098" joined="2017-08-03"/>
+    <cosponsor bioguide_id="D000618" joined="2017-08-03"/>
+    <cosponsor bioguide_id="I000024" joined="2017-08-03"/>
+    <cosponsor bioguide_id="J000293" joined="2017-08-03"/>
+    <cosponsor bioguide_id="L000575" joined="2017-08-03"/>
+    <cosponsor bioguide_id="P000603" joined="2017-08-03"/>
+    <cosponsor bioguide_id="P000612" joined="2017-08-03"/>
+    <cosponsor bioguide_id="R000584" joined="2017-08-03"/>
+    <cosponsor bioguide_id="R000307" joined="2017-08-03"/>
+    <cosponsor bioguide_id="R000605" joined="2017-08-03"/>
+    <cosponsor bioguide_id="R000595" joined="2017-08-03"/>
+    <cosponsor bioguide_id="S001197" joined="2017-09-18"/>
+    <cosponsor bioguide_id="W000437" joined="2017-08-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-08-03">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-08-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBU" name="Senate Budget" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="3822"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

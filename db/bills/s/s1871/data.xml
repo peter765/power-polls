@@ -1,0 +1,34 @@
+<bill session="115" type="s" number="1871" updated="2017-10-07T14:00:23Z">
+  <state datetime="2017-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-27"/>
+  </status>
+  <introduced datetime="2017-09-27"/>
+  <titles>
+    <title type="short" as="introduced">VA Provider Equity Act</title>
+    <title type="short" as="introduced">VA Provider Equity Act</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to clarify the role of podiatrists in the Department of Veterans Affairs, and for other purposes.</title>
+    <title type="display">VA Provider Equity Act</title>
+  </titles>
+  <sponsor bioguide_id="C001075"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-09-27">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-09-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="1058"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

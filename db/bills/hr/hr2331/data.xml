@@ -1,0 +1,52 @@
+<bill session="115" type="h" number="2331" updated="2017-10-10T17:45:12Z">
+  <state datetime="2017-09-13">REPORTED</state>
+  <status>
+    <unknown datetime="2017-09-13"/>
+  </status>
+  <introduced datetime="2017-05-03"/>
+  <titles>
+    <title type="short" as="introduced">Connected Government Act</title>
+    <title type="short" as="introduced">Connected Government Act</title>
+    <title type="official" as="introduced">To require a new or updated Federal website that is intended for use by the public to be mobile friendly, and for other purposes.</title>
+    <title type="display">Connected Government Act</title>
+  </titles>
+  <sponsor bioguide_id="K000385"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001187" joined="2017-05-23"/>
+    <cosponsor bioguide_id="P000034" joined="2017-05-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-03">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-03" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2017-09-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-09-13" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1769"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Internet and video services"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-05-03T04:00:00Z" status="Introduced in House">Connected Government Act
+
+This bill requires a federal agency that creates or updates a website intended for use by the public to ensure that the website is mobile friendly.
+
+ "Mobile friendly" means that the website is configured in such a way that it may be easily navigated and viewed on a smartphone, tablet computer, or similar mobile device.</summary>
+  <committee-reports/>
+</bill>

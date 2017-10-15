@@ -1,0 +1,47 @@
+<bill session="115" type="hr" number="532" updated="2017-09-29T07:13:18Z">
+  <state datetime="2017-09-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-25"/>
+  </status>
+  <introduced datetime="2017-09-25"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives regarding conduct during a rendition of the National Anthem.</title>
+    <title type="display">Expressing the sense of the House of Representatives regarding conduct during a rendition of the National Anthem.</title>
+  </titles>
+  <sponsor bioguide_id="B001243"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001274" joined="2017-09-26"/>
+    <cosponsor bioguide_id="C001103" joined="2017-09-26"/>
+    <cosponsor bioguide_id="C001096" joined="2017-09-26"/>
+    <cosponsor bioguide_id="F000460" joined="2017-09-26"/>
+    <cosponsor bioguide_id="H001052" joined="2017-09-26"/>
+    <cosponsor bioguide_id="L000578" joined="2017-09-26"/>
+    <cosponsor bioguide_id="L000564" joined="2017-09-26"/>
+    <cosponsor bioguide_id="M001180" joined="2017-09-26"/>
+    <cosponsor bioguide_id="M001151" joined="2017-09-26"/>
+    <cosponsor bioguide_id="N000190" joined="2017-09-26"/>
+    <cosponsor bioguide_id="P000606" joined="2017-09-26"/>
+    <cosponsor bioguide_id="R000575" joined="2017-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-25" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-09-28">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="3249" updated="2017-09-11T02:54:48Z">
+  <state datetime="2017-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-14"/>
+  </status>
+  <introduced datetime="2017-07-14"/>
+  <titles>
+    <title type="short" as="introduced">Project Safe Neighborhoods Grant Program Authorization Act of 2017</title>
+    <title type="short" as="introduced">Project Safe Neighborhoods Grant Program Authorization Act of 2017</title>
+    <title type="official" as="introduced">To authorize the Project Safe Neighborhoods Grant Program, and for other purposes.</title>
+    <title type="display">Project Safe Neighborhoods Grant Program Authorization Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C001105"/>
+  <cosponsors>
+    <cosponsor bioguide_id="K000210" joined="2017-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-14">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-14" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-08-17">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

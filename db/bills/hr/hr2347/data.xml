@@ -1,0 +1,79 @@
+<bill session="115" type="h" number="2347" updated="2017-10-10T19:15:15Z">
+  <state datetime="2017-05-03">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-03"/>
+  </status>
+  <introduced datetime="2017-05-03"/>
+  <titles>
+    <title type="short" as="introduced">Regional Infrastructure Accelerator Act of 2017</title>
+    <title type="short" as="introduced">Regional Infrastructure Accelerator Act of 2017</title>
+    <title type="official" as="introduced">To direct the Secretary of the Treasury to establish a regional infrastructure accelerator program to facilitate investments in and the financing of certain infrastructure projects, and for other purposes.</title>
+    <title type="display">Regional Infrastructure Accelerator Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="T000474"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001112" joined="2017-05-18"/>
+    <cosponsor bioguide_id="N000179" joined="2017-05-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-03">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-03" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-05-04">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="2017-05-04">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+    <action datetime="2017-05-04">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2017-05-04">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+    <action datetime="2017-05-04">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+    <action datetime="2017-05-04">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Railroads, Pipelines, and Hazardous Materials" code="HSPW14" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Economic Development, Public Buildings and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Coast Guard and Maritime Transportation" code="HSPW07" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Aviation" code="HSPW05" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Congressional oversight"/>
+    <term name="Dams and canals"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Infrastructure development"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Pipelines"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Public transit"/>
+    <term name="Railroads"/>
+    <term name="Regional and metropolitan planning"/>
+    <term name="Roads and highways"/>
+    <term name="Solid waste and recycling"/>
+    <term name="State and local government operations"/>
+    <term name="Transportation programs funding"/>
+    <term name="Water quality"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

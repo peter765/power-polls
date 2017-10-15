@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Arms control and nonproliferation</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Nuclear weapons</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <district>11</district>
+        <identifiers>
+          <lisID>1888</lisID>
+          <bioguideId>F000454</bioguideId>
+          <gpoId>7355</gpoId>
+        </identifiers>
+        <bioguideId>F000454</bioguideId>
+        <lastName>Foster</lastName>
+        <firstName>Bill</firstName>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <byRequestType />
+        <middleName />
+        <state>IL</state>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade.</text>
+      <actionDate>2017-05-18</actionDate>
+      <links />
+    </latestAction>
+    <constitutionalAuthorityStatementText />
+    <recordedVotes />
+    <relatedBills />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <name>Terrorism,  Nonproliferation, and Trade Subcommittee</name>
+          <systemCode>hsfa18</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2017-04-06</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2017-04-06</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2017-04-06</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsfa18</systemCode>
+              <activities>
+                <item>
+                  <date>2017-05-18T15:50:49Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Terrorism,  Nonproliferation, and Trade Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2017-04-06T13:12:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-09-13T15:00:09Z</updateDate>
+    <cboCostEstimates />
+    <createDate>2017-04-07T03:11:46Z</createDate>
+    <billType>HRES</billType>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Visclosky, Peter J. [D-IN-1]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>V000108</bioguideId>
+          <lisID>1188</lisID>
+          <gpoId>7940</gpoId>
+        </identifiers>
+        <state>IN</state>
+        <firstName>PETER</firstName>
+        <lastName>VISCLOSKY</lastName>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000108</bioguideId>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Fortenberry, Jeff [R-NE-1]</fullName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1793</lisID>
+          <bioguideId>F000449</bioguideId>
+          <gpoId>8038</gpoId>
+        </identifiers>
+        <state>NE</state>
+        <firstName>Jeff</firstName>
+        <lastName>Fortenberry</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000449</bioguideId>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Fleischmann, Charles J. "Chuck" [R-TN-3]</fullName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>F000459</bioguideId>
+          <lisID>2061</lisID>
+          <gpoId>8150</gpoId>
+        </identifiers>
+        <state>TN</state>
+        <firstName>Charles</firstName>
+        <lastName>Fleischmann</lastName>
+        <middleName>J. "Chuck"</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000459</bioguideId>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001196</bioguideId>
+          <lisID>2246</lisID>
+        </identifiers>
+        <state>MA</state>
+        <firstName>Seth</firstName>
+        <lastName>Moulton</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001196</bioguideId>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <introducedDate>2017-04-06</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-04-06</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p> Expresses the sense of the House of Representatives that the International Atomic Energy Agency (IAEA) plays an indispensable role in strengthening global nuclear security.</p> <p> Reaffirms that the United States has a vital interest in preventing the spread of nuclear weapons and securing nuclear materials.</p> <p> Encourages the United States and other IAEA member states to ensure that the IAEA has the necessary resources carry out its duties.</p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2017-04-06T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-04-15T14:18:35Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Expressing the sense of the House of Representatives in support of the International Atomic Energy Agency's (IAEA) nuclear security role.</title>
+    <laws />
+    <billNumber>260</billNumber>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Expressing the sense of the House of Representatives in support of the International Atomic Energy Agency's (IAEA) nuclear security role.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Expressing the sense of the House of Representatives in support of the International Atomic Energy Agency's (IAEA) nuclear security role.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

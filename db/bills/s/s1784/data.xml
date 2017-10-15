@@ -1,0 +1,47 @@
+<bill session="115" type="s" number="1784" updated="2017-09-22T12:43:17Z">
+  <state datetime="2017-09-11">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-11"/>
+  </status>
+  <introduced datetime="2017-09-11"/>
+  <titles>
+    <title type="short" as="introduced">Students Before Profits Act of 2017</title>
+    <title type="short" as="introduced">Students Before Profits Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend the Higher Education Act of 1965 to improve the determination of cohort default rates and provide for enhanced civil penalties, to ensure personal liability of owners, officers, and executives of institutions of higher education, and for other purposes.</title>
+    <title type="display">Students Before Profits Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="M001169"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001277" joined="2017-09-11"/>
+    <cosponsor bioguide_id="B000944" joined="2017-09-11"/>
+    <cosponsor bioguide_id="D000563" joined="2017-09-11"/>
+    <cosponsor bioguide_id="F000457" joined="2017-09-11"/>
+    <cosponsor bioguide_id="H001075" joined="2017-09-11"/>
+    <cosponsor bioguide_id="R000122" joined="2017-09-12"/>
+    <cosponsor bioguide_id="W000817" joined="2017-09-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-11">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-09-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2300"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Civil actions and liability"/>
+    <term name="Education programs funding"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

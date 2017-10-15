@@ -1,0 +1,37 @@
+<bill session="115" type="s" number="1765" updated="2017-09-27T04:49:00Z">
+  <state datetime="2017-09-06">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-06"/>
+  </status>
+  <introduced datetime="2017-09-06"/>
+  <titles>
+    <title type="short" as="introduced">Department of Defense Depot Maintenance Best Practices Act of 2017</title>
+    <title type="short" as="introduced">Department of Defense Depot Maintenance Best Practices Act of 2017</title>
+    <title type="official" as="introduced">A bill to require a comprehensive plan for the sharing of best practices for depot-level maintenance among the military services.</title>
+    <title type="display">Department of Defense Depot Maintenance Best Practices Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="R000605"/>
+  <cosponsors>
+    <cosponsor bioguide_id="K000384" joined="2017-09-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-06">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-09-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2723"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Armed Forces and National Security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

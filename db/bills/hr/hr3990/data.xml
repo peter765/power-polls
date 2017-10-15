@@ -1,0 +1,44 @@
+<bill session="115" type="h" number="3990" updated="2017-10-13T07:23:41Z">
+  <state datetime="2017-10-11">REPORTED</state>
+  <status>
+    <unknown datetime="2017-10-11"/>
+  </status>
+  <introduced datetime="2017-10-06"/>
+  <titles>
+    <title type="short" as="introduced">National Monument Creation and Protection Act</title>
+    <title type="short" as="introduced">National Monument Creation and Protection Act</title>
+    <title type="official" as="introduced">To amend title 54, United States Code, to reform the Antiquities Act of 1906, and for other purposes.</title>
+    <title type="display">National Monument Creation and Protection Act</title>
+  </titles>
+  <sponsor bioguide_id="B001250"/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000565" joined="2017-10-06"/>
+    <cosponsor bioguide_id="L000578" joined="2017-10-06"/>
+    <cosponsor bioguide_id="L000564" joined="2017-10-06"/>
+    <cosponsor bioguide_id="M001177" joined="2017-10-06"/>
+    <cosponsor bioguide_id="W000821" joined="2017-10-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-06">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-06" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-10-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-10-11" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 17.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

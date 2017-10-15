@@ -1,0 +1,63 @@
+<bill session="115" type="h" number="2921" updated="2017-10-12T07:12:51Z">
+  <state datetime="2017-10-04">REPORTED</state>
+  <status>
+    <unknown datetime="2017-10-04"/>
+  </status>
+  <introduced datetime="2017-06-15"/>
+  <titles>
+    <title type="short" as="introduced">National Forest System Vegetation Management Pilot Program Act of 2017</title>
+    <title type="short" as="introduced">National Forest System Vegetation Management Pilot Program Act of 2017</title>
+    <title type="official" as="introduced">To establish a vegetation management pilot program on National Forest System land to better protect utility infrastructure from passing wildfire, and for other purposes.</title>
+    <title type="display">National Forest System Vegetation Management Pilot Program Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C001096"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001297" joined="2017-06-15"/>
+    <cosponsor bioguide_id="C001077" joined="2017-06-15"/>
+    <cosponsor bioguide_id="D000197" joined="2017-06-15"/>
+    <cosponsor bioguide_id="K000188" joined="2017-06-15"/>
+    <cosponsor bioguide_id="P000593" joined="2017-06-15"/>
+    <cosponsor bioguide_id="P000258" joined="2017-06-15"/>
+    <cosponsor bioguide_id="P000598" joined="2017-06-15"/>
+    <cosponsor bioguide_id="T000470" joined="2017-06-15"/>
+    <cosponsor bioguide_id="W000799" joined="2017-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-15">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-15" state="REFERRED">
+      <text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2017-06-26">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2017-07-11">
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </action>
+    <action datetime="2017-10-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-10-04" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Markup, Referral"/>
+    <committee subcommittee="Conservation and Forestry" code="HSAG15" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Federal Lands" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

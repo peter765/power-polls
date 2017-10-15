@@ -1,0 +1,41 @@
+<bill session="115" type="h" number="2578" updated="2017-07-15T07:16:04Z">
+  <state datetime="2017-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-19"/>
+  </status>
+  <introduced datetime="2017-05-19"/>
+  <titles>
+    <title type="short" as="introduced">Employee Benefits Protection Act of 2017</title>
+    <title type="short" as="introduced">Employee Benefits Protection Act of 2017</title>
+    <title type="official" as="introduced">To amend the Employee Retirement Income Security Act of 1974 and the National Labor Relations Act to protect the health benefits of retirees, and for other purposes.</title>
+    <title type="display">Employee Benefits Protection Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="S000480"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001080" joined="2017-06-22"/>
+    <cosponsor bioguide_id="J000255" joined="2017-05-19"/>
+    <cosponsor bioguide_id="K000009" joined="2017-06-06"/>
+    <cosponsor bioguide_id="M000312" joined="2017-06-06"/>
+    <cosponsor bioguide_id="M001188" joined="2017-07-14"/>
+    <cosponsor bioguide_id="N000147" joined="2017-06-22"/>
+    <cosponsor bioguide_id="P000597" joined="2017-06-20"/>
+    <cosponsor bioguide_id="R000577" joined="2017-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-19">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

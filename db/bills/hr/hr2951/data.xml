@@ -1,0 +1,54 @@
+<bill session="115" type="h" number="2951" updated="2017-07-11T07:12:26Z">
+  <state datetime="2017-06-20">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-20"/>
+  </status>
+  <introduced datetime="2017-06-20"/>
+  <titles>
+    <title type="official" as="introduced">To allow Members of Congress to carry a concealed handgun anywhere in the United States, with exceptions.</title>
+    <title type="display">To allow Members of Congress to carry a concealed handgun anywhere in the United States, with exceptions.</title>
+  </titles>
+  <sponsor bioguide_id="B001291"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001299" joined="2017-06-22"/>
+    <cosponsor bioguide_id="B001274" joined="2017-06-22"/>
+    <cosponsor bioguide_id="D000615" joined="2017-06-22"/>
+    <cosponsor bioguide_id="H001071" joined="2017-06-22"/>
+    <cosponsor bioguide_id="H001048" joined="2017-06-22"/>
+    <cosponsor bioguide_id="L000578" joined="2017-06-22"/>
+    <cosponsor bioguide_id="R000597" joined="2017-06-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-20">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-20" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on House Administration, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-06-20">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on House Administration, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-06-20">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on House Administration, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-06-28">
+      <text>Referred to the Subcommittee on Transportation and Protective Security.</text>
+    </action>
+    <action datetime="2017-07-10">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee subcommittee="Transportation Security" code="HSHM07" name="House Homeland Security" activity="Referral"/>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

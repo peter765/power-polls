@@ -1,0 +1,51 @@
+<bill session="115" type="s" number="1277" updated="2017-09-12T04:32:14Z">
+  <state datetime="2017-05-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-25"/>
+  </status>
+  <introduced datetime="2017-05-25"/>
+  <titles>
+    <title type="short" as="introduced">VET TEC Act of 2017</title>
+    <title type="short" as="introduced">VET TEC Act of 2017</title>
+    <title type="short" as="introduced">Veteran Employment Through Technology Education Courses Act of 2017</title>
+    <title type="short" as="introduced">Veteran Employment Through Technology Education Courses Act of 2017</title>
+    <title type="official" as="introduced">A bill to require the Secretary of Veterans Affairs to carry out a high technology education pilot program, and for other purposes.</title>
+    <title type="display">VET TEC Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="B001236"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001047" joined="2017-05-25"/>
+    <cosponsor bioguide_id="C001056" joined="2017-06-29"/>
+    <cosponsor bioguide_id="H001041" joined="2017-05-25"/>
+    <cosponsor bioguide_id="N000032" joined="2017-06-08"/>
+    <cosponsor bioguide_id="R000584" joined="2017-05-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-25">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Hearings, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="1989"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Computers and information technology"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Student aid and college costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Vocational and technical education"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

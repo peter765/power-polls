@@ -1,0 +1,45 @@
+<bill session="115" type="h" number="3815" updated="2017-10-06T07:12:40Z">
+  <state datetime="2017-09-21">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-21"/>
+  </status>
+  <introduced datetime="2017-09-21"/>
+  <titles>
+    <title type="short" as="introduced">Food Sharing Act of 2017</title>
+    <title type="short" as="introduced">Food Sharing Act of 2017</title>
+    <title type="official" as="introduced">To amend the Food and Nutrition Act of 2008 to authorize the Secretary of Agriculture to make grants to carry out gleaning projects.</title>
+    <title type="display">Food Sharing Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="L000586"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001066" joined="2017-09-28"/>
+    <cosponsor bioguide_id="C001111" joined="2017-09-26"/>
+    <cosponsor bioguide_id="D000610" joined="2017-09-21"/>
+    <cosponsor bioguide_id="H000324" joined="2017-09-26"/>
+    <cosponsor bioguide_id="N000147" joined="2017-09-26"/>
+    <cosponsor bioguide_id="S001200" joined="2017-09-26"/>
+    <cosponsor bioguide_id="W000797" joined="2017-09-21"/>
+    <cosponsor bioguide_id="W000808" joined="2017-09-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-21">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-21" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2017-10-05">
+      <text>Referred to the Subcommittee on Nutrition.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Nutrition" code="HSAG03" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

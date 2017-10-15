@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Allied health services</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-10-11T04:29:24Z</updateDate>
+    <amendments />
+    <calendarNumbers />
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2017-09-14</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S5747-5748</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5747-5748</url>
+          </link>
+          <link>
+            <name>S5748</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5748</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (Sponsor introductory remarks on measure: CR S5748; consideration: CR S5747-5748; text: CR S5747-5748)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(Sponsor introductory remarks on measure: CR S5748; consideration: CR S5747-5748; text: CR S5747-5748)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>S5747-5748</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5747-5748</url>
+          </link>
+          <link>
+            <name>S5748</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5748</url>
+          </link>
+        </links>
+        <actionDate>2017-09-14</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-09-14</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <lastName>COLLINS</lastName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <bioguideId>C001035</bioguideId>
+        <middleName>MARGARET</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>SUSAN</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <state>ME</state>
+      </item>
+      <item>
+        <lastName>BROWN</lastName>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <bioguideId>B000944</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>SHERROD</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+          <lisID>136</lisID>
+        </identifiers>
+        <state>OH</state>
+      </item>
+      <item>
+        <lastName>Blumenthal</lastName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <bioguideId>B001277</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Richard</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <state>CT</state>
+      </item>
+      <item>
+        <lastName>MARKEY</lastName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <bioguideId>M000133</bioguideId>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>EDWARD</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <state>MA</state>
+      </item>
+      <item>
+        <lastName>PORTMAN</lastName>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <bioguideId>P000449</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ROB</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <state>OH</state>
+      </item>
+      <item>
+        <lastName>King</lastName>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <party>I</party>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <bioguideId>K000383</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Angus</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+          <gpoId />
+        </identifiers>
+        <state>ME</state>
+      </item>
+      <item>
+        <lastName>Warren</lastName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <bioguideId>W000817</bioguideId>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Elizabeth</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+        <state>MA</state>
+      </item>
+      <item>
+        <lastName>MENENDEZ</lastName>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <bioguideId>M000639</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ROBERT</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <state>NJ</state>
+      </item>
+      <item>
+        <lastName>Klobuchar</lastName>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <bioguideId>K000367</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Amy</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <state>MN</state>
+      </item>
+    </cosponsors>
+    <billNumber>258</billNumber>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <bioguideId>C000141</bioguideId>
+        <party>D</party>
+        <byRequestType />
+        <firstName>BENJAMIN</firstName>
+        <middleName>L.</middleName>
+        <state>MD</state>
+        <lastName>CARDIN</lastName>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <billType>SRES</billType>
+    <createDate>2017-09-15T00:41:21Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-09-14T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-09-22T21:44:57Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Designates the week beginning September 10, 2017, as National Direct Support Professionals Recognition Week.</p> <p>Commends direct support professionals for being integral to long-term support and services for individuals with disabilities.</p> <p>Expresses the sense of the Senate that the successful implementation of the public policies affecting individuals with disabilities depends on the dedication of direct support professionals.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <actionDate>2017-09-14</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <updateDate>2017-09-14T18:16:05Z</updateDate>
+          <lastSummaryUpdateDate>2017-10-06T13:10:44Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Designates the week beginning September 10, 2017, as National Direct Support Professionals Recognition Week.</p> <p>Commends direct support professionals for being integral to long-term support and services for individuals with disabilities.</p> <p>Expresses the sense of the Senate that the successful implementation of the public policies affecting individuals with disabilities depends on the dedication of direct support professionals.</p>]]></text>
+          <name>Passed Senate without amendment</name>
+          <actionDate>2017-09-14</actionDate>
+          <versionCode>82</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A resolution designating the week beginning September 10, 2017, as "National Direct Support Professionals Recognition Week".</title>
+    <laws />
+    <latestAction>
+      <actionDate>2017-09-14</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (Sponsor introductory remarks on measure: CR S5748; consideration: CR S5747-5748; text: CR S5747-5748)</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A resolution designating the week beginning September 10, 2017, as "National Direct Support Professionals Recognition Week".</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>A resolution designating the week beginning September 10, 2017, as "National Direct Support Professionals Recognition Week".</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <originChamber>Senate</originChamber>
+    <introducedDate>2017-09-14</introducedDate>
+    <congress>115</congress>
+    <committees>
+      <billCommittees />
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

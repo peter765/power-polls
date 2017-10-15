@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Adult education and literacy</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Financial literacy</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Minority employment</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Temporary and part-time employment</name>
+          </item>
+          <item>
+            <name>Women's employment</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <district>11</district>
+        <identifiers>
+          <bioguideId>F000454</bioguideId>
+          <lisID>1888</lisID>
+          <gpoId>7355</gpoId>
+        </identifiers>
+        <bioguideId>F000454</bioguideId>
+        <lastName>Foster</lastName>
+        <firstName>Bill</firstName>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <byRequestType />
+        <middleName />
+        <state>IL</state>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <actionDate>2017-05-01</actionDate>
+      <links />
+    </latestAction>
+    <constitutionalAuthorityStatementText />
+    <recordedVotes />
+    <relatedBills />
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-05-01</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-05-01</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-05-01</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Financial Services Committee</name>
+          <activities>
+            <item>
+              <date>2017-05-01T16:00:19Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-09-13T17:15:12Z</updateDate>
+    <cboCostEstimates />
+    <createDate>2017-05-02T03:11:41Z</createDate>
+    <billType>HRES</billType>
+    <cosponsors>
+      <item>
+        <middleName>W.</middleName>
+        <bioguideId>M001137</bioguideId>
+        <lastName>MEEKS</lastName>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <firstName>GREGORY</firstName>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <state>NY</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001137</bioguideId>
+          <lisID>1506</lisID>
+          <gpoId>8067</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+      </item>
+      <item>
+        <middleName>HOLMES</middleName>
+        <bioguideId>N000147</bioguideId>
+        <lastName>NORTON</lastName>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <firstName>ELEANOR</firstName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <state>DC</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>G000581</bioguideId>
+        <lastName>Gonzalez</lastName>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <firstName>Vicente</firstName>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <state>TX</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>G000581</bioguideId>
+          <lisID>2349</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <district>15</district>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <bioguideId>V000081</bioguideId>
+        <lastName>VELAZQUEZ</lastName>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <firstName>NYDIA</firstName>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <state>NY</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <introducedDate>2017-05-01</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-05-01T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-05-01</actionDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-06-14T16:26:04Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Reaffirms the purposes of specified provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act that direct federal financial agencies to partner with organizations focused on developing opportunities to place talented young minorities and women in industry internships, summer employment, and full-time positions.</p> <p>Expresses support for&nbsp;the Consumer Financial Protection Bureau's efforts&nbsp;to provide consumers with relevant information and decisionmaking tools regarding important financial decisions.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Encouraging greater public-private sector collaboration to promote financial literacy for students and young adults.</title>
+    <laws />
+    <billNumber>300</billNumber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Encouraging greater public-private sector collaboration to promote financial literacy for students and young adults.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Encouraging greater public-private sector collaboration to promote financial literacy for students and young adults.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

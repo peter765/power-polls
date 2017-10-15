@@ -1,0 +1,46 @@
+<bill session="115" type="h" number="2481" updated="2017-10-05T07:16:26Z">
+  <state datetime="2017-05-17">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-17"/>
+  </status>
+  <introduced datetime="2017-05-17"/>
+  <titles>
+    <title type="short" as="introduced">PATCH Act of 2017</title>
+    <title type="short" as="introduced">PATCH Act of 2017</title>
+    <title type="short" as="introduced">Protecting Our Ability to Counter Hacking Act of 2017</title>
+    <title type="short" as="introduced">Protecting Our Ability to Counter Hacking Act of 2017</title>
+    <title type="official" as="introduced">To establish the Vulnerability Equities Review Board, and for other purposes.</title>
+    <title type="display">PATCH Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="L000582"/>
+  <cosponsors>
+    <cosponsor bioguide_id="F000460" joined="2017-05-17"/>
+    <cosponsor bioguide_id="K000381" joined="2017-10-04"/>
+    <cosponsor bioguide_id="S000480" joined="2017-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-17">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-17" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1157"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

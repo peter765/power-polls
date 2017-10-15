@@ -1,0 +1,51 @@
+<bill session="115" type="h" number="2593" updated="2017-10-13T15:12:12Z">
+  <state datetime="2017-05-24">REPORTED</state>
+  <status>
+    <unknown datetime="2017-05-24"/>
+  </status>
+  <introduced datetime="2017-05-23"/>
+  <titles>
+    <title type="short" as="introduced">Federal Maritime Commission Authorization Act of 2017</title>
+    <title type="short" as="introduced">Federal Maritime Commission Authorization Act of 2017</title>
+    <title type="official" as="introduced">To authorize appropriations for the Federal Maritime Commission for fiscal years 2018 and 2019, and for other purposes.</title>
+    <title type="display">Federal Maritime Commission Authorization Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="H001048"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000191" joined="2017-05-23"/>
+    <cosponsor bioguide_id="G000559" joined="2017-05-23"/>
+    <cosponsor bioguide_id="S001154" joined="2017-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-23">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-23" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-05-24">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+    <action datetime="2017-05-24">
+      <text>Subcommittee on Coast Guard and Maritime Transportation Discharged.</text>
+    </action>
+    <calendar datetime="2017-05-24" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-05-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Markup, Referral"/>
+    <committee subcommittee="Coast Guard and Maritime Transportation" code="HSPW07" name="House Transportation and Infrastructure" activity="Discharged, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1119"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

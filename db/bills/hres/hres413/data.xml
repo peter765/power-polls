@@ -1,0 +1,52 @@
+<bill session="115" type="hr" number="413" updated="2017-07-13T13:18:06Z">
+  <state datetime="2017-06-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-27"/>
+  </status>
+  <introduced datetime="2017-06-27"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for the designation of July as "American Grown Flower Month".</title>
+    <title type="display">Expressing support for the designation of July as "American Grown Flower Month".</title>
+  </titles>
+  <sponsor bioguide_id="C001112"/>
+  <cosponsors>
+    <cosponsor bioguide_id="H001056" joined="2017-06-27"/>
+    <cosponsor bioguide_id="H001068" joined="2017-06-27"/>
+    <cosponsor bioguide_id="H001048" joined="2017-06-27"/>
+    <cosponsor bioguide_id="I000056" joined="2017-06-27"/>
+    <cosponsor bioguide_id="P000613" joined="2017-06-27"/>
+    <cosponsor bioguide_id="P000597" joined="2017-06-27"/>
+    <cosponsor bioguide_id="Y000033" joined="2017-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5184"/>
+    </action>
+    <action datetime="2017-06-27" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2017-07-11">
+      <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Biotechnology, Horticulture, and Research" code="HSAG14" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="115" relation="unknown" number="208"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Horticulture and plants"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-06-27T04:00:00Z" status="Introduced in House">Supports the designation of American Grown Flower Month. Recognizes that flowers grown in the United States support farmers, small businesses, jobs, and the economy; are a vital part of the U.S. agricultural industry; and enhance the ability of the people of the United States to celebrate holidays and special occasions. Urges all people of the United States to proactively showcase flowers and greens grown in the United States.</summary>
+  <committee-reports/>
+</bill>

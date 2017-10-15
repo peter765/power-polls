@@ -1,0 +1,42 @@
+<bill session="115" type="h" number="1044" updated="2017-09-11T03:02:54Z">
+  <state datetime="2017-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2017-02-14"/>
+  </status>
+  <introduced datetime="2017-02-14"/>
+  <titles>
+    <title type="short" as="introduced">Same Day Registration Act</title>
+    <title type="short" as="introduced">Same Day Registration Act of 2017</title>
+    <title type="official" as="introduced">To amend the Help America Vote Act of 2002 to require States to provide for same day registration.</title>
+    <title type="display">Same Day Registration Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="E000288"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000574" joined="2017-02-14"/>
+    <cosponsor bioguide_id="H000324" joined="2017-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-02-14">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-02-14" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1437"/>
+    <bill type="h" session="115" relation="unknown" number="12"/>
+    <bill type="s" session="115" relation="unknown" number="360"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional elections"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

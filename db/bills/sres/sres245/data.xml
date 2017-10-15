@@ -1,0 +1,51 @@
+<bill session="115" type="sr" number="245" updated="2017-10-06T05:03:45Z">
+  <state datetime="2017-10-05">REPORTED</state>
+  <status>
+    <unknown datetime="2017-10-05"/>
+  </status>
+  <introduced datetime="2017-08-03"/>
+  <titles>
+    <title type="official" as="introduced">A resolution calling on the Government of Iran to release unjustly detained United States citizens and legal permanent resident aliens, and for other purposes.</title>
+    <title type="display">A resolution calling on the Government of Iran to release unjustly detained United States citizens and legal permanent resident aliens, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="C001098"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001288" joined="2017-10-04"/>
+    <cosponsor bioguide_id="C001095" joined="2017-10-05"/>
+    <cosponsor bioguide_id="G000562" joined="2017-10-05"/>
+    <cosponsor bioguide_id="L000174" joined="2017-08-03"/>
+    <cosponsor bioguide_id="M000639" joined="2017-10-04"/>
+    <cosponsor bioguide_id="R000595" joined="2017-10-05"/>
+    <cosponsor bioguide_id="Y000064" joined="2017-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-08-03">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-08-03" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S4881" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2017-10-05" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="115" relation="unknown" number="317"/>
+    <bill type="sr" session="115" relation="unknown" number="216"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Detention of persons"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Human rights"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Iran"/>
+    <term name="Middle East"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

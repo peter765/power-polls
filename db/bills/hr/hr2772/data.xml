@@ -1,0 +1,99 @@
+<bill session="115" type="h" number="2772" updated="2017-10-11T04:29:11Z">
+  <state datetime="2017-07-28T11:12:24-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-07-28T11:12:24-04:00"/>
+  </status>
+  <introduced datetime="2017-06-06"/>
+  <titles>
+    <title type="short" as="introduced">SEA Act</title>
+    <title type="short" as="introduced">VA Senior Executive Accountability Act</title>
+    <title type="short" as="introduced">VA Senior Executive Accountability Act</title>
+    <title type="short" as="reported to house">SEA Act</title>
+    <title type="short" as="reported to house">VA Senior Executive Accountability Act</title>
+    <title type="short" as="reported to house">VA Senior Executive Accountability Act</title>
+    <title type="short" as="passed house">SEA Act</title>
+    <title type="short" as="passed house">VA Senior Executive Accountability Act</title>
+    <title type="short" as="passed house">VA Senior Executive Accountability Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for requirements relating to the reassignment of Department of Veterans Affairs senior executive employees.</title>
+    <title type="display">SEA Act</title>
+  </titles>
+  <sponsor bioguide_id="T000477"/>
+  <cosponsors>
+    <cosponsor bioguide_id="S001196" joined="2017-07-12"/>
+    <cosponsor bioguide_id="T000472" joined="2017-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-06">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-06" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-06-06">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2017-06-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2017-07-12">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2017-07-12">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+    <action datetime="2017-07-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-07-19" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-07-24">
+      <text>Reported by the Committee on Veterans' Affairs. H. Rept. 115-248.</text>
+    </action>
+    <calendar datetime="2017-07-24" calendar="Union" number="180">
+      <text>Placed on the Union Calendar, Calendar No. 180.</text>
+    </calendar>
+    <action datetime="2017-07-28T11:08:13-04:00">
+      <text>Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2017-07-28T11:08:25-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6540" label="consideration"/>
+    </action>
+    <action datetime="2017-07-28T11:08:26-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2772.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2017-07-28T11:12:24-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6540" label="text"/>
+    </vote>
+    <action datetime="2017-07-28T11:12:26-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2017-07-31">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Reporting, Markup, Referral"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Reporting, Markup, Hearings, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2517"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-07-24T16:06:19Z" status="Reported to House without amendment">(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+VA Senior Executive Accountability Act or the SEA Act
+
+(Sec. 2) This bill prohibits an individual employed in a senior executive position at the Department of Veterans Affairs (VA) from being reassigned to another such position unless such reassignment is approved in writing and signed by the Secretary of Veterans Affairs.
+
+The VA shall report to Congress on such reassignments biannually.</summary>
+  <committee-reports>
+    <report>H. Rept. 115-248</report>
+  </committee-reports>
+</bill>

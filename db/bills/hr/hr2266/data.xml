@@ -1,0 +1,134 @@
+<bill session="115" type="h" number="2266" updated="2017-10-13T16:00:15Z">
+  <state datetime="2017-10-12T15:24:28-04:00">PASS_BACK:HOUSE</state>
+  <status>
+    <unknown datetime="2017-10-12T15:24:28-04:00"/>
+  </status>
+  <introduced datetime="2017-05-01"/>
+  <titles>
+    <title type="short" as="reported to house">Bankruptcy Judgeship Act of 2017</title>
+    <title type="short" as="introduced">Bankruptcy Judgeship Act of 2017</title>
+    <title type="short" as="introduced">Bankruptcy Judgeship Act of 2017</title>
+    <title type="short" as="passed house">Bankruptcy Judgeship Act of 2017</title>
+    <title type="short" as="passed house">Bankruptcy Judgeship Act of 2017</title>
+    <title type="short" as="passed senate">Bankruptcy Judgeship Act of 2017</title>
+    <title type="short">Additional Supplemental Appropriations for Disaster Relief Requirements Act of 2017</title>
+    <title type="short">Additional Supplemental Appropriations for Disaster Relief Requirements Act, 2017</title>
+    <title type="short">Bankruptcy Judgeship Act of 2017</title>
+    <title type="official" as="introduced">To amend title 28 of the United States Code to authorize the appointment of additional bankruptcy judges; and for other purposes.</title>
+    <title type="display">Additional Supplemental Appropriations for Disaster Relief Requirements Act, 2017</title>
+  </titles>
+  <sponsor bioguide_id="C000714"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001066" joined="2017-05-03"/>
+    <cosponsor bioguide_id="C001084" joined="2017-05-01"/>
+    <cosponsor bioguide_id="C001111" joined="2017-05-02"/>
+    <cosponsor bioguide_id="D000621" joined="2017-05-02"/>
+    <cosponsor bioguide_id="G000289" joined="2017-05-01"/>
+    <cosponsor bioguide_id="M001179" joined="2017-05-01"/>
+    <cosponsor bioguide_id="N000002" joined="2017-05-02"/>
+    <cosponsor bioguide_id="R000606" joined="2017-05-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-01">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-01" state="REFERRED">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+    <action datetime="2017-05-01">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-05-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-05-03" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-05-17">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 115-130.</text>
+    </action>
+    <calendar datetime="2017-05-17" calendar="Union" number="80">
+      <text>Placed on the Union Calendar, Calendar No. 80.</text>
+    </calendar>
+    <action datetime="2017-05-17T14:01:33-04:00">
+      <text>Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2017-05-17T14:01:49-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4245-4248" label="consideration"/>
+    </action>
+    <action datetime="2017-05-17T14:01:51-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2266.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2017-05-17T14:18:08-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4245-4246" label="text"/>
+    </vote>
+    <action datetime="2017-05-17T14:18:10-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2017-05-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-09-27">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2017-09-27">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S6191" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2017-09-27" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2017-09-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by special rule" type="pingpong" datetime="2017-10-12T15:24:28-04:00" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>House agreed to Senate amendment with amendment pursuant to H.Res. 569.</text>
+      <reference ref="CR H7989-7992" label="consideration"/>
+      <reference ref="CR H7989-7992" label="text as House agreed to Senate amendment"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Discharged, Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Reporting, Markup, Referral"/>
+    <committee subcommittee="Regulatory Reform, Commercial And Antitrust Law" code="HSJU05" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="115" relation="unknown" number="569"/>
+    <bill type="h" session="115" relation="unknown" number="4008"/>
+    <bill type="h" session="115" relation="unknown" number="136"/>
+    <bill type="s" session="115" relation="unknown" number="632"/>
+    <bill type="s" session="115" relation="unknown" number="1107"/>
+    <bill type="hc" session="115" relation="unknown" number="85"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Bankruptcy"/>
+    <term name="Caribbean area"/>
+    <term name="Delaware"/>
+    <term name="Florida"/>
+    <term name="Judges"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Maryland"/>
+    <term name="Michigan"/>
+    <term name="Nevada"/>
+    <term name="North Carolina"/>
+    <term name="Puerto Rico"/>
+    <term name="U.S. territories and protectorates"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1106"/>
+  </amendments>
+  <summary date="2017-05-17T13:23:36Z" status="Passed House amended">Bankruptcy Judgeship Act of 2017 
+
+(Sec. 2) This bill amends the federal judicial code to:
+
+ convert certain temporary bankruptcy judges to permanent bankruptcy judges and authorize the appointment of additional bankruptcy judges in Delaware and Michigan; convert temporary bankruptcy judges to permanent bankruptcy judges in specified judicial districts in Florida, Maryland, Nevada, North Carolina, Puerto Rico, and Virginia; and authorize the appointment of an additional bankruptcy judge in the middle district of Florida. (Sec. 4) The bill increases the quarterly fee payable to the U.S. trustee by chapter 11 (reorganization) debtors whose disbursements equal or exceed $1 million in a fiscal year unless the balance in the United States Trustee System Fund exceeds $200 million.
+
+For FY2018-FY2022, 97.5% of the quarterly U.S. trustee fees shall be deposited as offsetting collections to the United States Trustee System Fund and 2.5% shall be deposited in the general fund of the Treasury.</summary>
+  <committee-reports>
+    <report>H. Rept. 115-130</report>
+  </committee-reports>
+</bill>

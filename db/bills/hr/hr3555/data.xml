@@ -1,0 +1,37 @@
+<bill session="115" type="h" number="3555" updated="2017-09-11T02:56:19Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Exchange Regulatory Improvement Act</title>
+    <title type="short" as="introduced">Exchange Regulatory Improvement Act</title>
+    <title type="official" as="introduced">To amend the Securities Exchange Act of 1934 to provide that the definition of a facility of an exchange does not apply to a line of business the purpose of which is not to effect or report a transaction on an exchange.</title>
+    <title type="display">Exchange Regulatory Improvement Act</title>
+  </titles>
+  <sponsor bioguide_id="L000583"/>
+  <cosponsors>
+    <cosponsor bioguide_id="H001059" joined="2017-07-28"/>
+    <cosponsor bioguide_id="M001137" joined="2017-07-28"/>
+    <cosponsor bioguide_id="S001157" joined="2017-07-28"/>
+    <cosponsor bioguide_id="Z000017" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

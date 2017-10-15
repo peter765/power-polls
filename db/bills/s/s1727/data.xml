@@ -1,0 +1,38 @@
+<bill session="115" type="s" number="1727" updated="2017-09-11T03:06:49Z">
+  <state datetime="2017-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2017-08-02"/>
+  </status>
+  <introduced datetime="2017-08-02"/>
+  <titles>
+    <title type="short" as="introduced">NATS Act</title>
+    <title type="short" as="introduced">NATS Act</title>
+    <title type="short" as="introduced">Naturalization At Training Sites Act of 2017</title>
+    <title type="short" as="introduced">Naturalization At Training Sites Act of 2017</title>
+    <title type="official" as="introduced">A bill to establish a naturalization office at every initial military training site.</title>
+    <title type="display">NATS Act</title>
+  </titles>
+  <sponsor bioguide_id="D000622"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001113" joined="2017-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-08-02">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-08-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2759"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

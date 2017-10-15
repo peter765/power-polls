@@ -1,0 +1,70 @@
+<bill session="115" type="h" number="2196" updated="2017-10-12T12:42:14Z">
+  <state datetime="2017-10-11T15:31:03-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-10-11T15:31:03-04:00"/>
+  </status>
+  <introduced datetime="2017-04-27"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 5, United States Code, to allow whistleblowers to disclose information to certain recipients.</title>
+    <title type="display">To amend title 5, United States Code, to allow whistleblowers to disclose information to certain recipients.</title>
+  </titles>
+  <sponsor bioguide_id="R000604"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C000984" joined="2017-04-27"/>
+    <cosponsor bioguide_id="F000460" joined="2017-05-02"/>
+    <cosponsor bioguide_id="L000562" joined="2017-04-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-27" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2017-05-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-05-02" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-10-10">
+      <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 115-342.</text>
+    </action>
+    <calendar datetime="2017-10-10" calendar="Union" number="247">
+      <text>Placed on the Union Calendar, Calendar No. 247.</text>
+    </calendar>
+    <action datetime="2017-10-11T15:24:24-04:00">
+      <text>Mr. Russell moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2017-10-11T15:24:36-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7950-7951" label="consideration"/>
+    </action>
+    <action datetime="2017-10-11T15:24:37-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2196.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2017-10-11T15:31:03-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7950" label="text"/>
+    </vote>
+    <action datetime="2017-10-11T15:31:05-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-04-27T04:00:00Z" status="Introduced in House">This bill expands the list of individuals to whom a whistleblower may disclose information evidencing a violation of law, gross mismanagement, waste of funds, abuse of authority, or danger to public health or safety to include such whistleblower's immediate supervisor or agency head, the Director of National Intelligence, the Inspector General of the Intelligence Community, or an employee designated to receive such disclosures.</summary>
+  <committee-reports>
+    <report>H. Rept. 115-342</report>
+  </committee-reports>
+</bill>

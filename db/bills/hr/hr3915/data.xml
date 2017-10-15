@@ -1,0 +1,36 @@
+<bill session="115" type="h" number="3915" updated="2017-10-12T15:00:14Z">
+  <state datetime="2017-10-03">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-03"/>
+  </status>
+  <introduced datetime="2017-10-03"/>
+  <titles>
+    <title type="short" as="introduced">State Regulatory Representation Clarification Act of 2017</title>
+    <title type="short" as="introduced">State Regulatory Representation Clarification Act of 2017</title>
+    <title type="official" as="introduced">To clarify membership requirements for the Board of Directors of the Federal Deposit Insurance Corporation.</title>
+    <title type="display">State Regulatory Representation Clarification Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="L000491"/>
+  <cosponsors>
+    <cosponsor bioguide_id="H001064" joined="2017-10-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-03">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-03" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="1910"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

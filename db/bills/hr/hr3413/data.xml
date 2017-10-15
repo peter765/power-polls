@@ -1,0 +1,40 @@
+<bill session="115" type="h" number="3413" updated="2017-09-11T02:55:49Z">
+  <state datetime="2017-07-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-26"/>
+  </status>
+  <introduced datetime="2017-07-26"/>
+  <titles>
+    <title type="short" as="introduced">ACCESS Act</title>
+    <title type="short" as="introduced">ACCESS Act</title>
+    <title type="short" as="introduced">Addressing Community Challenges Emerging From Self-Driving Systems</title>
+    <title type="short" as="introduced">Addressing Community Challenges Emerging From Self-Driving Systems</title>
+    <title type="official" as="introduced">To establish in the National Highway Traffic Safety Administration an Advisory Council on Improving Mobility Access for Underserved Populations and Senior Citizens.</title>
+    <title type="display">ACCESS Act</title>
+  </titles>
+  <sponsor bioguide_id="B001257"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000624" joined="2017-07-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-26" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-07-27">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

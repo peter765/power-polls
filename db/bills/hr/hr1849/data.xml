@@ -1,0 +1,45 @@
+<bill session="115" type="h" number="1849" updated="2017-10-13T07:16:29Z">
+  <state datetime="2017-04-03">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-03"/>
+  </status>
+  <introduced datetime="2017-04-03"/>
+  <titles>
+    <title type="short" as="introduced">Practice of Law Technical Clarification Act of 2017</title>
+    <title type="short" as="introduced">Practice of Law Technical Clarification Act of 2017</title>
+    <title type="official" as="introduced">To amend the Fair Debt Collection Practices Act to exclude law firms and licensed attorneys who are engaged in activities related to legal proceedings from the definition of a debt collector, to amend the Consumer Financial Protection Act of 2010 to prevent the Bureau of Consumer Financial Protection from exercising supervisory or enforcement authority with respect to attorneys when undertaking certain actions related to legal proceedings, and for other purposes.</title>
+    <title type="display">Practice of Law Technical Clarification Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="T000475"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001293" joined="2017-04-20"/>
+    <cosponsor bioguide_id="G000581" joined="2017-10-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-03">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-03" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2017-09-07">
+      <text>Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee subcommittee="Financial Institutions and Consumer Credit" code="HSBA15" name="House Financial Services" activity="Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Civil actions and liability"/>
+    <term name="Consumer credit"/>
+    <term name="Debt collection"/>
+    <term name="Financial services and investments"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Lawyers and legal services"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>
