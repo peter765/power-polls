@@ -34,12 +34,12 @@
 
 
 <script>
-putSummary(); 
+putSummary();
 createTable();
 function putSummary() {
   data = {{ data|safe }}
-  summary = data["summary"]; 
-  document.getElementById('summary').innerHTML = summary; 
+  summary = data["summary"];
+  document.getElementById('summary').innerHTML = summary;
 
 }
 function createTable() {
@@ -51,13 +51,13 @@ function createTable() {
   table += "<tbody>"
   console.log(components)
   for (var i = 0; i < components.length; i += 2) {
-    id = components[i]; 
-    phrase = components[i + 1]; 
+    id = components[i];
+    phrase = components[i + 1];
     table += "<tr><td>" + id + "</td><td>" + phrase + "</td>"
   }
 
   table += "</tbody></table>"
-  document.getElementById('components').innerHTML=table; 
+  document.getElementById('components').innerHTML=table;
 
 }
 
