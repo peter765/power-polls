@@ -1,0 +1,40 @@
+<bill session="115" type="h" number="3606" updated="2017-10-04T07:16:30Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Overdraft Protection Act of 2017</title>
+    <title type="short" as="introduced">Overdraft Protection Act of 2017</title>
+    <title type="official" as="introduced">To amend the Truth in Lending Act to establish fair and transparent practices related to the marketing and provision of overdraft coverage programs at depository institutions, and for other purposes.</title>
+    <title type="display">Overdraft Protection Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="M000087"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001037" joined="2017-09-26"/>
+    <cosponsor bioguide_id="E000288" joined="2017-07-28"/>
+    <cosponsor bioguide_id="F000454" joined="2017-09-26"/>
+    <cosponsor bioguide_id="J000294" joined="2017-09-26"/>
+    <cosponsor bioguide_id="M001160" joined="2017-09-26"/>
+    <cosponsor bioguide_id="S000344" joined="2017-10-03"/>
+    <cosponsor bioguide_id="V000081" joined="2017-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

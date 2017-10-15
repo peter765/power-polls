@@ -1,0 +1,43 @@
+<bill session="115" type="s" number="1154" updated="2017-09-11T03:06:30Z">
+  <state datetime="2017-05-17">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-17"/>
+  </status>
+  <introduced datetime="2017-05-17"/>
+  <titles>
+    <title type="short" as="introduced">Military Family Stability Act</title>
+    <title type="short" as="introduced">Military Family Stability Act</title>
+    <title type="official" as="introduced">A bill to amend title 37, United States Code, to provide for the housing treatment of members of the Armed Forces and their spouses and dependents undergoing a permanent change of station in the United States, and for other purposes.</title>
+    <title type="display">Military Family Stability Act</title>
+  </titles>
+  <sponsor bioguide_id="B000575"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001277" joined="2017-05-22"/>
+    <cosponsor bioguide_id="B001135" joined="2017-05-22"/>
+    <cosponsor bioguide_id="C000567" joined="2017-05-22"/>
+    <cosponsor bioguide_id="G000555" joined="2017-05-17"/>
+    <cosponsor bioguide_id="H001042" joined="2017-05-22"/>
+    <cosponsor bioguide_id="M000934" joined="2017-05-22"/>
+    <cosponsor bioguide_id="W000437" joined="2017-06-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-17">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2810"/>
+    <bill type="h" session="115" relation="identical" number="2487"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

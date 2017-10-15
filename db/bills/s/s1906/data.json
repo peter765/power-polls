@@ -1,0 +1,123 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-03", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-03", 
+      "action_code": "", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1906-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "I000024", 
+      "district": null, 
+      "name": "Inhofe, James M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-03", 
+      "state": "OK", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "I000055", 
+      "district": null, 
+      "name": "Isakson, Johnny", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-03", 
+      "state": "GA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000817", 
+      "district": null, 
+      "name": "Warren, Elizabeth", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-03", 
+      "state": "MA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000779", 
+      "district": null, 
+      "name": "Wyden, Ron", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-03", 
+      "state": "OR", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-03", 
+  "number": "1906", 
+  "official_title": "A bill to posthumously award the Congressional Gold Medal to each of Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith in recognition of their contributions to the Nation.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "M000133", 
+    "district": null, 
+    "name": "Markey, Edward J.", 
+    "state": "MA", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-03", 
+  "subjects": [
+    "International affairs"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to posthumously award the Congressional Gold Medal to each of Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith in recognition of their contributions to the Nation.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to posthumously award the Congressional Gold Medal to each of Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith in recognition of their contributions to the Nation.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-12T04:40:36Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1906.xml"
+}

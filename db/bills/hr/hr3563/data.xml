@@ -1,0 +1,40 @@
+<bill session="115" type="h" number="3563" updated="2017-09-11T02:56:20Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Pathway to Citizenship Act of 2017</title>
+    <title type="short" as="introduced">Veterans&#8217; Pathway to Citizenship Act of 2017</title>
+    <title type="official" as="introduced">To amend the Immigration and Nationality Act to recognize the service of veterans of the armed forces by providing a more navigable and accommodating pathway for veterans honorably discharged from the United States military to naturalize and seek citizenship, and for other purposes.</title>
+    <title type="display">Veterans' Pathway to Citizenship Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="B001300"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001110" joined="2017-07-28"/>
+    <cosponsor bioguide_id="G000574" joined="2017-07-28"/>
+    <cosponsor bioguide_id="N000179" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-09-06">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

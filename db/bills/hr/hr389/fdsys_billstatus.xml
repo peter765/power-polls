@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-10</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Financial Services.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-10</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-10</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-01-11T05:09:42Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Financial Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-10T15:00:51Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>389</billNumber>
+    <sponsors>
+      <item>
+        <district>39</district>
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <identifiers>
+          <gpoId>7845</gpoId>
+          <lisID>998</lisID>
+          <bioguideId>R000487</bioguideId>
+        </identifiers>
+        <lastName>ROYCE</lastName>
+        <bioguideId>R000487</bioguideId>
+        <party>R</party>
+        <state>CA</state>
+        <firstName>ED</firstName>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2017-01-10</introducedDate>
+    <relatedBills>
+      <item>
+        <latestTitle>Credit Union Residential Loan Parity Act</latestTitle>
+        <number>836</number>
+        <congress>115</congress>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (Sponsor introductory remarks on measure: CR S2366; text as introduced in Senate: CR S2366)</text>
+          <actionDate>2017-04-05</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <title>Credit Union Residential Loan Parity Act</title>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <updateDate>2017-10-06T07:15:37Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-06-05T14:56:46Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-10</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Credit Union Residential Loan Parity Act</b></p> <p>This bill amends the Federal Credit Union Act to&nbsp;allow a credit union to extend a&nbsp;member business loan&nbsp;with respect to&nbsp;a one- to four-family dwelling, regardless of whether the dwelling is the member's primary residence. Under current law, a member business loan&nbsp;may be extended&nbsp;with respect to&nbsp;such a dwelling only if it is the member's primary residence.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-01-10T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <actionDate>2017-01-10</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <firstName>Jared</firstName>
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2101</lisID>
+          <gpoId />
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001068</bioguideId>
+        <district>2</district>
+        <lastName>Huffman</lastName>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <firstName>PETER</firstName>
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000191</bioguideId>
+        <district>4</district>
+        <lastName>DEFAZIO</lastName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <state>OR</state>
+      </item>
+      <item>
+        <firstName>DON</firstName>
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <party>R</party>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1256</lisID>
+          <bioguideId>Y000033</bioguideId>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>Y000033</bioguideId>
+        <district>0</district>
+        <lastName>YOUNG</lastName>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <state>AK</state>
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <sponsorshipDate>2017-01-23</sponsorshipDate>
+        <party>D</party>
+        <middleName>N.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <gpoId>8139</gpoId>
+          <lisID>2055</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001084</bioguideId>
+        <district>1</district>
+        <lastName>Cicilline</lastName>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <state>RI</state>
+      </item>
+      <item>
+        <firstName>BRAD</firstName>
+        <sponsorshipDate>2017-02-13</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+          <bioguideId>S000344</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000344</bioguideId>
+        <district>30</district>
+        <lastName>SHERMAN</lastName>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <firstName>Donald</firstName>
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001292</bioguideId>
+          <lisID>2272</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001292</bioguideId>
+        <district>8</district>
+        <lastName>Beyer</lastName>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <state>VA</state>
+      </item>
+      <item>
+        <firstName>Denny</firstName>
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001064</bioguideId>
+          <gpoId />
+          <lisID>2170</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001064</bioguideId>
+        <district>10</district>
+        <lastName>Heck</lastName>
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <state>WA</state>
+      </item>
+      <item>
+        <firstName>Jaime</firstName>
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001056</bioguideId>
+          <lisID>2071</lisID>
+          <gpoId>8207</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001056</bioguideId>
+        <district>3</district>
+        <lastName>Herrera Beutler</lastName>
+        <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
+        <state>WA</state>
+      </item>
+      <item>
+        <firstName>Katherine</firstName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2196</lisID>
+          <gpoId />
+          <bioguideId>C001101</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001101</bioguideId>
+        <district>5</district>
+        <lastName>Clark</lastName>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <state>MA</state>
+      </item>
+      <item>
+        <firstName>JAMES</firstName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1668</lisID>
+          <bioguideId>L000559</bioguideId>
+          <gpoId>8140</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000559</bioguideId>
+        <district>2</district>
+        <lastName>LANGEVIN</lastName>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <state>RI</state>
+      </item>
+      <item>
+        <firstName>Doug</firstName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000578</bioguideId>
+          <lisID>2100</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000578</bioguideId>
+        <district>1</district>
+        <lastName>LaMalfa</lastName>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <firstName>WALTER</firstName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>J000255</bioguideId>
+        <district>3</district>
+        <lastName>JONES</lastName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <state>NC</state>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000559</bioguideId>
+          <lisID>1973</lisID>
+          <gpoId>7815</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000559</bioguideId>
+        <district>3</district>
+        <lastName>Garamendi</lastName>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <firstName>F.</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <party>R</party>
+        <middleName>JAMES</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000244</bioguideId>
+          <lisID>1041</lisID>
+          <gpoId>8218</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000244</bioguideId>
+        <district>5</district>
+        <lastName>SENSENBRENNER</lastName>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <state>WI</state>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+          <lisID>2171</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000607</bioguideId>
+        <district>2</district>
+        <lastName>Pocan</lastName>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <state>WI</state>
+      </item>
+      <item>
+        <firstName>Paul</firstName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001094</bioguideId>
+        <district>8</district>
+        <lastName>Cook</lastName>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001177</bioguideId>
+          <lisID>1908</lisID>
+          <gpoId>7809</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001177</bioguideId>
+        <district>4</district>
+        <lastName>McClintock</lastName>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <firstName>DARRELL</firstName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <party>R</party>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7854</gpoId>
+          <lisID>1640</lisID>
+          <bioguideId>I000056</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>I000056</bioguideId>
+        <district>49</district>
+        <lastName>ISSA</lastName>
+        <fullName>Rep. Issa, Darrell E. [R-CA-49]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <party>R</party>
+        <middleName>G.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>V000129</bioguideId>
+          <lisID>2105</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>V000129</bioguideId>
+        <district>21</district>
+        <lastName>Valadao</lastName>
+        <fullName>Rep. Valadao, David G. [R-CA-21]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <firstName>Dan</firstName>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>N000189</bioguideId>
+          <lisID>2275</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000189</bioguideId>
+        <district>4</district>
+        <lastName>Newhouse</lastName>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <state>WA</state>
+      </item>
+      <item>
+        <firstName>Norma</firstName>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000474</bioguideId>
+          <lisID>2231</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000474</bioguideId>
+        <district>35</district>
+        <lastName>Torres</lastName>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <firstName>RON</firstName>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8216</gpoId>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000188</bioguideId>
+        <district>3</district>
+        <lastName>KIND</lastName>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <state>WI</state>
+      </item>
+      <item>
+        <firstName>Dina</firstName>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000468</bioguideId>
+          <lisID>1940</lisID>
+          <gpoId>7493</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000468</bioguideId>
+        <district>1</district>
+        <lastName>Titus</lastName>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <state>NV</state>
+      </item>
+      <item>
+        <firstName>Stephen</firstName>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000387</bioguideId>
+          <lisID>2228</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000387</bioguideId>
+        <district>25</district>
+        <lastName>Knight</lastName>
+        <fullName>Rep. Knight, Stephen [R-CA-25]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <firstName>Jacky</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2339</lisID>
+          <gpoId />
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000608</bioguideId>
+        <district>3</district>
+        <lastName>Rosen</lastName>
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <state>NV</state>
+      </item>
+      <item>
+        <firstName>Doris</firstName>
+        <sponsorshipDate>2017-06-16</sponsorshipDate>
+        <party>D</party>
+        <middleName>O.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1814</lisID>
+          <gpoId>7810</gpoId>
+          <bioguideId>M001163</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001163</bioguideId>
+        <district>6</district>
+        <lastName>Matsui</lastName>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000147</bioguideId>
+        <district>0</district>
+        <lastName>NORTON</lastName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <state>DC</state>
+      </item>
+      <item>
+        <firstName>Ruben</firstName>
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000390</bioguideId>
+          <lisID>2340</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000390</bioguideId>
+        <district>4</district>
+        <lastName>Kihuen</lastName>
+        <fullName>Rep. Kihuen, Ruben J. [D-NV-4]</fullName>
+        <state>NV</state>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000623</bioguideId>
+          <lisID>2227</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000623</bioguideId>
+        <district>11</district>
+        <lastName>DeSaulnier</lastName>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <state>CA</state>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Credit and credit markets</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Real estate business</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Credit Union Residential Loan Parity Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Credit Union Residential Loan Parity Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Federal Credit Union Act to exclude a loan secured by a non-owner occupied 1- to 4-family dwelling from the definition of a member business loan, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Credit Union Residential Loan Parity Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ROYCE of California:H.R. 389.Congress has the power to enact this legislation pursuantto the following:Under Article I, Section 8, Clause 3 of the U.S.Constitution to regulate commerce.[Page H299]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

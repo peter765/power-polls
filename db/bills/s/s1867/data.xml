@@ -1,0 +1,42 @@
+<bill session="115" type="s" number="1867" updated="2017-10-11T04:29:27Z">
+  <state datetime="2017-10-04">REPORTED</state>
+  <status>
+    <unknown datetime="2017-10-04"/>
+  </status>
+  <introduced datetime="2017-09-26"/>
+  <titles>
+    <title type="short" as="introduced">FITARA Enhancement Act of 2017</title>
+    <title type="short" as="introduced">FITARA Enhancement Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend title 40, United States Code, to eliminate the sunset of certain provisions relating to information technology, to amend the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015 to extend the sunset relating to the Federal Data Center Consolidation Initiative, and for other purposes.</title>
+    <title type="display">FITARA Enhancement Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="D000618"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001170" joined="2017-10-03"/>
+    <cosponsor bioguide_id="M000934" joined="2017-09-26"/>
+    <cosponsor bioguide_id="U000039" joined="2017-09-26"/>
+    <cosponsor bioguide_id="W000805" joined="2017-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-26">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-09-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2017-10-04" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="3243"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

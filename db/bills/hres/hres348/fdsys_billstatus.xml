@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <provisionsOfARule>1</provisionsOfARule>
+        <introducedInHouse>1</introducedInHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <reportedToHouse>1</reportedToHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <generalDebate>1</generalDebate>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionTime>13:43:11</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionDate>2017-05-23</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <actionTime>13:43:09</actionTime>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 232 - 189 (Roll no. 272). (text: CR H4433)</text>
+        <actionDate>2017-05-23</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H4433</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4433</url>
+          </link>
+          <link>
+            <name>Roll no. 272</name>
+            <url>http://clerk.house.gov/evs/2017/roll272.xml</url>
+          </link>
+        </links>
+        <committee />
+        <actionCode>H37100</actionCode>
+      </item>
+      <item>
+        <actionTime>13:43:09</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 232 - 189 (Roll no. 272).</text>
+        <actionDate>2017-05-23</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>Roll no. 272</name>
+            <url>http://clerk.house.gov/evs/2017/roll272.xml</url>
+          </link>
+        </links>
+        <committee />
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <actionTime>13:34:20</actionTime>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 229 - 191 (Roll no. 271). (consideration: CR H4439-4440)</text>
+        <actionDate>2017-05-23</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H4439-4440</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4439-4440</url>
+          </link>
+          <link>
+            <name>Roll no. 271</name>
+            <url>http://clerk.house.gov/evs/2017/roll271.xml</url>
+          </link>
+        </links>
+        <committee />
+        <actionCode>H35000</actionCode>
+      </item>
+      <item>
+        <actionTime>12:32:30</actionTime>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 348.</text>
+        <actionDate>2017-05-23</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Res. 348</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/348</url>
+          </link>
+        </links>
+        <committee />
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <actionTime>12:30:00</actionTime>
+        <text>Considered as privileged matter. (consideration: CR H4433-4440)</text>
+        <actionDate>2017-05-23</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H4433-4440</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4433-4440</url>
+          </link>
+        </links>
+        <committee />
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <actionCode>H12420</actionCode>
+        <text>Placed on the House Calendar, Calendar No. 51.</text>
+        <actionDate>2017-05-22</actionDate>
+        <type>Calendars</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionTime>18:47:57</actionTime>
+        <text>It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-21.</text>
+        <actionDate>2017-05-22</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionCode>H12700</actionCode>
+      </item>
+      <item>
+        <actionCode>H12100</actionCode>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-145, by Mr. Woodall.</text>
+        <actionDate>2017-05-22</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-145</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/145</url>
+          </link>
+        </links>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-145, by Mr. Woodall.</text>
+        <actionDate>2017-05-22</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-145</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/145</url>
+          </link>
+        </links>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2017-05-22</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <congress>115</congress>
+        <latestTitle>Reducing Regulatory Burdens Act of 2017</latestTitle>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2017-05-25</actionDate>
+        </latestAction>
+        <number>953</number>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <fullName>Rep. Woodall, Rob [R-GA-7]</fullName>
+        <state>GA</state>
+        <firstName>Rob</firstName>
+        <middleName />
+        <party>R</party>
+        <district>7</district>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>W000810</bioguideId>
+          <lisID>2008</lisID>
+          <gpoId>7904</gpoId>
+        </identifiers>
+        <bioguideId>W000810</bioguideId>
+        <lastName>Woodall</lastName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-05-22</actionDate>
+          <lastSummaryUpdateDate>2017-05-23T08:04:46Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-05-22T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 953) to amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters.]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <notes />
+    <laws />
+    <createDate>2017-05-23T03:11:38Z</createDate>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText />
+    <cosponsors />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Providing for consideration of the bill (H.R. 953) to amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Providing for consideration of the bill (H.R. 953) to amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2017-09-11T02:40:36Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes>
+      <recordedVote>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>272</rollNumber>
+        <chamber>House</chamber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <date>2017-05-23T17:43:09Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll272.xml</url>
+        <congress>115</congress>
+      </recordedVote>
+      <recordedVote>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>271</rollNumber>
+        <chamber>House</chamber>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <date>2017-05-23T17:34:20Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll271.xml</url>
+        <congress>115</congress>
+      </recordedVote>
+    </recordedVotes>
+    <billNumber>348</billNumber>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-145</citation>
+      </committeeReport>
+    </committeeReports>
+    <amendments />
+    <title>Providing for consideration of the bill (H.R. 953) to amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes.</title>
+    <introducedDate>2017-05-22</introducedDate>
+    <billType>HRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-05-22T22:47:56Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers>
+      <item>
+        <calendar>H00051</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <congress>115</congress>
+    <latestAction>
+      <links />
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionDate>2017-05-23</actionDate>
+      <actionTime>13:43:11</actionTime>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

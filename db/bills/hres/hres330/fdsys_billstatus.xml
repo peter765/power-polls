@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>330</billNumber>
+    <calendarNumbers />
+    <billType>HRES</billType>
+    <laws />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <titles>
+      <item>
+        <chamberName />
+        <title>Authorizing and directing certain authorizing committees to review laws within their jurisdiction and submit to the Committee on Oversight and Government Reform changes in such laws necessary to eliminate excessive Executive Branch discretion in the application of those laws.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Authorizing and directing certain authorizing committees to review laws within their jurisdiction and submit to the Committee on Oversight and Government Reform changes in such laws necessary to eliminate excessive Executive Branch discretion in the application of those laws.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <firstName>Warren</firstName>
+        <state>OH</state>
+        <lastName>Davidson</lastName>
+        <district>8</district>
+        <fullName>Rep. Davidson, Warren [R-OH-8]</fullName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000626</bioguideId>
+          <lisID>2296</lisID>
+        </identifiers>
+        <bioguideId>D000626</bioguideId>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Congressional-executive branch relations</name>
+          </item>
+          <item>
+            <name>House Committee on Agriculture</name>
+          </item>
+          <item>
+            <name>House Committee on Armed Services</name>
+          </item>
+          <item>
+            <name>House Committee on Education and Labor</name>
+          </item>
+          <item>
+            <name>House Committee on Energy and Commerce</name>
+          </item>
+          <item>
+            <name>House Committee on Financial Services</name>
+          </item>
+          <item>
+            <name>House Committee on Foreign Affairs</name>
+          </item>
+          <item>
+            <name>House Committee on Natural Resources</name>
+          </item>
+          <item>
+            <name>House Committee on Oversight and Government Reform</name>
+          </item>
+          <item>
+            <name>House Committee on Science, Space, and Technology</name>
+          </item>
+          <item>
+            <name>House Committee on Small Business</name>
+          </item>
+          <item>
+            <name>House Committee on Transportation and Infrastructure</name>
+          </item>
+          <item>
+            <name>House Committee on Veterans' Affairs</name>
+          </item>
+          <item>
+            <name>House Committee on Ways and Means</name>
+          </item>
+          <item>
+            <name>House Committee on the Budget</name>
+          </item>
+          <item>
+            <name>House Committee on the Judiciary</name>
+          </item>
+          <item>
+            <name>House Permanent Select Committee on Intelligence</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <recordedVotes />
+    <relatedBills />
+    <notes />
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Rules.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-05-17</actionDate>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-05-17</actionDate>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-05-18T03:11:37Z</createDate>
+    <title>Authorizing and directing certain authorizing committees to review laws within their jurisdiction and submit to the Committee on Oversight and Government Reform changes in such laws necessary to eliminate excessive Executive Branch discretion in the application of those laws.</title>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <identifiers>
+          <lisID>2221</lisID>
+          <bioguideId>P000609</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <bioguideId>P000609</bioguideId>
+        <fullName>Rep. Palmer, Gary J. [R-AL-6]</fullName>
+        <state>AL</state>
+        <party>R</party>
+        <lastName>Palmer</lastName>
+        <firstName>Gary</firstName>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>G000576</bioguideId>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <state>WI</state>
+        <party>R</party>
+        <lastName>Grothman</lastName>
+        <firstName>Glenn</firstName>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <identifiers>
+          <gpoId>8161</gpoId>
+          <bioguideId>H001036</bioguideId>
+          <lisID>1749</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>H001036</bioguideId>
+        <fullName>Rep. Hensarling, Jeb [R-TX-5]</fullName>
+        <state>TX</state>
+        <party>R</party>
+        <lastName>Hensarling</lastName>
+        <firstName>Jeb</firstName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <identifiers>
+          <bioguideId>B001299</bioguideId>
+          <lisID>2326</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>B001299</bioguideId>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <state>IN</state>
+        <party>R</party>
+        <lastName>Banks</lastName>
+        <firstName>Jim</firstName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <bioguideId>G000565</bioguideId>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <state>AZ</state>
+        <party>R</party>
+        <lastName>Gosar</lastName>
+        <firstName>Paul</firstName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-17T14:04:05Z</date>
+            </item>
+          </activities>
+          <systemCode>hsru00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <actionDate>2017-05-17</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-07-07T20:48:39Z</lastSummaryUpdateDate>
+          <updateDate>2017-05-17T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Directs the following House Committees to review laws within their jurisdiction and submit to the Committee on Oversight and Government Reform changes in them sufficient to eliminate excessive executive branch discretion in their application:</p> <ul> <li>Agriculture;</li> <li> Armed Services;</li> <li> the Budget;</li> <li> Energy and Commerce;</li> <li> Education and the Workforce;</li> <li> Financial Services;</li> <li> Foreign Affairs;</li> <li> the Judiciary;</li> <li> Natural Resources;</li> <li> Oversight and Government Reform;</li> <li> Science, Space, and Technology;</li> <li> Small Business;</li> <li>Transportation and Infrastructure;</li> <li>Veterans Affairs;</li> <li> Ways and Means; and</li> <li> Permanent Select Committee on Intelligence.</li> </ul> <p>Requires the Committee, upon receiving all the recommendations, to expeditiously report legislation titled the &quot;Article One Restoration Act&quot; that carries out all such recommendations without any substantive revision. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <updateDate>2017-09-13T21:00:13Z</updateDate>
+    <latestAction>
+      <text>Referred to the House Committee on Rules.</text>
+      <links />
+      <actionDate>2017-05-17</actionDate>
+    </latestAction>
+    <introducedDate>2017-05-17</introducedDate>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

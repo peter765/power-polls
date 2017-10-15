@@ -1,0 +1,84 @@
+<bill session="115" type="h" number="2283" updated="2017-09-26T04:30:07Z">
+  <state datetime="2017-06-20T19:11:31-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-06-20T19:11:31-04:00"/>
+  </status>
+  <introduced datetime="2017-05-02"/>
+  <titles>
+    <title type="short" as="introduced">Department of Homeland Security Morale, Recognition, Learning and Engagement Act of 2017</title>
+    <title type="short" as="introduced">Department of Homeland Security Morale, Recognition, Learning and Engagement Act of 2017</title>
+    <title type="short" as="introduced">DHS MORALE Act</title>
+    <title type="short" as="passed house">Department of Homeland Security Morale, Recognition, Learning and Engagement Act of 2017</title>
+    <title type="short" as="passed house">Department of Homeland Security Morale, Recognition, Learning and Engagement Act of 2017</title>
+    <title type="short" as="passed house">DHS MORALE Act</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to improve morale within the Department of Homeland Security workforce by conferring new responsibilities to the Chief Human Capital Officer, establishing an employee engagement steering committee, requiring action plans, and authorizing an annual employee award program, and for other purposes.</title>
+    <title type="display">Department of Homeland Security Morale, Recognition, Learning and Engagement Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="T000193"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001300" joined="2017-05-02"/>
+    <cosponsor bioguide_id="C001110" joined="2017-05-02"/>
+    <cosponsor bioguide_id="D000627" joined="2017-05-02"/>
+    <cosponsor bioguide_id="J000032" joined="2017-05-02"/>
+    <cosponsor bioguide_id="K000375" joined="2017-05-02"/>
+    <cosponsor bioguide_id="L000559" joined="2017-05-02"/>
+    <cosponsor bioguide_id="P000604" joined="2017-05-02"/>
+    <cosponsor bioguide_id="R000602" joined="2017-05-02"/>
+    <cosponsor bioguide_id="R000588" joined="2017-05-02"/>
+    <cosponsor bioguide_id="V000132" joined="2017-05-02"/>
+    <cosponsor bioguide_id="W000822" joined="2017-05-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-02">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-02" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2017-05-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-05-03" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-06-20T19:03:58-04:00">
+      <text>Mr. Rutherford moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2017-06-20T19:04:33-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4980-4982" label="consideration"/>
+    </action>
+    <action datetime="2017-06-20T19:04:35-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2283.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2017-06-20T19:11:31-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4980-4981" label="text"/>
+    </vote>
+    <action datetime="2017-06-20T19:11:33-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2017-06-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSHM" name="House Homeland Security" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative remedies"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Due process and equal protection"/>
+    <term name="Employee performance"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Federal officials"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

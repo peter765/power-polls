@@ -1,0 +1,77 @@
+<bill session="115" type="h" number="1900" updated="2017-09-14T07:15:42Z">
+  <state datetime="2017-04-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-04"/>
+  </status>
+  <introduced datetime="2017-04-04"/>
+  <titles>
+    <title type="short" as="introduced">National Veterans Memorial and Museum Act</title>
+    <title type="short" as="introduced">National Veterans Memorial and Museum Act</title>
+    <title type="official" as="introduced">To designate the Veterans Memorial and Museum in Columbus, Ohio, as the National Veterans Memorial and Museum, and for other purposes.</title>
+    <title type="display">National Veterans Memorial and Museum Act</title>
+  </titles>
+  <sponsor bioguide_id="S001187"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001281" joined="2017-04-04"/>
+    <cosponsor bioguide_id="C000266" joined="2017-04-04"/>
+    <cosponsor bioguide_id="C001077" joined="2017-07-24"/>
+    <cosponsor bioguide_id="D000626" joined="2017-04-04"/>
+    <cosponsor bioguide_id="F000455" joined="2017-04-04"/>
+    <cosponsor bioguide_id="G000563" joined="2017-04-04"/>
+    <cosponsor bioguide_id="J000292" joined="2017-04-04"/>
+    <cosponsor bioguide_id="J000289" joined="2017-04-04"/>
+    <cosponsor bioguide_id="J000295" joined="2017-04-04"/>
+    <cosponsor bioguide_id="K000009" joined="2017-04-04"/>
+    <cosponsor bioguide_id="K000210" joined="2017-07-24"/>
+    <cosponsor bioguide_id="L000566" joined="2017-04-04"/>
+    <cosponsor bioguide_id="R000586" joined="2017-04-04"/>
+    <cosponsor bioguide_id="R000577" joined="2017-04-04"/>
+    <cosponsor bioguide_id="T000462" joined="2017-04-04"/>
+    <cosponsor bioguide_id="T000463" joined="2017-04-04"/>
+    <cosponsor bioguide_id="W000815" joined="2017-04-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-04">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-04" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-04-04">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2017-04-04">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2017-04-05">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+    <action datetime="2017-04-12">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2017-09-13">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Hearings, Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Federal Lands" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="841"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Monuments and memorials"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Ohio"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-04-04T04:00:00Z" status="Introduced in House">National Veterans Memorial and Museum Act
+
+This bill designates the Veterans Memorial and Museum currently being constructed in Columbus, Ohio, as the National Veterans Memorial and Museum.</summary>
+  <committee-reports/>
+</bill>

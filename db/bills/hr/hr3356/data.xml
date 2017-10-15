@@ -1,0 +1,51 @@
+<bill session="115" type="h" number="3356" updated="2017-10-10T20:45:11Z">
+  <state datetime="2017-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-24"/>
+  </status>
+  <introduced datetime="2017-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Prison Reform and Redemption Act</title>
+    <title type="short" as="introduced">Prison Reform and Redemption Act</title>
+    <title type="short" as="introduced" partial="1">Lieutenant Osvaldo Albarati Correctional Officer Self-Protection Act of 2017</title>
+    <title type="short" as="introduced" partial="1">Lieutenant Osvaldo Albarati Correctional Officer Self-Protection Act of 2017</title>
+    <title type="official" as="introduced">To provide for programs to help reduce the risk that prisoners will recidivate upon release from prison, and for other purposes.</title>
+    <title type="display">Prison Reform and Redemption Act</title>
+  </titles>
+  <sponsor bioguide_id="C001093"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001270" joined="2017-07-24"/>
+    <cosponsor bioguide_id="C000714" joined="2017-07-24"/>
+    <cosponsor bioguide_id="G000289" joined="2017-07-24"/>
+    <cosponsor bioguide_id="I000056" joined="2017-07-24"/>
+    <cosponsor bioguide_id="J000032" joined="2017-07-24"/>
+    <cosponsor bioguide_id="J000294" joined="2017-07-24"/>
+    <cosponsor bioguide_id="M001179" joined="2017-07-24"/>
+    <cosponsor bioguide_id="R000588" joined="2017-07-24"/>
+    <cosponsor bioguide_id="S000244" joined="2017-07-24"/>
+    <cosponsor bioguide_id="W000819" joined="2017-09-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-24">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-24" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-09-06">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1084"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

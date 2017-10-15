@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <titles>
+      <item>
+        <title>A bill to improve food safety, to encourage greater production of agricultural commodities for use in the locality of production, to reauthorize and expand Department of Agriculture support of those efforts, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>A bill to improve food safety, to encourage greater production of agricultural commodities for use in the locality of production, to reauthorize and expand Department of Agriculture support of those efforts, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <laws />
+    <introducedDate>2017-10-05</introducedDate>
+    <cboCostEstimates />
+    <title>A bill to improve food safety, to encourage greater production of agricultural commodities for use in the locality of production, to reauthorize and expand Department of Agriculture support of those efforts, and for other purposes.</title>
+    <recordedVotes />
+    <billType>S</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <committee>
+          <systemCode>ssaf00</systemCode>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <billNumber>1947</billNumber>
+    <createDate>2017-10-06T00:41:19Z</createDate>
+    <cosponsors />
+    <sponsors>
+      <item>
+        <state>OH</state>
+        <party>D</party>
+        <middleName />
+        <bioguideId>B000944</bioguideId>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <firstName>SHERROD</firstName>
+        <byRequestType />
+        <lastName>BROWN</lastName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssaf00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-05T19:40:05Z</date>
+            </item>
+          </activities>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-10-06T05:06:25Z</updateDate>
+    <congress>115</congress>
+    <policyArea />
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <actionDate>2017-10-05</actionDate>
+      <links />
+    </latestAction>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

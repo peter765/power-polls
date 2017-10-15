@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2017-01-24T00:16:35Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+          <subcommittees />
+          <systemCode>hsru00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <billNumber>55</billNumber>
+    <updateDate>2017-08-10T13:23:02Z</updateDate>
+    <calendarNumbers>
+      <item>
+        <calendar>H00005</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <amendments />
+    <sponsors>
+      <item>
+        <district>0</district>
+        <firstName>Liz</firstName>
+        <identifiers>
+          <lisID>2356</lisID>
+          <bioguideId>C001109</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <state>WY</state>
+        <lastName>Cheney</lastName>
+        <middleName />
+        <bioguideId>C001109</bioguideId>
+        <byRequestType />
+        <fullName>Rep. Cheney, Liz [R-WY-At Large]</fullName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <createDate>2017-01-24T05:12:16Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions.]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-01-24T09:02:41Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-23</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-01-23T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2017</latestTitle>
+        <type>HR</type>
+        <number>7</number>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2017-01-30</actionDate>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionTime>14:12:02</actionTime>
+      <actionDate>2017-01-24</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <title>Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions.</title>
+    <constitutionalAuthorityStatementText />
+    <laws />
+    <introducedDate>2017-01-23</introducedDate>
+    <notes />
+    <billType>HRES</billType>
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <recordedVotes>
+      <recordedVote>
+        <sessionNumber>1</sessionNumber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll063.xml</url>
+        <date>2017-01-24T19:12:00Z</date>
+        <chamber>House</chamber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <rollNumber>63</rollNumber>
+      </recordedVote>
+      <recordedVote>
+        <sessionNumber>1</sessionNumber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll062.xml</url>
+        <date>2017-01-24T19:05:29Z</date>
+        <chamber>House</chamber>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <rollNumber>62</rollNumber>
+      </recordedVote>
+    </recordedVotes>
+    <cboCostEstimates />
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-5</citation>
+      </committeeReport>
+    </committeeReports>
+    <actions>
+      <actionTypeCounts>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <generalDebate>1</generalDebate>
+        <reportedToHouse>1</reportedToHouse>
+        <provisionsOfARule>1</provisionsOfARule>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+      </actionTypeCounts>
+      <item>
+        <actionTime>14:12:02</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <actionDate>2017-01-24</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionTime>14:12:00</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 236 - 183 (Roll no. 63). (text of measure as passed: CR H620)</text>
+        <committee />
+        <actionCode>H37100</actionCode>
+        <actionDate>2017-01-24</actionDate>
+        <links>
+          <link>
+            <name>H620</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H620</url>
+          </link>
+          <link>
+            <name>Roll no. 63</name>
+            <url>http://clerk.house.gov/evs/2017/roll063.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionTime>14:12:00</actionTime>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 236 - 183 (Roll no. 63).(text of measure as passed: CR H620)</text>
+        <committee />
+        <actionCode>8000</actionCode>
+        <actionDate>2017-01-24</actionDate>
+        <links>
+          <link>
+            <name>H620</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H620</url>
+          </link>
+          <link>
+            <name>Roll no. 63</name>
+            <url>http://clerk.house.gov/evs/2017/roll063.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionTime>14:05:29</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 233 - 187 (Roll no. 62). (consideration: CR H632-633)</text>
+        <committee />
+        <actionCode>H35000</actionCode>
+        <actionDate>2017-01-24</actionDate>
+        <links>
+          <link>
+            <name>H632-633</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H632-633</url>
+          </link>
+          <link>
+            <name>Roll no. 62</name>
+            <url>http://clerk.house.gov/evs/2017/roll062.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionTime>12:37:06</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 55.</text>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-01-24</actionDate>
+        <links>
+          <link>
+            <name>H. Res. 55</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/55</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionTime>12:36:18</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Considered as privileged matter. (consideration: CR H620-633)</text>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <actionDate>2017-01-24</actionDate>
+        <links>
+          <link>
+            <name>H620-633</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H620-633</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Calendars</type>
+        <text>Placed on the House Calendar, Calendar No. 5.</text>
+        <committee />
+        <actionCode>H12420</actionCode>
+        <actionDate>2017-01-23</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionTime>19:16:36</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Rule provides for consideration of H.R. 7 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.</text>
+        <committee />
+        <actionCode>H12700</actionCode>
+        <actionDate>2017-01-23</actionDate>
+        <links>
+          <link>
+            <name>H.R. 7</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/7</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-5, by Ms. Cheney.</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>H12100</actionCode>
+        <actionDate>2017-01-23</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 115-5</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/5</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-5, by Ms. Cheney.</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>5000</actionCode>
+        <actionDate>2017-01-23</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 115-5</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/5</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-01-23</actionDate>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

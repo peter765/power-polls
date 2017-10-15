@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="2850" updated="2017-08-19T07:12:37Z">
+  <state datetime="2017-06-08">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-08"/>
+  </status>
+  <introduced datetime="2017-06-08"/>
+  <titles>
+    <title type="short" as="introduced">Military Patron Protection Act of 2017</title>
+    <title type="short" as="introduced">Military Patron Protection Act of 2017</title>
+    <title type="official" as="introduced">To establish the Military Resale Patron Benefits Advisory Commission, and for other purposes.</title>
+    <title type="display">Military Patron Protection Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="J000255"/>
+  <cosponsors>
+    <cosponsor bioguide_id="W000799" joined="2017-06-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-08">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-08" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2017-07-17">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

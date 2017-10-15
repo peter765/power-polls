@@ -1,0 +1,173 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-26", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-26", 
+      "action_code": "", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1862-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C000141", 
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-26", 
+      "state": "MD", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000639", 
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-26", 
+      "state": "NJ", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000595", 
+      "district": null, 
+      "name": "Rubio, Marco", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-26", 
+      "state": "FL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-26", 
+  "number": "1862", 
+  "official_title": "A bill to amend the Trafficking Victims Protection Act of 2000 to modify the criteria for determining whether countries are meeting the minimum standards for the elimination of human trafficking, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1848-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Trafficking Victims Protection Reauthorization Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "C001071", 
+    "district": null, 
+    "name": "Corker, Bob", 
+    "state": "TN", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-26", 
+  "subjects": [
+    "Child safety and welfare", 
+    "Conflicts and wars", 
+    "Congressional oversight", 
+    "Crime prevention", 
+    "Crime victims", 
+    "Crimes against children", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Employment discrimination and employee rights", 
+    "Evidence and witnesses", 
+    "Foreign aid and international relief", 
+    "Foreign loans and debt", 
+    "Government ethics and transparency, public corruption", 
+    "Government information and archives", 
+    "Human rights", 
+    "Human trafficking", 
+    "Immigration status and procedures", 
+    "International affairs", 
+    "International organizations and cooperation", 
+    "Labor standards", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Military assistance, sales, and agreements", 
+    "Military education and training", 
+    "Military personnel and dependents", 
+    "Multilateral development programs", 
+    "Organized crime", 
+    "Public-private cooperation", 
+    "Sex offenses", 
+    "Youth employment and child labor"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Trafficking Victims Protection Reauthorization Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Trafficking Victims Protection Reauthorization Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Child Soldier Prevention Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Child Soldier Prevention Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Trafficking Victims Protection Act of 2000 to modify the criteria for determining whether countries are meeting the minimum standards for the elimination of human trafficking, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Trafficking Victims Protection Reauthorization Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-11T04:29:27Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1862.xml"
+}

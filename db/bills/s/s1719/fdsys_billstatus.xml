@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Foreign Trade and International Finance</name>
+    </policyArea>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-08-02T21:28:32Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <sponsors>
+      <item>
+        <state>MO</state>
+        <middleName />
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <gpoId>8313</gpoId>
+          <lisID>1464</lisID>
+        </identifiers>
+        <firstName>Roy</firstName>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <lastName>Blunt</lastName>
+        <party>R</party>
+        <bioguideId>B000575</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>U.S. OUTDOOR Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>United States Optimal Use of Trade to Develop Outerwear and Outdoor Recreation Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to eliminate duties on imports of recreational performance outerwear, to establish the Sustainable Textile and Apparel Research Fund, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>U.S. OUTDOOR Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>U.S. OUTDOOR Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>United States Optimal Use of Trade to Develop Outerwear and Outdoor Recreation Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-08-02</introducedDate>
+    <title>U.S. OUTDOOR Act</title>
+    <committeeReports />
+    <amendments />
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <firstName>MARIA</firstName>
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+          <lisID>172</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CANTWELL</lastName>
+        <bioguideId>C000127</bioguideId>
+        <sponsorshipDate>2017-08-02</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <party>D</party>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Cory</firstName>
+        <identifiers>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Gardner</lastName>
+        <bioguideId>G000562</bioguideId>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <party>R</party>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>DIANNE</firstName>
+        <identifiers>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>FEINSTEIN</lastName>
+        <bioguideId>F000062</bioguideId>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-08-02</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-08-02</actionDate>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Foreign Trade and International Finance</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-10-06T05:22:21Z</updateDate>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <relatedBills />
+    <createDate>2017-08-03T00:41:46Z</createDate>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <actionDate>2017-08-02</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <billNumber>1719</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

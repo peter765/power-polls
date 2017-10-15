@@ -1,0 +1,48 @@
+<bill session="115" type="h" number="3509" updated="2017-10-06T07:16:04Z">
+  <state datetime="2017-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-27"/>
+  </status>
+  <introduced datetime="2017-07-27"/>
+  <titles>
+    <title type="short" as="introduced">CITRUS Act</title>
+    <title type="short" as="introduced">CITRUS Act</title>
+    <title type="short" as="introduced">Citrus Investment in Treatment and Research for U.S. Sustainability Act</title>
+    <title type="short" as="introduced">Citrus Investment in Treatment and Research for U.S. Sustainability Act</title>
+    <title type="official" as="introduced">To authorize certain citrus programs, to increase the limitations on assistance for the tree assistance program, and for other purposes.</title>
+    <title type="display">CITRUS Act</title>
+  </titles>
+  <sponsor bioguide_id="R000583"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001063" joined="2017-08-08"/>
+    <cosponsor bioguide_id="D000600" joined="2017-08-08"/>
+    <cosponsor bioguide_id="G000581" joined="2017-08-08"/>
+    <cosponsor bioguide_id="P000599" joined="2017-08-08"/>
+    <cosponsor bioguide_id="R000593" joined="2017-08-08"/>
+    <cosponsor bioguide_id="S001200" joined="2017-08-08"/>
+    <cosponsor bioguide_id="T000472" joined="2017-10-05"/>
+    <cosponsor bioguide_id="V000129" joined="2017-07-27"/>
+    <cosponsor bioguide_id="V000132" joined="2017-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-27" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2017-09-01">
+      <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Biotechnology, Horticulture, and Research" code="HSAG14" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3860-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B000574", 
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000081", 
+      "district": "7", 
+      "name": "Velazquez, Nydia M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-10-10", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-28", 
+  "number": "3860", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to require Internet-based, real-time responses to requests to verify taxpayer income for legitimate business purposes, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "IRS Data Verification Modernization Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "M001156", 
+    "district": "10", 
+    "name": "McHenry, Patrick T.", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-28", 
+  "subjects": [
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "IRS Data Verification Modernization Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "IRS Data Verification Modernization Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to require Internet-based, real-time responses to requests to verify taxpayer income for legitimate business purposes, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "IRS Data Verification Modernization Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-11T07:16:36Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3860.xml"
+}

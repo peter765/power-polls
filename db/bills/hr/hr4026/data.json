@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4026-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001094", 
+      "district": "8", 
+      "name": "Cook, Paul", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-11", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-11", 
+  "number": "4026", 
+  "official_title": "To take certain land located in San Diego County, California, into trust for the benefit of the Pala Band of Mission Indians, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Pala Band of Mission Indians Land Transfer Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "V000130", 
+    "district": "51", 
+    "name": "Vargas, Juan", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-11", 
+  "subjects": [
+    "Native Americans"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Pala Band of Mission Indians Land Transfer Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Pala Band of Mission Indians Land Transfer Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To take certain land located in San Diego County, California, into trust for the benefit of the Pala Band of Mission Indians, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Pala Band of Mission Indians Land Transfer Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-13T15:00:14Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr4026.xml"
+}

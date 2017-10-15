@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-08-04T00:42:11Z</createDate>
+    <billType>SRES</billType>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>317</number>
+        <type>HRES</type>
+        <latestAction>
+          <actionDate>2017-07-26</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>15:10:29</actionTime>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Calling for the unconditional release of United States citizens and legal permanent resident aliens being held for political purposes by the Government of Iran.</latestTitle>
+      </item>
+      <item>
+        <congress>115</congress>
+        <number>216</number>
+        <type>SRES</type>
+        <latestAction>
+          <text>Referred to the Committee on Foreign Relations.</text>
+          <actionDate>2017-07-10</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A resolution calling on the Government of Iran to release unjustly detained United States citizens and legal permanent resident aliens, and for other purposes.</latestTitle>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <firstName>PATRICK</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+          <lisID>1383</lisID>
+          <gpoId>8244</gpoId>
+        </identifiers>
+        <bioguideId>L000174</bioguideId>
+        <state>VT</state>
+        <middleName>JOSEPH</middleName>
+        <lastName>LEAHY</lastName>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-08-03</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Cory</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+          <lisID>2194</lisID>
+        </identifiers>
+        <bioguideId>B001288</bioguideId>
+        <state>NJ</state>
+        <middleName>A.</middleName>
+        <lastName>Booker</lastName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>ROBERT</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+          <lisID>791</lisID>
+        </identifiers>
+        <bioguideId>M000639</bioguideId>
+        <state>NJ</state>
+        <middleName />
+        <lastName>MENENDEZ</lastName>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Todd</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7948</gpoId>
+          <bioguideId>Y000064</bioguideId>
+          <lisID>2019</lisID>
+        </identifiers>
+        <bioguideId>Y000064</bioguideId>
+        <state>IN</state>
+        <middleName>C.</middleName>
+        <lastName>Young</lastName>
+        <fullName>Sen. Young, Todd C. [R-IN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Cory</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <bioguideId>G000562</bioguideId>
+        <state>CO</state>
+        <middleName />
+        <lastName>Gardner</lastName>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <lisID>2098</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001095</bioguideId>
+        <state>AR</state>
+        <middleName />
+        <lastName>Cotton</lastName>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Marco</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <bioguideId>R000595</bioguideId>
+        <state>FL</state>
+        <middleName />
+        <lastName>Rubio</lastName>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <notes />
+    <introducedDate>2017-08-03</introducedDate>
+    <laws />
+    <committeeReports />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution calling on the Government of Iran to release unjustly detained United States citizens and legal permanent resident aliens, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A resolution calling on the Government of Iran to release unjustly detained United States citizens and legal permanent resident aliens, and for other purposes.</title>
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <firstName>Ted</firstName>
+        <byRequestType />
+        <lastName>Cruz</lastName>
+        <bioguideId>C001098</bioguideId>
+        <party>R</party>
+        <state>TX</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-10-05T13:30:34Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-08-03T14:54:37Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <billNumber>245</billNumber>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <orderedReported>1</orderedReported>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-08-03</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4881</url>
+            <name>S4881</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4881)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-08-03</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <calendarNumbers />
+    <title>A resolution calling on the Government of Iran to release unjustly detained United States citizens and legal permanent resident aliens, and for other purposes.</title>
+    <updateDate>2017-10-06T05:03:45Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Iran</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-10-05</actionDate>
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

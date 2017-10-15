@@ -1,0 +1,48 @@
+<bill session="115" type="h" number="2455" updated="2017-06-19T22:15:14Z">
+  <state datetime="2017-05-16">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-16"/>
+  </status>
+  <introduced datetime="2017-05-16"/>
+  <titles>
+    <title type="short" as="introduced">Separation of Government and President's Financial Interests Act</title>
+    <title type="short" as="introduced">Separation of Government and President&#8217;s Financial Interests Act</title>
+    <title type="official" as="introduced">To prohibit Federal employees from taking certain acts affecting a financial interest of the President, and for other purposes.</title>
+    <title type="display">Separation of Government and President's Financial Interests Act</title>
+  </titles>
+  <sponsor bioguide_id="J000298"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001300" joined="2017-05-26"/>
+    <cosponsor bioguide_id="C001084" joined="2017-06-06"/>
+    <cosponsor bioguide_id="G000535" joined="2017-05-26"/>
+    <cosponsor bioguide_id="J000288" joined="2017-05-26"/>
+    <cosponsor bioguide_id="R000606" joined="2017-05-16"/>
+    <cosponsor bioguide_id="V000081" joined="2017-05-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-16">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-16" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-06-07">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Corporate finance and management"/>
+    <term name="Financial services and investments"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Presidents and presidential powers, Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="115" type="s" number="1409" updated="2017-09-27T19:30:16Z">
+  <state datetime="2017-06-22">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-22"/>
+  </status>
+  <introduced datetime="2017-06-22"/>
+  <titles>
+    <title type="short" as="introduced">Technologies for Energy Jobs and Security Act of 2017</title>
+    <title type="short" as="introduced">Technologies for Energy Jobs and Security Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to extend the credit for residential energy efficient property, and for other purposes.</title>
+    <title type="display">Technologies for Energy Jobs and Security Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C000174"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001070" joined="2017-09-07"/>
+    <cosponsor bioguide_id="G000359" joined="2017-09-07"/>
+    <cosponsor bioguide_id="H001041" joined="2017-06-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-22">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="1090"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

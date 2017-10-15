@@ -1,0 +1,39 @@
+<bill session="115" type="h" number="3372" updated="2017-09-12T21:45:18Z">
+  <state datetime="2017-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-24"/>
+  </status>
+  <introduced datetime="2017-07-24"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for the restoration of entitlement to educational assistance and other relief for veterans affected by school closure or disapproval, and for other purposes.</title>
+    <title type="display">To amend title 38, United States Code, to provide for the restoration of entitlement to educational assistance and other relief for veterans affected by school closure or disapproval, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="M001189"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-24">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-07-24">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="3218"/>
+    <bill type="h" session="115" relation="unknown" number="1216"/>
+    <bill type="h" session="115" relation="unknown" number="2068"/>
+    <bill type="s" session="115" relation="unknown" number="1489"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

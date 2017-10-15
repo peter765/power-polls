@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Medicare Orthotics and Prosthetics Improvement Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Medicare Orthotics and Prosthetics Improvement Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XVIII of the Social Security Act to refine how Medicare pays for orthotics and prosthetics and to improve beneficiary experience and outcomes with orthotic and prosthetic care, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Medicare Orthotics and Prosthetics Improvement Act of 2017</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <title>Medicare Orthotics and Prosthetics Improvement Act of 2017</title>
+    <relatedBills>
+      <item>
+        <latestTitle>Medicare Orthotics and Prosthetics Improvement Act of 2017</latestTitle>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2017-05-22</actionDate>
+        </latestAction>
+        <number>1191</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-05T18:58:56Z</date>
+                </item>
+              </activities>
+              <systemCode>hswm02</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-23T14:02:50Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+        </item>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-26T20:23:41Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-23T14:02:45Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>2599</billNumber>
+    <cosponsors>
+      <item>
+        <bioguideId>T000460</bioguideId>
+        <identifiers>
+          <lisID>1593</lisID>
+          <bioguideId>T000460</bioguideId>
+          <gpoId>7806</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <party>D</party>
+        <firstName>MIKE</firstName>
+        <lastName>THOMPSON</lastName>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+      </item>
+      <item>
+        <bioguideId>K000376</bioguideId>
+        <identifiers>
+          <lisID>2051</lisID>
+          <gpoId>8708</gpoId>
+          <bioguideId>K000376</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <lastName>Kelly</lastName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+      </item>
+      <item>
+        <bioguideId>K000210</bioguideId>
+        <identifiers>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+        <middleName>T.</middleName>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <party>R</party>
+        <firstName>PETER</firstName>
+        <lastName>KING</lastName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+    </cosponsors>
+    <updateDate>2017-10-13T07:16:39Z</updateDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>Thompson</lastName>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1952</lisID>
+          <gpoId>8123</gpoId>
+          <bioguideId>T000467</bioguideId>
+        </identifiers>
+        <bioguideId>T000467</bioguideId>
+        <district>5</district>
+        <middleName />
+        <firstName>Glenn</firstName>
+        <byRequestType />
+        <state>PA</state>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. THOMPSON of Pennsylvania:H.R. 2599.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3; and including, but notsolely limited to Article I, Section 8, Clause 14.[Page H4503]</pre>]]></constitutionalAuthorityStatementText>
+    <notes />
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-05</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hswm02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-26</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Ways and Means</text>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2017-05-23</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Energy and Commerce</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2017-05-23</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionDate>2017-05-23</actionDate>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H4427</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4427</url>
+          </link>
+        </links>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Sponsor introductory remarks on measure. (CR H4427)</text>
+        <committee />
+        <actionDate>2017-05-23</actionDate>
+        <actionCode>B00100</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-05-23</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-05-23</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <createDate>2017-05-24T03:11:40Z</createDate>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2017-06-05</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <committeeReports />
+    <congress>115</congress>
+    <introducedDate>2017-05-23</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

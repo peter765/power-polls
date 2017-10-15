@@ -1,0 +1,81 @@
+<bill session="115" type="s" number="504" updated="2017-09-29T16:58:39Z">
+  <state datetime="2017-09-26">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2017-09-26"/>
+  </status>
+  <introduced datetime="2017-03-02"/>
+  <titles>
+    <title type="short" as="introduced">APEC Business Travel Cards Reauthorization Act of 2017</title>
+    <title type="short" as="introduced">APEC Business Travel Cards Reauthorization Act of 2017</title>
+    <title type="short" as="reported to senate">APEC Business Travel Cards Reauthorization Act of 2017</title>
+    <title type="short" as="reported to senate">APEC Business Travel Cards Reauthorization Act of 2017</title>
+    <title type="short" as="passed senate">Asia-Pacific Economic Cooperation Business Travel Cards Act of 2017</title>
+    <title type="short" as="passed senate">Asia-Pacific Economic Cooperation Business Travel Cards Act of 2017</title>
+    <title type="official" as="introduced">A bill to permanently authorize the Asia-Pacific Economic Cooperation Business Travel Card Program.</title>
+    <title type="display">Asia-Pacific Economic Cooperation Business Travel Cards Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="H001042"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000618" joined="2017-03-02"/>
+    <cosponsor bioguide_id="G000562" joined="2017-05-08"/>
+    <cosponsor bioguide_id="K000367" joined="2017-03-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-02">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-03-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2017-05-17" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2017-08-01">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-140.</text>
+    </action>
+    <calendar datetime="2017-08-01" calendar="Senate Legislative" under="General Orders" number="190">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 190.</text>
+    </calendar>
+    <action datetime="2017-09-26">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S6144-6145" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2017-09-26" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S6144-6145" label="text"/>
+    </vote>
+    <action datetime="2017-09-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2017-09-27T15:01:49-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2017-09-27T18:22:10-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2805"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Asia"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Travel and tourism"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1104"/>
+  </amendments>
+  <summary date="2017-08-01T12:16:41Z" status="Reported to Senate without amendment">(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+APEC Business Travel Cards Reauthorization Act of 2017
+
+ (Sec. 2) This bill amends the Asia-Pacific Economic Cooperation Business Travel Cards Act of 2011 to permanently authorize the Asia-Pacific Economic Cooperation business travel card program. (The program, which provides persons who are engaged in Asia-Pacific Economic Cooperation business with expedited airport processing, is scheduled to end on September 30, 2018.)</summary>
+  <committee-reports>
+    <report>S. Rept. 115-140</report>
+  </committee-reports>
+</bill>

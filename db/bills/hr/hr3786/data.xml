@@ -1,0 +1,42 @@
+<bill session="115" type="h" number="3786" updated="2017-09-29T07:13:11Z">
+  <state datetime="2017-09-14">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-14"/>
+  </status>
+  <introduced datetime="2017-09-14"/>
+  <titles>
+    <title type="short" as="introduced">Great Lakes Environmental Sensitivity Index Act of 2017</title>
+    <title type="short" as="introduced">Great Lakes Environmental Sensitivity Index Act of 2017</title>
+    <title type="official" as="introduced">To require the Under Secretary for Oceans and Atmosphere to update periodically the environmental sensitivity index products of the National Oceanic and Atmospheric Administration for each coastal area of the Great Lakes, and for other purposes.</title>
+    <title type="display">Great Lakes Environmental Sensitivity Index Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="K000380"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000624" joined="2017-09-14"/>
+    <cosponsor bioguide_id="H001058" joined="2017-09-14"/>
+    <cosponsor bioguide_id="J000295" joined="2017-09-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-14">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-14" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-09-25">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Water, Power and Oceans" code="HSII13" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1586"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,182 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-05-30", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-05-30", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-06-15", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-07-26", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-26", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2017-09-05", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 115-291.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-05", 
+      "action_code": "H12420", 
+      "calendar": "House", 
+      "number": "78", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 78.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2768-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 115-291"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-07-26", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-05-30", 
+  "number": "2768", 
+  "official_title": "To designate certain mountain peaks in the State of Colorado as ``Fowler Peak'' and \"Boskoff Peak\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1271-115", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Fowler and Boskoff Peaks Designation Act", 
+  "sponsor": {
+    "bioguide_id": "T000470", 
+    "district": "3", 
+    "name": "Tipton, Scott  R.", 
+    "state": "CO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-07-26", 
+  "subjects": [
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-05-30T04:00:00Z", 
+    "text": "Fowler and Boskoff Peaks Designation Act\n\nThis bill designates specified mountain peaks in the Uncompahgre National Forest in Colorado as \"Fowler Peak\" and \"Boskoff Peak.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fowler and Boskoff Peaks Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fowler and Boskoff Peaks Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Fowler and Boskoff Peaks Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Fowler and Boskoff Peaks Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate certain mountain peaks in the State of Colorado as ``Fowler Peak'' and \"Boskoff Peak\".", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Fowler and Boskoff Peaks Designation Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-09-20T18:57:38Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr2768.xml"
+}

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Youth Empowerment Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend section 510 of the Social Security Act regarding a youth empowerment program.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Youth Empowerment Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Youth Empowerment Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>CHAMPION Act</latestTitle>
+        <latestAction>
+          <actionDate>2017-10-04</actionDate>
+          <text>Ordered to be Reported (Amended) by the Yeas and Nays: 28 - 23.</text>
+        </latestAction>
+        <number>3922</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <middleName />
+        <lastName>Hultgren</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Hultgren, Randy [R-IL-14]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <firstName>Randy</firstName>
+        <bioguideId>H001059</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>H001059</bioguideId>
+          <gpoId>7934</gpoId>
+          <lisID>2015</lisID>
+        </identifiers>
+        <district>14</district>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ROS-LEHTINEN:H.R. 2061.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2792]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <bioguideId>F000461</bioguideId>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <lisID>2065</lisID>
+          <bioguideId>F000461</bioguideId>
+          <gpoId>8173</gpoId>
+        </identifiers>
+        <firstName>Bill</firstName>
+        <lastName>Flores</lastName>
+        <state>TX</state>
+        <district>17</district>
+      </item>
+    </sponsors>
+    <title>Youth Empowerment Act of 2017</title>
+    <laws />
+    <notes />
+    <createDate>2017-10-03T03:11:21Z</createDate>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <introducedDate>2017-10-02</introducedDate>
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <actionDate>2017-10-02</actionDate>
+    </latestAction>
+    <amendments />
+    <congress>115</congress>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionDate>2017-10-02</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-10-02</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-10-02</actionDate>
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-02T16:02:10Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>3900</billNumber>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-10-12T13:45:15Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

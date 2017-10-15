@@ -1,0 +1,44 @@
+<bill session="115" type="h" number="3847" updated="2017-10-12T07:17:17Z">
+  <state datetime="2017-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-27"/>
+  </status>
+  <introduced datetime="2017-09-27"/>
+  <titles>
+    <title type="short" as="introduced">Yurok Lands Act</title>
+    <title type="short" as="introduced">Yurok Lands Act</title>
+    <title type="official" as="introduced">To revise the Yurok Reservation, and for other purposes.</title>
+    <title type="display">Yurok Lands Act</title>
+  </titles>
+  <sponsor bioguide_id="H001068"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001053" joined="2017-09-27"/>
+    <cosponsor bioguide_id="C001094" joined="2017-10-04"/>
+    <cosponsor bioguide_id="M001143" joined="2017-10-11"/>
+    <cosponsor bioguide_id="M001190" joined="2017-10-03"/>
+    <cosponsor bioguide_id="T000474" joined="2017-09-27"/>
+    <cosponsor bioguide_id="Y000033" joined="2017-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-27" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-10-03">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Water, Power and Oceans" code="HSII13" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Indian, Insular and Alaska Native Affairs" code="HSII24" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

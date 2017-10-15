@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="3116" updated="2017-09-11T02:54:06Z">
+  <state datetime="2017-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-29"/>
+  </status>
+  <introduced datetime="2017-06-29"/>
+  <titles>
+    <title type="short" as="introduced">Moving Obstructed Trains In-between Openings Now (MOTION) Act</title>
+    <title type="short" as="introduced">Moving Obstructed Trains In-between Openings Now (MOTION) Act</title>
+    <title type="official" as="introduced">To allow railroad employees to remain on duty as necessary to clear a blockage of vehicular traffic at grade crossings.</title>
+    <title type="display">Moving Obstructed Trains In-between Openings Now (MOTION) Act</title>
+  </titles>
+  <sponsor bioguide_id="S000244"/>
+  <cosponsors>
+    <cosponsor bioguide_id="W000810" joined="2017-06-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-29">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-29" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-06-30">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Railroads, Pipelines, and Hazardous Materials" code="HSPW14" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

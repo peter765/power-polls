@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <laws />
+    <version>1.0.0</version>
+    <cosponsors />
+    <billNumber>123</billNumber>
+    <latestAction>
+      <actionDate>2017-02-15</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>13:26:19</actionTime>
+      <links />
+    </latestAction>
+    <createDate>2017-02-15T05:12:35Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <generalDebate>1</generalDebate>
+        <reportedToHouse>1</reportedToHouse>
+        <provisionsOfARule>1</provisionsOfARule>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+      </actionTypeCounts>
+      <item>
+        <actionTime>13:26:19</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <actionDate>2017-02-15</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionTime>13:26:18</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 233 - 188 (Roll no. 94). (text: CR H1193)</text>
+        <committee />
+        <actionCode>H37100</actionCode>
+        <actionDate>2017-02-15</actionDate>
+        <links>
+          <link>
+            <name>H1193</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1193</url>
+          </link>
+          <link>
+            <name>Roll no. 94</name>
+            <url>http://clerk.house.gov/evs/2017/roll094.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionTime>13:26:18</actionTime>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 233 - 188 (Roll no. 94).(text: CR H1193)</text>
+        <committee />
+        <actionCode>8000</actionCode>
+        <actionDate>2017-02-15</actionDate>
+        <links>
+          <link>
+            <name>H1193</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1193</url>
+          </link>
+          <link>
+            <name>Roll no. 94</name>
+            <url>http://clerk.house.gov/evs/2017/roll094.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionTime>13:19:29</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 233 - 190 (Roll no. 93). (consideration: CR H1199)</text>
+        <committee />
+        <actionCode>H35000</actionCode>
+        <actionDate>2017-02-15</actionDate>
+        <links>
+          <link>
+            <name>H1199</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1199</url>
+          </link>
+          <link>
+            <name>Roll no. 93</name>
+            <url>http://clerk.house.gov/evs/2017/roll093.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionTime>12:23:11</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 123.</text>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-02-15</actionDate>
+        <links>
+          <link>
+            <name>H. Res. 123</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/123</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionTime>12:20:55</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Considered as privileged matter. (consideration: CR H1193-1200)</text>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <actionDate>2017-02-15</actionDate>
+        <links>
+          <link>
+            <name>H1193-1200</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1193-1200</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Calendars</type>
+        <text>Placed on the House Calendar, Calendar No. 12.</text>
+        <committee />
+        <actionCode>H12420</actionCode>
+        <actionDate>2017-02-14</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionTime>16:46:41</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>The resolution provides for one hour of general debate on both H.J.Res. 43 and H.J.Res. 69; and provides for proceedings during the period from February 17, 2017, through February 24, 2017.</text>
+        <committee />
+        <actionCode>H12700</actionCode>
+        <actionDate>2017-02-14</actionDate>
+        <links>
+          <link>
+            <name>H.J.Res. 43</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-joint-resolution/43</url>
+          </link>
+          <link>
+            <name>H.J.Res. 69</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-joint-resolution/69</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-12, by Mr. Burgess.</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>H12100</actionCode>
+        <actionDate>2017-02-14</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 115-12</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/12</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-12, by Mr. Burgess.</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>5000</actionCode>
+        <actionDate>2017-02-14</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 115-12</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/12</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-02-14</actionDate>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-02-14</actionDate>
+          <lastSummaryUpdateDate>2017-02-15T09:02:58Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[Sets forth the rule for consideration of the joint resolution (H.J. Res. 43) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients; providing for consideration of the joint resolution (H.J. Res. 69) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to "Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska"; and providing for proceedings during the period from February 17, 2017, through February 24, 2017.]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2017-02-14T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <title>Providing for consideration of the joint resolution (H.J. Res. 43) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients; providing for consideration of the joint resolution (H.J. Res. 69) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to "Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska"; and providing for proceedings during the period from February 17, 2017, through February 24, 2017.</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-12</citation>
+      </committeeReport>
+    </committeeReports>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>Michael</firstName>
+        <party>R</party>
+        <bioguideId>B001248</bioguideId>
+        <district>26</district>
+        <middleName>C.</middleName>
+        <byRequestType />
+        <lastName>Burgess</lastName>
+        <state>TX</state>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <identifiers>
+          <lisID>1751</lisID>
+          <gpoId>8182</gpoId>
+          <bioguideId>B001248</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>H00012</calendar>
+      </item>
+    </calendarNumbers>
+    <constitutionalAuthorityStatementText />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <date>2017-02-14T21:46:40Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <type>HJRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients.</latestTitle>
+        <number>43</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-04-13</actionDate>
+          <text>Became Public Law No: 115-23.</text>
+        </latestAction>
+      </item>
+      <item>
+        <type>HJRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to "Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska".</latestTitle>
+        <number>69</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-04-03</actionDate>
+          <text>Became Public Law No: 115-20.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billType>HRES</billType>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Providing for consideration of the joint resolution (H.J. Res. 43) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients; providing for consideration of the joint resolution (H.J. Res. 69) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to "Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska"; and providing for proceedings during the period from February 17, 2017, through February 24, 2017.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Providing for consideration of the joint resolution (H.J. Res. 43) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients; providing for consideration of the joint resolution (H.J. Res. 69) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to "Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska"; and providing for proceedings during the period from February 17, 2017, through February 24, 2017.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <introducedDate>2017-02-14</introducedDate>
+    <recordedVotes>
+      <recordedVote>
+        <date>2017-02-15T18:26:18Z</date>
+        <congress>115</congress>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <url>http://clerk.house.gov/evs/2017/roll094.xml</url>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>94</rollNumber>
+        <chamber>House</chamber>
+      </recordedVote>
+      <recordedVote>
+        <date>2017-02-15T18:19:29Z</date>
+        <congress>115</congress>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <url>http://clerk.house.gov/evs/2017/roll093.xml</url>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>93</rollNumber>
+        <chamber>House</chamber>
+      </recordedVote>
+    </recordedVotes>
+    <updateDate>2017-08-10T13:23:03Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

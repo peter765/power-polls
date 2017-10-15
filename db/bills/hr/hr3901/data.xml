@@ -1,0 +1,40 @@
+<bill session="115" type="h" number="3901" updated="2017-10-12T07:13:13Z">
+  <state datetime="2017-10-02">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-02"/>
+  </status>
+  <introduced datetime="2017-10-02"/>
+  <titles>
+    <title type="short" as="introduced">Moving and Fostering Innovation to Revolutionize Smarter Transportation Act</title>
+    <title type="short" as="introduced">Moving and Fostering Innovation to Revolutionize Smarter Transportation Act</title>
+    <title type="short" as="introduced">Moving FIRST Act</title>
+    <title type="short" as="introduced">Moving FIRST Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Transportation to establish the Strengthening Mobility and Revolutionizing Transportation (SMART) Challenge Grant Program to promote technological innovation in our Nation's cities.</title>
+    <title type="display">Moving FIRST Act</title>
+  </titles>
+  <sponsor bioguide_id="D000623"/>
+  <cosponsors>
+    <cosponsor bioguide_id="S001199" joined="2017-10-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-02">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-02" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-10-03">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

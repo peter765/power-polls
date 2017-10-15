@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Free Credit Freeze Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Fair Credit Reporting Act to provide access to free credit freezes for all consumers.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Free Credit Freeze Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Free Credit Freeze Act</title>
+      </item>
+    </titles>
+    <title>Free Credit Freeze Act</title>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>1810</number>
+        <latestTitle>Free Credit Freeze Act</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2017-09-14</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-09-28T13:03:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>3878</billNumber>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>RI</state>
+        <district>2</district>
+        <firstName>JAMES</firstName>
+        <party>D</party>
+        <lastName>LANGEVIN</lastName>
+        <middleName>R.</middleName>
+        <bioguideId>L000559</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1668</lisID>
+          <bioguideId>L000559</bioguideId>
+          <gpoId>8140</gpoId>
+        </identifiers>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <district>29</district>
+        <firstName>Tony</firstName>
+        <party>D</party>
+        <lastName>Cardenas</lastName>
+        <middleName />
+        <bioguideId>C001097</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2107</lisID>
+          <bioguideId>C001097</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <district>10</district>
+        <firstName>JERROLD</firstName>
+        <party>D</party>
+        <lastName>NADLER</lastName>
+        <middleName />
+        <bioguideId>N000002</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>N000002</bioguideId>
+          <gpoId>8069</gpoId>
+          <lisID>850</lisID>
+        </identifiers>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>VA</state>
+        <district>8</district>
+        <firstName>Donald</firstName>
+        <party>D</party>
+        <lastName>Beyer</lastName>
+        <middleName>S.</middleName>
+        <bioguideId>B001292</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001292</bioguideId>
+          <lisID>2272</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <district>9</district>
+        <firstName>MARCY</firstName>
+        <party>D</party>
+        <lastName>KAPTUR</lastName>
+        <middleName />
+        <bioguideId>K000009</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>616</lisID>
+          <gpoId>8099</gpoId>
+          <bioguideId>K000009</bioguideId>
+        </identifiers>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>DC</state>
+        <district>0</district>
+        <firstName>ELEANOR</firstName>
+        <party>D</party>
+        <lastName>NORTON</lastName>
+        <middleName>HOLMES</middleName>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <district>13</district>
+        <firstName>Brendan</firstName>
+        <party>D</party>
+        <lastName>Boyle</lastName>
+        <middleName>F.</middleName>
+        <bioguideId>B001296</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001296</bioguideId>
+          <lisID>2267</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>GA</state>
+        <district>2</district>
+        <firstName>SANFORD</firstName>
+        <party>D</party>
+        <lastName>BISHOP</lastName>
+        <middleName>D.</middleName>
+        <bioguideId>B000490</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+          <lisID>91</lisID>
+          <gpoId>7899</gpoId>
+        </identifiers>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NM</state>
+        <district>1</district>
+        <firstName>Michelle</firstName>
+        <party>D</party>
+        <lastName>Lujan Grisham</lastName>
+        <middleName />
+        <bioguideId>L000580</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2146</lisID>
+          <gpoId />
+          <bioguideId>L000580</bioguideId>
+        </identifiers>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MA</state>
+        <district>7</district>
+        <firstName>MICHAEL</firstName>
+        <party>D</party>
+        <lastName>CAPUANO</lastName>
+        <middleName>E.</middleName>
+        <bioguideId>C001037</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1564</lisID>
+          <bioguideId>C001037</bioguideId>
+          <gpoId>7973</gpoId>
+        </identifiers>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NC</state>
+        <district>1</district>
+        <firstName>G. K.</firstName>
+        <party>D</party>
+        <lastName>Butterfield</lastName>
+        <middleName />
+        <bioguideId>B001251</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1761</lisID>
+          <bioguideId>B001251</bioguideId>
+          <gpoId>8024</gpoId>
+        </identifiers>
+        <fullName>Rep. Butterfield, G. K. [D-NC-1]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <district>32</district>
+        <firstName>GRACE</firstName>
+        <party>D</party>
+        <lastName>NAPOLITANO</lastName>
+        <middleName>F.</middleName>
+        <bioguideId>N000179</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <gpoId>7843</gpoId>
+          <lisID>1602</lisID>
+        </identifiers>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IA</state>
+        <district>2</district>
+        <firstName>David</firstName>
+        <party>D</party>
+        <lastName>Loebsack</lastName>
+        <middleName />
+        <bioguideId>L000565</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1846</lisID>
+          <bioguideId>L000565</bioguideId>
+          <gpoId>7915</gpoId>
+        </identifiers>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <district>41</district>
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <lastName>Takano</lastName>
+        <middleName />
+        <bioguideId>T000472</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000472</bioguideId>
+          <lisID>2110</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <district>29</district>
+        <firstName>GENE</firstName>
+        <party>D</party>
+        <lastName>GREEN</lastName>
+        <middleName />
+        <bioguideId>G000410</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000410</bioguideId>
+          <lisID>462</lisID>
+          <gpoId>8185</gpoId>
+        </identifiers>
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MD</state>
+        <district>8</district>
+        <firstName>Jamie</firstName>
+        <party>D</party>
+        <lastName>Raskin</lastName>
+        <middleName />
+        <bioguideId>R000606</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2332</lisID>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <district>5</district>
+        <firstName>Keith</firstName>
+        <party>D</party>
+        <lastName>Ellison</lastName>
+        <middleName />
+        <bioguideId>E000288</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>E000288</bioguideId>
+          <gpoId>8005</gpoId>
+          <lisID>1857</lisID>
+        </identifiers>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <district>25</district>
+        <firstName>LOUISE</firstName>
+        <party>D</party>
+        <lastName>SLAUGHTER</lastName>
+        <middleName>M.</middleName>
+        <bioguideId>S000480</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000480</bioguideId>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+        </identifiers>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <district>3</district>
+        <firstName>Raul</firstName>
+        <party>D</party>
+        <lastName>Grijalva</lastName>
+        <middleName>M.</middleName>
+        <bioguideId>G000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+      </item>
+    </cosponsors>
+    <updateDate>2017-10-12T15:45:13Z</updateDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>Lujan</lastName>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000570</bioguideId>
+          <lisID>1939</lisID>
+          <gpoId>8058</gpoId>
+        </identifiers>
+        <bioguideId>L000570</bioguideId>
+        <district>3</district>
+        <middleName>Ray</middleName>
+        <firstName>Ben</firstName>
+        <byRequestType />
+        <state>NM</state>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ROS-LEHTINEN:H.R. 2061.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2792]</pre>]]></constitutionalAuthorityStatementText>
+    <notes />
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2017-09-28</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2017-09-28</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2017-09-28</actionDate>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <createDate>2017-09-29T03:11:25Z</createDate>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2017-09-28</actionDate>
+      <text>Referred to the House Committee on Financial Services.</text>
+    </latestAction>
+    <committeeReports />
+    <congress>115</congress>
+    <introducedDate>2017-09-28</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

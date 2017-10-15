@@ -1,0 +1,75 @@
+<bill session="115" type="h" number="1660" updated="2017-10-12T15:12:13Z">
+  <state datetime="2017-09-28">REPORTED</state>
+  <status>
+    <unknown datetime="2017-09-28"/>
+  </status>
+  <introduced datetime="2017-03-21"/>
+  <titles>
+    <title type="short" as="introduced">Global Health Innovation Act of 2017</title>
+    <title type="short" as="introduced">Global Health Innovation Act of 2017</title>
+    <title type="official" as="introduced">To direct the Administrator of the United States Agency for International Development to submit to Congress a report on the development and use of global health innovations in the programs, projects, and activities of the Agency.</title>
+    <title type="display">Global Health Innovation Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="S001165"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001281" joined="2017-05-02"/>
+    <cosponsor bioguide_id="C001084" joined="2017-03-21"/>
+    <cosponsor bioguide_id="C001078" joined="2017-03-21"/>
+    <cosponsor bioguide_id="C001106" joined="2017-08-04"/>
+    <cosponsor bioguide_id="C001107" joined="2017-09-28"/>
+    <cosponsor bioguide_id="D000617" joined="2017-04-20"/>
+    <cosponsor bioguide_id="D000600" joined="2017-03-21"/>
+    <cosponsor bioguide_id="D000625" joined="2017-03-21"/>
+    <cosponsor bioguide_id="E000179" joined="2017-03-21"/>
+    <cosponsor bioguide_id="K000375" joined="2017-03-21"/>
+    <cosponsor bioguide_id="L000582" joined="2017-09-18"/>
+    <cosponsor bioguide_id="L000397" joined="2017-07-19"/>
+    <cosponsor bioguide_id="R000578" joined="2017-08-25"/>
+    <cosponsor bioguide_id="R000435" joined="2017-03-21"/>
+    <cosponsor bioguide_id="S000344" joined="2017-03-21"/>
+    <cosponsor bioguide_id="S000522" joined="2017-03-21"/>
+    <cosponsor bioguide_id="V000081" joined="2017-07-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-21">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-03-21" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <calendar datetime="2017-09-28" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-09-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Drug therapy"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="HIV/AIDS"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Immunology and vaccination"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Product development and innovation"/>
+    <term name="Public-private cooperation"/>
+    <term name="U.S. Agency for International Development (USAID)"/>
+    <term name="Women's health"/>
+    <term name="World health"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-03-21T04:00:00Z" status="Introduced in House">Global Health Innovation Act of 2017
+
+This bill directs the Administrator of the U.S. Agency for International Development (USAID) to report to Congress, annually for four years, on the development and use of global health innovations in USAID programs, projects, and activities.</summary>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <updateDate>2017-10-13T04:31:27Z</updateDate>
+    <notes />
+    <relatedBills />
+    <latestAction>
+      <actionDate>2017-10-03</actionDate>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (Sponsor introductory remarks on measure: CR S6290)</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-03T21:01:24Z</date>
+            </item>
+          </activities>
+          <systemCode>ssbk00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-10-03</introducedDate>
+    <committeeReports />
+    <congress>115</congress>
+    <title>Corporate Management Accountability Act of 2017</title>
+    <recordedVotes />
+    <cboCostEstimates />
+    <cosponsors />
+    <billNumber>1912</billNumber>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Corporate Management Accountability Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to ensure that irresponsible corporate executives, rather than shareholders, pay fines and penalties.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Corporate Management Accountability Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Corporate Management Accountability Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2017-10-04T00:41:24Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2017-10-03</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S6290</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6290</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (Sponsor introductory remarks on measure: CR S6290)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-10-03</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <firstName>JOHN</firstName>
+        <middleName>F.</middleName>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <byRequestType />
+        <bioguideId>R000122</bioguideId>
+        <lastName>REED</lastName>
+        <state>RI</state>
+        <identifiers>
+          <lisID>949</lisID>
+          <bioguideId>R000122</bioguideId>
+          <gpoId>8272</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

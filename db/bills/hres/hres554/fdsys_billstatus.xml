@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <cboCostEstimates />
+    <updateDate>2017-10-05T16:30:16Z</updateDate>
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <billType>HRES</billType>
+    <billNumber>554</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <introducedDate>2017-10-03</introducedDate>
+    <cosponsors />
+    <createDate>2017-10-04T03:11:17Z</createDate>
+    <notes />
+    <congress>115</congress>
+    <laws />
+    <sponsors>
+      <item>
+        <firstName>ELEANOR</firstName>
+        <middleName>HOLMES</middleName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <lastName>NORTON</lastName>
+        <district>0</district>
+        <party>D</party>
+        <state>DC</state>
+        <bioguideId>N000147</bioguideId>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <title>Recognizing the life and legacy of Richard (Dick) Gregory and honoring his contributions to the civil rights movement and to American comedy.</title>
+    <latestAction>
+      <actionDate>2017-10-03</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <actionDate>2017-10-03</actionDate>
+        <links />
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-10-03</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-10-03</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-10-03T14:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Oversight and Government Reform Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <relatedBills />
+    <constitutionalAuthorityStatementText />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Recognizing the life and legacy of Richard (Dick) Gregory and honoring his contributions to the civil rights movement and to American comedy.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Recognizing the life and legacy of Richard (Dick) Gregory and honoring his contributions to the civil rights movement and to American comedy.</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

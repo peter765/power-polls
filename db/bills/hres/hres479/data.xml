@@ -1,0 +1,64 @@
+<bill session="115" type="hr" number="479" updated="2017-09-21T07:12:30Z">
+  <state datetime="2017-09-07">REPORTED</state>
+  <status>
+    <unknown datetime="2017-09-07"/>
+  </status>
+  <introduced datetime="2017-07-27"/>
+  <titles>
+    <title type="official" as="introduced">Of inquiry directing the Secretary of the Treasury to provide to the House of Representatives the tax return information of President Donald J. Trump as well as the tax returns of each business entity disclosed by Donald J. Trump on his Office of Government Ethics Form 278e.</title>
+    <title type="display">Of inquiry directing the Secretary of the Treasury to provide to the House of Representatives the tax return information of President Donald J. Trump as well as the tax returns of each business entity disclosed by Donald J. Trump on his Office of Government Ethics Form 278e.</title>
+  </titles>
+  <sponsor bioguide_id="P000096"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000574" joined="2017-07-28"/>
+    <cosponsor bioguide_id="C001038" joined="2017-07-27"/>
+    <cosponsor bioguide_id="D000096" joined="2017-07-28"/>
+    <cosponsor bioguide_id="L000582" joined="2017-09-05"/>
+    <cosponsor bioguide_id="M001137" joined="2017-09-05"/>
+    <cosponsor bioguide_id="P000034" joined="2017-09-05"/>
+    <cosponsor bioguide_id="S001156" joined="2017-07-28"/>
+    <cosponsor bioguide_id="T000460" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-27" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2017-09-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-09-07" state="REPORTED">
+      <text>Ordered to be Reported Unfavorably by the Yeas and Nays: 21 - 15.</text>
+    </calendar>
+    <action datetime="2017-09-14">
+      <text>Reported adversely by the Committee on Ways and Means. H. Rept. 115-309.</text>
+    </action>
+    <calendar datetime="2017-09-14" calendar="House" number="84">
+      <text>Placed on the House Calendar, Calendar No. 84.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Charitable contributions"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional-executive branch relations"/>
+    <term name="Corporate finance and management"/>
+    <term name="Financial services and investments"/>
+    <term name="Foreign loans and debt"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government information and archives"/>
+    <term name="Presidents and presidential powers, Vice Presidents"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="U.S. and foreign investments"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>H. Rept. 115-309</report>
+  </committee-reports>
+</bill>

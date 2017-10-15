@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <firstName>Angus</firstName>
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>King</lastName>
+        <bioguideId>K000383</bioguideId>
+        <middleName />
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <party>I</party>
+        <byRequestType />
+        <state>ME</state>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <billNumber>221</billNumber>
+    <updateDate>2017-10-03T04:30:26Z</updateDate>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Designates September 25, 2017, as National Lobster Day.</p>]]></text>
+          <updateDate>2017-07-19T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-08-03T19:59:31Z</lastSummaryUpdateDate>
+          <actionDate>2017-07-19</actionDate>
+        </item>
+        <item>
+          <name>Passed Senate without amendment</name>
+          <versionCode>82</versionCode>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Designates September 25, 2017, as National Lobster Day.</p>]]></text>
+          <updateDate>2017-08-01T13:11:11Z</updateDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-09-28T18:52:32Z</lastSummaryUpdateDate>
+          <actionDate>2017-08-01</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <cboCostEstimates />
+    <notes />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <middleName>MARGARET</middleName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>SUSAN</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>COLLINS</lastName>
+        <bioguideId>C001035</bioguideId>
+        <party>R</party>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Shaheen</lastName>
+        <bioguideId>S001181</bioguideId>
+        <party>D</party>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <firstName>Sheldon</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Whitehouse</lastName>
+        <bioguideId>W000802</bioguideId>
+        <party>D</party>
+        <state>RI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Blumenthal</lastName>
+        <bioguideId>B001277</bioguideId>
+        <party>D</party>
+        <state>CT</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1837</lisID>
+          <bioguideId>M001169</bioguideId>
+          <gpoId>7870</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <firstName>Christopher</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Murphy</lastName>
+        <bioguideId>M001169</bioguideId>
+        <party>D</party>
+        <state>CT</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001076</bioguideId>
+          <lisID>2302</lisID>
+        </identifiers>
+        <middleName>Wood</middleName>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <firstName>Margaret</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Hassan</lastName>
+        <bioguideId>H001076</bioguideId>
+        <party>D</party>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000122</bioguideId>
+          <gpoId>8272</gpoId>
+          <lisID>949</lisID>
+        </identifiers>
+        <middleName>F.</middleName>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>REED</lastName>
+        <bioguideId>R000122</bioguideId>
+        <party>D</party>
+        <state>RI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+        </identifiers>
+        <middleName>J.</middleName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>EDWARD</firstName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MARKEY</lastName>
+        <bioguideId>M000133</bioguideId>
+        <party>D</party>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-09-25</actionDate>
+          <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        </latestAction>
+        <type>HRES</type>
+        <latestTitle>Expressing support for the designation of September 25, 2017, as "National Lobster Day".</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>536</number>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <billType>SRES</billType>
+    <latestAction>
+      <actionDate>2017-08-01</actionDate>
+      <links />
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695; text: 7/19/2017 CR S4083)</text>
+    </latestAction>
+    <congress>115</congress>
+    <actions>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S4083</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4083</url>
+          </link>
+          <link>
+            <name>S4695</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4695</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695; text: 7/19/2017 CR S4083)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <links>
+          <link>
+            <name>S4083</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4083</url>
+          </link>
+          <link>
+            <name>S4695</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4695</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-08-01</actionDate>
+        <committee />
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4695; text: 7/19/2017 CR S4083)</text>
+      </item>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionCode>14500</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2017-08-01</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S4083</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4083</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4083)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-19</actionDate>
+        <committee />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <committeeDischarged>1</committeeDischarged>
+        <agreedToInSenate>1</agreedToInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-07-20T00:41:31Z</createDate>
+    <introducedDate>2017-07-19</introducedDate>
+    <laws />
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Food industry and services</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Seafood</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <amendments />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-08-02T00:02:17Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-07-19T15:56:23Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>A resolution designating September 25, 2017, as "National Lobster Day".</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A resolution designating September 25, 2017, as "National Lobster Day".</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A resolution designating September 25, 2017, as "National Lobster Day".</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,43 @@
+<bill session="115" type="h" number="3656" updated="2017-10-13T07:23:46Z">
+  <state datetime="2017-10-12">REPORTED</state>
+  <status>
+    <unknown datetime="2017-10-12"/>
+  </status>
+  <introduced datetime="2017-08-18"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for a consistent eligibility date for provision of Department of Veterans Affairs memorial headstones and markers for eligible spouses and dependent children of veterans whose remains are unavailable.</title>
+    <title type="display">To amend title 38, United States Code, to provide for a consistent eligibility date for provision of Department of Veterans Affairs memorial headstones and markers for eligible spouses and dependent children of veterans whose remains are unavailable.</title>
+  </titles>
+  <sponsor bioguide_id="B001299"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-08-18">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-08-18" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-08-18">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+    <action datetime="2017-09-13">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2017-10-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-10-12" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Markup, Referral"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Hearings, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

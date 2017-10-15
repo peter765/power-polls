@@ -1,0 +1,62 @@
+<bill session="115" type="h" number="2366" updated="2017-08-12T07:15:31Z">
+  <state datetime="2017-05-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-04"/>
+  </status>
+  <introduced datetime="2017-05-04"/>
+  <titles>
+    <title type="short" as="introduced">Discharge Student Loans in Bankruptcy Act of 2017</title>
+    <title type="short" as="introduced">Discharge Student Loans in Bankruptcy Act of 2017</title>
+    <title type="official" as="introduced">To amend title 11 of the United States Code to make student loans dischargeable.</title>
+    <title type="display">Discharge Student Loans in Bankruptcy Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="D000620"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001066" joined="2017-05-04"/>
+    <cosponsor bioguide_id="D000191" joined="2017-05-26"/>
+    <cosponsor bioguide_id="D000624" joined="2017-05-04"/>
+    <cosponsor bioguide_id="E000297" joined="2017-05-24"/>
+    <cosponsor bioguide_id="H001038" joined="2017-08-11"/>
+    <cosponsor bioguide_id="K000009" joined="2017-06-26"/>
+    <cosponsor bioguide_id="K000386" joined="2017-05-04"/>
+    <cosponsor bioguide_id="L000397" joined="2017-05-04"/>
+    <cosponsor bioguide_id="L000579" joined="2017-05-04"/>
+    <cosponsor bioguide_id="M001196" joined="2017-06-21"/>
+    <cosponsor bioguide_id="P000096" joined="2017-06-15"/>
+    <cosponsor bioguide_id="P000593" joined="2017-05-04"/>
+    <cosponsor bioguide_id="R000608" joined="2017-05-18"/>
+    <cosponsor bioguide_id="S001191" joined="2017-05-04"/>
+    <cosponsor bioguide_id="T000460" joined="2017-07-24"/>
+    <cosponsor bioguide_id="T000469" joined="2017-05-04"/>
+    <cosponsor bioguide_id="V000131" joined="2017-05-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-04">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-04" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-06-07">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Regulatory Reform, Commercial And Antitrust Law" code="HSJU05" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2527"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-05-04T04:00:00Z" status="Introduced in House">Discharge Student Loans in Bankruptcy Act of 2017
+
+This bill amends the federal bankruptcy code to permit a borrower to discharge in bankruptcy a nonprofit, government, or private student loan, or an obligation to repay an educational benefit, scholarship, or stipend.</summary>
+  <committee-reports/>
+</bill>

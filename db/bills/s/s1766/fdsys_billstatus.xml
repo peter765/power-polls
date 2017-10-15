@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-09-07T02:11:31Z</createDate>
+    <introducedDate>2017-09-06</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-09-28T20:48:16Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-09-28T13:30:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-06T16:12:22Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <calendarNumbers>
+      <item>
+        <number>0231</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <congress>115</congress>
+    <title>SAFER Act of 2017</title>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <title>SAFER Act of 2017</title>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <title>Sexual Assault Forensic Evidence Reporting Act of 2017</title>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>SAFER Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Sexual Assault Forensic Evidence Reporting Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to reauthorize the SAFER Act of 2013, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>SAFER Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <title>SAFER Act of 2017</title>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <title>Sexual Assault Forensic Evidence Reporting Act of 2017</title>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>SAFER Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Sexual Assault Forensic Evidence Reporting Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <latestTitle>SAFER Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-07-28</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>3541</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <updateDate>2017-10-13T04:31:19Z</updateDate>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <billNumber>1766</billNumber>
+    <cosponsors>
+      <item>
+        <middleName />
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <party>D</party>
+        <state>MN</state>
+        <lastName>Klobuchar</lastName>
+        <firstName>Amy</firstName>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>H001041</bioguideId>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <party>R</party>
+        <state>NV</state>
+        <lastName>Heller</lastName>
+        <firstName>Dean</firstName>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1863</lisID>
+          <gpoId>8060</gpoId>
+          <bioguideId>H001041</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>F.</middleName>
+        <bioguideId>B001267</bioguideId>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <party>D</party>
+        <state>CO</state>
+        <lastName>Bennet</lastName>
+        <firstName>Michael</firstName>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>GRANT</middleName>
+        <bioguideId>H000338</bioguideId>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <party>R</party>
+        <state>UT</state>
+        <lastName>HATCH</lastName>
+        <firstName>ORRIN</firstName>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H000338</bioguideId>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>C001113</bioguideId>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <party>D</party>
+        <state>NV</state>
+        <lastName>Cortez Masto</lastName>
+        <firstName>Catherine</firstName>
+        <sponsorshipDate>2017-09-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2299</lisID>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <bioguideId>C001088</bioguideId>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <party>D</party>
+        <state>DE</state>
+        <lastName>Coons</lastName>
+        <firstName>Christopher</firstName>
+        <sponsorshipDate>2017-09-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>P000449</bioguideId>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <party>R</party>
+        <state>OH</state>
+        <lastName>PORTMAN</lastName>
+        <firstName>ROB</firstName>
+        <sponsorshipDate>2017-09-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <party>D</party>
+        <state>CT</state>
+        <lastName>Blumenthal</lastName>
+        <firstName>Richard</firstName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>C001098</bioguideId>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <party>R</party>
+        <state>TX</state>
+        <lastName>Cruz</lastName>
+        <firstName>Ted</firstName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <bioguideId>D000563</bioguideId>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <party>D</party>
+        <state>IL</state>
+        <lastName>DURBIN</lastName>
+        <firstName>RICHARD</firstName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>F000062</bioguideId>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <lastName>FEINSTEIN</lastName>
+        <firstName>DIANNE</firstName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>ERNEST</middleName>
+        <bioguideId>G000386</bioguideId>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <party>R</party>
+        <state>IA</state>
+        <lastName>GRASSLEY</lastName>
+        <firstName>CHARLES</firstName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>Neely</middleName>
+        <bioguideId>K000393</bioguideId>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <party>R</party>
+        <state>LA</state>
+        <lastName>Kennedy</lastName>
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2303</lisID>
+          <gpoId />
+          <bioguideId>K000393</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>Roland</middleName>
+        <bioguideId>T000476</bioguideId>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <party>R</party>
+        <state>NC</state>
+        <lastName>Tillis</lastName>
+        <firstName>Thomas</firstName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>B000575</bioguideId>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <party>R</party>
+        <state>MO</state>
+        <lastName>Blunt</lastName>
+        <firstName>Roy</firstName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>Wood</middleName>
+        <bioguideId>H001076</bioguideId>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <party>D</party>
+        <state>NH</state>
+        <lastName>Hassan</lastName>
+        <firstName>Margaret</firstName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>M001153</bioguideId>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <party>R</party>
+        <state>AK</state>
+        <lastName>Murkowski</lastName>
+        <firstName>Lisa</firstName>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <laws />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>C001056</bioguideId>
+        <firstName>John</firstName>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001056</bioguideId>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <byRequestType />
+        <lastName>Cornyn</lastName>
+        <middleName />
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/53190</url>
+        <title>S. 1766, Sexual Assault Forensic Evidence Reporting Act of 2017</title>
+        <pubDate>2017-10-06T19:59:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <latestAction>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 231.</text>
+      <links />
+      <actionDate>2017-09-28</actionDate>
+    </latestAction>
+    <billType>S</billType>
+    <actions>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 231.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionDate>2017-09-28</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.</text>
+        <actionCode>14000</actionCode>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-06</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S5006</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5006</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S5006)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-09-06</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <introducedInSenate>1</introducedInSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToSenate>2</reportedToSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

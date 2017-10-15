@@ -1,0 +1,36 @@
+<bill session="115" type="s" number="1633" updated="2017-09-11T03:06:46Z">
+  <state datetime="2017-07-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-26"/>
+  </status>
+  <introduced datetime="2017-07-26"/>
+  <titles>
+    <title type="short" as="introduced">Recreation Not Red-Tape Act</title>
+    <title type="short" as="introduced">Recreation Not Red-Tape Act</title>
+    <title type="official" as="introduced">A bill to promote innovative approaches to outdoor recreation on Federal land and to open up opportunities for collaboration with non-Federal partners, and for other purposes.</title>
+    <title type="display">Recreation Not Red-Tape Act</title>
+  </titles>
+  <sponsor bioguide_id="W000779"/>
+  <cosponsors>
+    <cosponsor bioguide_id="E000295" joined="2017-09-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-26">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="3400"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

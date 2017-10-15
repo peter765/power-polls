@@ -1,0 +1,44 @@
+<bill session="115" type="h" number="2952" updated="2017-09-06T07:13:45Z">
+  <state datetime="2017-06-20">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-20"/>
+  </status>
+  <introduced datetime="2017-06-20"/>
+  <titles>
+    <title type="short" as="introduced">Foster Youth Mentoring Act of 2017</title>
+    <title type="short" as="introduced">Foster Youth Mentoring Act of 2017</title>
+    <title type="official" as="introduced">To support the establishment or expansion and operation of programs using a network of public and private community entities to provide mentoring for children in foster care.</title>
+    <title type="display">Foster Youth Mentoring Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="B001270"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001080" joined="2017-06-20"/>
+    <cosponsor bioguide_id="G000553" joined="2017-06-20"/>
+    <cosponsor bioguide_id="L000559" joined="2017-06-20"/>
+    <cosponsor bioguide_id="L000551" joined="2017-06-20"/>
+    <cosponsor bioguide_id="L000582" joined="2017-06-20"/>
+    <cosponsor bioguide_id="M001160" joined="2017-06-20"/>
+    <cosponsor bioguide_id="S001185" joined="2017-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-20">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-20" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2017-06-28">
+      <text>Referred to the Subcommittee on Human Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="Human Resources" code="HSWM03" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Families"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

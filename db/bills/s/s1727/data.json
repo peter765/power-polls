@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-08-02", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-08-02", 
+      "action_code": "", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1727-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001113", 
+      "district": null, 
+      "name": "Cortez Masto, Catherine", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-08-02", 
+      "state": "NV", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-08-02", 
+  "number": "1727", 
+  "official_title": "A bill to establish a naturalization office at every initial military training site.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2759-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "NATS Act", 
+  "sponsor": {
+    "bioguide_id": "D000622", 
+    "district": null, 
+    "name": "Duckworth, Tammy", 
+    "state": "IL", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-08-02", 
+  "subjects": [
+    "Armed forces and national security"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "NATS Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "NATS Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Naturalization At Training Sites Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Naturalization At Training Sites Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to establish a naturalization office at every initial military training site.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "NATS Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-09-11T03:06:49Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1727.xml"
+}

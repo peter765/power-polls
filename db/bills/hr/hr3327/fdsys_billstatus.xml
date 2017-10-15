@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>DON</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <identifiers>
+          <lisID>1256</lisID>
+          <bioguideId>Y000033</bioguideId>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <district>0</district>
+        <bioguideId>Y000033</bioguideId>
+        <lastName>YOUNG</lastName>
+        <state>AK</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>WALTER</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <identifiers>
+          <lisID>612</lisID>
+          <bioguideId>J000255</bioguideId>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <district>3</district>
+        <bioguideId>J000255</bioguideId>
+        <lastName>JONES</lastName>
+        <state>NC</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Roger</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <identifiers>
+          <lisID>2328</lisID>
+          <bioguideId>M001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>W.</middleName>
+        <district>1</district>
+        <bioguideId>M001198</bioguideId>
+        <lastName>Marshall</lastName>
+        <state>KS</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>FRANK</firstName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <identifiers>
+          <lisID>699</lisID>
+          <gpoId>8044</gpoId>
+          <bioguideId>L000554</bioguideId>
+        </identifiers>
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <district>2</district>
+        <bioguideId>L000554</bioguideId>
+        <lastName>LOBIONDO</lastName>
+        <state>NJ</state>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jared</firstName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <identifiers>
+          <lisID>2101</lisID>
+          <gpoId />
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>2</district>
+        <bioguideId>H001068</bioguideId>
+        <lastName>Huffman</lastName>
+        <state>CA</state>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Joaquin</firstName>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <identifiers>
+          <lisID>2163</lisID>
+          <bioguideId>C001091</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>20</district>
+        <bioguideId>C001091</bioguideId>
+        <lastName>Castro</lastName>
+        <state>TX</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>A000369</bioguideId>
+          <lisID>2090</lisID>
+          <gpoId>8366</gpoId>
+        </identifiers>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <district>2</district>
+        <bioguideId>A000369</bioguideId>
+        <lastName>Amodei</lastName>
+        <state>NV</state>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>T000460</bioguideId>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <firstName>MIKE</firstName>
+        <district>5</district>
+        <lastName>THOMPSON</lastName>
+        <byRequestType />
+        <identifiers>
+          <lisID>1593</lisID>
+          <bioguideId>T000460</bioguideId>
+          <gpoId>7806</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2017-08-21</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Emerging Threats and Capabilities.</text>
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-08-21</actionDate>
+        <committee>
+          <name>Emerging Threats and Capabilities Subcommittee</name>
+          <systemCode>hsas26</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Emerging Threats and Capabilities.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-07-20</actionDate>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-07-20</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-07-20</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Armed Services Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Emerging Threats and Capabilities Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-08-21T15:11:51Z</date>
+                </item>
+              </activities>
+              <systemCode>hsas26</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-20T13:02:35Z</date>
+            </item>
+          </activities>
+          <systemCode>hsas00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Jack Alderson Toxic Exposure Declassification Act</title>
+    <billNumber>3327</billNumber>
+    <introducedDate>2017-07-20</introducedDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <amendments />
+    <notes />
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. THOMPSON of California:H.R. 3327.Congress has the power to enact this legislation pursuantto the following:United States Constitution, Article I, Section 1.[Page H6146]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>115</congress>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Jack Alderson Toxic Exposure Declassification Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To require the Secretary of Defense to declassify certain documents related to incidents in which members of the Armed Forces were exposed to toxic substances.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Jack Alderson Toxic Exposure Declassification Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Jack Alderson Toxic Exposure Declassification Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <updateDate>2017-10-13T07:16:59Z</updateDate>
+    <createDate>2017-07-21T03:11:37Z</createDate>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

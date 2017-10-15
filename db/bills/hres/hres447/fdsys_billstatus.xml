@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HRES</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Canada</name>
+          </item>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Dominican Republic</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Ireland</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Protection of officials</name>
+          </item>
+          <item>
+            <name>Transportation costs</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>United Arab Emirates</name>
+          </item>
+          <item>
+            <name>United Kingdom</name>
+          </item>
+          <item>
+            <name>Uruguay</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <lastName>Watson Coleman</lastName>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+          <lisID>2259</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <firstName>Bonnie</firstName>
+        <bioguideId>W000822</bioguideId>
+        <state>NJ</state>
+        <district>12</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <reportedToHouse>1</reportedToHouse>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <actionCode>H12420</actionCode>
+        <text>Placed on the House Calendar, Calendar No. 74.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <type>Calendars</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <actionCode>H12200</actionCode>
+        <text>Reported adversely by the Committee on Homeland Security. H. Rept. 115-270.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-270</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/270</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <actionCode>5000</actionCode>
+        <text>Reported adversely by the Committee on Homeland Security. H. Rept. 115-270.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-270</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/270</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-14</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-14</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-14</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Directs the Department of Homeland Security (DHS) to transmit to the House of Representatives copies of any DHS document or communication that refers or relates to:</p> <ul> <li> a payment to a business owned or controlled by Donald J. Trump, the Trump Organization or any of its subsidiaries, or any member of the Trump family in the past three years;</li> <li> an expenditure by DHS for services or goods from a business owned or controlled by Donald J. Trump, the Trump Organization or any of its subsidiaries, or any member of the Trump family;</li> <li> costs to DHS associated with the protection of Donald J. Trump or any member of his family or the Trump Organization while on international travel that has not been documented by DHS as in furtherance of the U.S. government; and</li> <li> costs to DHS associated with Eric Trump's trips to Uruguay in January 2017, the Dominican Republic in February 2017, or the United Kingdom and the Republic of Ireland in April 2017 or with trips by Donald Trump, Jr., and Eric Trump to the United Arab Emirates in February 2017or Canada in February 2017.</li> </ul>]]></text>
+          <lastSummaryUpdateDate>2017-10-02T19:54:25Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-07-14</actionDate>
+          <updateDate>2017-07-14T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Directs the Department of Homeland Security (DHS) to transmit to the House of Representatives copies of any DHS document or communication that refers or relates to:</p> <ul> <li> a payment to a business owned or controlled by Donald J. Trump, the Trump Organization or any of its subsidiaries, or any member of the Trump family in the past three years;</li> <li> an expenditure by DHS for services or goods from a business owned or controlled by Donald J. Trump, the Trump Organization or any of its subsidiaries, or any member of the Trump family;</li> <li> costs to DHS associated with the protection of Donald J. Trump or any member of his family or the Trump Organization while on international travel that has not been documented by DHS as in furtherance of the U.S. government; and</li> <li> costs to DHS associated with Eric Trump's trips to Uruguay in January 2017, the Dominican Republic in February 2017, or the United Kingdom and the Republic of Ireland in April 2017 or with trips by Donald Trump, Jr., and Eric Trump to the United Arab Emirates in February 2017or Canada in February 2017.</li> </ul>]]></text>
+          <lastSummaryUpdateDate>2017-10-02T19:55:20Z</lastSummaryUpdateDate>
+          <versionCode>79</versionCode>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <actionDate>2017-07-28</actionDate>
+          <updateDate>2017-07-28T13:37:27Z</updateDate>
+          <name>Reported to House without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-07-14</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-07-28T17:20:46Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-07-26T13:49:53Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-14T13:00:31Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Directing the Secretary of Homeland Security to transmit certain documents to the House of Representatives relating to Department of Homeland Security policies and activities relating to businesses owned or controlled by President Donald J. Trump.</title>
+    <congress>115</congress>
+    <calendarNumbers>
+      <item>
+        <calendar>H00074</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <relatedBills />
+    <latestAction>
+      <actionDate>2017-07-28</actionDate>
+      <text>Placed on the House Calendar, Calendar No. 74.</text>
+      <links />
+    </latestAction>
+    <createDate>2017-07-15T03:11:31Z</createDate>
+    <updateDate>2017-10-02T20:00:13Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <billNumber>447</billNumber>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Directing the Secretary of Homeland Security to transmit certain documents to the House of Representatives relating to Department of Homeland Security policies and activities relating to businesses owned or controlled by President Donald J. Trump.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Directing the Secretary of Homeland Security to transmit certain documents to the House of Representatives relating to Department of Homeland Security policies and activities relating to businesses owned or controlled by President Donald J. Trump.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <lastName>THOMPSON</lastName>
+        <bioguideId>T000193</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>BENNIE</firstName>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>T000193</bioguideId>
+          <lisID>1151</lisID>
+          <gpoId>8020</gpoId>
+        </identifiers>
+        <state>MS</state>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>10</district>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <lastName>Payne</lastName>
+        <bioguideId>P000604</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Donald</firstName>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>P000604</bioguideId>
+          <lisID>2097</lisID>
+          <gpoId>8373</gpoId>
+        </identifiers>
+        <state>NJ</state>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>10</district>
+        <fullName>Rep. Demings, Val Butler [D-FL-10]</fullName>
+        <lastName>Demings</lastName>
+        <bioguideId>D000627</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Val</firstName>
+        <middleName>Butler</middleName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2320</lisID>
+          <bioguideId>D000627</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>44</district>
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+        <lastName>Barragan</lastName>
+        <bioguideId>B001300</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Nanette</firstName>
+        <middleName>Diaz</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001300</bioguideId>
+          <lisID>2311</lisID>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <lastName>LANGEVIN</lastName>
+        <bioguideId>L000559</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+        <middleName>R.</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000559</bioguideId>
+          <lisID>1668</lisID>
+          <gpoId>8140</gpoId>
+        </identifiers>
+        <state>RI</state>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>46</district>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <lastName>Correa</lastName>
+        <bioguideId>C001110</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>J.</firstName>
+        <middleName>Luis</middleName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001110</bioguideId>
+          <lisID>2312</lisID>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <lastName>Jayapal</lastName>
+        <bioguideId>J000298</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Pramila</firstName>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>J000298</bioguideId>
+          <lisID>2354</lisID>
+          <gpoId />
+        </identifiers>
+        <state>WA</state>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <notes />
+    <amendments />
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-270</citation>
+      </committeeReport>
+    </committeeReports>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

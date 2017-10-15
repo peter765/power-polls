@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <actionDate>2017-10-05</actionDate>
+    </latestAction>
+    <laws />
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-05T13:03:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HRES</billType>
+    <calendarNumbers />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2017-10-05</introducedDate>
+    <createDate>2017-10-06T03:11:17Z</createDate>
+    <amendments />
+    <cboCostEstimates />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <firstName>JANICE</firstName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001145</bioguideId>
+        <state>IL</state>
+        <lastName>SCHAKOWSKY</lastName>
+        <district>9</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <firstName>BOBBY</firstName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000515</bioguideId>
+        <state>IL</state>
+        <lastName>RUSH</lastName>
+        <district>1</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2190</lisID>
+          <bioguideId>K000385</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <firstName>Robin</firstName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000385</bioguideId>
+        <state>IL</state>
+        <lastName>Kelly</lastName>
+        <district>2</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+          <lisID>1967</lisID>
+          <gpoId>7925</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>Q000023</bioguideId>
+        <state>IL</state>
+        <lastName>Quigley</lastName>
+        <district>5</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>K000391</bioguideId>
+          <gpoId />
+          <lisID>2325</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <firstName>Raja</firstName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000391</bioguideId>
+        <state>IL</state>
+        <lastName>Krishnamoorthi</lastName>
+        <district>8</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000535</bioguideId>
+          <lisID>478</lisID>
+          <gpoId>7924</gpoId>
+        </identifiers>
+        <middleName>V.</middleName>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <firstName>LUIS</firstName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000535</bioguideId>
+        <state>IL</state>
+        <lastName>GUTIERREZ</lastName>
+        <district>4</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001295</bioguideId>
+          <lisID>2243</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001295</bioguideId>
+        <state>IL</state>
+        <lastName>Bost</lastName>
+        <district>12</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7923</gpoId>
+          <bioguideId>L000563</bioguideId>
+          <lisID>1781</lisID>
+        </identifiers>
+        <middleName>William</middleName>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <firstName>Daniel</firstName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000563</bioguideId>
+        <state>IL</state>
+        <lastName>Lipinski</lastName>
+        <district>3</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <relatedBills />
+    <title>Recognizing Navy Pier as a public community resource and treasured Chicago landmark.</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-10-05</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-10-05</actionDate>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-10-05</actionDate>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <constitutionalAuthorityStatementText />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <chamberName />
+        <title>Recognizing Navy Pier as a public community resource and treasured Chicago landmark.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Recognizing Navy Pier as a public community resource and treasured Chicago landmark.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2017-10-06T12:30:20Z</updateDate>
+    <sponsors>
+      <item>
+        <middleName>K.</middleName>
+        <firstName>DANNY</firstName>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <bioguideId>D000096</bioguideId>
+        <lastName>DAVIS</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <district>7</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billNumber>559</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,50 @@
+<bill session="115" type="h" number="2887" updated="2017-10-04T07:16:16Z">
+  <state datetime="2017-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-12"/>
+  </status>
+  <introduced datetime="2017-06-12"/>
+  <titles>
+    <title type="short" as="introduced">No Regulation Without Representation Act of 2017</title>
+    <title type="short" as="introduced">No Regulation Without Representation Act of 2017</title>
+    <title type="official" as="introduced">To regulate certain State impositions on interstate commerce.</title>
+    <title type="display">No Regulation Without Representation Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="S000244"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001062" joined="2017-06-12"/>
+    <cosponsor bioguide_id="D000616" joined="2017-06-12"/>
+    <cosponsor bioguide_id="G000289" joined="2017-06-12"/>
+    <cosponsor bioguide_id="G000576" joined="2017-06-12"/>
+    <cosponsor bioguide_id="L000569" joined="2017-10-03"/>
+    <cosponsor bioguide_id="M001177" joined="2017-06-12"/>
+    <cosponsor bioguide_id="M001187" joined="2017-06-12"/>
+    <cosponsor bioguide_id="P000258" joined="2017-06-22"/>
+    <cosponsor bioguide_id="R000409" joined="2017-06-13"/>
+    <cosponsor bioguide_id="T000475" joined="2017-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-12">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-12" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-07-19">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Regulatory Reform, Commercial And Antitrust Law" code="HSJU05" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Sales and excise taxes"/>
+    <term name="State and local taxation"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

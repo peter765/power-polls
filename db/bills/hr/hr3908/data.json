@@ -1,0 +1,94 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-02", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-02", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3908-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-02", 
+  "number": "3908", 
+  "official_title": "To authorize the Attorney General to award grants to eligible entities to prevent or alleviate community violence by providing education, mentoring, and counseling services to children, adolescents, teachers, families, and community leaders on the principles and practice of nonviolence.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Securing American Families by Educating and Training You (SAFETY) Through Nonviolence Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "L000287", 
+    "district": "5", 
+    "name": "Lewis, John", 
+    "state": "GA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-02", 
+  "subjects": [
+    "Education"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Securing American Families by Educating and Training You (SAFETY) Through Nonviolence Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Securing American Families by Educating and Training You (SAFETY) Through Nonviolence Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the Attorney General to award grants to eligible entities to prevent or alleviate community violence by providing education, mentoring, and counseling services to children, adolescents, teachers, families, and community leaders on the principles and practice of nonviolence.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Securing American Families by Educating and Training You (SAFETY) Through Nonviolence Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-06T13:30:20Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3908.xml"
+}

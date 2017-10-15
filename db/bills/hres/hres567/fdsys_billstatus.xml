@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing support for the physician assistant (PA) profession and the designation of the week of October 6 through 12, 2017, as "National PA Week".</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing support for the physician assistant (PA) profession and the designation of the week of October 6 through 12, 2017, as "National PA Week".</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <title>Expressing support for the physician assistant (PA) profession and the designation of the week of October 6 through 12, 2017, as "National PA Week".</title>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-10-11T14:02:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>567</billNumber>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <lastName>Grijalva</lastName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <bioguideId>G000551</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Raul</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>2298</lisID>
+          <bioguideId>E000296</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Evans</lastName>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <bioguideId>E000296</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Dwight</firstName>
+      </item>
+    </cosponsors>
+    <updateDate>2017-10-12T19:00:15Z</updateDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>Bass</lastName>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1996</lisID>
+          <bioguideId>B001270</bioguideId>
+          <gpoId>7838</gpoId>
+        </identifiers>
+        <bioguideId>B001270</bioguideId>
+        <district>37</district>
+        <middleName />
+        <firstName>Karen</firstName>
+        <byRequestType />
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText />
+    <notes />
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-10-11</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-10-11</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-10-11</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <createDate>2017-10-12T03:11:18Z</createDate>
+    <billType>HRES</billType>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2017-10-11</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </latestAction>
+    <committeeReports />
+    <congress>115</congress>
+    <introducedDate>2017-10-11</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

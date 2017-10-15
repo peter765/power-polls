@@ -1,0 +1,43 @@
+<bill session="115" type="h" number="4013" updated="2017-10-13T07:17:33Z">
+  <state datetime="2017-10-11">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-11"/>
+  </status>
+  <introduced datetime="2017-10-11"/>
+  <titles>
+    <title type="short" as="introduced">2020 American Census Investment Act</title>
+    <title type="short" as="introduced">2020 American Census Investment Act</title>
+    <title type="official" as="introduced">Making appropriations for the Bureau of the Census for the fiscal year ending September 30, 2018.</title>
+    <title type="display">2020 American Census Investment Act</title>
+  </titles>
+  <sponsor bioguide_id="M000087"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001304" joined="2017-10-12"/>
+    <cosponsor bioguide_id="C001080" joined="2017-10-11"/>
+    <cosponsor bioguide_id="C000984" joined="2017-10-11"/>
+    <cosponsor bioguide_id="E000288" joined="2017-10-11"/>
+    <cosponsor bioguide_id="E000297" joined="2017-10-12"/>
+    <cosponsor bioguide_id="G000574" joined="2017-10-11"/>
+    <cosponsor bioguide_id="J000032" joined="2017-10-12"/>
+    <cosponsor bioguide_id="L000580" joined="2017-10-11"/>
+    <cosponsor bioguide_id="N000147" joined="2017-10-12"/>
+    <cosponsor bioguide_id="T000472" joined="2017-10-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-11">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-11" state="REFERRED">
+      <text>Referred to the House Committee on Appropriations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

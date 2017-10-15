@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Azerbaijan</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Economic development</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>News media and reporting</name>
+          </item>
+          <item>
+            <name>Protest and dissent</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Rule of law and government transparency</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <titles>
+      <item>
+        <chamberName />
+        <title>Promoting United States national security and foreign policy objectives through consolidation and strengthening of the rule of law and respect for human rights in the Republic of Azerbaijan.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Promoting United States national security and foreign policy objectives through consolidation and strengthening of the rule of law and respect for human rights in the Republic of Azerbaijan.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <laws />
+    <introducedDate>2017-09-26</introducedDate>
+    <cboCostEstimates />
+    <title>Promoting United States national security and foreign policy objectives through consolidation and strengthening of the rule of law and respect for human rights in the Republic of Azerbaijan.</title>
+    <recordedVotes />
+    <billType>HRES</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <actionDate>2017-09-26</actionDate>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-09-26</actionDate>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-09-26</actionDate>
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <billNumber>537</billNumber>
+    <createDate>2017-09-27T03:11:21Z</createDate>
+    <constitutionalAuthorityStatementText />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <bioguideId>M000312</bioguideId>
+        <middleName>P.</middleName>
+        <lastName>MCGOVERN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MA</state>
+        <firstName>JAMES</firstName>
+        <district>2</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <state>NJ</state>
+        <party>R</party>
+        <middleName>H.</middleName>
+        <bioguideId>S000522</bioguideId>
+        <identifiers>
+          <bioguideId>S000522</bioguideId>
+          <gpoId>8046</gpoId>
+          <lisID>1071</lisID>
+        </identifiers>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <district>4</district>
+        <firstName>CHRISTOPHER</firstName>
+        <byRequestType />
+        <lastName>SMITH</lastName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-26T14:00:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-10-04T17:45:11Z</updateDate>
+    <congress>115</congress>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <latestAction>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <actionDate>2017-09-26</actionDate>
+      <links />
+    </latestAction>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

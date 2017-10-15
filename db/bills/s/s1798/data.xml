@@ -1,0 +1,36 @@
+<bill session="115" type="s" number="1798" updated="2017-09-22T12:43:18Z">
+  <state datetime="2017-09-12">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-12"/>
+  </status>
+  <introduced datetime="2017-09-12"/>
+  <titles>
+    <title type="short" as="introduced">Federal Flood Management Act of 2017</title>
+    <title type="short" as="introduced">Federal Flood Management Act of 2017</title>
+    <title type="official" as="introduced">A bill to establish a Federal standard in order to improve the Nation's resilience to current and future flood risk.</title>
+    <title type="display">Federal Flood Management Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="V000128"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001288" joined="2017-09-12"/>
+    <cosponsor bioguide_id="S001194" joined="2017-09-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-12">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-09-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <reference ref="CR S5219" label="Sponsor introductory remarks on measure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

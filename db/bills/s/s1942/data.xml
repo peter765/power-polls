@@ -1,0 +1,35 @@
+<bill session="115" type="s" number="1942" updated="2017-10-10T12:27:09Z">
+  <state datetime="2017-10-05">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-05"/>
+  </status>
+  <introduced datetime="2017-10-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Attorney General to review, revise, and develop law enforcement and justice protocols appropriate to address missing and murdered Indians, and for other purposes.</title>
+    <title type="display">A bill to direct the Attorney General to review, revise, and develop law enforcement and justice protocols appropriate to address missing and murdered Indians, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="H001069"/>
+  <cosponsors>
+    <cosponsor bioguide_id="F000457" joined="2017-10-05"/>
+    <cosponsor bioguide_id="H001046" joined="2017-10-05"/>
+    <cosponsor bioguide_id="M001176" joined="2017-10-05"/>
+    <cosponsor bioguide_id="T000464" joined="2017-10-05"/>
+    <cosponsor bioguide_id="W000817" joined="2017-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-05">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-10-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+      <reference ref="CR S6363-6365" label="Sponsor introductory remarks on measure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SLIA" name="Senate Indian Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

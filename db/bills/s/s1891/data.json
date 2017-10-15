@@ -1,0 +1,94 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-28", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-28", 
+      "action_code": "", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1891-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-28", 
+  "number": "1891", 
+  "official_title": "A bill to promote peace and justice in Afghanistan, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Promoting Peace and Justice for the People of Afghanistan Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "C000141", 
+    "district": null, 
+    "name": "Cardin, Benjamin L.", 
+    "state": "MD", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-28", 
+  "subjects": [
+    "International affairs"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Promoting Peace and Justice for the People of Afghanistan Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Promoting Peace and Justice for the People of Afghanistan Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to promote peace and justice in Afghanistan, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Promoting Peace and Justice for the People of Afghanistan Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-11T04:29:28Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1891.xml"
+}

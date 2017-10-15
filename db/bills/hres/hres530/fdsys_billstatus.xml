@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-09-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <district>10</district>
+        <firstName>Tom</firstName>
+        <party>R</party>
+        <lastName>Marino</lastName>
+        <middleName />
+        <bioguideId>M001179</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2053</lisID>
+          <bioguideId>M001179</bioguideId>
+          <gpoId>8128</gpoId>
+        </identifiers>
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <district>6</district>
+        <firstName>Bill</firstName>
+        <party>R</party>
+        <lastName>Johnson</lastName>
+        <middleName />
+        <bioguideId>J000292</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2046</lisID>
+          <bioguideId>J000292</bioguideId>
+          <gpoId>8096</gpoId>
+        </identifiers>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <middleName>B.</middleName>
+        <bioguideId>R000586</bioguideId>
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <party>R</party>
+        <state>OH</state>
+        <firstName>James</firstName>
+        <district>16</district>
+        <lastName>Renacci</lastName>
+        <byRequestType />
+        <identifiers>
+          <lisID>2048</lisID>
+          <bioguideId>R000586</bioguideId>
+          <gpoId>8106</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2017-09-21</actionDate>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-09-21</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-09-21</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-09-21</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-21T15:01:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Supporting initiatives by President Trump to create a new age of American prosperity by reducing the crushing tax burden on American families and American companies.</title>
+    <billNumber>530</billNumber>
+    <introducedDate>2017-09-21</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-09-21T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Affirms the leadership and commitment of President Trump to simplify the tax code and supports tax policies such as raising the standard deduction, increasing the child tax credit, lowering rates, and changing the corporate tax system to a territorial system. </p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-10-11T19:50:28Z</lastSummaryUpdateDate>
+          <actionDate>2017-09-21</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <amendments />
+    <notes />
+    <billType>HRES</billType>
+    <cboCostEstimates />
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <congress>115</congress>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Supporting initiatives by President Trump to create a new age of American prosperity by reducing the crushing tax burden on American families and American companies.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Supporting initiatives by President Trump to create a new age of American prosperity by reducing the crushing tax burden on American families and American companies.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <updateDate>2017-10-11T20:00:14Z</updateDate>
+    <createDate>2017-09-22T03:11:18Z</createDate>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

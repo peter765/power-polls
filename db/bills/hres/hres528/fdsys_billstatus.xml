@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Burma</name>
+          </item>
+          <item>
+            <name>Citizenship and naturalization</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Refugees, asylum, displaced persons</name>
+          </item>
+          <item>
+            <name>United Nations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-10-13T07:15:37Z</updateDate>
+    <amendments />
+    <calendarNumbers />
+    <notes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <actionDate>2017-09-14</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-09-14</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-09-14</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>L000263</bioguideId>
+          <lisID>683</lisID>
+          <gpoId>7997</gpoId>
+        </identifiers>
+        <bioguideId>L000263</bioguideId>
+        <party>D</party>
+        <district>9</district>
+        <firstName>SANDER</firstName>
+        <middleName>M.</middleName>
+        <state>MI</state>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+        <lastName>LEVIN</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-09-07</actionDate>
+          <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S5059-5061)</text>
+        </latestAction>
+        <number>250</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>SRES</type>
+        <congress>115</congress>
+        <latestTitle>A resolution condemning horrific acts of violence against Burma's Rohingya population and calling on Aung San Suu Kyi to play an active role in ending this humanitarian tragedy.</latestTitle>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+        <lastName>Shea-Porter</lastName>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <bioguideId>S001170</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Carol</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>462</lisID>
+          <bioguideId>G000410</bioguideId>
+          <gpoId>8185</gpoId>
+        </identifiers>
+        <lastName>GREEN</lastName>
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <bioguideId>G000410</bioguideId>
+        <district>29</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>GENE</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+          <gpoId />
+          <lisID>2308</lisID>
+        </identifiers>
+        <lastName>Khanna</lastName>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <bioguideId>K000389</bioguideId>
+        <district>17</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ro</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName>HOLMES</middleName>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <lastName>NORTON</lastName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <bioguideId>N000147</bioguideId>
+        <district>0</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>DC</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELEANOR</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+          <bioguideId>C001077</bioguideId>
+        </identifiers>
+        <lastName>Coffman</lastName>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <bioguideId>C001077</bioguideId>
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <middleName>B.</middleName>
+        <identifiers>
+          <bioguideId>S001150</bioguideId>
+          <gpoId>7834</gpoId>
+          <lisID>1635</lisID>
+        </identifiers>
+        <lastName>SCHIFF</lastName>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <bioguideId>S001150</bioguideId>
+        <district>28</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>ADAM</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+          <lisID>1879</lisID>
+        </identifiers>
+        <lastName>Welch</lastName>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <bioguideId>W000800</bioguideId>
+        <district>0</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VT</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Peter</firstName>
+      </item>
+    </cosponsors>
+    <billType>HRES</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-09-15T03:11:18Z</createDate>
+    <title>Condemning horrific acts of violence against Burma's Rohingya population and calling on Aung San Suu Kyi to play an active role in ending this humanitarian tragedy.</title>
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <laws />
+    <latestAction>
+      <actionDate>2017-09-14</actionDate>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Condemning horrific acts of violence against Burma's Rohingya population and calling on Aung San Suu Kyi to play an active role in ending this humanitarian tragedy.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Condemning horrific acts of violence against Burma's Rohingya population and calling on Aung San Suu Kyi to play an active role in ending this humanitarian tragedy.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <billNumber>528</billNumber>
+    <introducedDate>2017-09-14</introducedDate>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-14T13:02:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

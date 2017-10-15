@@ -1,0 +1,38 @@
+<bill session="115" type="hr" number="536" updated="2017-09-26T19:01:22Z">
+  <state datetime="2017-09-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-25"/>
+  </status>
+  <introduced datetime="2017-09-25"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for the designation of September 25, 2017, as "National Lobster Day".</title>
+    <title type="display">Expressing support for the designation of September 25, 2017, as "National Lobster Day".</title>
+  </titles>
+  <sponsor bioguide_id="P000611"/>
+  <cosponsors>
+    <cosponsor bioguide_id="P000597" joined="2017-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-25" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="115" relation="unknown" number="221"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Food industry and services"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Seafood"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

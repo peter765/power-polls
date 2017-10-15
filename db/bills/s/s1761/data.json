@@ -1,0 +1,125 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-08-18", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-08-18", 
+      "action_code": "", 
+      "committees": [
+        "SLIN"
+      ], 
+      "references": [], 
+      "text": "Select Committee on Intelligence. Original measure reported to Senate by Senator Burr under authority of the order of the Senate of 08/03/2017. Without written report.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-08-18", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "207", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 207.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2017-09-07", 
+      "action_code": "", 
+      "committees": [
+        "SLIN"
+      ], 
+      "references": [], 
+      "text": "By Senator Burr from Select Committee on Intelligence filed written report. Report No. 115-151. Additional and Minority views filed.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1761-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [
+    "S. Rept. 115-151"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "Senate Intelligence", 
+      "committee_id": "SLIN"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-08-18", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-08-18", 
+  "number": "1761", 
+  "official_title": "An original bill to authorize appropriations for fiscal year 2018 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3180-115", 
+      "identified_by": "House", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Intelligence Authorization Act for Fiscal Year 2018", 
+  "sponsor": {
+    "bioguide_id": "B001135", 
+    "district": null, 
+    "name": "Burr, Richard", 
+    "state": "NC", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-08-18", 
+  "subjects": [
+    "Armed forces and national security"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Intelligence Authorization Act for Fiscal Year 2018", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Securing Energy Infrastructure Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "An original bill to authorize appropriations for fiscal year 2018 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Intelligence Authorization Act for Fiscal Year 2018", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-09-22T14:57:11Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1761.xml"
+}

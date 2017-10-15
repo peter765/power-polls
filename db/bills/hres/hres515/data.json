@@ -1,0 +1,123 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-13", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Rules.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres515-115", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001080", 
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-13", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000580", 
+      "district": "1", 
+      "name": "Lujan Grisham, Michelle", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-13", 
+      "state": "NM", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000607", 
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-13", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000588", 
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-13", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-13", 
+  "number": "515", 
+  "official_title": "Establishing the Select Committee on White Supremacy and Domestic Terror Movements.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "C001038", 
+    "district": "14", 
+    "name": "Crowley, Joseph", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-13", 
+  "subjects": [
+    "Congress"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Establishing the Select Committee on White Supremacy and Domestic Terror Movements.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Establishing the Select Committee on White Supremacy and Domestic Terror Movements.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-09-14T12:00:10Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hres/BILLSTATUS-115hres515.xml"
+}

@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes>
+      <recordedVote>
+        <chamber>House</chamber>
+        <date>2017-03-16T18:06:59Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll163.xml</url>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>163</rollNumber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <congress>115</congress>
+      </recordedVote>
+      <recordedVote>
+        <chamber>House</chamber>
+        <date>2017-03-16T17:59:07Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll162.xml</url>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>162</rollNumber>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <congress>115</congress>
+      </recordedVote>
+    </recordedVotes>
+    <billType>HRES</billType>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Veterans 2nd Amendment Protection Act</latestTitle>
+        <number>1181</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-03-22</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 21.</text>
+        </latestAction>
+      </item>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>VA Accountability First Act of 2017</latestTitle>
+        <number>1259</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-03-21</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+        </latestAction>
+      </item>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes.</latestTitle>
+        <number>1367</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-03-21</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-03-15T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 1259) to amend title 38, United States Code, to provide for the removal or demotion of employees of the Department of Veterans Affairs based on performance or misconduct, and for other purposes; providing for consideration of the bill (H.R. 1367) to improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes; and providing for consideration of the bill (H.R. 1181) to amend title 38, United States Code, to clarify the conditions under which certain persons may be treated as adjudicated mentally incompetent for certain purposes.]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2017-03-15</actionDate>
+          <lastSummaryUpdateDate>2017-03-16T08:03:30Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <bioguideId>B001297</bioguideId>
+        <state>CO</state>
+        <fullName>Rep. Buck, Ken [R-CO-4]</fullName>
+        <party>R</party>
+        <district>4</district>
+        <byRequestType />
+        <middleName />
+        <firstName>Ken</firstName>
+        <lastName>Buck</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2233</lisID>
+          <bioguideId>B001297</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-39</citation>
+      </committeeReport>
+    </committeeReports>
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2017-03-16T00:05:39Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>2</considerationByHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <generalDebate>2</generalDebate>
+        <reportedToHouse>1</reportedToHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <actionCode>H38310</actionCode>
+        <actionTime>14:07:01</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-03-16</actionDate>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H2094</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2094</url>
+          </link>
+          <link>
+            <name>Roll no. 163</name>
+            <url>http://clerk.house.gov/evs/2017/roll163.xml</url>
+          </link>
+        </links>
+        <actionCode>H37100</actionCode>
+        <actionTime>14:06:59</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-03-16</actionDate>
+        <committee />
+        <text>On agreeing to the resolution Agreed to by recorded vote: 229 - 187 (Roll no. 163). (text: CR H2094)</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H2094</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2094</url>
+          </link>
+          <link>
+            <name>Roll no. 163</name>
+            <url>http://clerk.house.gov/evs/2017/roll163.xml</url>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <actionTime>14:06:59</actionTime>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-03-16</actionDate>
+        <committee />
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 229 - 187 (Roll no. 163).(text: CR H2094)</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H2100-2101</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2100-2101</url>
+          </link>
+          <link>
+            <name>Roll no. 162</name>
+            <url>http://clerk.house.gov/evs/2017/roll162.xml</url>
+          </link>
+        </links>
+        <actionCode>H35000</actionCode>
+        <actionTime>13:59:07</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-03-16</actionDate>
+        <committee />
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 227 - 185 (Roll no. 162). (consideration: CR H2100-2101)</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H2100-2102</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2100-2102</url>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <actionTime>13:36:25</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-03-16</actionDate>
+        <committee />
+        <text>Considered as unfinished business. (consideration: CR H2100-2102)</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H. Res. 198</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/198</url>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <actionTime>13:30:52</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-03-16</actionDate>
+        <committee />
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 198, the Chair put the question on ordering the previous question, and by voice vote announced that the ayes had prevailed. Mr. Hastings demanded the yeas and nays, and the Chair postponed further proceedings on the question of ordering the previous question until later in the legislative day.</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H. Res. 198</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/198</url>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <actionTime>12:39:05</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-03-16</actionDate>
+        <committee />
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 198.</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H2094-2100</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2094-2100</url>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <actionTime>12:33:55</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-03-16</actionDate>
+        <committee />
+        <text>Considered as privileged matter. (consideration: CR H2094-2100)</text>
+      </item>
+      <item>
+        <text>Placed on the House Calendar, Calendar No. 21.</text>
+        <actionCode>H12420</actionCode>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Calendars</type>
+        <actionDate>2017-03-15</actionDate>
+        <committee />
+      </item>
+      <item>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-39, by Mr. Buck.</text>
+        <actionCode>H12100</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-39</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/39</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2017-03-15</actionDate>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-39, by Mr. Buck.</text>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-39</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/39</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2017-03-15</actionDate>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-15</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-03-15</introducedDate>
+    <constitutionalAuthorityStatementText />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Providing for consideration of the bill (H.R. 1259) to amend title 38, United States Code, to provide for the removal or demotion of employees of the Department of Veterans Affairs based on performance or misconduct, and for other purposes; providing for consideration of the bill (H.R. 1367) to improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes; and providing for consideration of the bill (H.R. 1181) to amend title 38, United States Code, to clarify the conditions under which certain persons may be treated as adjudicated mentally incompetent for certain purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Providing for consideration of the bill (H.R. 1259) to amend title 38, United States Code, to provide for the removal or demotion of employees of the Department of Veterans Affairs based on performance or misconduct, and for other purposes; providing for consideration of the bill (H.R. 1367) to improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes; and providing for consideration of the bill (H.R. 1181) to amend title 38, United States Code, to clarify the conditions under which certain persons may be treated as adjudicated mentally incompetent for certain purposes.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <latestAction>
+      <links />
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionDate>2017-03-16</actionDate>
+      <actionTime>14:07:01</actionTime>
+    </latestAction>
+    <billNumber>198</billNumber>
+    <amendments />
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <calendarNumbers>
+      <item>
+        <calendar>H00021</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <updateDate>2017-08-10T13:23:04Z</updateDate>
+    <createDate>2017-03-16T05:28:09Z</createDate>
+    <title>Providing for consideration of the bill (H.R. 1259) to amend title 38, United States Code, to provide for the removal or demotion of employees of the Department of Veterans Affairs based on performance or misconduct, and for other purposes; providing for consideration of the bill (H.R. 1367) to improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes; and providing for consideration of the bill (H.R. 1181) to amend title 38, United States Code, to clarify the conditions under which certain persons may be treated as adjudicated mentally incompetent for certain purposes.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

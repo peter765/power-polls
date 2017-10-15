@@ -1,0 +1,88 @@
+<bill session="115" type="s" number="1107" updated="2017-10-13T07:18:46Z">
+  <state datetime="2017-09-05">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2017-09-05"/>
+  </status>
+  <introduced datetime="2017-05-11"/>
+  <titles>
+    <title type="short" as="introduced">Bankruptcy Judgeship Act of 2017</title>
+    <title type="short" as="introduced">Bankruptcy Judgeship Act of 2017</title>
+    <title type="short" as="passed senate">Bankruptcy Judgeship Act of 2017</title>
+    <title type="short" as="passed senate">Bankruptcy Judgeship Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend title 28, United States Code, to authorize the appointment of additional bankruptcy judges, and for other purposes.</title>
+    <title type="display">Bankruptcy Judgeship Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C001088"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001135" joined="2017-05-24"/>
+    <cosponsor bioguide_id="C000174" joined="2017-05-11"/>
+    <cosponsor bioguide_id="C001113" joined="2017-05-11"/>
+    <cosponsor bioguide_id="H000338" joined="2017-05-11"/>
+    <cosponsor bioguide_id="N000032" joined="2017-05-11"/>
+    <cosponsor bioguide_id="R000595" joined="2017-05-11"/>
+    <cosponsor bioguide_id="S000770" joined="2017-05-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-11">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-09-05">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S4956" label="consideration"/>
+    </action>
+    <action datetime="2017-09-05">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2017-09-05" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2017-09-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2017-09-06T10:26:51-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2017-09-06T20:13:36-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Discharged, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1237"/>
+    <bill type="h" session="115" relation="unknown" number="136"/>
+    <bill type="h" session="115" relation="unknown" number="2266"/>
+    <bill type="s" session="115" relation="unknown" number="632"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Bankruptcy"/>
+    <term name="Caribbean area"/>
+    <term name="Delaware"/>
+    <term name="Florida"/>
+    <term name="Judges"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Maryland"/>
+    <term name="Michigan"/>
+    <term name="Nevada"/>
+    <term name="North Carolina"/>
+    <term name="Puerto Rico"/>
+    <term name="U.S. territories and protectorates"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments>
+    <amendment number="s787"/>
+  </amendments>
+  <summary date="2017-05-11T04:00:00Z" status="Introduced in Senate">Bankruptcy Judgeship Act of 2017 
+
+This bill amends the federal judicial code to:
+
+ convert certain temporary bankruptcy judges to permanent bankruptcy judges and authorize the appointment of additional bankruptcy judges in Delaware and Michigan; convert temporary bankruptcy judges to permanent bankruptcy judges in specified judicial districts in Florida, Maryland, Nevada, North Carolina, Puerto Rico, and Virginia; and authorize the appointment of an additional bankruptcy judge in the middle district of Florida. The bill increases the quarterly fee payable to the U.S. trustee by chapter 11 (reorganization) debtors whose disbursements equal or exceed $1 million in a fiscal year unless the balance in the United States Trustee System Fund exceeds $200 million.
+
+For FY2018-FY2022, 97.5% of the quarterly U.S. trustee fees shall be deposited as offsetting collections to the United States Trustee System Fund and 2.5% shall be deposited in the general fund of the Treasury.</summary>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="115" type="s" number="1915" updated="2017-10-12T13:00:20Z">
+  <state datetime="2017-10-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-04"/>
+  </status>
+  <introduced datetime="2017-10-04"/>
+  <titles>
+    <title type="short" as="introduced">Handgun Trigger Safety Act of 2017</title>
+    <title type="short" as="introduced">Handgun Trigger Safety Act of 2017</title>
+    <title type="official" as="introduced">A bill to provide for the development and use of technology for personalized handguns, to require that all handguns manufactured or sold in, or imported into, the United States incorporate such technology, and for other purposes.</title>
+    <title type="display">Handgun Trigger Safety Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="M000133"/>
+  <cosponsors>
+    <cosponsor bioguide_id="V000128" joined="2017-10-04"/>
+    <cosponsor bioguide_id="W000817" joined="2017-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-04">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-10-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2380"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

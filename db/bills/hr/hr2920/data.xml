@@ -1,0 +1,84 @@
+<bill session="115" type="h" number="2920" updated="2017-10-13T07:16:47Z">
+  <state datetime="2017-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-15"/>
+  </status>
+  <introduced datetime="2017-06-15"/>
+  <titles>
+    <title type="short" as="introduced">CARERS Act of 2017</title>
+    <title type="short" as="introduced">CARERS Act of 2017</title>
+    <title type="short" as="introduced">Compassionate Access, Research Expansion, and Respect States Act of 2017</title>
+    <title type="short" as="introduced">Compassionate Access, Research Expansion, and Respect States Act of 2017</title>
+    <title type="official" as="introduced">To extend the principle of federalism to State drug policy, provide access to medical marijuana, and enable research into the medicinal properties of marijuana.</title>
+    <title type="display">CARERS Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C001068"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000367" joined="2017-09-11"/>
+    <cosponsor bioguide_id="B001296" joined="2017-10-12"/>
+    <cosponsor bioguide_id="C001110" joined="2017-09-11"/>
+    <cosponsor bioguide_id="G000580" joined="2017-09-11"/>
+    <cosponsor bioguide_id="J000288" joined="2017-09-11"/>
+    <cosponsor bioguide_id="J000255" joined="2017-10-11"/>
+    <cosponsor bioguide_id="L000582" joined="2017-10-12"/>
+    <cosponsor bioguide_id="L000565" joined="2017-09-11"/>
+    <cosponsor bioguide_id="L000397" joined="2017-09-11"/>
+    <cosponsor bioguide_id="L000579" joined="2017-10-12"/>
+    <cosponsor bioguide_id="M001184" joined="2017-09-11"/>
+    <cosponsor bioguide_id="M001177" joined="2017-09-11"/>
+    <cosponsor bioguide_id="O000170" joined="2017-09-11"/>
+    <cosponsor bioguide_id="P000598" joined="2017-09-11"/>
+    <cosponsor bioguide_id="Q000023" joined="2017-09-11"/>
+    <cosponsor bioguide_id="R000409" joined="2017-09-11"/>
+    <cosponsor bioguide_id="S000051" joined="2017-09-11"/>
+    <cosponsor bioguide_id="Y000066" joined="2017-09-11"/>
+    <cosponsor bioguide_id="Y000033" joined="2017-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-15">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E834"/>
+    </action>
+    <action datetime="2017-06-15" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2017-06-16">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="1820"/>
+    <bill type="s" session="115" relation="identical" number="1374"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

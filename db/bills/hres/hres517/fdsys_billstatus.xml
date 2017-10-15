@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-09-14T03:11:18Z</createDate>
+    <billType>HRES</billType>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <recordedVotes />
+    <relatedBills />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <bioguideId>G000551</bioguideId>
+        <middleName>M.</middleName>
+        <lastName>Grijalva</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AZ</state>
+        <firstName>Raul</firstName>
+        <district>3</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+        </identifiers>
+        <bioguideId>H000324</bioguideId>
+        <middleName>L.</middleName>
+        <lastName>HASTINGS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <firstName>ALCEE</firstName>
+        <district>20</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <bioguideId>L000551</bioguideId>
+        <middleName />
+        <lastName>LEE</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <firstName>BARBARA</firstName>
+        <district>13</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <bioguideId>C001067</bioguideId>
+        <middleName>D.</middleName>
+        <lastName>Clarke</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <firstName>Yvette</firstName>
+        <district>9</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+        </identifiers>
+        <bioguideId>C001078</bioguideId>
+        <middleName>E.</middleName>
+        <lastName>Connolly</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <firstName>Gerald</firstName>
+        <district>11</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <bioguideId>K000188</bioguideId>
+        <middleName />
+        <lastName>KIND</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <firstName>RON</firstName>
+        <district>3</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <notes />
+    <introducedDate>2017-09-13</introducedDate>
+    <laws />
+    <committeeReports />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing support for designation of October 2017 as "National Principals Month".</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Expressing support for designation of October 2017 as "National Principals Month".</title>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>D000598</bioguideId>
+          <lisID>1641</lisID>
+          <gpoId>7858</gpoId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+        <firstName>SUSAN</firstName>
+        <bioguideId>D000598</bioguideId>
+        <lastName>DAVIS</lastName>
+        <district>53</district>
+        <party>D</party>
+        <state>CA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-13T14:01:30Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <billNumber>517</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-09-13</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-09-13</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-09-13</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText />
+    <title>Expressing support for designation of October 2017 as "National Principals Month".</title>
+    <updateDate>2017-10-05T07:15:45Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-09-13</actionDate>
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

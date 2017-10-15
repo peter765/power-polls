@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1952-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "K000384", 
+      "district": null, 
+      "name": "Kaine, Tim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "VA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001183", 
+      "district": null, 
+      "name": "Manchin, Joe, III", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "WV", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000303", 
+      "district": null, 
+      "name": "McCain, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "AZ", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-05", 
+  "number": "1952", 
+  "official_title": "A bill to improve oversight and accountability of the financial processes of the Department of Veterans Affairs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "T000464", 
+    "district": null, 
+    "name": "Tester, Jon", 
+    "state": "MT", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-05", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to improve oversight and accountability of the financial processes of the Department of Veterans Affairs, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to improve oversight and accountability of the financial processes of the Department of Veterans Affairs, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-06T05:06:27Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1952.xml"
+}

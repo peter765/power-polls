@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-12", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-12", 
+      "action_code": "", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1797-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001277", 
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-12", 
+      "state": "CT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-12", 
+  "number": "1797", 
+  "official_title": "A bill to amend title XIX of the Social Security Act to ensure health insurance coverage continuity for former foster youth.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Health Insurance for Former Foster Youth Act", 
+  "sponsor": {
+    "bioguide_id": "C001070", 
+    "district": null, 
+    "name": "Casey, Robert P., Jr.", 
+    "state": "PA", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-12", 
+  "subjects": [
+    "Health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Health Insurance for Former Foster Youth Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Health Insurance for Former Foster Youth Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend title XIX of the Social Security Act to ensure health insurance coverage continuity for former foster youth.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Health Insurance for Former Foster Youth Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-09-27T04:49:01Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1797.xml"
+}

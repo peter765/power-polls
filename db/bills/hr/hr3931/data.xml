@@ -1,0 +1,39 @@
+<bill session="115" type="h" number="3931" updated="2017-10-13T07:17:26Z">
+  <state datetime="2017-10-03">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-03"/>
+  </status>
+  <introduced datetime="2017-10-03"/>
+  <titles>
+    <title type="short" as="introduced">Excellence in Mental Health and Addiction Treatment Expansion Act</title>
+    <title type="short" as="introduced">Excellence in Mental Health and Addiction Treatment Expansion Act</title>
+    <title type="official" as="introduced">To increase the number of States that may conduct Medicaid demonstration programs to improve access to community mental health services.</title>
+    <title type="display">Excellence in Mental Health and Addiction Treatment Expansion Act</title>
+  </titles>
+  <sponsor bioguide_id="L000567"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001072" joined="2017-10-12"/>
+    <cosponsor bioguide_id="C001049" joined="2017-10-12"/>
+    <cosponsor bioguide_id="M001163" joined="2017-10-03"/>
+    <cosponsor bioguide_id="S001170" joined="2017-10-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-03">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-03" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="1905"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

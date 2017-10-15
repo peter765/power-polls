@@ -1,0 +1,59 @@
+<bill session="115" type="h" number="2301" updated="2017-07-29T07:17:09Z">
+  <state datetime="2017-05-02">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-02"/>
+  </status>
+  <introduced datetime="2017-05-02"/>
+  <titles>
+    <title type="short" as="introduced">Court Legal Access and Student Support (CLASS) Act of 2017</title>
+    <title type="short" as="introduced">Court Legal Access and Student Support (CLASS) Act of 2017</title>
+    <title type="official" as="introduced">To provide that chapter 1 of title 9 of the United States Code, relating to the enforcement of arbitration agreements, shall not apply to enrollment agreements made between students and certain institutions of higher education; and to prohibit limitations on the ability of students to pursue claims against certain institutions of higher education.</title>
+    <title type="display">Court Legal Access and Student Support (CLASS) Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="W000187"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000574" joined="2017-05-02"/>
+    <cosponsor bioguide_id="C001068" joined="2017-07-28"/>
+    <cosponsor bioguide_id="E000288" joined="2017-05-02"/>
+    <cosponsor bioguide_id="G000551" joined="2017-05-02"/>
+    <cosponsor bioguide_id="L000551" joined="2017-05-02"/>
+    <cosponsor bioguide_id="M001166" joined="2017-06-21"/>
+    <cosponsor bioguide_id="S001175" joined="2017-05-02"/>
+    <cosponsor bioguide_id="T000472" joined="2017-05-02"/>
+    <cosponsor bioguide_id="V000081" joined="2017-05-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-02">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-02" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-05-02">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2017-05-02">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2017-06-02">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Regulatory Reform, Commercial And Antitrust Law" code="HSJU05" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="553"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Alternative dispute resolution, mediation, arbitration"/>
+    <term name="Civil actions and liability"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

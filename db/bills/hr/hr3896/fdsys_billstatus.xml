@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <cboCostEstimates />
+    <updateDate>2017-10-06T13:30:16Z</updateDate>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <billType>HR</billType>
+    <billNumber>3896</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <introducedDate>2017-10-02</introducedDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>P000034</bioguideId>
+          <gpoId>8048</gpoId>
+          <lisID>887</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <firstName>FRANK</firstName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000034</bioguideId>
+        <state>NJ</state>
+        <lastName>PALLONE</lastName>
+        <district>6</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8024</gpoId>
+          <lisID>1761</lisID>
+          <bioguideId>B001251</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Butterfield, G. K. [D-NC-1]</fullName>
+        <firstName>G. K.</firstName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001251</bioguideId>
+        <state>NC</state>
+        <lastName>Butterfield</lastName>
+        <district>1</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001163</bioguideId>
+          <gpoId>7810</gpoId>
+          <lisID>1814</lisID>
+        </identifiers>
+        <middleName>O.</middleName>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <firstName>Doris</firstName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001163</bioguideId>
+        <state>CA</state>
+        <lastName>Matsui</lastName>
+        <district>6</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8082</gpoId>
+          <bioguideId>T000469</bioguideId>
+          <lisID>1942</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <firstName>Paul</firstName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000469</bioguideId>
+        <state>NY</state>
+        <lastName>Tonko</lastName>
+        <district>20</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000624</bioguideId>
+          <lisID>2251</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <firstName>Debbie</firstName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000624</bioguideId>
+        <state>MI</state>
+        <lastName>Dingell</lastName>
+        <district>12</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <firstName>Peter</firstName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000800</bioguideId>
+        <state>VT</state>
+        <lastName>Welch</lastName>
+        <district>0</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001166</bioguideId>
+          <lisID>1832</lisID>
+          <gpoId>7816</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <firstName>Jerry</firstName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001166</bioguideId>
+        <state>CA</state>
+        <lastName>McNerney</lastName>
+        <district>9</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>462</lisID>
+          <gpoId>8185</gpoId>
+          <bioguideId>G000410</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <firstName>GENE</firstName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000410</bioguideId>
+        <state>TX</state>
+        <lastName>GREEN</lastName>
+        <district>29</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2190</lisID>
+          <bioguideId>K000385</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <firstName>Robin</firstName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000385</bioguideId>
+        <state>IL</state>
+        <lastName>Kelly</lastName>
+        <district>2</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001066</bioguideId>
+          <lisID>1839</lisID>
+          <gpoId>7883</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <firstName>Kathy</firstName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001066</bioguideId>
+        <state>FL</state>
+        <lastName>Castor</lastName>
+        <district>14</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <firstName>BOBBY</firstName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000515</bioguideId>
+        <state>IL</state>
+        <lastName>RUSH</lastName>
+        <district>1</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <createDate>2017-10-03T03:11:21Z</createDate>
+    <notes />
+    <congress>115</congress>
+    <laws />
+    <sponsors>
+      <item>
+        <firstName>JANICE</firstName>
+        <middleName>D.</middleName>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <lastName>SCHAKOWSKY</lastName>
+        <district>9</district>
+        <party>D</party>
+        <state>IL</state>
+        <bioguideId>S001145</bioguideId>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <title>Secure and Protect Americans' Data Act</title>
+    <latestAction>
+      <actionDate>2017-10-02</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-10-02</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-10-02</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-10-02</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-02T16:02:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <relatedBills />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. SCHAKOWSKY:H.R. 3896.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H7671]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Secure and Protect Americans' Data Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To require certain entities who collect and maintain personal information of individuals to secure such information and to provide notice to such individuals in the case of a breach of security involving such information, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Secure and Protect Americans' Data Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Secure and Protect Americans’ Data Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

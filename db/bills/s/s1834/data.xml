@@ -1,0 +1,42 @@
+<bill session="115" type="s" number="1834" updated="2017-10-04T04:48:37Z">
+  <state datetime="2017-09-19">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-19"/>
+  </status>
+  <introduced datetime="2017-09-19"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Seniors During Disasters Act</title>
+    <title type="short" as="introduced">Protecting Seniors During Disasters Act</title>
+    <title type="official" as="introduced">A bill to amend title XXVIII of the Public Health Service Act to establish a National Advisory Committee on Seniors and Disasters.</title>
+    <title type="display">Protecting Seniors During Disasters Act</title>
+  </titles>
+  <sponsor bioguide_id="N000032"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001070" joined="2017-09-19"/>
+    <cosponsor bioguide_id="C001035" joined="2017-09-19"/>
+    <cosponsor bioguide_id="R000595" joined="2017-09-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-19">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-09-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2017-09-20">
+      <text>Special Committee on Aging. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SPAG" name="Senate Aging" activity="Hearings"/>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="3826"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

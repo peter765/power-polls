@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-10-11T07:16:34Z</updateDate>
+    <amendments />
+    <calendarNumbers />
+    <notes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-09-22</actionDate>
+        <committee>
+          <name>Highways and Transit Subcommittee</name>
+          <systemCode>hspw12</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionDate>2017-09-21</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-09-21</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-09-21</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KATKO:H.R. 3814.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8, Clauses 18 of the UnitedStates Constitution which states, ``To make all laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.''[Page H7434]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2264</lisID>
+          <bioguideId>K000386</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000386</bioguideId>
+        <party>R</party>
+        <district>24</district>
+        <firstName>John</firstName>
+        <middleName />
+        <state>NY</state>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <lastName>Katko</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <relatedBills />
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Carlos</firstName>
+        <sponsorshipDate>2017-09-21</sponsorshipDate>
+        <identifiers>
+          <lisID>2235</lisID>
+          <bioguideId>C001107</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>26</district>
+        <bioguideId>C001107</bioguideId>
+        <lastName>Curbelo</lastName>
+        <state>FL</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Michael</firstName>
+        <sponsorshipDate>2017-09-21</sponsorshipDate>
+        <identifiers>
+          <lisID>1741</lisID>
+          <bioguideId>T000463</bioguideId>
+          <gpoId>8093</gpoId>
+        </identifiers>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <district>10</district>
+        <bioguideId>T000463</bioguideId>
+        <lastName>Turner</lastName>
+        <state>OH</state>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Elizabeth</firstName>
+        <sponsorshipDate>2017-09-21</sponsorshipDate>
+        <identifiers>
+          <bioguideId>E000293</bioguideId>
+          <gpoId />
+          <lisID>2114</lisID>
+        </identifiers>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>H.</middleName>
+        <district>5</district>
+        <bioguideId>E000293</bioguideId>
+        <lastName>Esty</lastName>
+        <state>CT</state>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Kathleen</firstName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <identifiers>
+          <lisID>2262</lisID>
+          <bioguideId>R000602</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <district>4</district>
+        <bioguideId>R000602</bioguideId>
+        <lastName>Rice</lastName>
+        <state>NY</state>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Kyrsten</firstName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <identifiers>
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>9</district>
+        <bioguideId>S001191</bioguideId>
+        <lastName>Sinema</lastName>
+        <state>AZ</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Elise</firstName>
+        <sponsorshipDate>2017-10-06</sponsorshipDate>
+        <identifiers>
+          <lisID>2263</lisID>
+          <bioguideId>S001196</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <district>21</district>
+        <bioguideId>S001196</bioguideId>
+        <lastName>Stefanik</lastName>
+        <state>NY</state>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Katherine</firstName>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <identifiers>
+          <lisID>2196</lisID>
+          <bioguideId>C001101</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <district>5</district>
+        <bioguideId>C001101</bioguideId>
+        <lastName>Clark</lastName>
+        <state>MA</state>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-09-22T03:11:20Z</createDate>
+    <title>No Human Trafficking on Our Roads Act</title>
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <laws />
+    <latestAction>
+      <actionDate>2017-09-22</actionDate>
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>No Human Trafficking on Our Roads Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving human trafficking.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>No Human Trafficking on Our Roads Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>No Human Trafficking on Our Roads Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea />
+    <billNumber>3814</billNumber>
+    <introducedDate>2017-09-21</introducedDate>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Highways and Transit Subcommittee</name>
+              <systemCode>hspw12</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-09-22T14:18:09Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-21T15:00:29Z</date>
+            </item>
+          </activities>
+          <systemCode>hspw00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

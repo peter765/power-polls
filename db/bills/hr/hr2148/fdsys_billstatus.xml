@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Credit and credit markets</name>
+          </item>
+          <item>
+            <name>Real estate business</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-10-13T07:23:48Z</updateDate>
+    <amendments />
+    <calendarNumbers />
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2017-10-12</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 59 - 1.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-12</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <committee>
+          <name>Financial Institutions and Consumer Credit Subcommittee</name>
+          <systemCode>hsba15</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-04-26</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-04-26</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-04-26</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <actionStageOverride>2</actionStageOverride>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PITTENGER:H.R. 2148.Congress has the power to enact this legislation pursuantto the following:Article I Section 1: All legislative Powers herein shall bevested in a Congress of the United States[Page H2897]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2141</lisID>
+          <bioguideId>P000606</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>P000606</bioguideId>
+        <party>R</party>
+        <district>9</district>
+        <firstName>Robert</firstName>
+        <middleName />
+        <state>NC</state>
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <lastName>Pittenger</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <relatedBills />
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <bioguideId>S001157</bioguideId>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>GA</state>
+        <district>13</district>
+        <identifiers>
+          <lisID>1722</lisID>
+          <bioguideId>S001157</bioguideId>
+          <gpoId>7910</gpoId>
+        </identifiers>
+        <lastName>Scott</lastName>
+      </item>
+      <item>
+        <bioguideId>W000819</bioguideId>
+        <fullName>Rep. Walker, Mark [R-NC-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>NC</state>
+        <district>6</district>
+        <identifiers>
+          <lisID>2255</lisID>
+          <bioguideId>W000819</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Walker</lastName>
+      </item>
+      <item>
+        <bioguideId>R000593</bioguideId>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <firstName>Dennis</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <state>FL</state>
+        <district>15</district>
+        <identifiers>
+          <bioguideId>R000593</bioguideId>
+          <lisID>2003</lisID>
+          <gpoId>7884</gpoId>
+        </identifiers>
+        <lastName>Ross</lastName>
+      </item>
+      <item>
+        <bioguideId>W000812</bioguideId>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <firstName>Ann</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>MO</state>
+        <district>2</district>
+        <identifiers>
+          <lisID>2137</lisID>
+          <bioguideId>W000812</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Wagner</lastName>
+      </item>
+      <item>
+        <bioguideId>B001282</bioguideId>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <firstName>Andy</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>KY</state>
+        <district>6</district>
+        <identifiers>
+          <lisID>2131</lisID>
+          <gpoId />
+          <bioguideId>B001282</bioguideId>
+        </identifiers>
+        <lastName>Barr</lastName>
+      </item>
+      <item>
+        <bioguideId>T000470</bioguideId>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <firstName>Scott</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <state>CO</state>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>T000470</bioguideId>
+          <lisID>1997</lisID>
+          <gpoId>7861</gpoId>
+        </identifiers>
+        <lastName>Tipton</lastName>
+      </item>
+      <item>
+        <bioguideId>S001187</bioguideId>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-06-16</sponsorshipDate>
+        <firstName>Steve</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>OH</state>
+        <district>15</district>
+        <identifiers>
+          <bioguideId>S001187</bioguideId>
+          <lisID>2047</lisID>
+          <gpoId>8105</gpoId>
+        </identifiers>
+        <lastName>Stivers</lastName>
+      </item>
+      <item>
+        <bioguideId>G000583</bioguideId>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-08-25</sponsorshipDate>
+        <firstName>Josh</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>NJ</state>
+        <district>5</district>
+        <identifiers>
+          <lisID>2338</lisID>
+          <bioguideId>G000583</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Gottheimer</lastName>
+      </item>
+      <item>
+        <bioguideId>F000466</bioguideId>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <firstName>Brian</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <state>PA</state>
+        <district>8</district>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Fitzpatrick</lastName>
+      </item>
+      <item>
+        <bioguideId>C001077</bioguideId>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>CO</state>
+        <district>6</district>
+        <identifiers>
+          <bioguideId>C001077</bioguideId>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+        </identifiers>
+        <lastName>Coffman</lastName>
+      </item>
+      <item>
+        <bioguideId>B001305</bioguideId>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <firstName>Ted</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>NC</state>
+        <district>13</district>
+        <identifiers>
+          <bioguideId>B001305</bioguideId>
+          <lisID>2336</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Budd</lastName>
+      </item>
+      <item>
+        <bioguideId>M001189</bioguideId>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <firstName>Luke</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>IN</state>
+        <district>6</district>
+        <identifiers>
+          <lisID>2130</lisID>
+          <bioguideId>M001189</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Messer</lastName>
+      </item>
+      <item>
+        <bioguideId>L000569</bioguideId>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <firstName>Blaine</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>MO</state>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>L000569</bioguideId>
+          <gpoId>8017</gpoId>
+          <lisID>1931</lisID>
+        </identifiers>
+        <lastName>Luetkemeyer</lastName>
+      </item>
+      <item>
+        <bioguideId>L000583</bioguideId>
+        <fullName>Rep. Loudermilk, Barry [R-GA-11]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <firstName>Barry</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>GA</state>
+        <district>11</district>
+        <identifiers>
+          <lisID>2238</lisID>
+          <gpoId />
+          <bioguideId>L000583</bioguideId>
+        </identifiers>
+        <lastName>Loudermilk</lastName>
+      </item>
+      <item>
+        <bioguideId>E000294</bioguideId>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <firstName>Tom</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>MN</state>
+        <district>6</district>
+        <identifiers>
+          <bioguideId>E000294</bioguideId>
+          <gpoId />
+          <lisID>2253</lisID>
+        </identifiers>
+        <lastName>Emmer</lastName>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-04-27T03:11:48Z</createDate>
+    <title>Clarifying Commercial Real Estate Loans</title>
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <laws />
+    <latestAction>
+      <actionDate>2017-10-12</actionDate>
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 59 - 1.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Clarifying Commercial Real Estate Loans</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Clarifying Commercial Real Estate Loans</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend the Federal Deposit Insurance Act to clarify capital requirements for certain acquisition, development, or construction loans.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Clarifying Commercial Real Estate Loans</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <billNumber>2148</billNumber>
+    <introducedDate>2017-04-26</introducedDate>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Financial Services Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Financial Institutions and Consumer Credit Subcommittee</name>
+              <systemCode>hsba15</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2017-07-12T17:13:31Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-10-12T21:48:22Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-26T14:02:00Z</date>
+            </item>
+          </activities>
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

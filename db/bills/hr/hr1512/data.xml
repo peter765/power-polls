@@ -1,0 +1,54 @@
+<bill session="115" type="h" number="1512" updated="2017-09-29T22:15:09Z">
+  <state datetime="2017-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-13"/>
+  </status>
+  <introduced datetime="2017-03-13"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Child Protection Act of 2017</title>
+    <title type="short" as="introduced">Social Security Child Protection Act of 2017</title>
+    <title type="official" as="introduced">To amend title II of the Social Security Act to provide for the reissuance of Social Security account numbers to young children in cases where confidentiality has been compromised.</title>
+    <title type="display">Social Security Child Protection Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="M001158"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001293" joined="2017-04-06"/>
+    <cosponsor bioguide_id="B000574" joined="2017-03-13"/>
+    <cosponsor bioguide_id="C001107" joined="2017-05-24"/>
+    <cosponsor bioguide_id="D000617" joined="2017-04-24"/>
+    <cosponsor bioguide_id="D000399" joined="2017-03-13"/>
+    <cosponsor bioguide_id="H001036" joined="2017-04-24"/>
+    <cosponsor bioguide_id="J000290" joined="2017-03-17"/>
+    <cosponsor bioguide_id="N000181" joined="2017-03-17"/>
+    <cosponsor bioguide_id="S001183" joined="2017-04-04"/>
+    <cosponsor bioguide_id="S001195" joined="2017-03-13"/>
+    <cosponsor bioguide_id="W000814" joined="2017-04-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-13">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-03-13" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2017-03-21">
+      <text>Referred to the Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="Social Security" code="HSWM01" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Child safety and welfare"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-03-13T04:00:00Z" status="Introduced in House">Social Security Child Protection Act of 2017
+
+This bill amends title II (Old Age, Survivors, and Disability Insurance) of the Social Security Act to direct the Social Security Administration (SSA) to issue a new Social Security number to a child under the age of 14&#160;if the confidentiality of the child's previous number has, in the course of the SSA's transmission to the child of its&#160;documentation,&#160;been compromised due to the theft of that documentation.</summary>
+  <committee-reports/>
+</bill>

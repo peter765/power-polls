@@ -1,0 +1,45 @@
+<bill session="115" type="h" number="3973" updated="2017-10-13T07:23:48Z">
+  <state datetime="2017-10-12">REPORTED</state>
+  <status>
+    <unknown datetime="2017-10-12"/>
+  </status>
+  <introduced datetime="2017-10-05"/>
+  <titles>
+    <title type="short" as="introduced">Market Data Protection Act of 2017</title>
+    <title type="short" as="introduced">Market Data Protection Act of 2017</title>
+    <title type="official" as="introduced">To amend the Securities Exchange Act of 1934 to require certain entities to develop internal risk control mechanisms to safeguard and govern the storage of market data.</title>
+    <title type="display">Market Data Protection Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="D000626"/>
+  <cosponsors>
+    <cosponsor bioguide_id="S000344" joined="2017-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-05">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-05" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2017-10-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2017-10-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-10-12" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 59 - 1.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="10"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Adult education and literacy</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Community life and organization</name>
+          </item>
+          <item>
+            <name>Family relationships</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Families</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-10-12T04:37:57Z</updateDate>
+    <amendments />
+    <calendarNumbers />
+    <notes />
+    <actions>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-09-14</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S5748-5749</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5748-5749</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5748-5749; text: CR S5748-5749)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S5748-5749; text: CR S5748-5749)</text>
+        <links>
+          <link>
+            <name>S5748-5749</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5748-5749</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2017-09-14</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-09-14</actionDate>
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <firstName>Cory</firstName>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001288</bioguideId>
+        <middleName>A.</middleName>
+        <lastName>Booker</lastName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>SHERROD</firstName>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B000944</bioguideId>
+        <middleName />
+        <lastName>BROWN</lastName>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Rand</firstName>
+        <state>KY</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2082</lisID>
+          <gpoId>8308</gpoId>
+          <bioguideId>P000603</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000603</bioguideId>
+        <middleName />
+        <lastName>Paul</lastName>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>ROB</firstName>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000449</bioguideId>
+        <middleName />
+        <lastName>PORTMAN</lastName>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>JOHN</firstName>
+        <state>RI</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000122</bioguideId>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000122</bioguideId>
+        <middleName>F.</middleName>
+        <lastName>REED</lastName>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>DEBORAH</firstName>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000770</bioguideId>
+        <middleName>ANN</middleName>
+        <lastName>STABENOW</lastName>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Sheldon</firstName>
+        <state>RI</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000802</bioguideId>
+        <middleName />
+        <lastName>Whitehouse</lastName>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>ROGER</firstName>
+        <state>MS</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000437</bioguideId>
+        <middleName>F.</middleName>
+        <lastName>WICKER</lastName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Gary</firstName>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000595</bioguideId>
+        <middleName>C.</middleName>
+        <lastName>Peters</lastName>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+      </item>
+    </cosponsors>
+    <billNumber>259</billNumber>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>C001056</bioguideId>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <bioguideId>C001056</bioguideId>
+        <party>R</party>
+        <byRequestType />
+        <firstName>John</firstName>
+        <middleName />
+        <state>TX</state>
+        <lastName>Cornyn</lastName>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestTitle>Expressing support for designation of the week of September 11 through 15, 2017, as "National Family Service Learning Week".</latestTitle>
+        <latestAction>
+          <actionDate>2017-09-13</actionDate>
+          <text>Referred to the House Committee on Education and the Workforce.</text>
+        </latestAction>
+        <type>HRES</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>514</number>
+      </item>
+    </relatedBills>
+    <billType>SRES</billType>
+    <createDate>2017-09-15T00:41:21Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-09-14</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-10-05T17:42:51Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-09-14T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Supports the designation of&nbsp;September 11-September 15, 2017, as&nbsp;National Family Service Learning Week to raise awareness about the importance of family service learning, family literacy, community service, and two-generational learning experiences.</p>]]></text>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <actionDate>2017-09-14</actionDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-10-05T17:43:13Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <updateDate>2017-09-14T18:16:38Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Supports the designation of&nbsp;September 11-September 15, 2017, as&nbsp;National Family Service Learning Week to raise awareness about the importance of family service learning, family literacy, community service, and two-generational learning experiences.</p>]]></text>
+          <versionCode>82</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A resolution expressing support for the designation of the week of September 11 through September 15, 2017, as "National Family Service Learning Week".</title>
+    <laws />
+    <latestAction>
+      <actionDate>2017-09-14</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5748-5749; text: CR S5748-5749)</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution expressing support for the designation of the week of September 11 through September 15, 2017, as "National Family Service Learning Week".</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A resolution expressing support for the designation of the week of September 11 through September 15, 2017, as "National Family Service Learning Week".</title>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Families</name>
+    </policyArea>
+    <originChamber>Senate</originChamber>
+    <introducedDate>2017-09-14</introducedDate>
+    <congress>115</congress>
+    <committees>
+      <billCommittees />
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

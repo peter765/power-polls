@@ -1,0 +1,46 @@
+<bill session="115" type="s" number="1266" updated="2017-09-29T16:58:39Z">
+  <state datetime="2017-05-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-25"/>
+  </status>
+  <introduced datetime="2017-05-25"/>
+  <titles>
+    <title type="short" as="introduced">Enhancing Veteran Care Act</title>
+    <title type="short" as="introduced">Enhancing Veteran Care Act</title>
+    <title type="official" as="introduced">A bill to authorize the Secretary of Veterans Affairs to enter into contracts with nonprofit organizations to investigate medical centers of the Department of Veterans Affairs.</title>
+    <title type="display">Enhancing Veteran Care Act</title>
+  </titles>
+  <sponsor bioguide_id="I000024"/>
+  <cosponsors>
+    <cosponsor bioguide_id="L000575" joined="2017-05-25"/>
+    <cosponsor bioguide_id="N000032" joined="2017-09-12"/>
+    <cosponsor bioguide_id="S001181" joined="2017-09-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-25">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-07-11">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Hearings, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="42"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-05-25T04:00:00Z" status="Introduced in Senate">Enhancing Veteran Care Act
+
+This bill authorizes the Department of Veterans Affairs (VA) to contract with a nonprofit organization that accredits health care organizations and programs in the United States to investigate a VA medical center to assess and report deficiencies of the center's facilities.
+
+The VA shall delegate such authority to the Veterans Integrated Service Network (VISN) in which the medical center is located or to the director of such medical center.</summary>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>260</billNumber>
+    <congress>115</congress>
+    <cboCostEstimates />
+    <updateDate>2017-10-11T04:29:25Z</updateDate>
+    <latestAction>
+      <actionDate>2017-09-18</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5810; text: CR S5804)</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees />
+    </committees>
+    <cosponsors>
+      <item>
+        <firstName>Cory</firstName>
+        <middleName>A.</middleName>
+        <bioguideId>B001288</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Booker</lastName>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-09-18</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Motor carriers</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <billType>SRES</billType>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2017-09-18</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S5804</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5804</url>
+          </link>
+          <link>
+            <name>S5810</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5810</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5810; text: CR S5804)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S5810; text: CR S5804)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>S5804</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5804</url>
+          </link>
+          <link>
+            <name>S5810</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5810</url>
+          </link>
+        </links>
+        <actionDate>2017-09-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-09-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+      </actionTypeCounts>
+    </actions>
+    <committeeReports />
+    <title>A resolution designating September 2017 as "School Bus Safety Month".</title>
+    <createDate>2017-09-19T00:26:17Z</createDate>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>A resolution designating September 2017 as "School Bus Safety Month".</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>A resolution designating September 2017 as "School Bus Safety Month".</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>NE</state>
+        <byRequestType />
+        <bioguideId>F000463</bioguideId>
+        <identifiers>
+          <bioguideId>F000463</bioguideId>
+          <lisID>2179</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <firstName>Deb</firstName>
+        <lastName>Fischer</lastName>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+      </item>
+    </sponsors>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

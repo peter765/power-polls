@@ -1,0 +1,53 @@
+<bill session="115" type="h" number="3824" updated="2017-10-12T18:00:15Z">
+  <state datetime="2017-09-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-25"/>
+  </status>
+  <introduced datetime="2017-09-25"/>
+  <titles>
+    <title type="short" as="introduced">Texas Flood Accountability Act of 2017</title>
+    <title type="short" as="introduced">Texas Flood Accountability Act of 2017</title>
+    <title type="official" as="introduced">To direct the Secretary of the Army to submit to Congress a report with respect to dams, reservoirs, lakes, and other water retention facilities in Texas, and for other purposes.</title>
+    <title type="display">Texas Flood Accountability Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="P000592"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001291" joined="2017-09-25"/>
+    <cosponsor bioguide_id="B000755" joined="2017-09-28"/>
+    <cosponsor bioguide_id="C001048" joined="2017-09-25"/>
+    <cosponsor bioguide_id="G000553" joined="2017-09-25"/>
+    <cosponsor bioguide_id="G000410" joined="2017-09-25"/>
+    <cosponsor bioguide_id="J000032" joined="2017-09-28"/>
+    <cosponsor bioguide_id="O000168" joined="2017-09-25"/>
+    <cosponsor bioguide_id="W000814" joined="2017-10-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-25" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-09-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H7527"/>
+    </action>
+    <action datetime="2017-09-26">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2017-09-26">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Economic Development, Public Buildings and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

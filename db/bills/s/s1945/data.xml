@@ -1,0 +1,56 @@
+<bill session="115" type="s" number="1945" updated="2017-10-12T17:15:12Z">
+  <state datetime="2017-10-05">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-05"/>
+  </status>
+  <introduced datetime="2017-10-05"/>
+  <titles>
+    <title type="short" as="introduced">Keep Americans Safe Act</title>
+    <title type="official" as="introduced">A bill to regulate large capacity ammunition feeding devices.</title>
+    <title type="display">Keep Americans Safe Act</title>
+  </titles>
+  <sponsor bioguide_id="M000639"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001277" joined="2017-10-05"/>
+    <cosponsor bioguide_id="B001288" joined="2017-10-05"/>
+    <cosponsor bioguide_id="C000141" joined="2017-10-05"/>
+    <cosponsor bioguide_id="C000174" joined="2017-10-05"/>
+    <cosponsor bioguide_id="D000563" joined="2017-10-05"/>
+    <cosponsor bioguide_id="F000457" joined="2017-10-05"/>
+    <cosponsor bioguide_id="G000555" joined="2017-10-05"/>
+    <cosponsor bioguide_id="H001075" joined="2017-10-05"/>
+    <cosponsor bioguide_id="H001076" joined="2017-10-05"/>
+    <cosponsor bioguide_id="H001042" joined="2017-10-05"/>
+    <cosponsor bioguide_id="K000384" joined="2017-10-05"/>
+    <cosponsor bioguide_id="M000133" joined="2017-10-05"/>
+    <cosponsor bioguide_id="M001111" joined="2017-10-05"/>
+    <cosponsor bioguide_id="R000122" joined="2017-10-05"/>
+    <cosponsor bioguide_id="S000033" joined="2017-10-05"/>
+    <cosponsor bioguide_id="V000128" joined="2017-10-05"/>
+    <cosponsor bioguide_id="W000817" joined="2017-10-05"/>
+    <cosponsor bioguide_id="W000802" joined="2017-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-05">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-10-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S6366-6367" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Civil actions and liability"/>
+    <term name="Firearms and explosives"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

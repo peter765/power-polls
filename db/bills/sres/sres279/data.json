@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-03", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-03", 
+      "action_code": "", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6290-6291", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sres279-115", 
+  "bill_type": "sres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000563", 
+      "district": null, 
+      "name": "Durbin, Richard J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-03", 
+      "state": "IL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-03", 
+  "number": "279", 
+  "official_title": "A resolution reaffirming the commitment of the United States to promote democracy, human rights, and the rule of law in Cambodia.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "M000303", 
+    "district": null, 
+    "name": "McCain, John", 
+    "state": "AZ", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-03", 
+  "subjects": [
+    "Asia", 
+    "Cambodia", 
+    "Detention of persons", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Elections, voting, political campaign regulation", 
+    "Foreign property", 
+    "Human rights", 
+    "International affairs", 
+    "News media and reporting", 
+    "Political parties and affiliation", 
+    "Protest and dissent", 
+    "Rule of law and government transparency", 
+    "Sanctions", 
+    "Sovereignty, recognition, national governance and status"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A resolution reaffirming the commitment of the United States to promote democracy, human rights, and the rule of law in Cambodia.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A resolution reaffirming the commitment of the United States to promote democracy, human rights, and the rule of law in Cambodia.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-11T04:29:25Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/sres/BILLSTATUS-115sres279.xml"
+}

@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="2928" updated="2017-10-05T11:45:12Z">
+  <state datetime="2017-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-15"/>
+  </status>
+  <introduced datetime="2017-06-15"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Secretary of Transportation to issue regulations to require air carriers to disclose to consumers the actual wheels-off and wheels-on times for certain domestic passenger flight segments, and for other purposes.</title>
+    <title type="display">To direct the Secretary of Transportation to issue regulations to require air carriers to disclose to consumers the actual wheels-off and wheels-on times for certain domestic passenger flight segments, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="P000604"/>
+  <cosponsors>
+    <cosponsor bioguide_id="S001165" joined="2017-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-15">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-15" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-06-16">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Aviation" code="HSPW05" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2997"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

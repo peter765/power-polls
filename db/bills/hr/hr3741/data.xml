@@ -1,0 +1,41 @@
+<bill session="115" type="h" number="3741" updated="2017-10-11T07:16:32Z">
+  <state datetime="2017-09-12">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-12"/>
+  </status>
+  <introduced datetime="2017-09-12"/>
+  <titles>
+    <title type="official" as="introduced">To codify the Minority Bank Deposit Program, and for other purposes.</title>
+    <title type="display">To codify the Minority Bank Deposit Program, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="M001137"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001281" joined="2017-09-12"/>
+    <cosponsor bioguide_id="C001049" joined="2017-09-12"/>
+    <cosponsor bioguide_id="E000296" joined="2017-09-12"/>
+    <cosponsor bioguide_id="G000553" joined="2017-09-12"/>
+    <cosponsor bioguide_id="J000032" joined="2017-09-12"/>
+    <cosponsor bioguide_id="L000586" joined="2017-09-12"/>
+    <cosponsor bioguide_id="P000604" joined="2017-09-12"/>
+    <cosponsor bioguide_id="R000588" joined="2017-10-10"/>
+    <cosponsor bioguide_id="S001185" joined="2017-09-12"/>
+    <cosponsor bioguide_id="W000187" joined="2017-09-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-12">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-12" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

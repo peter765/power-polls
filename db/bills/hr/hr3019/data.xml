@@ -1,0 +1,42 @@
+<bill session="115" type="h" number="3019" updated="2017-10-06T20:12:12Z">
+  <state datetime="2017-09-13">REPORTED</state>
+  <status>
+    <unknown datetime="2017-09-13"/>
+  </status>
+  <introduced datetime="2017-06-22"/>
+  <titles>
+    <title type="short" as="introduced">Promoting Value Based Procurement Act of 2017</title>
+    <title type="short" as="introduced">Promoting Value Based Procurement Act of 2017</title>
+    <title type="official" as="introduced">To require executive agencies to avoid using lowest price technically acceptable source selection criteria in certain circumstances, and for other purposes.</title>
+    <title type="display">Promoting Value Based Procurement Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="M001187"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001292" joined="2017-06-22"/>
+    <cosponsor bioguide_id="C001078" joined="2017-06-22"/>
+    <cosponsor bioguide_id="W000804" joined="2017-06-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-22">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-22" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2017-09-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-09-13" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

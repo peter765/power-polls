@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2533)</text>
+      <actionDate>2017-04-25</actionDate>
+    </latestAction>
+    <laws />
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-04-25T16:26:34Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>SRES</billType>
+    <calendarNumbers />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Japan</name>
+          </item>
+          <item>
+            <name>Military history</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Philippines</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2017-04-25</introducedDate>
+    <createDate>2017-04-26T00:41:44Z</createDate>
+    <amendments />
+    <cboCostEstimates />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>SHELLEY</firstName>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <middleName>MOORE</middleName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>WV</state>
+        <bioguideId>C001047</bioguideId>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <lastName>CAPITO</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>MT</state>
+        <bioguideId>D000618</bioguideId>
+        <identifiers>
+          <lisID>2138</lisID>
+          <gpoId />
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <lastName>Daines</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bill</firstName>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>LA</state>
+        <bioguideId>C001075</bioguideId>
+        <identifiers>
+          <lisID>1925</lisID>
+          <bioguideId>C001075</bioguideId>
+          <gpoId>7964</gpoId>
+        </identifiers>
+        <lastName>Cassidy</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>Marco</firstName>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>FL</state>
+        <bioguideId>R000595</bioguideId>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <lastName>Rubio</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>TAMMY</firstName>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>WI</state>
+        <bioguideId>B001230</bioguideId>
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <lastName>BALDWIN</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>RICHARD</firstName>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <middleName>J.</middleName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>IL</state>
+        <bioguideId>D000563</bioguideId>
+        <identifiers>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+        </identifiers>
+        <lastName>DURBIN</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>Cory</firstName>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <middleName>A.</middleName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>NJ</state>
+        <bioguideId>B001288</bioguideId>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Booker</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>SHERROD</firstName>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>OH</state>
+        <bioguideId>B000944</bioguideId>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <lastName>BROWN</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joe</firstName>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>WV</state>
+        <bioguideId>M001183</bioguideId>
+        <identifiers>
+          <gpoId>8256</gpoId>
+          <bioguideId>M001183</bioguideId>
+          <lisID>1983</lisID>
+        </identifiers>
+        <lastName>Manchin</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>BERNARD</firstName>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>I</party>
+        <state>VT</state>
+        <bioguideId>S000033</bioguideId>
+        <identifiers>
+          <lisID>1010</lisID>
+          <bioguideId>S000033</bioguideId>
+          <gpoId>8270</gpoId>
+        </identifiers>
+        <lastName>SANDERS</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>Al</firstName>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>MN</state>
+        <bioguideId>F000457</bioguideId>
+        <identifiers>
+          <bioguideId>F000457</bioguideId>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <lastName>Franken</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jon</firstName>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>MT</state>
+        <bioguideId>T000464</bioguideId>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <lastName>Tester</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>Richard</firstName>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>CT</state>
+        <bioguideId>B001277</bioguideId>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <lastName>Blumenthal</lastName>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <relatedBills />
+    <title>A resolution honoring National Former Prisoner of War Recognition Day on April 9, 2017, and commemorating the 75th anniversary of the fall of Bataan.</title>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-04-25</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2533</url>
+            <name>S2533</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2533)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-04-25</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Honors National Former Prisoner of War Recognition Day on April 9, 2017.</p> <p>Commemorates the 75th anniversary of the fall of Bataan in the Philippines on April 9, 1942.</p> <p>Applauds the Japanese government's efforts toward a historic apology for the maltreatment of U.S. prisoners of war by Imperial Japan.</p> <ul> </ul>]]></text>
+          <lastSummaryUpdateDate>2017-07-08T13:34:14Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-04-25</actionDate>
+          <updateDate>2017-04-25T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A resolution honoring National Former Prisoner of War Recognition Day on April 9, 2017, and commemorating the 75th anniversary of the fall of Bataan.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A resolution honoring National Former Prisoner of War Recognition Day on April 9, 2017, and commemorating the 75th anniversary of the fall of Bataan.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2017-10-04T04:47:34Z</updateDate>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>John</firstName>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <bioguideId>C001056</bioguideId>
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C001056</bioguideId>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <state>TX</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billNumber>138</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

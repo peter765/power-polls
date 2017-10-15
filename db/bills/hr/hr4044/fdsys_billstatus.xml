@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText />
+    <congress>115</congress>
+    <cboCostEstimates />
+    <updateDate>2017-10-13T07:23:44Z</updateDate>
+    <latestAction>
+      <actionDate>2017-10-12</actionDate>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-10-12T14:03:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Cedric</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000588</bioguideId>
+          <gpoId>7960</gpoId>
+          <lisID>2023</lisID>
+        </identifiers>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <district>2</district>
+        <bioguideId>R000588</bioguideId>
+        <lastName>Richmond</lastName>
+        <state>LA</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Garret</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000577</bioguideId>
+          <gpoId />
+          <lisID>2245</lisID>
+        </identifiers>
+        <fullName>Rep. Graves, Garret [R-LA-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>6</district>
+        <bioguideId>G000577</bioguideId>
+        <lastName>Graves</lastName>
+        <state>LA</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>David</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000578</bioguideId>
+          <lisID>1810</lisID>
+          <gpoId>8212</gpoId>
+        </identifiers>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>G.</middleName>
+        <district>8</district>
+        <bioguideId>R000578</bioguideId>
+        <lastName>Reichert</lastName>
+        <state>WA</state>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Denny</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2170</lisID>
+          <bioguideId>H001064</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>10</district>
+        <bioguideId>H001064</bioguideId>
+        <lastName>Heck</lastName>
+        <state>WA</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>GREG</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000791</bioguideId>
+          <gpoId>8115</gpoId>
+          <lisID>1596</lisID>
+        </identifiers>
+        <fullName>Rep. Walden, Greg [R-OR-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>2</district>
+        <bioguideId>W000791</bioguideId>
+        <lastName>WALDEN</lastName>
+        <state>OR</state>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Filemon</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2167</lisID>
+          <bioguideId>V000132</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>34</district>
+        <bioguideId>V000132</bioguideId>
+        <lastName>Vela</lastName>
+        <state>TX</state>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>EARL</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>3</district>
+        <bioguideId>B000574</bioguideId>
+        <lastName>BLUMENAUER</lastName>
+        <state>OR</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jaime</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2071</lisID>
+          <bioguideId>H001056</bioguideId>
+          <gpoId>8207</gpoId>
+        </identifiers>
+        <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>3</district>
+        <bioguideId>H001056</bioguideId>
+        <lastName>Herrera Beutler</lastName>
+        <state>WA</state>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>9</district>
+        <bioguideId>C001068</bioguideId>
+        <lastName>Cohen</lastName>
+        <state>TN</state>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Dina</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>T000468</bioguideId>
+          <lisID>1940</lisID>
+          <gpoId>7493</gpoId>
+        </identifiers>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>1</district>
+        <bioguideId>T000468</bioguideId>
+        <lastName>Titus</lastName>
+        <state>NV</state>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>41</district>
+        <bioguideId>T000472</bioguideId>
+        <lastName>Takano</lastName>
+        <state>CA</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ED</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <lisID>998</lisID>
+          <bioguideId>R000487</bioguideId>
+          <gpoId>7845</gpoId>
+        </identifiers>
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>39</district>
+        <bioguideId>R000487</bioguideId>
+        <lastName>ROYCE</lastName>
+        <state>CA</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Thomas</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001193</bioguideId>
+          <lisID>2258</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. MacArthur, Thomas [R-NJ-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>3</district>
+        <bioguideId>M001193</bioguideId>
+        <lastName>MacArthur</lastName>
+        <state>NJ</state>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Stephanie</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2318</lisID>
+          <bioguideId>M001202</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>N.</middleName>
+        <district>7</district>
+        <bioguideId>M001202</bioguideId>
+        <lastName>Murphy</lastName>
+        <state>FL</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Neal</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000628</bioguideId>
+          <gpoId />
+          <lisID>2315</lisID>
+        </identifiers>
+        <fullName>Rep. Dunn, Neal P. [R-FL-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <district>2</district>
+        <bioguideId>D000628</bioguideId>
+        <lastName>Dunn</lastName>
+        <state>FL</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Ralph</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2244</lisID>
+          <bioguideId>A000374</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>Lee</middleName>
+        <district>5</district>
+        <bioguideId>A000374</bioguideId>
+        <lastName>Abraham</lastName>
+        <state>LA</state>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Derek</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>6</district>
+        <bioguideId>K000381</bioguideId>
+        <lastName>Kilmer</lastName>
+        <state>WA</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Clay</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2329</lisID>
+          <bioguideId>H001077</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>3</district>
+        <bioguideId>H001077</bioguideId>
+        <lastName>Higgins</lastName>
+        <state>LA</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2330</lisID>
+          <bioguideId>J000299</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Johnson, Mike [R-LA-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>4</district>
+        <bioguideId>J000299</bioguideId>
+        <lastName>Johnson</lastName>
+        <state>LA</state>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Charlie</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2321</lisID>
+          <gpoId />
+          <bioguideId>C001111</bioguideId>
+        </identifiers>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>13</district>
+        <bioguideId>C001111</bioguideId>
+        <lastName>Crist</lastName>
+        <state>FL</state>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-10-12</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <notes />
+    <billType>HR</billType>
+    <policyArea />
+    <laws />
+    <billNumber>4044</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <committeeReports />
+    <title>To authorize the minting of a coin in honor of the 75th anniversary of the end of World War II, and for other purposes.</title>
+    <createDate>2017-10-13T03:11:23Z</createDate>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To authorize the minting of a coin in honor of the 75th anniversary of the end of World War II, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>To authorize the minting of a coin in honor of the 75th anniversary of the end of World War II, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>LA</state>
+        <byRequestType />
+        <bioguideId>S001176</bioguideId>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <bioguideId>S001176</bioguideId>
+          <lisID>1892</lisID>
+          <gpoId>7959</gpoId>
+        </identifiers>
+        <middleName />
+        <district>1</district>
+        <lastName>Scalise</lastName>
+        <fullName>Rep. Scalise, Steve [R-LA-1]</fullName>
+      </item>
+    </sponsors>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

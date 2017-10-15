@@ -1,0 +1,187 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-08", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3716-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001112", 
+      "district": "24", 
+      "name": "Carbajal, Salud O.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-08", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001097", 
+      "district": "29", 
+      "name": "Cardenas, Tony", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-08", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000623", 
+      "district": "11", 
+      "name": "DeSaulnier, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-10-10", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000579", 
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-09-11", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000179", 
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-08", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000127", 
+      "district": "8", 
+      "name": "Nolan, Richard M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-08", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000486", 
+      "district": "40", 
+      "name": "Roybal-Allard, Lucille", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-08", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000130", 
+      "district": "51", 
+      "name": "Vargas, Juan", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-08", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-08", 
+  "number": "3716", 
+  "official_title": "To award grants to States to establish a Seal of Biliteracy program to recognize high-level student proficiency in speaking, reading, and writing in both English and a second language.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "BEST Act", 
+  "sponsor": {
+    "bioguide_id": "B001285", 
+    "district": "26", 
+    "name": "Brownley, Julia", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-08", 
+  "subjects": [
+    "Education"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "BEST Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "BEST Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Biliteracy Education Seal and Teaching Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Biliteracy Education Seal and Teaching Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To award grants to States to establish a Seal of Biliteracy program to recognize high-level student proficiency in speaking, reading, and writing in both English and a second language.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "BEST Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-11T07:16:32Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3716.xml"
+}

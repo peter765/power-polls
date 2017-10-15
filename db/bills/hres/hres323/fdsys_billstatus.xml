@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>323</billNumber>
+    <calendarNumbers>
+      <item>
+        <calendar>H00049</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <billType>HRES</billType>
+    <laws />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <titles>
+      <item>
+        <title>Providing for consideration of the bill (H.R. 115) to amend title 18, United States Code, to provide additional aggravating factors for the imposition of the death penalty based on the status of the victim.</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Providing for consideration of the bill (H.R. 115) to amend title 18, United States Code, to provide additional aggravating factors for the imposition of the death penalty based on the status of the victim.</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <firstName>Ken</firstName>
+        <state>CO</state>
+        <lastName>Buck</lastName>
+        <district>4</district>
+        <fullName>Rep. Buck, Ken [R-CO-4]</fullName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <lisID>2233</lisID>
+          <bioguideId>B001297</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001297</bioguideId>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-126</citation>
+      </committeeReport>
+    </committeeReports>
+    <recordedVotes>
+      <recordedVote>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-05-17T17:58:03Z</date>
+        <rollNumber>260</rollNumber>
+        <chamber>House</chamber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll260.xml</url>
+      </recordedVote>
+      <recordedVote>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-05-17T17:50:48Z</date>
+        <rollNumber>259</rollNumber>
+        <chamber>House</chamber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll259.xml</url>
+      </recordedVote>
+    </recordedVotes>
+    <relatedBills>
+      <item>
+        <number>115</number>
+        <latestTitle>Thin Blue Line Act</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-05-22</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <notes />
+    <actions>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>13:58:05</actionTime>
+        <actionCode>H38310</actionCode>
+        <actionDate>2017-05-17</actionDate>
+      </item>
+      <item>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 233 - 184 (Roll no. 260). (text: CR H4237)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4237</url>
+            <name>H4237</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll260.xml</url>
+            <name>Roll no. 260</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>13:58:03</actionTime>
+        <actionCode>H37100</actionCode>
+        <actionDate>2017-05-17</actionDate>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 233 - 184 (Roll no. 260).</text>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll260.xml</url>
+            <name>Roll no. 260</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>13:58:03</actionTime>
+        <actionCode>8000</actionCode>
+        <actionDate>2017-05-17</actionDate>
+      </item>
+      <item>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 230 - 189 (Roll no. 259). (consideration: CR H4244-4245)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4244-4245</url>
+            <name>H4244-4245</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll259.xml</url>
+            <name>Roll no. 259</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>13:50:48</actionTime>
+        <actionCode>H35000</actionCode>
+        <actionDate>2017-05-17</actionDate>
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 323.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/323</url>
+            <name>H. Res. 323</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>12:39:16</actionTime>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-05-17</actionDate>
+      </item>
+      <item>
+        <text>Considered as privileged matter. (consideration: CR H4237-4245)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4237-4245</url>
+            <name>H4237-4245</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>12:38:05</actionTime>
+        <actionCode>H30000</actionCode>
+        <actionDate>2017-05-17</actionDate>
+      </item>
+      <item>
+        <text>Placed on the House Calendar, Calendar No. 49.</text>
+        <links />
+        <type>Calendars</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>H12420</actionCode>
+        <actionDate>2017-05-16</actionDate>
+      </item>
+      <item>
+        <text>The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-17 shall be considered as adopted and the bill, as amended, shall be considered as read.</text>
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>18:39:06</actionTime>
+        <actionCode>H12700</actionCode>
+        <actionDate>2017-05-16</actionDate>
+      </item>
+      <item>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-126, by Mr. Buck.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/126</url>
+            <name>H. Rept. 115-126</name>
+          </link>
+        </links>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>H12100</actionCode>
+        <actionDate>2017-05-16</actionDate>
+      </item>
+      <item>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-126, by Mr. Buck.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/126</url>
+            <name>H. Rept. 115-126</name>
+          </link>
+        </links>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>5000</actionCode>
+        <actionDate>2017-05-16</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-05-16</actionDate>
+      </item>
+      <actionTypeCounts>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <considerationByHouse>1</considerationByHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <provisionsOfARule>1</provisionsOfARule>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <generalDebate>1</generalDebate>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-05-17T03:11:37Z</createDate>
+    <title>Providing for consideration of the bill (H.R. 115) to amend title 18, United States Code, to provide additional aggravating factors for the imposition of the death penalty based on the status of the victim.</title>
+    <cosponsors />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2017-05-16T22:39:05Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsru00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-05-16T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-05-17T08:04:27Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 115) to amend title 18, United States Code, to provide additional aggravating factors for the imposition of the death penalty based on the status of the victim.]]></text>
+          <actionDate>2017-05-16</actionDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <updateDate>2017-09-11T02:40:35Z</updateDate>
+    <latestAction>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>13:58:05</actionTime>
+      <links />
+      <actionDate>2017-05-17</actionDate>
+    </latestAction>
+    <introducedDate>2017-05-16</introducedDate>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

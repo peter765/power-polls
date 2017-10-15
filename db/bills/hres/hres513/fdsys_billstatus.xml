@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <district>9</district>
+        <identifiers>
+          <bioguideId>C001093</bioguideId>
+          <lisID>2121</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001093</bioguideId>
+        <lastName>Collins</lastName>
+        <firstName>Doug</firstName>
+        <fullName>Rep. Collins, Doug [R-GA-9]</fullName>
+        <byRequestType />
+        <middleName />
+        <state>GA</state>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <calendarNumbers>
+      <item>
+        <calendar>H00083</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-307</citation>
+      </committeeReport>
+    </committeeReports>
+    <latestAction>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionDate>2017-09-13</actionDate>
+      <actionTime>13:28:53</actionTime>
+      <links />
+    </latestAction>
+    <constitutionalAuthorityStatementText />
+    <recordedVotes>
+      <recordedVote>
+        <url>http://clerk.house.gov/evs/2017/roll487.xml</url>
+        <date>2017-09-13T17:28:51Z</date>
+        <rollNumber>487</rollNumber>
+        <congress>115</congress>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+      <recordedVote>
+        <url>http://clerk.house.gov/evs/2017/roll486.xml</url>
+        <date>2017-09-13T17:21:18Z</date>
+        <rollNumber>486</rollNumber>
+        <congress>115</congress>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <congress>115</congress>
+        <number>3697</number>
+        <latestTitle>Criminal Alien Gang Member Removal Act</latestTitle>
+        <latestAction>
+          <actionTime>13:28:52</actionTime>
+          <actionDate>2017-09-13</actionDate>
+          <text>Rule H. Res. 513 passed House.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <actionTypeCounts>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <reportedToHouse>1</reportedToHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <considerationByHouse>1</considerationByHouse>
+        <generalDebate>1</generalDebate>
+        <provisionsOfARule>1</provisionsOfARule>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+      </actionTypeCounts>
+      <item>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <committee />
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-09-13</actionDate>
+        <actionTime>13:28:53</actionTime>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <committee />
+        <links>
+          <link>
+            <name>H7325</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7325</url>
+          </link>
+          <link>
+            <name>Roll no. 487</name>
+            <url>http://clerk.house.gov/evs/2017/roll487.xml</url>
+          </link>
+        </links>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 222 - 186 (Roll no. 487). (text: CR H7325)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-09-13</actionDate>
+        <actionTime>13:28:51</actionTime>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <committee />
+        <links>
+          <link>
+            <name>Roll no. 487</name>
+            <url>http://clerk.house.gov/evs/2017/roll487.xml</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 222 - 186 (Roll no. 487).</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-09-13</actionDate>
+        <actionTime>13:28:51</actionTime>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <committee />
+        <links>
+          <link>
+            <name>H7332-7333</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7332-7333</url>
+          </link>
+          <link>
+            <name>Roll no. 486</name>
+            <url>http://clerk.house.gov/evs/2017/roll486.xml</url>
+          </link>
+        </links>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 222 - 184 (Roll no. 486). (consideration: CR H7332-7333)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-09-13</actionDate>
+        <actionTime>13:21:18</actionTime>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <links>
+          <link>
+            <name>H. Res. 513</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/513</url>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 513.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-09-13</actionDate>
+        <actionTime>12:18:43</actionTime>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <links>
+          <link>
+            <name>H7325-7334</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7325-7334</url>
+          </link>
+        </links>
+        <text>Considered as privileged matter. (consideration: CR H7325-7334)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-09-13</actionDate>
+        <actionTime>12:16:55</actionTime>
+      </item>
+      <item>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <committee />
+        <links />
+        <text>Placed on the House Calendar, Calendar No. 83.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-09-12</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>H12700</actionCode>
+        <committee />
+        <links>
+          <link>
+            <name>H.R. 3697</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3697</url>
+          </link>
+        </links>
+        <text>Rule provides for consideration of H.R. 3697 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-09-12</actionDate>
+        <actionTime>19:34:37</actionTime>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionCode>H12100</actionCode>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-307</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/307</url>
+          </link>
+        </links>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-307, by Mr. Collins (GA).</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-09-12</actionDate>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-307</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/307</url>
+          </link>
+        </links>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-307, by Mr. Collins (GA).</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-09-12</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-09-12</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2017-09-12T23:34:36Z</date>
+            </item>
+          </activities>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-09-14T17:57:11Z</updateDate>
+    <cboCostEstimates />
+    <createDate>2017-09-13T03:11:19Z</createDate>
+    <billType>HRES</billType>
+    <cosponsors />
+    <congress>115</congress>
+    <introducedDate>2017-09-12</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-09-12</actionDate>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 3697) to amend the Immigration and Nationality Act with respect to aliens associated with criminal gangs, and for other purposes, and providing for proceedings during the period from September 15, 2017, through September 22, 2017.]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-09-13T08:06:17Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2017-09-12T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Providing for consideration of the bill (H.R. 3697) to amend the Immigration and Nationality Act with respect to aliens associated with criminal gangs, and for other purposes, and providing for proceedings during the period from September 15, 2017, through September 22, 2017.</title>
+    <laws />
+    <billNumber>513</billNumber>
+    <titles>
+      <item>
+        <title>Providing for consideration of the bill (H.R. 3697) to amend the Immigration and Nationality Act with respect to aliens associated with criminal gangs, and for other purposes, and providing for proceedings during the period from September 15, 2017, through September 22, 2017.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Providing for consideration of the bill (H.R. 3697) to amend the Immigration and Nationality Act with respect to aliens associated with criminal gangs, and for other purposes, and providing for proceedings during the period from September 15, 2017, through September 22, 2017.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

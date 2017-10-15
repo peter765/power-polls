@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <updateDate>2017-10-12T04:42:38Z</updateDate>
+    <notes />
+    <relatedBills />
+    <latestAction>
+      <actionDate>2017-08-01</actionDate>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695; text: 7/26/2017 CR S4310)</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2017-08-02T00:01:54Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-26T16:58:54Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-07-26</introducedDate>
+    <committeeReports />
+    <congress>115</congress>
+    <title>A resolution designating August 16, 2017, as "National Airborne Day".</title>
+    <recordedVotes />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AK</state>
+        <bioguideId>M001153</bioguideId>
+        <middleName />
+        <firstName>Lisa</firstName>
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Murkowski</lastName>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CT</state>
+        <bioguideId>B001277</bioguideId>
+        <middleName />
+        <firstName>Richard</firstName>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Blumenthal</lastName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MD</state>
+        <bioguideId>V000128</bioguideId>
+        <middleName />
+        <firstName>Chris</firstName>
+        <identifiers>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Van Hollen</lastName>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NH</state>
+        <bioguideId>S001181</bioguideId>
+        <middleName />
+        <firstName>Jeanne</firstName>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Shaheen</lastName>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+        <bioguideId>P000595</bioguideId>
+        <middleName>C.</middleName>
+        <firstName>Gary</firstName>
+        <identifiers>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Peters</lastName>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MT</state>
+        <bioguideId>T000464</bioguideId>
+        <middleName />
+        <firstName>Jon</firstName>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Tester</lastName>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AR</state>
+        <bioguideId>C001095</bioguideId>
+        <middleName />
+        <firstName>Tom</firstName>
+        <identifiers>
+          <lisID>2098</lisID>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Cotton</lastName>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>GA</state>
+        <bioguideId>I000055</bioguideId>
+        <middleName />
+        <firstName>Johnny</firstName>
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Isakson</lastName>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AK</state>
+        <bioguideId>S001198</bioguideId>
+        <middleName />
+        <firstName>Dan</firstName>
+        <identifiers>
+          <lisID>2290</lisID>
+          <gpoId />
+          <bioguideId>S001198</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Sullivan</lastName>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WV</state>
+        <bioguideId>M001183</bioguideId>
+        <middleName />
+        <firstName>Joe</firstName>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+          <gpoId>8256</gpoId>
+          <lisID>1983</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Manchin</lastName>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TN</state>
+        <bioguideId>C001071</bioguideId>
+        <middleName />
+        <firstName>Bob</firstName>
+        <identifiers>
+          <bioguideId>C001071</bioguideId>
+          <lisID>1825</lisID>
+          <gpoId>8294</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Corker</lastName>
+        <fullName>Sen. Corker, Bob [R-TN]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>GA</state>
+        <bioguideId>P000612</bioguideId>
+        <middleName>Alfred</middleName>
+        <firstName>David</firstName>
+        <identifiers>
+          <bioguideId>P000612</bioguideId>
+          <lisID>2286</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Perdue</lastName>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <bioguideId>B000944</bioguideId>
+        <middleName />
+        <firstName>SHERROD</firstName>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>BROWN</lastName>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AR</state>
+        <bioguideId>B001236</bioguideId>
+        <middleName />
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Boozman</lastName>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>KY</state>
+        <bioguideId>M000355</bioguideId>
+        <middleName />
+        <firstName>MITCH</firstName>
+        <identifiers>
+          <lisID>1395</lisID>
+          <bioguideId>M000355</bioguideId>
+          <gpoId>8254</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>MCCONNELL</lastName>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+      </item>
+    </cosponsors>
+    <billNumber>233</billNumber>
+    <billType>SRES</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-07-26T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Designates August 16, 2017, as National Airborne Day.</p>]]></text>
+          <actionDate>2017-07-26</actionDate>
+          <lastSummaryUpdateDate>2017-10-03T21:16:37Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <name>Passed Senate without amendment</name>
+          <updateDate>2017-08-01T13:13:19Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Designates August 16, 2017, as National Airborne Day.</p>]]></text>
+          <actionDate>2017-08-01</actionDate>
+          <lastSummaryUpdateDate>2017-10-03T21:16:49Z</lastSummaryUpdateDate>
+          <versionCode>82</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution designating August 16, 2017, as "National Airborne Day".</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>A resolution designating August 16, 2017, as "National Airborne Day".</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Military history</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-07-27T00:41:31Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <committeeDischarged>1</committeeDischarged>
+        <agreedToInSenate>1</agreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S4310</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4310</url>
+          </link>
+          <link>
+            <name>S4695</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4695</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695; text: 7/26/2017 CR S4310)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4695; text: 7/26/2017 CR S4310)</text>
+        <links>
+          <link>
+            <name>S4310</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4310</url>
+          </link>
+          <link>
+            <name>S4695</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4695</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <links />
+        <type>Committee</type>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S4310</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4310</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4310)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <firstName>JOHN</firstName>
+        <middleName>F.</middleName>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <byRequestType />
+        <bioguideId>R000122</bioguideId>
+        <lastName>REED</lastName>
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>R000122</bioguideId>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>National Health Service Corps Strengthening Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Public Health Service Act to extend funding for the National Health Service Corps program.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>National Health Service Corps Strengthening Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>National Health Service Corps Strengthening Act of 2017</title>
+        <chamberName />
+      </item>
+    </titles>
+    <title>National Health Service Corps Strengthening Act of 2017</title>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-28T13:00:15Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>3862</billNumber>
+    <cosponsors>
+      <item>
+        <bioguideId>S001192</bioguideId>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <firstName>Chris</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>UT</state>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>S001192</bioguideId>
+          <lisID>2168</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Stewart</lastName>
+      </item>
+      <item>
+        <bioguideId>L000570</bioguideId>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <firstName>Ben</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>Ray</middleName>
+        <state>NM</state>
+        <district>3</district>
+        <identifiers>
+          <lisID>1939</lisID>
+          <bioguideId>L000570</bioguideId>
+          <gpoId>8058</gpoId>
+        </identifiers>
+        <lastName>Lujan</lastName>
+      </item>
+      <item>
+        <bioguideId>H001064</bioguideId>
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <firstName>Denny</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>WA</state>
+        <district>10</district>
+        <identifiers>
+          <bioguideId>H001064</bioguideId>
+          <lisID>2170</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Heck</lastName>
+      </item>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <firstName>Steve</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>TN</state>
+        <district>9</district>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <lastName>Cohen</lastName>
+      </item>
+      <item>
+        <bioguideId>E000296</bioguideId>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <firstName>Dwight</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>PA</state>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <gpoId />
+          <lisID>2298</lisID>
+        </identifiers>
+        <lastName>Evans</lastName>
+      </item>
+      <item>
+        <bioguideId>M001163</bioguideId>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>Doris</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>O.</middleName>
+        <state>CA</state>
+        <district>6</district>
+        <identifiers>
+          <bioguideId>M001163</bioguideId>
+          <lisID>1814</lisID>
+          <gpoId>7810</gpoId>
+        </identifiers>
+        <lastName>Matsui</lastName>
+      </item>
+      <item>
+        <bioguideId>K000382</bioguideId>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <firstName>Ann</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <state>NH</state>
+        <district>2</district>
+        <identifiers>
+          <lisID>2145</lisID>
+          <gpoId />
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+        <lastName>Kuster</lastName>
+      </item>
+      <item>
+        <bioguideId>T000472</bioguideId>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <district>41</district>
+        <identifiers>
+          <lisID>2110</lisID>
+          <gpoId />
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <lastName>Takano</lastName>
+      </item>
+      <item>
+        <bioguideId>C001072</bioguideId>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <firstName>Andre</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>IN</state>
+        <district>7</district>
+        <identifiers>
+          <bioguideId>C001072</bioguideId>
+          <lisID>1889</lisID>
+          <gpoId>7946</gpoId>
+        </identifiers>
+        <lastName>Carson</lastName>
+      </item>
+      <item>
+        <bioguideId>L000557</bioguideId>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <state>CT</state>
+        <district>1</district>
+        <identifiers>
+          <lisID>1583</lisID>
+          <bioguideId>L000557</bioguideId>
+          <gpoId>7866</gpoId>
+        </identifiers>
+        <lastName>LARSON</lastName>
+      </item>
+      <item>
+        <bioguideId>L000559</bioguideId>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <firstName>JAMES</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <state>RI</state>
+        <district>2</district>
+        <identifiers>
+          <lisID>1668</lisID>
+          <gpoId>8140</gpoId>
+          <bioguideId>L000559</bioguideId>
+        </identifiers>
+        <lastName>LANGEVIN</lastName>
+      </item>
+    </cosponsors>
+    <updateDate>2017-10-13T07:17:24Z</updateDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>Butterfield</lastName>
+        <fullName>Rep. Butterfield, G. K. [D-NC-1]</fullName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1761</lisID>
+          <bioguideId>B001251</bioguideId>
+          <gpoId>8024</gpoId>
+        </identifiers>
+        <bioguideId>B001251</bioguideId>
+        <district>1</district>
+        <middleName />
+        <firstName>G. K.</firstName>
+        <byRequestType />
+        <state>NC</state>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ROS-LEHTINEN:H.R. 2061.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2792]</pre>]]></constitutionalAuthorityStatementText>
+    <notes />
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <calendarNumbers />
+    <createDate>2017-09-29T03:11:25Z</createDate>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2017-09-28</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </latestAction>
+    <committeeReports />
+    <congress>115</congress>
+    <introducedDate>2017-09-28</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

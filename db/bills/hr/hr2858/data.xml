@@ -1,0 +1,56 @@
+<bill session="115" type="h" number="2858" updated="2017-07-07T07:12:28Z">
+  <state datetime="2017-06-08">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-08"/>
+  </status>
+  <introduced datetime="2017-06-08"/>
+  <titles>
+    <title type="short" as="introduced">SUPER Act of 2017</title>
+    <title type="short" as="introduced">SUPER Act of 2017</title>
+    <title type="short" as="introduced">SUper Pollutant Emissions Reduction Act of 2017</title>
+    <title type="short" as="introduced">SUper Pollutant Emissions Reduction Act of 2017</title>
+    <title type="official" as="introduced">To establish a task force to review policies and measures to promote, and to develop best practices for, reduction of short-lived climate pollutants, and for other purposes.</title>
+    <title type="display">SUPER Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="P000608"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001292" joined="2017-06-29"/>
+    <cosponsor bioguide_id="C001112" joined="2017-06-08"/>
+    <cosponsor bioguide_id="C001090" joined="2017-06-08"/>
+    <cosponsor bioguide_id="C001077" joined="2017-06-08"/>
+    <cosponsor bioguide_id="C001107" joined="2017-06-08"/>
+    <cosponsor bioguide_id="D000620" joined="2017-06-08"/>
+    <cosponsor bioguide_id="L000559" joined="2017-06-15"/>
+    <cosponsor bioguide_id="L000563" joined="2017-06-08"/>
+    <cosponsor bioguide_id="L000579" joined="2017-06-08"/>
+    <cosponsor bioguide_id="P000598" joined="2017-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-08">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-08" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2017-06-09">
+      <text>Referred to the Subcommittee on Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Environment and the Economy" code="HSIF18" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Advisory bodies"/>
+    <term name="Air quality"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Environmental technology"/>
+    <term name="Government studies and investigations"/>
+    <term name="Public-private cooperation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

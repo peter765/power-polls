@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="3646" updated="2017-09-26T07:17:31Z">
+  <state datetime="2017-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-08-04"/>
+  </status>
+  <introduced datetime="2017-08-04"/>
+  <titles>
+    <title type="short" as="introduced">Water Quality Conservation Act of 2017</title>
+    <title type="short" as="introduced">Water Quality Conservation Act of 2017</title>
+    <title type="official" as="introduced">To amend the Food Security Act of 1985 to authorize the Secretary of Agriculture to carry out a precision conservation pilot program, and for other purposes.</title>
+    <title type="display">Water Quality Conservation Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="Y000066"/>
+  <cosponsors>
+    <cosponsor bioguide_id="F000449" joined="2017-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-08-04">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-08-04" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2017-09-01">
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Conservation and Forestry" code="HSAG15" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To implement a strategic approach for providing foreign assistance in order to end preventable child and maternal deaths globally within a generation, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>To implement a strategic approach for providing foreign assistance in order to end preventable child and maternal deaths globally within a generation, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <title>To implement a strategic approach for providing foreign assistance in order to end preventable child and maternal deaths globally within a generation, and for other purposes.</title>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <policyArea />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-11T14:03:05Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>4022</billNumber>
+    <cosponsors>
+      <item>
+        <bioguideId>M001143</bioguideId>
+        <identifiers>
+          <lisID>1653</lisID>
+          <bioguideId>M001143</bioguideId>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <party>D</party>
+        <firstName>BETTY</firstName>
+        <lastName>MCCOLLUM</lastName>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <bioguideId>L000551</bioguideId>
+        <identifiers>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <party>D</party>
+        <firstName>BARBARA</firstName>
+        <lastName>LEE</lastName>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>13</district>
+      </item>
+      <item>
+        <bioguideId>D000625</bioguideId>
+        <identifiers>
+          <lisID>2293</lisID>
+          <gpoId />
+          <bioguideId>D000625</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <party>R</party>
+        <firstName>Daniel</firstName>
+        <lastName>Donovan</lastName>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>11</district>
+      </item>
+    </cosponsors>
+    <updateDate>2017-10-12T07:18:06Z</updateDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>Reichert</lastName>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1810</lisID>
+          <bioguideId>R000578</bioguideId>
+          <gpoId>8212</gpoId>
+        </identifiers>
+        <bioguideId>R000578</bioguideId>
+        <district>8</district>
+        <middleName>G.</middleName>
+        <firstName>David</firstName>
+        <byRequestType />
+        <state>WA</state>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText />
+    <notes />
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2017-10-11</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-10-11</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-10-11</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <createDate>2017-10-12T03:11:23Z</createDate>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2017-10-11</actionDate>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </latestAction>
+    <committeeReports />
+    <congress>115</congress>
+    <introducedDate>2017-10-11</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

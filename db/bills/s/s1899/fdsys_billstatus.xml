@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-09-29T00:26:26Z</createDate>
+    <introducedDate>2017-09-28</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-28T21:13:14Z</date>
+            </item>
+          </activities>
+          <systemCode>sshr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <calendarNumbers />
+    <congress>115</congress>
+    <title>Community Health Investment, Modernization, and Excellence Act of 2017</title>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Community Health Investment, Modernization, and Excellence Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to reauthorize and extend funding for community health centers and the National Health Service Corps.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Community Health Investment, Modernization, and Excellence Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Community Health Investment, Modernization, and Excellence Act of 2017</title>
+      </item>
+    </titles>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2017-10-13T04:32:16Z</updateDate>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <billNumber>1899</billNumber>
+    <cosponsors>
+      <item>
+        <firstName>DEBORAH</firstName>
+        <middleName>ANN</middleName>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000770</bioguideId>
+        <lastName>STABENOW</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+        <identifiers>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>SHELLEY</firstName>
+        <middleName>MOORE</middleName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001047</bioguideId>
+        <lastName>CAPITO</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>THOMAS</firstName>
+        <middleName>R.</middleName>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000174</bioguideId>
+        <lastName>CARPER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>DE</state>
+        <identifiers>
+          <lisID>179</lisID>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Cory</firstName>
+        <middleName />
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000562</bioguideId>
+        <lastName>Gardner</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>BENJAMIN</firstName>
+        <middleName>L.</middleName>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000141</bioguideId>
+        <lastName>CARDIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>SUSAN</firstName>
+        <middleName>MARGARET</middleName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001035</bioguideId>
+        <lastName>COLLINS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>ME</state>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Claire</firstName>
+        <middleName />
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001170</bioguideId>
+        <lastName>McCaskill</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MO</state>
+        <identifiers>
+          <lisID>1820</lisID>
+          <bioguideId>M001170</bioguideId>
+          <gpoId>8252</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>ROGER</firstName>
+        <middleName>F.</middleName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000437</bioguideId>
+        <lastName>WICKER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MS</state>
+        <identifiers>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Joe</firstName>
+        <middleName />
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001183</bioguideId>
+        <lastName>Manchin</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WV</state>
+        <identifiers>
+          <lisID>1983</lisID>
+          <bioguideId>M001183</bioguideId>
+          <gpoId>8256</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>TAMMY</firstName>
+        <middleName />
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001230</bioguideId>
+        <lastName>BALDWIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Deb</firstName>
+        <middleName />
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000463</bioguideId>
+        <lastName>Fischer</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NE</state>
+        <identifiers>
+          <bioguideId>F000463</bioguideId>
+          <lisID>2179</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Jon</firstName>
+        <middleName />
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000464</bioguideId>
+        <lastName>Tester</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MT</state>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <middleName />
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001236</bioguideId>
+        <lastName>Boozman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AR</state>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <laws />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>B000575</bioguideId>
+        <firstName>Roy</firstName>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <byRequestType />
+        <lastName>Blunt</lastName>
+        <middleName />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+      <actionDate>2017-09-28</actionDate>
+    </latestAction>
+    <billType>S</billType>
+    <actions>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-09-28</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

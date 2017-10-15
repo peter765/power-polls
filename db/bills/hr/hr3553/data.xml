@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="3553" updated="2017-09-11T02:56:19Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Bankruptcy Administration Improvement Act of 2017</title>
+    <title type="short" as="introduced">Bankruptcy Administration Improvement Act of 2017</title>
+    <title type="official" as="introduced">To amend title 11 of the United States Code to increase the amount of compensation paid to chapter 7 bankruptcy trustees for services rendered.</title>
+    <title type="display">Bankruptcy Administration Improvement Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="M001179"/>
+  <cosponsors>
+    <cosponsor bioguide_id="P000593" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-09-06">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Regulatory Reform, Commercial And Antitrust Law" code="HSJU05" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

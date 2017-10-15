@@ -1,0 +1,42 @@
+<bill session="115" type="h" number="3615" updated="2017-09-11T02:56:29Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Vaccine Safety Study Act</title>
+    <title type="short" as="introduced">Vaccine Safety Study Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Health and Human Services to conduct or support a comprehensive study comparing total health outcomes, including risk of autism, in vaccinated populations in the United States with such outcomes in unvaccinated populations in the United States, and for other purposes.</title>
+    <title type="display">Vaccine Safety Study Act</title>
+  </titles>
+  <sponsor bioguide_id="P000599"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2017-08-04">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Immunology and vaccination"/>
+    <term name="Medical research"/>
+    <term name="Neurological disorders"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

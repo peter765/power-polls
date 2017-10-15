@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>283</billNumber>
+    <amendments />
+    <calendarNumbers />
+    <updateDate>2017-10-12T16:00:13Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>115</congress>
+    <createDate>2017-10-05T00:26:18Z</createDate>
+    <committeeReports />
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <firstName>DEBORAH</firstName>
+        <middleName>ANN</middleName>
+        <bioguideId>S000770</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>STABENOW</lastName>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <identifiers>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Lamar</firstName>
+        <middleName />
+        <bioguideId>A000360</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Alexander</lastName>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <identifiers>
+          <bioguideId>A000360</bioguideId>
+          <lisID>1695</lisID>
+          <gpoId>8304</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>MICHAEL</firstName>
+        <middleName>B.</middleName>
+        <bioguideId>E000285</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>ENZI</lastName>
+        <state>WY</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <identifiers>
+          <lisID>1542</lisID>
+          <bioguideId>E000285</bioguideId>
+          <gpoId>8328</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Joe</firstName>
+        <middleName />
+        <bioguideId>D000607</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Donnelly</lastName>
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <identifiers>
+          <bioguideId>D000607</bioguideId>
+          <lisID>1850</lisID>
+          <gpoId>7941</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Thad</firstName>
+        <middleName />
+        <bioguideId>C000567</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cochran</lastName>
+        <state>MS</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <identifiers>
+          <lisID>213</lisID>
+          <bioguideId>C000567</bioguideId>
+          <gpoId>8292</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <title>A resolution designating the week beginning October 15, 2017, as "National Character Counts Week".</title>
+    <committees>
+      <billCommittees />
+    </committees>
+    <laws />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <introducedDate>2017-10-04</introducedDate>
+    <relatedBills />
+    <originChamber>Senate</originChamber>
+    <billType>SRES</billType>
+    <actions>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S6323</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6323</url>
+          </link>
+          <link>
+            <name>S6324-6325</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6324-6325</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6324-6325; text of measure as introduced: CR S6323)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+        <links />
+        <type>Floor</type>
+        <committee />
+        <actionDate>2017-10-04</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-10-04</actionDate>
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A resolution designating the week beginning October 15, 2017, as "National Character Counts Week".</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>A resolution designating the week beginning October 15, 2017, as "National Character Counts Week".</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <firstName>CHARLES</firstName>
+        <state>IA</state>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <identifiers>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+        <bioguideId>G000386</bioguideId>
+        <byRequestType />
+        <middleName>ERNEST</middleName>
+        <lastName>GRASSLEY</lastName>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6324-6325; text of measure as introduced: CR S6323)</text>
+      <actionDate>2017-10-04</actionDate>
+      <links />
+    </latestAction>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

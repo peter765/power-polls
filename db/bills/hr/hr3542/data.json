@@ -1,0 +1,155 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-07-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3542-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000610", 
+      "district": "22", 
+      "name": "Deutch, Theodore E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-28", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001196", 
+      "district": "6", 
+      "name": "Moulton, Seth", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-28", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000435", 
+      "district": "27", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-28", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-28", 
+  "number": "3542", 
+  "official_title": "To impose sanctions against Hamas for gross violations of internationally recognized human rights by reason of the use of civilians as human shields, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Hamas Human Shields Prevention Act", 
+  "sponsor": {
+    "bioguide_id": "W000795", 
+    "district": "2", 
+    "name": "Wilson, Joe", 
+    "state": "SC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-07-28", 
+  "subjects": [
+    "Congressional oversight", 
+    "Foreign property", 
+    "Human rights", 
+    "International affairs", 
+    "Middle East", 
+    "Palestinians", 
+    "Sanctions", 
+    "Terrorism", 
+    "United Nations", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-07-28T04:00:00Z", 
+    "text": "Hamas Human Shields Prevention Act\n\nThis bill states that it is U.S. policy to: (1) condemn the use of human shields by Hamas as an act of terrorism and a violation of human rights and international humanitarian law, and (2) act against those engaging in or supporting the use of human shields.\n\nThe President is urged to direct the U.S. Permanent Representative to the United Nations (U.N.) to use U.S. influence at the U.N. Security Council to secure support for a resolution imposing multilateral sanctions against Hamas's use of human shields.\n\nThe President shall prohibit property transactions and U.S. entry with respect to: (1) each foreign person or entity that is a member of or acting on behalf of Hamas and that is responsible for or complicit in Hamas' use of human shields; and (2) each foreign person or entity and each agency or instrumentality of a foreign state that has significantly facilitated any act with respect to such use of human shields, provided material support to a listed person or entity, or attempted to facilitate or support such acts or persons.\n\nThe President may waive a sanction for 120 days with prior congressional certification that such waiver is vital to U.S. national security interests."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Hamas Human Shields Prevention Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Hamas Human Shields Prevention Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To impose sanctions against Hamas for gross violations of internationally recognized human rights by reason of the use of civilians as human shields, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Hamas Human Shields Prevention Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-04T15:30:15Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3542.xml"
+}

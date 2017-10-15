@@ -1,0 +1,42 @@
+<bill session="115" type="h" number="3594" updated="2017-09-11T02:56:25Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Debt Recovery Act of 2017</title>
+    <title type="short" as="introduced">Social Security Debt Recovery Act of 2017</title>
+    <title type="official" as="introduced">To amend title II of the Social Security Act to protect the Social Security Trust Funds from overpayment discharge during bankruptcy proceedings, and for other purposes.</title>
+    <title type="display">Social Security Debt Recovery Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="J000174"/>
+  <cosponsors>
+    <cosponsor bioguide_id="J000290" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-28">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-09-06">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Regulatory Reform, Commercial And Antitrust Law" code="HSJU05" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

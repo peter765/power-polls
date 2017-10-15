@@ -1,0 +1,36 @@
+<bill session="115" type="h" number="3677" updated="2017-09-16T07:12:12Z">
+  <state datetime="2017-09-05">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-05"/>
+  </status>
+  <introduced datetime="2017-09-05"/>
+  <titles>
+    <title type="short" as="introduced">Peter J. McGuire Labor Day Landmark Act</title>
+    <title type="short" as="introduced">The Peter J. McGuire Labor Day Landmark Act</title>
+    <title type="official" as="introduced">To designate the Peter J. McGuire Memorial and Peter J. McGuire Gravesite located in Pennsauken, New Jersey, as a National Historic Landmark, and for other purposes.</title>
+    <title type="display">Peter J. McGuire Labor Day Landmark Act</title>
+  </titles>
+  <sponsor bioguide_id="N000188"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-09-05">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-05" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-09-08">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Federal Lands" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

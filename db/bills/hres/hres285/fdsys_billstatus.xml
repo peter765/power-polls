@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>285</billNumber>
+    <calendarNumbers />
+    <billType>HRES</billType>
+    <laws />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the sense of the United States House of Representatives that Congress and the President should empower the creation of police and community alliances designed to enhance and improve communication and collaboration between members of the law enforcement community and the public they serve.</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing the sense of the United States House of Representatives that Congress and the President should empower the creation of police and community alliances designed to enhance and improve communication and collaboration between members of the law enforcement community and the public they serve.</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <firstName>Scott</firstName>
+        <state>VA</state>
+        <lastName>Taylor</lastName>
+        <district>2</district>
+        <fullName>Rep. Taylor, Scott [R-VA-2]</fullName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000477</bioguideId>
+          <lisID>2351</lisID>
+        </identifiers>
+        <bioguideId>T000477</bioguideId>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Community life and organization</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <recordedVotes />
+    <relatedBills />
+    <notes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-04-26</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-04-26</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <createDate>2017-04-27T03:11:40Z</createDate>
+    <title>Expressing the sense of the United States House of Representatives that Congress and the President should empower the creation of police and community alliances designed to enhance and improve communication and collaboration between members of the law enforcement community and the public they serve.</title>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <identifiers>
+          <lisID>2306</lisID>
+          <bioguideId>O000171</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>O000171</bioguideId>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <state>AZ</state>
+        <party>D</party>
+        <lastName>O'Halleran</lastName>
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <identifiers>
+          <bioguideId>R000578</bioguideId>
+          <lisID>1810</lisID>
+          <gpoId>8212</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>G.</middleName>
+        <bioguideId>R000578</bioguideId>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <state>WA</state>
+        <party>R</party>
+        <lastName>Reichert</lastName>
+        <firstName>David</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <identifiers>
+          <lisID>1510</lisID>
+          <bioguideId>P000096</bioguideId>
+          <gpoId>8050</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <bioguideId>P000096</bioguideId>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <state>NJ</state>
+        <party>D</party>
+        <lastName>PASCRELL</lastName>
+        <firstName>WILLIAM</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <identifiers>
+          <bioguideId>C000984</bioguideId>
+          <lisID>256</lisID>
+          <gpoId>7982</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <bioguideId>C000984</bioguideId>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <state>MD</state>
+        <party>D</party>
+        <lastName>CUMMINGS</lastName>
+        <firstName>ELIJAH</firstName>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>10</district>
+        <identifiers>
+          <lisID>1741</lisID>
+          <bioguideId>T000463</bioguideId>
+          <gpoId>8093</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <bioguideId>T000463</bioguideId>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <state>OH</state>
+        <party>R</party>
+        <lastName>Turner</lastName>
+        <firstName>Michael</firstName>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <identifiers>
+          <lisID>887</lisID>
+          <bioguideId>P000034</bioguideId>
+          <gpoId>8048</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>P000034</bioguideId>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <state>NJ</state>
+        <party>D</party>
+        <lastName>PALLONE</lastName>
+        <firstName>FRANK</firstName>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <lisID>2298</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>E000296</bioguideId>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <state>PA</state>
+        <party>D</party>
+        <lastName>Evans</lastName>
+        <firstName>Dwight</firstName>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-02T14:05:12Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-26T14:04:40Z</date>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-04-26</actionDate>
+          <lastSummaryUpdateDate>2017-07-10T21:21:34Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-04-26T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Expresses the sense of Congress that Congress and the President should create police and community alliances to enhance and improve communication and collaboration between the law enforcement community and the public. </p>]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <updateDate>2017-09-13T16:15:12Z</updateDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+      <actionDate>2017-05-02</actionDate>
+    </latestAction>
+    <introducedDate>2017-04-26</introducedDate>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

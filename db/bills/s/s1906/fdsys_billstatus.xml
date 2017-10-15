@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-10-04T00:41:24Z</createDate>
+    <introducedDate>2017-10-03</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>ssbk00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-03T15:10:54Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <calendarNumbers />
+    <congress>115</congress>
+    <title>A bill to posthumously award the Congressional Gold Medal to each of Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith in recognition of their contributions to the Nation.</title>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to posthumously award the Congressional Gold Medal to each of Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith in recognition of their contributions to the Nation.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>A bill to posthumously award the Congressional Gold Medal to each of Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith in recognition of their contributions to the Nation.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <updateDate>2017-10-12T04:40:36Z</updateDate>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <billNumber>1906</billNumber>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <firstName>JIM</firstName>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>583</lisID>
+          <bioguideId>I000024</bioguideId>
+          <gpoId>8322</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>I000024</bioguideId>
+        <middleName />
+        <lastName>INHOFE</lastName>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>RON</firstName>
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000779</bioguideId>
+        <middleName />
+        <lastName>WYDEN</lastName>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Johnny</firstName>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>I000055</bioguideId>
+        <middleName />
+        <lastName>Isakson</lastName>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Elizabeth</firstName>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000817</bioguideId>
+        <middleName>A.</middleName>
+        <lastName>Warren</lastName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+      </item>
+    </cosponsors>
+    <laws />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>M000133</bioguideId>
+        <firstName>EDWARD</firstName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <byRequestType />
+        <lastName>MARKEY</lastName>
+        <middleName>J.</middleName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+      <actionDate>2017-10-03</actionDate>
+    </latestAction>
+    <billType>S</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-03</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2017-10-03</actionDate>
+      </item>
+    </actions>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Digestive and metabolic diseases</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. DeGETTE:H.R. 3124.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3[Page H5377]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <fullName>Rep. DeGette, Diana [D-CO-1]</fullName>
+        <lastName>DEGETTE</lastName>
+        <identifiers>
+          <bioguideId>D000197</bioguideId>
+          <gpoId>7859</gpoId>
+          <lisID>1479</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>DIANA</firstName>
+        <bioguideId>D000197</bioguideId>
+        <state>CO</state>
+        <district>1</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <actions>
+      <item>
+        <actionDate>2017-07-17</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hswm02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-30</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2017-06-29</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2017-06-29</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-06-29</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-06-29</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-09-19T11:47:16Z</lastSummaryUpdateDate>
+          <actionDate>2017-06-29</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Preventing Diabetes in Medicare Act of 2017</b></p> <p>This bill amends title XVIII (Medicare) of the Social Security Act to extend Medicare coverage for medical nutrition therapy services to beneficiaries&nbsp;with pre-diabetes or risk factors for developing type-2 diabetes. </p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-06-29T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-06-29</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hswm02</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-07-17T19:36:49Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-06-29T14:00:42Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-06-30T14:10:57Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-06-29T14:00:37Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Preventing Diabetes in Medicare Act of 2017</title>
+    <congress>115</congress>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <latestTitle>Preventing Diabetes in Medicare Act of 2017</latestTitle>
+        <number>1299</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-06-07</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <latestAction>
+      <actionDate>2017-07-17</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <createDate>2017-06-30T03:11:37Z</createDate>
+    <updateDate>2017-10-06T07:15:59Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <billNumber>3124</billNumber>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Preventing Diabetes in Medicare Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XVIII of the Social Security Act to reduce the occurrence of diabetes in Medicare beneficiaries by extending coverage under Medicare for medical nutrition therapy services to such beneficiaries with pre-diabetes or with risk factors for developing type 2 diabetes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Preventing Diabetes in Medicare Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Preventing Diabetes in Medicare Act of 2017</title>
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <identifiers>
+          <lisID>1921</lisID>
+          <gpoId>7950</gpoId>
+          <bioguideId>J000290</bioguideId>
+        </identifiers>
+        <firstName>Lynn</firstName>
+        <state>KS</state>
+        <district>2</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>Jenkins</lastName>
+        <middleName />
+        <bioguideId>J000290</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <identifiers>
+          <lisID>1982</lisID>
+          <gpoId>8090</gpoId>
+          <bioguideId>R000585</bioguideId>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <state>NY</state>
+        <district>23</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>Reed</lastName>
+        <middleName />
+        <bioguideId>R000585</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <identifiers>
+          <gpoId>8374</gpoId>
+          <bioguideId>D000617</bioguideId>
+          <lisID>2096</lisID>
+        </identifiers>
+        <firstName>Suzan</firstName>
+        <state>WA</state>
+        <district>1</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>DelBene</lastName>
+        <middleName>K.</middleName>
+        <bioguideId>D000617</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <identifiers>
+          <lisID>2134</lisID>
+          <gpoId />
+          <bioguideId>K000380</bioguideId>
+        </identifiers>
+        <firstName>Daniel</firstName>
+        <state>MI</state>
+        <district>5</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>Kildee</lastName>
+        <middleName>T.</middleName>
+        <bioguideId>K000380</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <identifiers>
+          <gpoId>8140</gpoId>
+          <bioguideId>L000559</bioguideId>
+          <lisID>1668</lisID>
+        </identifiers>
+        <firstName>JAMES</firstName>
+        <state>RI</state>
+        <district>2</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>LANGEVIN</lastName>
+        <middleName>R.</middleName>
+        <bioguideId>L000559</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <identifiers>
+          <lisID>1939</lisID>
+          <bioguideId>L000570</bioguideId>
+          <gpoId>8058</gpoId>
+        </identifiers>
+        <firstName>Ben</firstName>
+        <state>NM</state>
+        <district>3</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>Lujan</lastName>
+        <middleName>Ray</middleName>
+        <bioguideId>L000570</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <identifiers>
+          <bioguideId>M001195</bioguideId>
+          <lisID>2277</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Alexander</firstName>
+        <state>WV</state>
+        <district>2</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>Mooney</lastName>
+        <middleName>X.</middleName>
+        <bioguideId>M001195</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <identifiers>
+          <lisID>1602</lisID>
+          <bioguideId>N000179</bioguideId>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <firstName>GRACE</firstName>
+        <state>CA</state>
+        <district>32</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>NAPOLITANO</lastName>
+        <middleName>F.</middleName>
+        <bioguideId>N000179</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <identifiers>
+          <lisID>867</lisID>
+          <gpoId />
+          <bioguideId>N000127</bioguideId>
+        </identifiers>
+        <firstName>RICHARD</firstName>
+        <state>MN</state>
+        <district>8</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>NOLAN</lastName>
+        <middleName />
+        <bioguideId>N000127</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+        </identifiers>
+        <firstName>ELEANOR</firstName>
+        <state>DC</state>
+        <district>0</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>NORTON</lastName>
+        <middleName>HOLMES</middleName>
+        <bioguideId>N000147</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <identifiers>
+          <lisID>997</lisID>
+          <bioguideId>R000486</bioguideId>
+          <gpoId>7839</gpoId>
+        </identifiers>
+        <firstName>LUCILLE</firstName>
+        <state>CA</state>
+        <district>40</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <middleName />
+        <bioguideId>R000486</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <gpoId>8107</gpoId>
+          <lisID>1756</lisID>
+        </identifiers>
+        <firstName>TIM</firstName>
+        <state>OH</state>
+        <district>13</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>RYAN</lastName>
+        <middleName />
+        <bioguideId>R000577</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <identifiers>
+          <bioguideId>S000522</bioguideId>
+          <lisID>1071</lisID>
+          <gpoId>8046</gpoId>
+        </identifiers>
+        <firstName>CHRISTOPHER</firstName>
+        <state>NJ</state>
+        <district>4</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>SMITH</lastName>
+        <middleName>H.</middleName>
+        <bioguideId>S000522</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <firstName>JAMES</firstName>
+        <state>MA</state>
+        <district>2</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>MCGOVERN</lastName>
+        <middleName>P.</middleName>
+        <bioguideId>M000312</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+          <lisID>2259</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Bonnie</firstName>
+        <state>NJ</state>
+        <district>12</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>Watson Coleman</lastName>
+        <middleName />
+        <bioguideId>W000822</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <identifiers>
+          <bioguideId>M001143</bioguideId>
+          <gpoId>8004</gpoId>
+          <lisID>1653</lisID>
+        </identifiers>
+        <firstName>BETTY</firstName>
+        <state>MN</state>
+        <district>4</district>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <lastName>MCCOLLUM</lastName>
+        <middleName />
+        <bioguideId>M001143</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <identifiers>
+          <lisID>2113</lisID>
+          <gpoId />
+          <bioguideId>P000608</bioguideId>
+        </identifiers>
+        <firstName>Scott</firstName>
+        <state>CA</state>
+        <district>52</district>
+        <sponsorshipDate>2017-08-25</sponsorshipDate>
+        <lastName>Peters</lastName>
+        <middleName>H.</middleName>
+        <bioguideId>P000608</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <firstName>Raul</firstName>
+        <state>AZ</state>
+        <district>3</district>
+        <sponsorshipDate>2017-08-25</sponsorshipDate>
+        <lastName>Grijalva</lastName>
+        <middleName>M.</middleName>
+        <bioguideId>G000551</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <firstName>Yvette</firstName>
+        <state>NY</state>
+        <district>9</district>
+        <sponsorshipDate>2017-08-25</sponsorshipDate>
+        <lastName>Clarke</lastName>
+        <middleName>D.</middleName>
+        <bioguideId>C001067</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <identifiers>
+          <lisID>2146</lisID>
+          <gpoId />
+          <bioguideId>L000580</bioguideId>
+        </identifiers>
+        <firstName>Michelle</firstName>
+        <state>NM</state>
+        <district>1</district>
+        <sponsorshipDate>2017-08-25</sponsorshipDate>
+        <lastName>Lujan Grisham</lastName>
+        <middleName />
+        <bioguideId>L000580</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <identifiers>
+          <lisID>2170</lisID>
+          <gpoId />
+          <bioguideId>H001064</bioguideId>
+        </identifiers>
+        <firstName>Denny</firstName>
+        <state>WA</state>
+        <district>10</district>
+        <sponsorshipDate>2017-08-25</sponsorshipDate>
+        <lastName>Heck</lastName>
+        <middleName />
+        <bioguideId>H001064</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <identifiers>
+          <gpoId>8216</gpoId>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+        </identifiers>
+        <firstName>RON</firstName>
+        <state>WI</state>
+        <district>3</district>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <lastName>KIND</lastName>
+        <middleName />
+        <bioguideId>K000188</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <identifiers>
+          <bioguideId>M001188</bioguideId>
+          <lisID>2148</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Grace</firstName>
+        <state>NY</state>
+        <district>6</district>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <lastName>Meng</lastName>
+        <middleName />
+        <bioguideId>M001188</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <identifiers>
+          <bioguideId>S001187</bioguideId>
+          <lisID>2047</lisID>
+          <gpoId>8105</gpoId>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <state>OH</state>
+        <district>15</district>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <lastName>Stivers</lastName>
+        <middleName />
+        <bioguideId>S001187</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001281</bioguideId>
+          <lisID>2153</lisID>
+        </identifiers>
+        <firstName>Joyce</firstName>
+        <state>OH</state>
+        <district>3</district>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <lastName>Beatty</lastName>
+        <middleName />
+        <bioguideId>B001281</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <notes />
+    <amendments />
+    <committeeReports />
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

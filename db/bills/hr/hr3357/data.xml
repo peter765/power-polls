@@ -1,0 +1,45 @@
+<bill session="115" type="h" number="3357" updated="2017-09-11T03:06:17Z">
+  <state datetime="2017-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-24"/>
+  </status>
+  <introduced datetime="2017-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Military Consumer Protection Act</title>
+    <title type="short" as="introduced">Military Consumer Protection Act</title>
+    <title type="official" as="introduced">To allow the Bureau of Consumer Financial Protection to provide greater protection to servicemembers.</title>
+    <title type="display">Military Consumer Protection Act</title>
+  </titles>
+  <sponsor bioguide_id="W000187"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001281" joined="2017-07-24"/>
+    <cosponsor bioguide_id="G000581" joined="2017-07-24"/>
+    <cosponsor bioguide_id="G000553" joined="2017-07-24"/>
+    <cosponsor bioguide_id="H001064" joined="2017-07-24"/>
+    <cosponsor bioguide_id="K000380" joined="2017-07-24"/>
+    <cosponsor bioguide_id="L000562" joined="2017-07-24"/>
+    <cosponsor bioguide_id="M001137" joined="2017-07-24"/>
+    <cosponsor bioguide_id="S000344" joined="2017-07-24"/>
+    <cosponsor bioguide_id="V000081" joined="2017-07-24"/>
+    <cosponsor bioguide_id="W000799" joined="2017-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-24">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1389"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

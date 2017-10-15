@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>S000250</bioguideId>
+        <firstName>PETE</firstName>
+        <byRequestType />
+        <identifiers>
+          <lisID>1525</lisID>
+          <bioguideId>S000250</bioguideId>
+          <gpoId>8188</gpoId>
+        </identifiers>
+        <district>32</district>
+        <middleName />
+        <lastName>SESSIONS</lastName>
+        <state>TX</state>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <createDate>2017-04-07T03:11:45Z</createDate>
+    <billType>HCONRES</billType>
+    <title>Providing for a conditional adjournment of the House of Representatives.</title>
+    <notes />
+    <congress>115</congress>
+    <latestAction>
+      <links />
+      <actionDate>2017-04-06</actionDate>
+      <text>Received in the Senate.</text>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional operations and organization</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cosponsors />
+    <originChamber>House</originChamber>
+    <updateDate>2017-09-19T20:00:14Z</updateDate>
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2017-04-06</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-04-06</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <links />
+        <actionTime>14:31:19</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-04-06</actionDate>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H2782)</text>
+        <actionCode>H37100</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H2782</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2782</url>
+          </link>
+        </links>
+        <actionTime>14:31:10</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-04-06</actionDate>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H2782)</text>
+        <actionCode>8000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H2782</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2782</url>
+          </link>
+        </links>
+        <actionTime>14:31:10</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-04-06</actionDate>
+        <text>Considered as privileged matter. (consideration: CR H2782)</text>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H2782</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2782</url>
+          </link>
+        </links>
+        <actionTime>14:30:07</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-04-06</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-04-06</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText />
+    <committees>
+      <billCommittees />
+    </committees>
+    <billNumber>48</billNumber>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-04-06</actionDate>
+          <text><![CDATA[<p>Declares that when the House adjourns on any legislative day from Thursday, April 6, 2017, through Friday, April 21, 2017, it stand adjourned until 2 p.m. on Tuesday, April 25, 2017.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-04-06T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-05-31T18:20:38Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <actionDate>2017-04-06</actionDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Declares that when the House adjourns on any legislative day from Thursday, April 6, 2017, through Friday, April 21, 2017, it stand adjourned until 2 p.m. on Tuesday, April 25, 2017.</p>]]></text>
+          <versionCode>81</versionCode>
+          <updateDate>2017-04-06T14:41:52Z</updateDate>
+          <lastSummaryUpdateDate>2017-05-31T18:21:21Z</lastSummaryUpdateDate>
+          <name>Passed House without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-04-06</introducedDate>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for a conditional adjournment of the House of Representatives.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for a conditional adjournment of the House of Representatives.</title>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

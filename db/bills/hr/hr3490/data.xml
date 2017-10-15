@@ -1,0 +1,41 @@
+<bill session="115" type="h" number="3490" updated="2017-09-11T02:56:02Z">
+  <state datetime="2017-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-27"/>
+  </status>
+  <introduced datetime="2017-07-27"/>
+  <titles>
+    <title type="short" as="introduced">Supporting Adopted Children and Families Act of 2017</title>
+    <title type="short" as="introduced">Supporting Adopted Children and Families Act of 2017</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to authorize grants to eligible entities to develop and implement statewide or tribal post-adoption and post-legal guardianship mental health service programs for all children who are adopted or placed in legal guardianship, and for other purposes.</title>
+    <title type="display">Supporting Adopted Children and Families Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="L000559"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001270" joined="2017-07-27"/>
+    <cosponsor bioguide_id="D000096" joined="2017-07-27"/>
+    <cosponsor bioguide_id="L000581" joined="2017-07-27"/>
+    <cosponsor bioguide_id="M001179" joined="2017-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-27" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2017-07-28">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,150 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-19", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-19", 
+      "action_code": "", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [
+        {
+          "reference": "CR S5864-5865", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1845-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000607", 
+      "district": null, 
+      "name": "Donnelly, Joe", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-19", 
+      "state": "IN", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000622", 
+      "district": null, 
+      "name": "Duckworth, Tammy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-19", 
+      "state": "IL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000639", 
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-19", 
+      "state": "NJ", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001184", 
+      "district": null, 
+      "name": "Scott, Tim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-19", 
+      "state": "SC", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000064", 
+      "district": null, 
+      "name": "Young, Todd C.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-19", 
+      "state": "IN", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-19", 
+  "number": "1845", 
+  "official_title": "A bill to amend the Lead-Based Paint Poisoning Prevention Act to provide for additional procedures for families with children under the age of 6, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Lead-Safe Housing for Kids Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "D000563", 
+    "district": null, 
+    "name": "Durbin, Richard J.", 
+    "state": "IL", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-19", 
+  "subjects": [
+    "Housing and community development"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Lead-Safe Housing for Kids Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Lead-Safe Housing for Kids Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Lead-Based Paint Poisoning Prevention Act to provide for additional procedures for families with children under the age of 6, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Lead-Safe Housing for Kids Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-09-29T04:34:20Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1845.xml"
+}

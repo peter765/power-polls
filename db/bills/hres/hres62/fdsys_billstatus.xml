@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2017-01-24</actionDate>
+      <links />
+    </latestAction>
+    <relatedBills />
+    <committeeReports />
+    <title>Prohibiting the placement of "Members Only" signs in the House of Representatives wing of the United States Capitol or in office buildings of the House of Representatives.</title>
+    <version>1.0.0</version>
+    <billNumber>62</billNumber>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000579</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>G000579</bioguideId>
+          <lisID>2355</lisID>
+          <gpoId />
+        </identifiers>
+        <state>WI</state>
+        <firstName>Mike</firstName>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <party>R</party>
+        <lastName>Gallagher</lastName>
+        <district>8</district>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-24T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-03-16T20:04:58Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Requires the Speaker of the House of Representatives to remove any sign stating &quot;Members Only&quot; from, and to ensure that no such sign is placed anywhere in, the House wing of the U.S. Capitol or any House office building.</p>]]></text>
+          <actionDate>2017-01-24</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-01-24</introducedDate>
+    <billType>HRES</billType>
+    <updateDate>2017-09-14T07:15:28Z</updateDate>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Fitzpatrick</lastName>
+        <middleName>K.</middleName>
+        <bioguideId>F000466</bioguideId>
+        <byRequestType />
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <state>PA</state>
+        <district>8</district>
+        <firstName>Brian</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <congress>115</congress>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>U.S. Capitol</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <actions>
+      <item>
+        <actionDate>2017-01-24</actionDate>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on House Administration.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-01-24</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-01-24</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText />
+    <createDate>2017-01-25T04:45:51Z</createDate>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <notes />
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>House Administration Committee</name>
+          <activities>
+            <item>
+              <date>2017-01-24T15:09:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>Prohibiting the placement of "Members Only" signs in the House of Representatives wing of the United States Capitol or in office buildings of the House of Representatives.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Prohibiting the placement of "Members Only" signs in the House of Representatives wing of the United States Capitol or in office buildings of the House of Representatives.</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

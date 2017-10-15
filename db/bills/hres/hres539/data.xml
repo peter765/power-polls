@@ -1,0 +1,43 @@
+<bill session="115" type="hr" number="539" updated="2017-09-29T15:30:14Z">
+  <state datetime="2017-09-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-26"/>
+  </status>
+  <introduced datetime="2017-09-26"/>
+  <titles>
+    <title type="official" as="introduced">Calling for sickle-cell trait research, surveillance, and public education and awareness.</title>
+    <title type="display">Calling for sickle-cell trait research, surveillance, and public education and awareness.</title>
+  </titles>
+  <sponsor bioguide_id="L000551"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001248" joined="2017-09-26"/>
+    <cosponsor bioguide_id="E000288" joined="2017-09-26"/>
+    <cosponsor bioguide_id="E000296" joined="2017-09-26"/>
+    <cosponsor bioguide_id="G000551" joined="2017-09-26"/>
+    <cosponsor bioguide_id="H000324" joined="2017-09-26"/>
+    <cosponsor bioguide_id="J000032" joined="2017-09-26"/>
+    <cosponsor bioguide_id="M001137" joined="2017-09-26"/>
+    <cosponsor bioguide_id="N000147" joined="2017-09-26"/>
+    <cosponsor bioguide_id="P000604" joined="2017-09-26"/>
+    <cosponsor bioguide_id="T000193" joined="2017-09-28"/>
+    <cosponsor bioguide_id="W000822" joined="2017-09-26"/>
+    <cosponsor bioguide_id="W000808" joined="2017-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-26" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

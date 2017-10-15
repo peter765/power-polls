@@ -1,0 +1,39 @@
+<bill session="115" type="h" number="3868" updated="2017-10-05T13:00:15Z">
+  <state datetime="2017-09-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-28"/>
+  </status>
+  <introduced datetime="2017-09-28"/>
+  <titles>
+    <title type="short" as="introduced">Treasury Innovation Act</title>
+    <title type="short" as="introduced">Treasury Innovation Act</title>
+    <title type="official" as="introduced">To establish a bug bounty pilot program within the Department of the Treasury, and for other purposes.</title>
+    <title type="display">Treasury Innovation Act</title>
+  </titles>
+  <sponsor bioguide_id="B001305"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-09-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-28" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-09-28">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2774"/>
+    <bill type="s" session="115" relation="unknown" number="1281"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

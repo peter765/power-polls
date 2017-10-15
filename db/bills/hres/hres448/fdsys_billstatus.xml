@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-14</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-14</actionDate>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR E992)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links>
+          <link>
+            <name>E992</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/extensions-of-remarks-section/page/E992</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-07-14</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-07-14</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-07-15T03:11:31Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-07-14T13:02:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>448</billNumber>
+    <sponsors>
+      <item>
+        <district>46</district>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001110</bioguideId>
+          <lisID>2312</lisID>
+        </identifiers>
+        <lastName>Correa</lastName>
+        <bioguideId>C001110</bioguideId>
+        <party>D</party>
+        <state>CA</state>
+        <firstName>J.</firstName>
+        <middleName>Luis</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2017-07-14</introducedDate>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <billType>HRES</billType>
+    <title>Recognizing the accomplishments and the contributions of Vietnamese Americans.</title>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <updateDate>2017-10-03T16:00:13Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Recognizes the accomplishments and significant contributions of Vietnamese Americans in the United States.</p>]]></text>
+          <lastSummaryUpdateDate>2017-10-03T15:50:53Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-07-14</actionDate>
+          <updateDate>2017-07-14T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <actionDate>2017-07-14</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <firstName>Alan</firstName>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <bioguideId>L000579</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000579</bioguideId>
+          <lisID>2111</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lowenthal</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <middleName>S.</middleName>
+        <district>47</district>
+      </item>
+      <item>
+        <firstName>Stephanie</firstName>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <bioguideId>M001202</bioguideId>
+        <identifiers>
+          <lisID>2318</lisID>
+          <bioguideId>M001202</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Murphy</lastName>
+        <state>FL</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <middleName>N.</middleName>
+        <district>7</district>
+      </item>
+      <item>
+        <firstName>ZOE</firstName>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <bioguideId>L000397</bioguideId>
+        <identifiers>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>LOFGREN</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <middleName />
+        <district>19</district>
+      </item>
+      <item>
+        <firstName>Barbara</firstName>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <bioguideId>C001105</bioguideId>
+        <identifiers>
+          <bioguideId>C001105</bioguideId>
+          <lisID>2273</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Comstock</lastName>
+        <state>VA</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <middleName />
+        <district>10</district>
+      </item>
+      <item>
+        <firstName>JAMES</firstName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <bioguideId>M000312</bioguideId>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCGOVERN</lastName>
+        <state>MA</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <middleName>P.</middleName>
+        <district>2</district>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Vietnam</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Recognizing the accomplishments and the contributions of Vietnamese Americans.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Recognizing the accomplishments and the contributions of Vietnamese Americans.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

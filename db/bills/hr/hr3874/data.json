@@ -1,0 +1,295 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3874-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000369", 
+      "district": "2", 
+      "name": "Amodei, Mark E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "NV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001269", 
+      "district": "11", 
+      "name": "Barletta, Lou", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001282", 
+      "district": "6", 
+      "name": "Barr, Andy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "KY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001284", 
+      "district": "5", 
+      "name": "Brooks, Susan W.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "IN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001112", 
+      "district": "24", 
+      "name": "Carbajal, Salud O.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000295", 
+      "district": "14", 
+      "name": "Joyce, David P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000376", 
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000391", 
+      "district": "8", 
+      "name": "Krishnamoorthi, Raja", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001196", 
+      "district": "6", 
+      "name": "Moulton, Seth", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001202", 
+      "district": "7", 
+      "name": "Murphy, Stephanie N.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000189", 
+      "district": "4", 
+      "name": "Newhouse, Dan", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000188", 
+      "district": "1", 
+      "name": "Norcross, Donald", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000608", 
+      "district": "52", 
+      "name": "Peters, Scott H.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000586", 
+      "district": "16", 
+      "name": "Renacci, James B.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000602", 
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000609", 
+      "district": "4", 
+      "name": "Rutherford, John H.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001190", 
+      "district": "10", 
+      "name": "Schneider, Bradley Scott", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000129", 
+      "district": "21", 
+      "name": "Valadao, David G.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000806", 
+      "district": "11", 
+      "name": "Webster, Daniel", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000800", 
+      "district": null, 
+      "name": "Welch, Peter", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "VT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-28", 
+  "number": "3874", 
+  "official_title": "To direct the Secretary of Veterans Affairs to carry out a pilot program on physical security at Department of Veterans Affairs medical facilities, to direct the Secretary to make certain improvements relating to inspections of Department of Veterans Affairs medical facilities and improving care for women, to direct the Secretary to evaluate the organizational structure of the Veterans Health Administration, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Accountability for Quality VA Healthcare Act", 
+  "sponsor": {
+    "bioguide_id": "K000381", 
+    "district": "6", 
+    "name": "Kilmer, Derek", 
+    "state": "WA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-28", 
+  "subjects": [
+    "Armed forces and national security"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Accountability for Quality VA Healthcare Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Accountability for Quality VA Healthcare Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Veterans Affairs to carry out a pilot program on physical security at Department of Veterans Affairs medical facilities, to direct the Secretary to make certain improvements relating to inspections of Department of Veterans Affairs medical facilities and improving care for women, to direct the Secretary to evaluate the organizational structure of the Veterans Health Administration, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Accountability for Quality VA Healthcare Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-03T15:00:15Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3874.xml"
+}

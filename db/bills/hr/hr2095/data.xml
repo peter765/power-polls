@@ -1,0 +1,57 @@
+<bill session="115" type="h" number="2095" updated="2017-10-12T07:16:36Z">
+  <state datetime="2017-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-14"/>
+  </status>
+  <introduced datetime="2017-04-14"/>
+  <titles>
+    <title type="short" as="introduced">Fair Pay Act of 2017</title>
+    <title type="short" as="introduced">Fair Pay Act of 2017</title>
+    <title type="official" as="introduced">To amend the Fair Labor Standards Act of 1938 to prohibit discrimination in the payment of wages on account of sex, race, or national origin, and for other purposes.</title>
+    <title type="display">Fair Pay Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="N000147"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000574" joined="2017-10-05"/>
+    <cosponsor bioguide_id="C001101" joined="2017-10-03"/>
+    <cosponsor bioguide_id="D000598" joined="2017-04-14"/>
+    <cosponsor bioguide_id="H000324" joined="2017-10-02"/>
+    <cosponsor bioguide_id="K000389" joined="2017-06-27"/>
+    <cosponsor bioguide_id="M001160" joined="2017-09-26"/>
+    <cosponsor bioguide_id="P000034" joined="2017-04-14"/>
+    <cosponsor bioguide_id="P000607" joined="2017-04-14"/>
+    <cosponsor bioguide_id="R000486" joined="2017-10-11"/>
+    <cosponsor bioguide_id="R000577" joined="2017-04-14"/>
+    <cosponsor bioguide_id="S000510" joined="2017-09-27"/>
+    <cosponsor bioguide_id="T000472" joined="2017-10-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-14">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E508"/>
+    </action>
+    <action datetime="2017-04-14" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Civil actions and liability"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

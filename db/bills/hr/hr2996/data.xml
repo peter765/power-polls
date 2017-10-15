@@ -1,0 +1,97 @@
+<bill session="115" type="h" number="2996" updated="2017-10-07T07:15:56Z">
+  <state datetime="2017-06-22">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-22"/>
+  </status>
+  <introduced datetime="2017-06-22"/>
+  <titles>
+    <title type="short" as="introduced">Supplemental Nutrition Assistance Program Reform Act of 2017</title>
+    <title type="short" as="introduced">Supplemental Nutrition Assistance Program Reform Act of 2017</title>
+    <title type="official" as="introduced">To amend the Food and Nutrition Act of 2008 to modify the work requirement applicable to able-bodied adults without dependents.</title>
+    <title type="display">Supplemental Nutrition Assistance Program Reform Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="G000577"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000372" joined="2017-07-26"/>
+    <cosponsor bioguide_id="B001291" joined="2017-06-29"/>
+    <cosponsor bioguide_id="B001299" joined="2017-06-29"/>
+    <cosponsor bioguide_id="B001282" joined="2017-07-19"/>
+    <cosponsor bioguide_id="B001302" joined="2017-07-28"/>
+    <cosponsor bioguide_id="B001293" joined="2017-07-25"/>
+    <cosponsor bioguide_id="B001290" joined="2017-07-14"/>
+    <cosponsor bioguide_id="B001305" joined="2017-07-28"/>
+    <cosponsor bioguide_id="B001248" joined="2017-09-08"/>
+    <cosponsor bioguide_id="C000266" joined="2017-10-03"/>
+    <cosponsor bioguide_id="C001077" joined="2017-09-06"/>
+    <cosponsor bioguide_id="C001048" joined="2017-07-28"/>
+    <cosponsor bioguide_id="D000626" joined="2017-10-06"/>
+    <cosponsor bioguide_id="D000621" joined="2017-09-08"/>
+    <cosponsor bioguide_id="D000616" joined="2017-07-19"/>
+    <cosponsor bioguide_id="D000615" joined="2017-09-08"/>
+    <cosponsor bioguide_id="E000298" joined="2017-09-13"/>
+    <cosponsor bioguide_id="F000460" joined="2017-07-25"/>
+    <cosponsor bioguide_id="F000465" joined="2017-10-06"/>
+    <cosponsor bioguide_id="F000461" joined="2017-07-19"/>
+    <cosponsor bioguide_id="F000448" joined="2017-09-26"/>
+    <cosponsor bioguide_id="G000578" joined="2017-09-26"/>
+    <cosponsor bioguide_id="G000563" joined="2017-10-06"/>
+    <cosponsor bioguide_id="G000565" joined="2017-07-19"/>
+    <cosponsor bioguide_id="G000546" joined="2017-07-25"/>
+    <cosponsor bioguide_id="G000560" joined="2017-08-04"/>
+    <cosponsor bioguide_id="H001052" joined="2017-08-25"/>
+    <cosponsor bioguide_id="H001036" joined="2017-08-01"/>
+    <cosponsor bioguide_id="H001071" joined="2017-10-06"/>
+    <cosponsor bioguide_id="H001077" joined="2017-09-26"/>
+    <cosponsor bioguide_id="J000299" joined="2017-07-14"/>
+    <cosponsor bioguide_id="L000573" joined="2017-10-03"/>
+    <cosponsor bioguide_id="L000564" joined="2017-07-25"/>
+    <cosponsor bioguide_id="L000576" joined="2017-09-06"/>
+    <cosponsor bioguide_id="L000583" joined="2017-07-28"/>
+    <cosponsor bioguide_id="L000569" joined="2017-07-25"/>
+    <cosponsor bioguide_id="M001158" joined="2017-10-03"/>
+    <cosponsor bioguide_id="M001177" joined="2017-10-06"/>
+    <cosponsor bioguide_id="M001187" joined="2017-07-26"/>
+    <cosponsor bioguide_id="N000189" joined="2017-09-06"/>
+    <cosponsor bioguide_id="N000190" joined="2017-10-06"/>
+    <cosponsor bioguide_id="P000601" joined="2017-10-06"/>
+    <cosponsor bioguide_id="P000609" joined="2017-10-03"/>
+    <cosponsor bioguide_id="P000605" joined="2017-09-13"/>
+    <cosponsor bioguide_id="P000606" joined="2017-07-25"/>
+    <cosponsor bioguide_id="R000601" joined="2017-07-19"/>
+    <cosponsor bioguide_id="R000597" joined="2017-07-26"/>
+    <cosponsor bioguide_id="R000592" joined="2017-09-08"/>
+    <cosponsor bioguide_id="R000607" joined="2017-09-08"/>
+    <cosponsor bioguide_id="R000603" joined="2017-08-04"/>
+    <cosponsor bioguide_id="S001195" joined="2017-06-29"/>
+    <cosponsor bioguide_id="S000583" joined="2017-07-25"/>
+    <cosponsor bioguide_id="W000812" joined="2017-07-25"/>
+    <cosponsor bioguide_id="W000819" joined="2017-07-19"/>
+    <cosponsor bioguide_id="W000814" joined="2017-10-06"/>
+    <cosponsor bioguide_id="W000806" joined="2017-10-03"/>
+    <cosponsor bioguide_id="W000804" joined="2017-10-03"/>
+    <cosponsor bioguide_id="W000809" joined="2017-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-22">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-22" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2017-07-11">
+      <text>Referred to the Subcommittee on Nutrition.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Nutrition" code="HSAG03" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1290"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

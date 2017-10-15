@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <firstName>Ken</firstName>
+        <bioguideId>B001297</bioguideId>
+        <lastName>Buck</lastName>
+        <byRequestType />
+        <fullName>Rep. Buck, Ken [R-CO-4]</fullName>
+        <middleName />
+        <state>CO</state>
+        <district>4</district>
+        <identifiers>
+          <bioguideId>B001297</bioguideId>
+          <lisID>2233</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-07-24T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-07-24</actionDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-07-25T08:06:08Z</lastSummaryUpdateDate>
+          <text><![CDATA[Sets forth the rule for consideration of the joint resolution (H.J. Res. 111) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to "Arbitration Agreements".]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+    <title>Providing for consideration of the joint resolution (H.J. Res. 111) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to "Arbitration Agreements".</title>
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Providing for consideration of the joint resolution (H.J. Res. 111) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to "Arbitration Agreements".</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Providing for consideration of the joint resolution (H.J. Res. 111) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to "Arbitration Agreements".</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <latestAction>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionDate>2017-07-25</actionDate>
+      <actionTime>13:38:43</actionTime>
+      <links />
+    </latestAction>
+    <billType>HRES</billType>
+    <congress>115</congress>
+    <updateDate>2017-09-11T03:02:46Z</updateDate>
+    <constitutionalAuthorityStatementText />
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-252</citation>
+      </committeeReport>
+    </committeeReports>
+    <introducedDate>2017-07-24</introducedDate>
+    <billNumber>468</billNumber>
+    <version>1.0.0</version>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes>
+      <recordedVote>
+        <congress>115</congress>
+        <rollNumber>411</rollNumber>
+        <url>http://clerk.house.gov/evs/2017/roll411.xml</url>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <date>2017-07-25T17:38:41Z</date>
+        <fullActionName>Passage of a Measure</fullActionName>
+      </recordedVote>
+      <recordedVote>
+        <congress>115</congress>
+        <rollNumber>410</rollNumber>
+        <url>http://clerk.house.gov/evs/2017/roll410.xml</url>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <date>2017-07-25T17:31:55Z</date>
+        <fullActionName>Motion for Previous Question</fullActionName>
+      </recordedVote>
+    </recordedVotes>
+    <laws />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionTime>13:38:43</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <actionCode>H38310</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-07-25</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>13:38:41</actionTime>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 233 - 188 (Roll no. 411). (text: CR H6225)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6225</url>
+            <name>H6225</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll411.xml</url>
+            <name>Roll no. 411</name>
+          </link>
+        </links>
+        <actionCode>H37100</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-07-25</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>13:38:41</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 233 - 188 (Roll no. 411).</text>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll411.xml</url>
+            <name>Roll no. 411</name>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-07-25</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>13:31:55</actionTime>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 229 - 184 (Roll no. 410). (consideration: CR H6232)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6232</url>
+            <name>H6232</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll410.xml</url>
+            <name>Roll no. 410</name>
+          </link>
+        </links>
+        <actionCode>H35000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-07-25</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>12:31:01</actionTime>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 468.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/468</url>
+            <name>H. Res. 468</name>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-07-25</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>12:30:02</actionTime>
+        <text>Considered as privileged matter. (consideration: CR H6225-6233)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6225-6233</url>
+            <name>H6225-6233</name>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-07-25</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Placed on the House Calendar, Calendar No. 67.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H12420</actionCode>
+        <committee />
+        <type>Calendars</type>
+        <actionDate>2017-07-24</actionDate>
+      </item>
+      <item>
+        <actionTime>18:45:37</actionTime>
+        <text>Rule provides for consideration of H.J. Res. 111 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-joint-resolution/111</url>
+            <name>H.J. Res. 111</name>
+          </link>
+        </links>
+        <actionCode>H12700</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-07-24</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-252, by Mr. Buck.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/252</url>
+            <name>H. Rept. 115-252</name>
+          </link>
+        </links>
+        <actionCode>H12100</actionCode>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2017-07-24</actionDate>
+      </item>
+      <item>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-252, by Mr. Buck.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/252</url>
+            <name>H. Rept. 115-252</name>
+          </link>
+        </links>
+        <actionCode>5000</actionCode>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2017-07-24</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-07-24</actionDate>
+      </item>
+      <actionTypeCounts>
+        <reportedToHouse>1</reportedToHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <provisionsOfARule>1</provisionsOfARule>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <generalDebate>1</generalDebate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-24T22:45:36Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-07-25T03:11:31Z</createDate>
+    <relatedBills>
+      <item>
+        <number>111</number>
+        <type>HJRES</type>
+        <latestTitle>Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to "Arbitration Agreements".</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Received in the Senate.</text>
+          <actionDate>2017-07-25</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>H00067</calendar>
+      </item>
+    </calendarNumbers>
+    <cosponsors />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

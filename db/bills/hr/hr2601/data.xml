@@ -1,0 +1,68 @@
+<bill session="115" type="h" number="2601" updated="2017-08-19T07:16:17Z">
+  <state datetime="2017-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-23"/>
+  </status>
+  <introduced datetime="2017-05-23"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Increased Choice for Transplanted Organs and Recovery Act of 2017</title>
+    <title type="short" as="introduced">Veterans Increased Choice for Transplanted Organs and Recovery Act of 2017</title>
+    <title type="short" as="introduced">VICTOR Act of 2017</title>
+    <title type="short" as="introduced">VICTOR Act of 2017</title>
+    <title type="official" as="introduced">To amend the Veterans Access, Choice, and Accountability Act of 2014 to improve the access of veterans to organ transplants, and for other purposes.</title>
+    <title type="display">VICTOR Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="D000628"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000375" joined="2017-05-23"/>
+    <cosponsor bioguide_id="B001298" joined="2017-05-23"/>
+    <cosponsor bioguide_id="B001299" joined="2017-05-23"/>
+    <cosponsor bioguide_id="B001301" joined="2017-05-23"/>
+    <cosponsor bioguide_id="B001257" joined="2017-05-23"/>
+    <cosponsor bioguide_id="B000490" joined="2017-08-18"/>
+    <cosponsor bioguide_id="B001295" joined="2017-05-23"/>
+    <cosponsor bioguide_id="C001110" joined="2017-05-23"/>
+    <cosponsor bioguide_id="C001106" joined="2017-05-23"/>
+    <cosponsor bioguide_id="G000579" joined="2017-05-23"/>
+    <cosponsor bioguide_id="G000582" joined="2017-05-23"/>
+    <cosponsor bioguide_id="G000565" joined="2017-05-23"/>
+    <cosponsor bioguide_id="H001071" joined="2017-06-06"/>
+    <cosponsor bioguide_id="H001077" joined="2017-07-17"/>
+    <cosponsor bioguide_id="H001067" joined="2017-05-23"/>
+    <cosponsor bioguide_id="J000255" joined="2017-06-06"/>
+    <cosponsor bioguide_id="K000376" joined="2017-05-23"/>
+    <cosponsor bioguide_id="K000210" joined="2017-06-15"/>
+    <cosponsor bioguide_id="P000611" joined="2017-05-23"/>
+    <cosponsor bioguide_id="R000600" joined="2017-05-23"/>
+    <cosponsor bioguide_id="R000593" joined="2017-05-23"/>
+    <cosponsor bioguide_id="R000487" joined="2017-05-23"/>
+    <cosponsor bioguide_id="R000609" joined="2017-05-23"/>
+    <cosponsor bioguide_id="S001177" joined="2017-05-23"/>
+    <cosponsor bioguide_id="Y000066" joined="2017-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H4395"/>
+    </action>
+    <action datetime="2017-05-23">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-23" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-05-23">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="115" type="h" number="2912" updated="2017-08-23T07:12:28Z">
+  <state datetime="2017-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-15"/>
+  </status>
+  <introduced datetime="2017-06-15"/>
+  <titles>
+    <title type="short" as="introduced">Advancing America's Missile Defense Act of 2017</title>
+    <title type="short" as="introduced">Advancing America's Missile Defense Act of 2017</title>
+    <title type="official" as="introduced">To expand the capacity and capability of the ballistic missile defense system of the United States, and for other purposes.</title>
+    <title type="display">Advancing America's Missile Defense Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="Y000033"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000371" joined="2017-06-15"/>
+    <cosponsor bioguide_id="B001250" joined="2017-06-15"/>
+    <cosponsor bioguide_id="B001283" joined="2017-06-15"/>
+    <cosponsor bioguide_id="F000459" joined="2017-06-15"/>
+    <cosponsor bioguide_id="F000448" joined="2017-06-15"/>
+    <cosponsor bioguide_id="G000571" joined="2017-06-15"/>
+    <cosponsor bioguide_id="G000579" joined="2017-06-15"/>
+    <cosponsor bioguide_id="H001050" joined="2017-06-15"/>
+    <cosponsor bioguide_id="L000564" joined="2017-06-15"/>
+    <cosponsor bioguide_id="M001199" joined="2017-06-15"/>
+    <cosponsor bioguide_id="R000576" joined="2017-06-15"/>
+    <cosponsor bioguide_id="S001154" joined="2017-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-15">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-15" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2017-07-17">
+      <text>Referred to the Subcommittee on Strategic Forces.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="Strategic Forces" code="HSAS29" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="1196"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

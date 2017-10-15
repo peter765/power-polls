@@ -1,0 +1,125 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-21", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-21", 
+      "action_code": "B00100", 
+      "references": [
+        {
+          "reference": "CR E1247", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-21", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Conservation and Forestry.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3809-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Conservation and Forestry", 
+      "subcommittee_id": "15"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-21", 
+  "number": "3809", 
+  "official_title": "To amend the Food Security Act of 1985 to improve conservation compliance, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Sustainable Farmland for the Future Act", 
+  "sponsor": {
+    "bioguide_id": "B000574", 
+    "district": "3", 
+    "name": "Blumenauer, Earl", 
+    "state": "OR", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-21", 
+  "subjects": [
+    "Agriculture and food"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Sustainable Farmland for the Future Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Sustainable Farmland for the Future Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Food Security Act of 1985 to improve conservation compliance, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Sustainable Farmland for the Future Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-06T07:12:40Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3809.xml"
+}

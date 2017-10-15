@@ -1,0 +1,36 @@
+<bill session="115" type="h" number="3939" updated="2017-10-12T13:45:15Z">
+  <state datetime="2017-10-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-04"/>
+  </status>
+  <introduced datetime="2017-10-04"/>
+  <titles>
+    <title type="short" as="introduced">American Prairie Conservation Act</title>
+    <title type="short" as="introduced">American Prairie Conservation Act</title>
+    <title type="official" as="introduced">To amend the Federal Crop Insurance Act and the Federal Agriculture Improvement and Reform Act of 1996 to make the native sod provisions applicable to the United States and to modify those provisions, and for other purposes.</title>
+    <title type="display">American Prairie Conservation Act</title>
+  </titles>
+  <sponsor bioguide_id="N000184"/>
+  <cosponsors>
+    <cosponsor bioguide_id="W000799" joined="2017-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-04">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-04" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="1913"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

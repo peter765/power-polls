@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-10-13T07:23:45Z</updateDate>
+    <amendments />
+    <calendarNumbers />
+    <notes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-10-12</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-10-12</actionDate>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-10-12</actionDate>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2128</lisID>
+          <bioguideId>W000813</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>W000813</bioguideId>
+        <party>R</party>
+        <district>2</district>
+        <firstName>Jackie</firstName>
+        <middleName />
+        <state>IN</state>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <lastName>Walorski</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <relatedBills />
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>GREGORY</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001137</bioguideId>
+          <gpoId>8067</gpoId>
+          <lisID>1506</lisID>
+        </identifiers>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>W.</middleName>
+        <district>5</district>
+        <bioguideId>M001137</bioguideId>
+        <lastName>MEEKS</lastName>
+        <state>NY</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>PATRICK</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <lisID>1664</lisID>
+          <bioguideId>T000462</bioguideId>
+          <gpoId>8102</gpoId>
+        </identifiers>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <district>12</district>
+        <bioguideId>T000462</bioguideId>
+        <lastName>TIBERI</lastName>
+        <state>OH</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Kenny</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001158</bioguideId>
+          <lisID>1806</lisID>
+          <gpoId>8766</gpoId>
+        </identifiers>
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>24</district>
+        <bioguideId>M001158</bioguideId>
+        <lastName>Marchant</lastName>
+        <state>TX</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mimi</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2232</lisID>
+          <bioguideId>W000820</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Walters, Mimi [R-CA-45]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>45</district>
+        <bioguideId>W000820</bioguideId>
+        <lastName>Walters</lastName>
+        <state>CA</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Paul</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <district>4</district>
+        <bioguideId>G000565</bioguideId>
+        <lastName>Gosar</lastName>
+        <state>AZ</state>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2142</lisID>
+          <gpoId />
+          <bioguideId>M001187</bioguideId>
+        </identifiers>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>11</district>
+        <bioguideId>M001187</bioguideId>
+        <lastName>Meadows</lastName>
+        <state>NC</state>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-10-13T03:11:23Z</createDate>
+    <title>To authorize the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of Kazakhstan.</title>
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <laws />
+    <latestAction>
+      <actionDate>2017-10-12</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To authorize the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of Kazakhstan.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>To authorize the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of Kazakhstan.</title>
+      </item>
+    </titles>
+    <policyArea />
+    <billNumber>4067</billNumber>
+    <introducedDate>2017-10-12</introducedDate>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-12T14:05:05Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

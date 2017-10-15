@@ -1,0 +1,40 @@
+<bill session="115" type="h" number="2980" updated="2017-07-11T07:12:27Z">
+  <state datetime="2017-06-21">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-21"/>
+  </status>
+  <introduced datetime="2017-06-21"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Gun Owners in Bankruptcy Act of 2017</title>
+    <title type="short" as="introduced">Protecting Gun Owners in Bankruptcy Act of 2017</title>
+    <title type="official" as="introduced">To amend title 11 of the United States Code to include firearms in the types of property allowable under the alternative provision for exempting property from the estate.</title>
+    <title type="display">Protecting Gun Owners in Bankruptcy Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C001092"/>
+  <cosponsors>
+    <cosponsor bioguide_id="L000566" joined="2017-06-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-21">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-21" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-07-10">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Regulatory Reform, Commercial And Antitrust Law" code="HSJU05" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Firearms and explosives"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

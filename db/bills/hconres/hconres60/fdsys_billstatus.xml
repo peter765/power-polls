@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-09-19T21:00:13Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Delaware</name>
+          </item>
+          <item>
+            <name>District of Columbia</name>
+          </item>
+          <item>
+            <name>Maryland</name>
+          </item>
+          <item>
+            <name>Monuments and memorials</name>
+          </item>
+          <item>
+            <name>New Jersey</name>
+          </item>
+          <item>
+            <name>New York City</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>Pennsylvania</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Virginia</name>
+          </item>
+          <item>
+            <name>West Virginia</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <name>Federal Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-24T20:47:25Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-23T14:02:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Recognizing the September 11th National Memorial Trail as an important trail and greenway to be enjoyed by all in honor of the heroes of September 11th.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Recognizing the September 11th National Memorial Trail as an important trail and greenway to be enjoyed by all in honor of the heroes of September 11th.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>VA</state>
+        <bioguideId>C001078</bioguideId>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <middleName>E.</middleName>
+        <district>11</district>
+        <firstName>Gerald</firstName>
+        <lastName>Connolly</lastName>
+        <identifiers>
+          <lisID>1959</lisID>
+          <bioguideId>C001078</bioguideId>
+          <gpoId>8202</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2017-05-24</actionDate>
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-06-15T19:19:05Z</lastSummaryUpdateDate>
+          <actionDate>2017-05-23</actionDate>
+          <text><![CDATA[<p>Recognizes the September 11th National Memorial Trail that will pass through the states of Virginia, Maryland, West Virginia, Pennsylvania, New Jersey, New York, Delaware, and the District of Columbia, as an important trail and greenway honoring the heroes of the September 11, 2001, terrorist attack in the United States. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2017-05-23T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills />
+    <title>Recognizing the September 11th National Memorial Trail as an important trail and greenway to be enjoyed by all in honor of the heroes of September 11th.</title>
+    <createDate>2017-05-24T03:11:37Z</createDate>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>NY</state>
+        <district>2</district>
+        <bioguideId>K000210</bioguideId>
+        <firstName>PETER</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8064</gpoId>
+          <lisID>635</lisID>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <lastName>KING</lastName>
+        <middleName>T.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>VA</state>
+        <district>8</district>
+        <bioguideId>B001292</bioguideId>
+        <firstName>Donald</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2272</lisID>
+          <bioguideId>B001292</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <lastName>Beyer</lastName>
+        <middleName>S.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>PA</state>
+        <district>8</district>
+        <bioguideId>F000466</bioguideId>
+        <firstName>Brian</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <lastName>Fitzpatrick</lastName>
+        <middleName>K.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>NJ</state>
+        <district>11</district>
+        <bioguideId>F000372</bioguideId>
+        <firstName>RODNEY</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8053</gpoId>
+          <bioguideId>F000372</bioguideId>
+          <lisID>414</lisID>
+        </identifiers>
+        <fullName>Rep. Frelinghuysen, Rodney P. [R-NJ-11]</fullName>
+        <lastName>FRELINGHUYSEN</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>PA</state>
+        <district>9</district>
+        <bioguideId>S001154</bioguideId>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8127</gpoId>
+          <lisID>1681</lisID>
+          <bioguideId>S001154</bioguideId>
+        </identifiers>
+        <fullName>Rep. Shuster, Bill [R-PA-9]</fullName>
+        <lastName>Shuster</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>CA</state>
+        <district>15</district>
+        <bioguideId>S001193</bioguideId>
+        <firstName>Eric</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2104</lisID>
+          <bioguideId>S001193</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <lastName>Swalwell</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>CA</state>
+        <district>17</district>
+        <bioguideId>K000389</bioguideId>
+        <firstName>Ro</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <lastName>Khanna</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>VA</state>
+        <district>5</district>
+        <bioguideId>G000580</bioguideId>
+        <firstName>Thomas</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000580</bioguideId>
+          <lisID>2353</lisID>
+        </identifiers>
+        <fullName>Rep. Garrett, Thomas A., Jr. [R-VA-5]</fullName>
+        <lastName>Garrett</lastName>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-08-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>PA</state>
+        <district>7</district>
+        <bioguideId>M001181</bioguideId>
+        <firstName>Patrick</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+          <bioguideId>M001181</bioguideId>
+        </identifiers>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <lastName>Meehan</lastName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-08-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>NY</state>
+        <district>25</district>
+        <bioguideId>S000480</bioguideId>
+        <firstName>LOUISE</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8089</gpoId>
+          <lisID>1069</lisID>
+          <bioguideId>S000480</bioguideId>
+        </identifiers>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <lastName>SLAUGHTER</lastName>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>PA</state>
+        <district>12</district>
+        <bioguideId>R000598</bioguideId>
+        <firstName>Keith</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2158</lisID>
+          <bioguideId>R000598</bioguideId>
+        </identifiers>
+        <fullName>Rep. Rothfus, Keith J. [R-PA-12]</fullName>
+        <lastName>Rothfus</lastName>
+        <middleName>J.</middleName>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText />
+    <version>1.0.0</version>
+    <introducedDate>2017-05-23</introducedDate>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <notes />
+    <cboCostEstimates />
+    <billType>HCONRES</billType>
+    <amendments />
+    <billNumber>60</billNumber>
+    <calendarNumbers />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-05-24</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionDate>2017-05-23</actionDate>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <actionDate>2017-05-23</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <actionDate>2017-05-23</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

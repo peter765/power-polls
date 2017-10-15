@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <committeeReports />
+    <billType>HRES</billType>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-07-19</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR E1017)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/extensions-of-remarks-section/page/E1017</url>
+            <name>E1017</name>
+          </link>
+        </links>
+        <actionCode>B00100</actionCode>
+        <actionDate>2017-07-19</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-07-19</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-07-19</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Supports public and private partnerships and collaboration across industry, government, and the academic community to provide students with cybersecurity skills.</p>]]></text>
+          <actionDate>2017-07-19</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-07-19T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-09-26T21:32:52Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <createDate>2017-07-20T03:11:30Z</createDate>
+    <latestAction>
+      <links />
+      <actionDate>2017-07-19</actionDate>
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </latestAction>
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <firstName>J.</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001110</bioguideId>
+          <lisID>2312</lisID>
+        </identifiers>
+        <byRequestType />
+        <state>CA</state>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <bioguideId>C001110</bioguideId>
+        <middleName>Luis</middleName>
+        <district>46</district>
+        <party>D</party>
+        <lastName>Correa</lastName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <cosponsors />
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsed00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-19T14:01:05Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Education and the Workforce Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText />
+    <version>1.0.0</version>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Expressing the sense of the House of Representatives that the United States should support the development of programs that better prepare students for careers in cybersecurity by actively promoting ethical hacking skills.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Expressing the sense of the House of Representatives that the United States should support the development of programs that better prepare students for careers in cybersecurity by actively promoting ethical hacking skills.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <title>Expressing the sense of the House of Representatives that the United States should support the development of programs that better prepare students for careers in cybersecurity by actively promoting ethical hacking skills.</title>
+    <amendments />
+    <introducedDate>2017-07-19</introducedDate>
+    <updateDate>2017-09-26T21:45:13Z</updateDate>
+    <billNumber>459</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

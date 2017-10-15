@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Families</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-04-27T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-08-26T18:20:15Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Supports the designation of "El Dia de Los Ninos: Celebrating Young Americans."</p>]]></text>
+          <actionDate>2017-04-27</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>SRES</type>
+        <congress>115</congress>
+        <latestTitle>A resolution designating April 30, 2017, as El Dia de Los Ninos-Celebrating Young Americans.</latestTitle>
+        <latestAction>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2631; text: CR S2628)</text>
+          <actionDate>2017-04-27</actionDate>
+        </latestAction>
+        <number>146</number>
+      </item>
+    </relatedBills>
+    <notes />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>Designating April 30, 2017, as El Dia de Los Ninos-Celebrating Young Americans.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Designating April 30, 2017, as El Dia de Los Ninos-Celebrating Young Americans.</title>
+      </item>
+    </titles>
+    <createDate>2017-04-28T03:11:41Z</createDate>
+    <introducedDate>2017-04-27</introducedDate>
+    <congress>115</congress>
+    <committeeReports />
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-04-27</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-27</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-27</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billNumber>292</billNumber>
+    <version>1.0.0</version>
+    <billType>HRES</billType>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <state>NM</state>
+        <middleName />
+        <lastName>Lujan Grisham</lastName>
+        <byRequestType />
+        <firstName>Michelle</firstName>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <bioguideId>L000580</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <identifiers>
+          <bioguideId>L000580</bioguideId>
+          <lisID>2146</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <laws />
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Community life and organization</name>
+          </item>
+          <item>
+            <name>Cultural exchanges and relations</name>
+          </item>
+          <item>
+            <name>Family relationships</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Families</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <title>Designating April 30, 2017, as El Dia de Los Ninos-Celebrating Young Americans.</title>
+    <latestAction>
+      <links />
+      <actionDate>2017-04-27</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </latestAction>
+    <cosponsors />
+    <updateDate>2017-09-13T17:15:10Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-27T14:01:35Z</date>
+            </item>
+          </activities>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

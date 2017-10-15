@@ -1,0 +1,33 @@
+<bill session="115" type="h" number="4023" updated="2017-10-13T15:00:13Z">
+  <state datetime="2017-10-11">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-11"/>
+  </status>
+  <introduced datetime="2017-10-11"/>
+  <titles>
+    <title type="short" as="introduced">Developing Tomorrow's Engineering and Technical Workforce Act</title>
+    <title type="short" as="introduced">Developing Tomorrow&#8217;s Engineering and Technical Workforce Act</title>
+    <title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 to award grants to States educational agencies and local educational agencies to support, develop, and implement formal and informal engineering education programs in elementary schools and secondary schools.</title>
+    <title type="display">Developing Tomorrow's Engineering and Technical Workforce Act</title>
+  </titles>
+  <sponsor bioguide_id="R000577"/>
+  <cosponsors>
+    <cosponsor bioguide_id="R000585" joined="2017-10-11"/>
+    <cosponsor bioguide_id="T000469" joined="2017-10-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-11">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-11" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

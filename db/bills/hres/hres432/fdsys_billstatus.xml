@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Referred to the House Committee on Rules.</text>
+      <links />
+      <actionDate>2017-07-11</actionDate>
+    </latestAction>
+    <title>Amending the Rules of the House of Representatives to prohibit the consideration of any general appropriations bill until a concurrent resolution on the budget has been adopted or the appropriate budgetary suballocations are made available.</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Rules Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsru00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-11T16:00:32Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <laws />
+    <createDate>2017-07-12T03:11:32Z</createDate>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <billNumber>432</billNumber>
+    <amendments />
+    <sponsors>
+      <item>
+        <fullName>Rep. Blunt Rochester, Lisa [D-DE-At Large]</fullName>
+        <bioguideId>B001303</bioguideId>
+        <lastName>Blunt Rochester</lastName>
+        <identifiers>
+          <bioguideId>B001303</bioguideId>
+          <gpoId />
+          <lisID>2313</lisID>
+        </identifiers>
+        <firstName>Lisa</firstName>
+        <district>0</district>
+        <state>DE</state>
+        <party>D</party>
+        <byRequestType />
+        <middleName />
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <updateDate>2017-09-19T18:00:13Z</updateDate>
+    <cosponsors />
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <introducedDate>2017-07-11</introducedDate>
+    <billType>HRES</billType>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionDate>2017-07-11</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Rules.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-07-11</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-07-11</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Amending the Rules of the House of Representatives to prohibit the consideration of any general appropriations bill until a concurrent resolution on the budget has been adopted or the appropriate budgetary suballocations are made available.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Amending the Rules of the House of Representatives to prohibit the consideration of any general appropriations bill until a concurrent resolution on the budget has been adopted or the appropriate budgetary suballocations are made available.</title>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

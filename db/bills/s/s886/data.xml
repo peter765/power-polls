@@ -1,0 +1,47 @@
+<bill session="115" type="s" number="886" updated="2017-09-22T11:30:12Z">
+  <state datetime="2017-07-26">REPORTED</state>
+  <status>
+    <unknown datetime="2017-07-26"/>
+  </status>
+  <introduced datetime="2017-04-06"/>
+  <titles>
+    <title type="short" as="introduced">DHS Acquisition Review Board Act of 2017</title>
+    <title type="short" as="introduced">DHS Acquisition Review Board Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend the Homeland Security Act of 2002 to establish an Acquisition Review Board in the Department of Homeland Security, and for other purposes.</title>
+    <title type="display">DHS Acquisition Review Board Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="D000618"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001170" joined="2017-04-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-06">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-04-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S2427-2428" label="Sponsor introductory remarks on measure"/>
+    </action>
+    <calendar datetime="2017-07-26" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="1282"/>
+    <bill type="h" session="115" relation="unknown" number="2825"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Advisory bodies"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

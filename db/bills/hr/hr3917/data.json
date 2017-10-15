@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3917-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000197", 
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-10-11", 
+      "state": "CO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000599", 
+      "district": "36", 
+      "name": "Ruiz, Raul", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-03", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-03", 
+  "number": "3917", 
+  "official_title": "To amend the Public Health Service Act to extend funding for the special diabetes program for Indians.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "M001190", 
+    "district": "2", 
+    "name": "Mullin, Markwayne", 
+    "state": "OK", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-03", 
+  "subjects": [
+    "Health"
+  ], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Public Health Service Act to extend funding for the special diabetes program for Indians.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend the Public Health Service Act to extend funding for the special diabetes program for Indians.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-12T07:17:24Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3917.xml"
+}

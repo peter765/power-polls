@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <firstName>John</firstName>
+        <identifiers>
+          <bioguideId>C001056</bioguideId>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+        </identifiers>
+        <lastName>Cornyn</lastName>
+        <bioguideId>C001056</bioguideId>
+        <middleName />
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <state>TX</state>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <billNumber>278</billNumber>
+    <updateDate>2017-10-07T04:28:49Z</updateDate>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <cboCostEstimates />
+    <notes />
+    <cosponsors>
+      <item>
+        <middleName />
+        <firstName>Ted</firstName>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <bioguideId>C001098</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <party>R</party>
+        <lastName>Cruz</lastName>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Marco</firstName>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <bioguideId>R000595</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <party>R</party>
+        <lastName>Rubio</lastName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName>WILLIAM</middleName>
+        <firstName>CLARENCE</firstName>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <bioguideId>N000032</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <party>D</party>
+        <lastName>NELSON</lastName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8236</gpoId>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Bill</firstName>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <bioguideId>C001075</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <party>R</party>
+        <lastName>Cassidy</lastName>
+        <state>LA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1925</lisID>
+          <gpoId>7964</gpoId>
+          <bioguideId>C001075</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName>Neely</middleName>
+        <firstName>John</firstName>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <bioguideId>K000393</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <party>R</party>
+        <lastName>Kennedy</lastName>
+        <state>LA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2303</lisID>
+          <bioguideId>K000393</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <billType>SRES</billType>
+    <latestAction>
+      <actionDate>2017-10-02</actionDate>
+      <links />
+      <text>Referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S6261-6262)</text>
+    </latestAction>
+    <congress>115</congress>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-02</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S6261-6262</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6261-6262</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S6261-6262)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-10-02</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-10-03T00:26:17Z</createDate>
+    <introducedDate>2017-10-02</introducedDate>
+    <laws />
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+          <item>
+            <name>Florida</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Louisiana</name>
+          </item>
+          <item>
+            <name>Natural disasters</name>
+          </item>
+          <item>
+            <name>Puerto Rico</name>
+          </item>
+          <item>
+            <name>Texas</name>
+          </item>
+          <item>
+            <name>Virgin Islands</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <amendments />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-02T20:19:26Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>A resolution expressing condolences to the victims of Hurricane Harvey, Hurricane Irma, and Hurricane Maria, commending the resiliency of the people of Texas, Louisiana, Florida, Puerto Rico, and the United States Virgin Islands, and expressing gratitude to other neighboring States willing to stand by the people of the affected areas during the relief and recovery efforts.</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution expressing condolences to the victims of Hurricane Harvey, Hurricane Irma, and Hurricane Maria, commending the resiliency of the people of Texas, Louisiana, Florida, Puerto Rico, and the United States Virgin Islands, and expressing gratitude to other neighboring States willing to stand by the people of the affected areas during the relief and recovery efforts.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A resolution expressing condolences to the victims of Hurricane Harvey, Hurricane Irma, and Hurricane Maria, commending the resiliency of the people of Texas, Louisiana, Florida, Puerto Rico, and the United States Virgin Islands, and expressing gratitude to other neighboring States willing to stand by the people of the affected areas during the relief and recovery efforts.</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

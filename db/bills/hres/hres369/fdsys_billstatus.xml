@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors />
+    <title>Recognizing May 29, 2017, as "National 529 Day".</title>
+    <actions>
+      <item>
+        <links />
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-25</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <laws />
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <createDate>2017-05-26T03:11:38Z</createDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <middleName>J.</middleName>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <firstName>Robert</firstName>
+        <identifiers>
+          <bioguideId>W000804</bioguideId>
+          <lisID>1886</lisID>
+          <gpoId>8192</gpoId>
+        </identifiers>
+        <bioguideId>W000804</bioguideId>
+        <district>1</district>
+        <lastName>Wittman</lastName>
+        <state>VA</state>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <title>Recognizing May 29, 2017, as "National 529 Day".</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <title>Recognizing May 29, 2017, as "National 529 Day".</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <recordedVotes />
+    <billType>HRES</billType>
+    <billNumber>369</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-25T13:02:20Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <actionDate>2017-05-25</actionDate>
+          <updateDate>2017-05-25T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-05-31T18:57:55Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Recognizes National 529 Day and the opportunities that 529 savings plans provide American families to save for education.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-05-25</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <introducedDate>2017-05-25</introducedDate>
+    <version>1.0.0</version>
+    <updateDate>2017-09-15T17:30:14Z</updateDate>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

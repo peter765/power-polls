@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1919</billNumber>
+    <amendments />
+    <calendarNumbers />
+    <updateDate>2017-10-12T15:30:16Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>115</congress>
+    <createDate>2017-10-05T00:26:19Z</createDate>
+    <committeeReports />
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <firstName>Jeff</firstName>
+        <middleName />
+        <bioguideId>M001176</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Merkley</lastName>
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Gary</firstName>
+        <middleName>C.</middleName>
+        <bioguideId>P000595</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Peters</lastName>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <identifiers>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>PATTY</firstName>
+        <middleName />
+        <bioguideId>M001111</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MURRAY</lastName>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <identifiers>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Bob</firstName>
+        <middleName />
+        <bioguideId>C001070</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Casey</lastName>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <lisID>1828</lisID>
+          <gpoId>8282</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <title>Refuge from Cruel Trapping Act</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-04T20:17:46Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Environment and Public Works Committee</name>
+          <type>Standing</type>
+          <systemCode>ssev00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <introducedDate>2017-10-04</introducedDate>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestTitle>Refuge From Cruel Trapping Act</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-03-16</actionDate>
+          <text>Referred to the Subcommittee on Federal Lands.</text>
+        </latestAction>
+        <number>1438</number>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <committee>
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-10-04</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Refuge from Cruel Trapping Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to end the use of body-gripping traps in the National Wildlife Refuge System.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Refuge from Cruel Trapping Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Refuge from Cruel Trapping Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <firstName>Cory</firstName>
+        <state>NJ</state>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001288</bioguideId>
+        <byRequestType />
+        <middleName>A.</middleName>
+        <lastName>Booker</lastName>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <actionDate>2017-10-04</actionDate>
+      <links />
+    </latestAction>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

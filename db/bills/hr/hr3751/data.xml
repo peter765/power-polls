@@ -1,0 +1,40 @@
+<bill session="115" type="h" number="3751" updated="2017-10-04T07:16:33Z">
+  <state datetime="2017-09-12">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-12"/>
+  </status>
+  <introduced datetime="2017-09-12"/>
+  <titles>
+    <title type="short" as="introduced">PAPER Act</title>
+    <title type="short" as="introduced">Protecting the American Process for Election Results Act</title>
+    <title type="short" as="introduced">Protecting the American Process for Election Results Act</title>
+    <title type="official" as="introduced">To amend the Help America Vote Act of 2002 to direct the Election Assistance Commission to develop best practices for States to use to protect the integrity of elections for Federal office, to make election technology improvement grants to States for adopting and applying such best practices in the administration of elections for Federal office, and for other purposes.</title>
+    <title type="display">PAPER Act</title>
+  </titles>
+  <sponsor bioguide_id="M001187"/>
+  <cosponsors>
+    <cosponsor bioguide_id="L000559" joined="2017-09-12"/>
+    <cosponsor bioguide_id="N000190" joined="2017-10-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-12">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-12" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-09-12">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HLIG" name="House Intelligence (Permanent)" activity="Referral"/>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

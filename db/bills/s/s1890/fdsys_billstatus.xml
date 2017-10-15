@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <updateDate>2017-10-13T04:33:28Z</updateDate>
+    <notes />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>2644</number>
+        <latestTitle>Chronic Kidney Disease Improvement in Research and Treatment Act of 2017</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-06-06</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <latestAction>
+      <actionDate>2017-09-28</actionDate>
+      <text>Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S6225; text of measure as introduced: CR S6225-6227)</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-28T19:09:55Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-09-28</introducedDate>
+    <committeeReports />
+    <congress>115</congress>
+    <title>Chronic Kidney Disease Improvement in Research and Treatment Act of 2017</title>
+    <recordedVotes />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <bioguideId>B000575</bioguideId>
+        <firstName>Roy</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <state>MO</state>
+        <lastName>Blunt</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>859</lisID>
+          <bioguideId>N000032</bioguideId>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <bioguideId>N000032</bioguideId>
+        <firstName>CLARENCE</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>WILLIAM</middleName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <state>FL</state>
+        <lastName>NELSON</lastName>
+      </item>
+    </cosponsors>
+    <billNumber>1890</billNumber>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Chronic Kidney Disease Improvement in Research and Treatment Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to improve the understanding of, and promote access to treatment for, chronic kidney disease, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Chronic Kidney Disease Improvement in Research and Treatment Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Chronic Kidney Disease Improvement in Research and Treatment Act of 2017</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-09-29T00:26:26Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S6225</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6225</url>
+          </link>
+          <link>
+            <name>S6225-6227</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6225-6227</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S6225; text of measure as introduced: CR S6225-6227)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <firstName>BENJAMIN</firstName>
+        <middleName>L.</middleName>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <byRequestType />
+        <bioguideId>C000141</bioguideId>
+        <lastName>CARDIN</lastName>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

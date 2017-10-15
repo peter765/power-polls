@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres567-115", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "E000296", 
+      "district": "2", 
+      "name": "Evans, Dwight", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-11", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000551", 
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-11", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-11", 
+  "number": "567", 
+  "official_title": "Expressing support for the physician assistant (PA) profession and the designation of the week of October 6 through 12, 2017, as \"National PA Week\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "B001270", 
+    "district": "37", 
+    "name": "Bass, Karen", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-11", 
+  "subjects": [
+    "Health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expressing support for the physician assistant (PA) profession and the designation of the week of October 6 through 12, 2017, as \"National PA Week\".", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Expressing support for the physician assistant (PA) profession and the designation of the week of October 6 through 12, 2017, as \"National PA Week\".", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-12T19:00:15Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hres/BILLSTATUS-115hres567.xml"
+}

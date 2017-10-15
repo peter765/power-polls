@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="3206" updated="2017-09-11T03:06:03Z">
+  <state datetime="2017-07-12">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-12"/>
+  </status>
+  <introduced datetime="2017-07-12"/>
+  <titles>
+    <title type="short" as="introduced">Consumer Confidence Reports for Tomorrow Act</title>
+    <title type="short" as="introduced">Consumer Confidence Reports for Tomorrow Act</title>
+    <title type="official" as="introduced">To amend the Safe Drinking Water Act to require quarterly reporting, improvement of consumer confidence reports, establishment of a nation consumer confidence report, and for other purposes.</title>
+    <title type="display">Consumer Confidence Reports for Tomorrow Act</title>
+  </titles>
+  <sponsor bioguide_id="D000624"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-07-12">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-12" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2017-07-14">
+      <text>Referred to the Subcommittee on Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Environment and the Economy" code="HSIF18" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="417"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

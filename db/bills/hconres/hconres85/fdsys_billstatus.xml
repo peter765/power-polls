@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <updateDate>2017-10-13T16:27:10Z</updateDate>
+    <notes />
+    <relatedBills>
+      <item>
+        <latestTitle>Additional Supplemental Appropriations for Disaster Relief Requirements Act, 2017</latestTitle>
+        <type>HR</type>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-10-12</actionDate>
+          <actionTime>15:24:28</actionTime>
+          <text>House agreed to Senate amendment with amendment pursuant to H.Res. 569. (consideration: CR H7989-7992; text as House agreed to Senate amendment: CR H7989-7992)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>2266</number>
+      </item>
+    </relatedBills>
+    <latestAction>
+      <actionDate>2017-10-12</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+      <actionTime>15:51:06</actionTime>
+    </latestAction>
+    <committees>
+      <billCommittees />
+    </committees>
+    <introducedDate>2017-10-12</introducedDate>
+    <committeeReports />
+    <congress>115</congress>
+    <title>Providing for a correction in the enrollment of H.R. 2266.</title>
+    <recordedVotes />
+    <cboCostEstimates />
+    <cosponsors />
+    <billNumber>85</billNumber>
+    <billType>HCONRES</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <policyArea />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Providing for a correction in the enrollment of H.R. 2266.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Providing for a correction in the enrollment of H.R. 2266.</title>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2017-10-13T03:11:17Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <considerationByHouse>1</considerationByHouse>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionDate>2017-10-12</actionDate>
+        <actionTime>15:51:06</actionTime>
+        <links />
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H8013-8014)</text>
+        <actionDate>2017-10-12</actionDate>
+        <actionTime>15:51:05</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8013-8014</url>
+            <name>H8013-8014</name>
+          </link>
+        </links>
+        <actionCode>H37100</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.</text>
+        <actionDate>2017-10-12</actionDate>
+        <actionTime>15:51:05</actionTime>
+        <links />
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <text>Considered by unanimous consent. (consideration: CR H8013-8014)</text>
+        <actionDate>2017-10-12</actionDate>
+        <actionTime>15:49:36</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8013-8014</url>
+            <name>H8013-8014</name>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <text>Mr. Frelinghuysen asked unanimous consent to consider as introduced.</text>
+        <actionDate>2017-10-12</actionDate>
+        <actionTime>15:49:36</actionTime>
+        <links />
+        <actionCode>H30200</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-10-12</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-10-12</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <firstName>RODNEY</firstName>
+        <middleName />
+        <fullName>Rep. Frelinghuysen, Rodney P. [R-NJ-11]</fullName>
+        <byRequestType />
+        <bioguideId>F000372</bioguideId>
+        <district>11</district>
+        <lastName>FRELINGHUYSEN</lastName>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>414</lisID>
+          <bioguideId>F000372</bioguideId>
+          <gpoId>8053</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

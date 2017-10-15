@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-09-12T00:26:22Z</createDate>
+    <billType>S</billType>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <recordedVotes />
+    <relatedBills />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <firstName>Angus</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000383</bioguideId>
+        <state>ME</state>
+        <middleName />
+        <lastName>King</lastName>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>I</party>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Dan</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+          <lisID>2290</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001198</bioguideId>
+        <state>AK</state>
+        <middleName />
+        <lastName>Sullivan</lastName>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <notes />
+    <introducedDate>2017-09-11</introducedDate>
+    <laws />
+    <committeeReports />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>National Geologic Mapping Act Reauthorization Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to reauthorize the National Geologic Mapping Act of 1992.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>National Geologic Mapping Act Reauthorization Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>National Geologic Mapping Act Reauthorization Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <byRequestType />
+        <lastName>Murkowski</lastName>
+        <bioguideId>M001153</bioguideId>
+        <party>R</party>
+        <state>AK</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-11T21:02:11Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>sseg00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <billNumber>1787</billNumber>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-09-11</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-09-11</actionDate>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-09-11T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-10-03T19:01:30Z</lastSummaryUpdateDate>
+          <actionDate>2017-09-11</actionDate>
+          <text><![CDATA[<p><b>National Geologic Mapping Act Reauthorization Act</b></p> <p>This bill amends the National Geologic Mapping Act of 1992 to: (1) reauthorize such Act through FY2023, and (2) provide for the Associate Director for Core Science Systems to replace the Associate Director for Geology as the chairperson of the geologic mapping advisory committee. </p>]]></text>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <title>National Geologic Mapping Act Reauthorization Act</title>
+    <updateDate>2017-10-06T04:48:16Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-09-11</actionDate>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

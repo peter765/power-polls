@@ -1,0 +1,46 @@
+<bill session="115" type="s" number="1741" updated="2017-09-27T04:52:27Z">
+  <state datetime="2017-08-03">REFERRED</state>
+  <status>
+    <introduced datetime="2017-08-03"/>
+  </status>
+  <introduced datetime="2017-08-03"/>
+  <titles>
+    <title type="short" as="introduced">Special Counsel Integrity Act</title>
+    <title type="short" as="introduced">Special Counsel Integrity Act</title>
+    <title type="official" as="introduced">A bill to ensure independent investigations by allowing judicial review of the removal of a special counsel, and for other purposes.</title>
+    <title type="display">Special Counsel Integrity Act</title>
+  </titles>
+  <sponsor bioguide_id="T000476"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001088" joined="2017-08-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-08-03">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-08-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-09-26">
+      <text>Committee on the Judiciary. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Hearings, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="3771"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Congressional oversight"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Department of Justice"/>
+    <term name="Federal officials"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Supreme Court"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

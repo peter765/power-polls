@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>14:35:52</actionTime>
+      <actionDate>2017-07-13</actionDate>
+      <links />
+    </latestAction>
+    <title>Providing for further consideration of the bill (H.R. 2810) to authorize appropriations for fiscal year 2018 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Rules Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsru00</systemCode>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2017-07-13T04:30:03Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <number>2810</number>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2018</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-09-18</actionDate>
+          <text>Senate ordered measure printed as passed.</text>
+        </latestAction>
+        <congress>115</congress>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <createDate>2017-07-13T03:11:32Z</createDate>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <billNumber>440</billNumber>
+    <amendments />
+    <sponsors>
+      <item>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <bioguideId>B001289</bioguideId>
+        <lastName>Byrne</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2197</lisID>
+          <bioguideId>B001289</bioguideId>
+        </identifiers>
+        <firstName>Bradley</firstName>
+        <district>1</district>
+        <state>AL</state>
+        <party>R</party>
+        <byRequestType />
+        <middleName />
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-07-19T22:34:29Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2017-07-12</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Sets forth the rule for consideration of the bill (H.R. 2810)to authorize appropriations for fiscal year 2018 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.</p>]]></text>
+          <updateDate>2017-07-12T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <recordedVotes>
+      <recordedVote>
+        <congress>115</congress>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <chamber>House</chamber>
+        <date>2017-07-13T18:35:50Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll355.xml</url>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>355</rollNumber>
+      </recordedVote>
+      <recordedVote>
+        <congress>115</congress>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <chamber>House</chamber>
+        <date>2017-07-13T18:26:24Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll354.xml</url>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>354</rollNumber>
+      </recordedVote>
+    </recordedVotes>
+    <updateDate>2017-09-20T18:57:43Z</updateDate>
+    <cosponsors />
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <introducedDate>2017-07-12</introducedDate>
+    <billType>HRES</billType>
+    <calendarNumbers>
+      <item>
+        <calendar>H00063</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <actions>
+      <actionTypeCounts>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <generalDebate>2</generalDebate>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <provisionsOfARule>1</provisionsOfARule>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <reportedToHouse>1</reportedToHouse>
+      </actionTypeCounts>
+      <item>
+        <committee />
+        <actionDate>2017-07-13</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionTime>14:35:52</actionTime>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-07-13</actionDate>
+        <links>
+          <link>
+            <name>H5774</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5774</url>
+          </link>
+          <link>
+            <name>Roll no. 355</name>
+            <url>http://clerk.house.gov/evs/2017/roll355.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 230 - 190 (Roll no. 355). (text: CR H5774)</text>
+        <type>Floor</type>
+        <actionTime>14:35:50</actionTime>
+        <actionCode>H37100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-07-13</actionDate>
+        <links>
+          <link>
+            <name>Roll no. 355</name>
+            <url>http://clerk.house.gov/evs/2017/roll355.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 230 - 190 (Roll no. 355).</text>
+        <type>Floor</type>
+        <actionTime>14:35:50</actionTime>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-07-13</actionDate>
+        <links>
+          <link>
+            <name>H5782-5783</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5782-5783</url>
+          </link>
+          <link>
+            <name>Roll no. 354</name>
+            <url>http://clerk.house.gov/evs/2017/roll354.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 234 - 187 (Roll no. 354). (consideration: CR H5782-5783)</text>
+        <type>Floor</type>
+        <actionTime>14:26:24</actionTime>
+        <actionCode>H35000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-07-13</actionDate>
+        <links>
+          <link>
+            <name>H. Res. 440</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/440</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with further debate on H. Res. 440.</text>
+        <type>Floor</type>
+        <actionTime>13:21:27</actionTime>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-07-13</actionDate>
+        <links>
+          <link>
+            <name>H. Res. 440</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/440</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 440.</text>
+        <type>Floor</type>
+        <actionTime>12:37:56</actionTime>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-07-13</actionDate>
+        <links>
+          <link>
+            <name>H5774-5776</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5774-5776</url>
+          </link>
+          <link>
+            <name>H5777-5783</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5777-5783</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Considered as privileged matter. (consideration: CR H5774-5776, H5777-5783)</text>
+        <type>Floor</type>
+        <actionTime>12:35:21</actionTime>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-07-13</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Placed on the House Calendar, Calendar No. 63.</text>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-07-13</actionDate>
+        <links>
+          <link>
+            <name>H.R. 2810</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2810</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Rule provides for further consideration of H.R. 2810 under a structured rule.</text>
+        <type>Floor</type>
+        <actionTime>00:30:04</actionTime>
+        <actionCode>H12700</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionDate>2017-07-13</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 115-217</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/217</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-217, by Mr. Byrne.</text>
+        <type>Committee</type>
+        <actionCode>H12100</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionDate>2017-07-13</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 115-217</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/217</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-217, by Mr. Byrne.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-07-12</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-217</citation>
+      </committeeReport>
+    </committeeReports>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Providing for further consideration of the bill (H.R. 2810) to authorize appropriations for fiscal year 2018 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Providing for further consideration of the bill (H.R. 2810) to authorize appropriations for fiscal year 2018 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

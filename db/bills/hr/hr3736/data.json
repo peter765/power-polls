@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3736-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "H001064", 
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-11", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-11", 
+  "number": "3736", 
+  "official_title": "To require the National Credit Union Administration to conduct a study of the appropriate capital requirements for credit unions, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Risk-Based Capital Study Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "P000599", 
+    "district": "8", 
+    "name": "Posey, Bill", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-11", 
+  "subjects": [
+    "Finance and financial sector"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Risk-Based Capital Study Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Risk-Based Capital Study Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the National Credit Union Administration to conduct a study of the appropriate capital requirements for credit unions, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Risk-Based Capital Study Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-09-15T20:30:12Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3736.xml"
+}

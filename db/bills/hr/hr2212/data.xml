@@ -1,0 +1,54 @@
+<bill session="115" type="h" number="2212" updated="2017-09-28T16:15:13Z">
+  <state datetime="2017-04-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-27"/>
+  </status>
+  <introduced datetime="2017-04-27"/>
+  <titles>
+    <title type="short" as="introduced">CREATES Act of 2017</title>
+    <title type="short" as="introduced">CREATES Act of 2017</title>
+    <title type="short" as="introduced">Creating and Restoring Equal Access To Equivalent Samples Act of 2017</title>
+    <title type="short" as="introduced">Creating and Restoring Equal Access To Equivalent Samples Act of 2017</title>
+    <title type="official" as="introduced">To promote competition in the market for drugs and biological products by facilitating the timely entry of lower-cost generic and biosimilar versions of those drugs and biological products.</title>
+    <title type="display">CREATES Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="M001179"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001084" joined="2017-04-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-27" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-04-27">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2017-04-27">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2017-04-28">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="974"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Civil actions and liability"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Prescription drugs"/>
+    <term name="Product development and innovation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

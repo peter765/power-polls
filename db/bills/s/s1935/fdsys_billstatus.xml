@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-10-05T17:53:18Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+          <name>Finance Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <sponsors>
+      <item>
+        <state>KS</state>
+        <middleName />
+        <identifiers>
+          <bioguideId>M000934</bioguideId>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+        </identifiers>
+        <firstName>JERRY</firstName>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <lastName>MORAN</lastName>
+        <party>R</party>
+        <bioguideId>M000934</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to treat Indian tribal governments in the same manner as State governments for certain Federal tax purposes, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to treat Indian tribal governments in the same manner as State governments for certain Federal tax purposes, and for other purposes.</title>
+      </item>
+    </titles>
+    <introducedDate>2017-10-05</introducedDate>
+    <title>A bill to amend the Internal Revenue Code of 1986 to treat Indian tribal governments in the same manner as State governments for certain Federal tax purposes, and for other purposes.</title>
+    <committeeReports />
+    <amendments />
+    <originChamber>Senate</originChamber>
+    <cosponsors />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-10-06T05:06:21Z</updateDate>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <relatedBills />
+    <createDate>2017-10-06T00:41:19Z</createDate>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <actionDate>2017-10-05</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <billNumber>1935</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

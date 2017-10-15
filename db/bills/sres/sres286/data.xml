@@ -1,0 +1,31 @@
+<bill session="115" type="sr" number="286" updated="2017-10-06T12:12:11Z">
+  <state datetime="2017-10-05">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-05"/>
+  </status>
+  <introduced datetime="2017-10-05"/>
+  <titles>
+    <title type="official" as="introduced">A resolution supporting the role of the United States in ensuring children in the poorest countries have access to a quality education through the Global Partnership for Education.</title>
+    <title type="display">A resolution supporting the role of the United States in ensuring children in the poorest countries have access to a quality education through the Global Partnership for Education.</title>
+  </titles>
+  <sponsor bioguide_id="B001288"/>
+  <cosponsors>
+    <cosponsor bioguide_id="R000595" joined="2017-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-05">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-10-05" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S6367" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

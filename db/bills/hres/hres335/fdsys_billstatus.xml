@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-05-17</introducedDate>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A resolution supporting the goals and ideals of National Purple Heart Recognition Day.</latestTitle>
+        <type>SRES</type>
+        <number>241</number>
+        <latestAction>
+          <actionDate>2017-08-01</actionDate>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (Sponsor introductory remarks on measure: CR S4673; consideration: CR S4695; text of measure as introduced: CR S4673-4674)</text>
+        </latestAction>
+      </item>
+      <item>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2018</latestTitle>
+        <type>HR</type>
+        <number>2810</number>
+        <latestAction>
+          <actionDate>2017-09-12</actionDate>
+          <text>Motion to proceed to measure considered in Senate. (consideration: CR S5192-5196, S5198-5210)</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-16</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Armed Services.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-05-17</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-05-17</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-05-17</actionDate>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <billNumber>335</billNumber>
+    <latestAction>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <actionDate>2017-06-16</actionDate>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <notes />
+    <laws />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <createDate>2017-05-18T03:11:38Z</createDate>
+    <titles>
+      <item>
+        <title>Supporting the goals and ideals of National Purple Heart Recognition Day.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Supporting the goals and ideals of National Purple Heart Recognition Day.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <congress>115</congress>
+    <title>Supporting the goals and ideals of National Purple Heart Recognition Day.</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsas00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <date>2017-06-16T14:21:28Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Military Personnel Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <date>2017-05-17T14:03:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <updateDate>2017-09-13T21:45:20Z</updateDate>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <billType>HRES</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-05-17</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Supports the goals and ideals of National Purple Heart Recognition Day. </p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2017-05-17T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-09-11T18:02:21Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2322</lisID>
+          <bioguideId>M001199</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>FL</state>
+        <firstName>Brian</firstName>
+        <lastName>Mast</lastName>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>18</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001199</bioguideId>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>T000460</bioguideId>
+          <lisID>1593</lisID>
+          <gpoId>7806</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>MIKE</firstName>
+        <lastName>THOMPSON</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000460</bioguideId>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <state>NC</state>
+        <firstName>WALTER</firstName>
+        <lastName>JONES</lastName>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000255</bioguideId>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2150</lisID>
+          <bioguideId>M001185</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>NY</state>
+        <firstName>Sean</firstName>
+        <lastName>Maloney</lastName>
+        <middleName>Patrick</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>18</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001185</bioguideId>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <state>OH</state>
+        <firstName>TIM</firstName>
+        <lastName>RYAN</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000577</bioguideId>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2298</lisID>
+          <bioguideId>E000296</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>PA</state>
+        <firstName>Dwight</firstName>
+        <lastName>Evans</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000296</bioguideId>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>NH</state>
+        <firstName>Ann</firstName>
+        <lastName>Kuster</lastName>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000382</bioguideId>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1707</lisID>
+          <bioguideId>F000448</bioguideId>
+          <gpoId>7799</gpoId>
+        </identifiers>
+        <state>AZ</state>
+        <firstName>Trent</firstName>
+        <lastName>Franks</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000448</bioguideId>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>E000293</bioguideId>
+          <lisID>2114</lisID>
+          <gpoId />
+        </identifiers>
+        <state>CT</state>
+        <firstName>Elizabeth</firstName>
+        <lastName>Esty</lastName>
+        <middleName>H.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000293</bioguideId>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2113</lisID>
+          <bioguideId>P000608</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <firstName>Scott</firstName>
+        <lastName>Peters</lastName>
+        <middleName>H.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>52</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000608</bioguideId>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <firstName>Julia</firstName>
+        <lastName>Brownley</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>26</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001285</bioguideId>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Panetta, Jimmy [D-CA-20]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>P000613</bioguideId>
+          <lisID>2309</lisID>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <firstName>Jimmy</firstName>
+        <lastName>Panetta</lastName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000613</bioguideId>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001069</bioguideId>
+          <lisID>1836</lisID>
+          <gpoId>7867</gpoId>
+        </identifiers>
+        <state>CT</state>
+        <firstName>Joe</firstName>
+        <lastName>Courtney</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001069</bioguideId>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000563</bioguideId>
+          <lisID>1781</lisID>
+          <gpoId>7923</gpoId>
+        </identifiers>
+        <state>IL</state>
+        <firstName>Daniel</firstName>
+        <lastName>Lipinski</lastName>
+        <middleName>William</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000563</bioguideId>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1954</lisID>
+          <bioguideId>R000582</bioguideId>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <state>TN</state>
+        <firstName>David</firstName>
+        <lastName>Roe</lastName>
+        <middleName>P.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000582</bioguideId>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <firstName>Mark</firstName>
+        <lastName>Takano</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>41</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000472</bioguideId>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1861</lisID>
+          <bioguideId>S001170</bioguideId>
+          <gpoId>7528</gpoId>
+        </identifiers>
+        <state>NH</state>
+        <firstName>Carol</firstName>
+        <lastName>Shea-Porter</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001170</bioguideId>
+        <sponsorshipDate>2017-06-16</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <middleName>J.</middleName>
+        <bioguideId>W000799</bioguideId>
+        <lastName>Walz</lastName>
+        <district>1</district>
+        <identifiers>
+          <lisID>1856</lisID>
+          <bioguideId>W000799</bioguideId>
+          <gpoId>8001</gpoId>
+        </identifiers>
+        <firstName>Timothy</firstName>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <state>MN</state>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Military history</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

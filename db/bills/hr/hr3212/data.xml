@@ -1,0 +1,55 @@
+<bill session="115" type="h" number="3212" updated="2017-09-11T03:06:04Z">
+  <state datetime="2017-07-12">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-12"/>
+  </status>
+  <introduced datetime="2017-07-12"/>
+  <titles>
+    <title type="official" as="introduced">To reauthorize the State Criminal Alien Assistance Program, and for other purposes.</title>
+    <title type="display">To reauthorize the State Criminal Alien Assistance Program, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="M001197"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000375" joined="2017-07-13"/>
+    <cosponsor bioguide_id="B001274" joined="2017-09-05"/>
+    <cosponsor bioguide_id="C001105" joined="2017-07-12"/>
+    <cosponsor bioguide_id="C001094" joined="2017-07-12"/>
+    <cosponsor bioguide_id="C001096" joined="2017-07-14"/>
+    <cosponsor bioguide_id="F000448" joined="2017-07-12"/>
+    <cosponsor bioguide_id="G000565" joined="2017-07-12"/>
+    <cosponsor bioguide_id="K000362" joined="2017-07-12"/>
+    <cosponsor bioguide_id="K000387" joined="2017-07-12"/>
+    <cosponsor bioguide_id="M001177" joined="2017-07-13"/>
+    <cosponsor bioguide_id="O000168" joined="2017-07-26"/>
+    <cosponsor bioguide_id="R000409" joined="2017-07-12"/>
+    <cosponsor bioguide_id="S001183" joined="2017-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-12">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-12" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-08-03">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="745"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Detention of persons"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Law enforcement administration and funding"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

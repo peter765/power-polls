@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2017-10-05</actionDate>
+    </latestAction>
+    <laws />
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-10-05T19:22:21Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <calendarNumbers />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <introducedDate>2017-10-05</introducedDate>
+    <createDate>2017-10-06T00:41:19Z</createDate>
+    <amendments />
+    <cboCostEstimates />
+    <policyArea />
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <middleName />
+        <firstName>Marco</firstName>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <bioguideId>R000595</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <party>R</party>
+        <lastName>Rubio</lastName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <relatedBills />
+    <title>A bill to amend the Caribbean Basin Economic Recovery Act to extend the transition period for preferential treatment of certain textile and apparel articles.</title>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-10-05</actionDate>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Caribbean Basin Economic Recovery Act to extend the transition period for preferential treatment of certain textile and apparel articles.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Caribbean Basin Economic Recovery Act to extend the transition period for preferential treatment of certain textile and apparel articles.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2017-10-06T05:06:23Z</updateDate>
+    <sponsors>
+      <item>
+        <middleName>WILLIAM</middleName>
+        <firstName>CLARENCE</firstName>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <bioguideId>N000032</bioguideId>
+        <lastName>NELSON</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <state>FL</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billNumber>1943</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

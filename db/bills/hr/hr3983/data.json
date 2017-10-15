@@ -1,0 +1,94 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "B00100", 
+      "references": [
+        {
+          "reference": "CR E1334", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3983-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-05", 
+  "number": "3983", 
+  "official_title": "To direct the Secretary of the Interior to remove the statue to the memory and in honor of Albert Pike erected near Judiciary Square in the District of Columbia, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "N000147", 
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-05", 
+  "subjects": [
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of the Interior to remove the statue to the memory and in honor of Albert Pike erected near Judiciary Square in the District of Columbia, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of the Interior to remove the statue to the memory and in honor of Albert Pike erected near Judiciary Square in the District of Columbia, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-11T16:30:14Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3983.xml"
+}

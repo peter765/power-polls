@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-06-23T03:11:37Z</createDate>
+    <introducedDate>2017-06-22</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Science, Space, and Technology Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-22T14:03:15Z</date>
+            </item>
+          </activities>
+          <systemCode>hssy00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <calendarNumbers />
+    <congress>115</congress>
+    <title>Promoting Good Cyber Hygiene Act of 2017</title>
+    <committeeReports />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Promoting Good Cyber Hygiene Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide for the identification and documentation of best practices for cyber hygiene by the National Institute of Standards and Technology, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Promoting Good Cyber Hygiene Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Promoting Good Cyber Hygiene Act of 2017</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <updateDate>2017-10-13T07:16:49Z</updateDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-06-22</actionDate>
+          <text><![CDATA[<p><b>Promoting Good Cyber Hygiene Act of 2017</b></p> <p>This bill requires the National Institute of Standards and Technology to establish for the&nbsp;federal government, the private sector, and any individual or organization a list of best practices to defend against common cybersecurity threats and risks.&nbsp;</p> <p>The Department of Homeland Security must&nbsp;assess cybersecurity threats, the effect of such threats on the federal government's information systems and networks, and submit recommendations for addressing such threats. </p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-09-29T16:14:40Z</lastSummaryUpdateDate>
+          <updateDate>2017-06-22T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <billNumber>3010</billNumber>
+    <cosponsors>
+      <item>
+        <bioguideId>B001284</bioguideId>
+        <middleName>W.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2129</lisID>
+          <gpoId />
+          <bioguideId>B001284</bioguideId>
+        </identifiers>
+        <firstName>Susan</firstName>
+        <lastName>Brooks</lastName>
+        <state>IN</state>
+        <party>R</party>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>S001191</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2099</lisID>
+          <gpoId />
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <firstName>Kyrsten</firstName>
+        <lastName>Sinema</lastName>
+        <state>AZ</state>
+        <party>D</party>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>C001072</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001072</bioguideId>
+          <lisID>1889</lisID>
+          <gpoId>7946</gpoId>
+        </identifiers>
+        <firstName>Andre</firstName>
+        <lastName>Carson</lastName>
+        <state>IN</state>
+        <party>D</party>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>P000598</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1910</lisID>
+          <bioguideId>P000598</bioguideId>
+          <gpoId>7860</gpoId>
+        </identifiers>
+        <firstName>Jared</firstName>
+        <lastName>Polis</lastName>
+        <state>CO</state>
+        <party>D</party>
+        <fullName>Rep. Polis, Jared [D-CO-2]</fullName>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>M000312</bioguideId>
+        <middleName>P.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+        <state>MA</state>
+        <party>D</party>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <laws />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>E000215</bioguideId>
+        <firstName>ANNA</firstName>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>E000215</bioguideId>
+          <lisID>355</lisID>
+          <gpoId>7819</gpoId>
+        </identifiers>
+        <district>18</district>
+        <byRequestType />
+        <lastName>ESHOO</lastName>
+        <middleName>G.</middleName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+      <links />
+      <actionDate>2017-06-22</actionDate>
+    </latestAction>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-22</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Science, Space, and Technology.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Science, Space, and Technology Committee</name>
+          <systemCode>hssy00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-06-22</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-06-22</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ESHOO:H.R. 3010.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 (To regulate Commerce withforeign Nations, and among the several States, and with theIndian Tribes).Article I, Section 8, Clause 18 (To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof).[Page H5110]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

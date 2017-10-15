@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="3514" updated="2017-09-11T02:56:08Z">
+  <state datetime="2017-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-27"/>
+  </status>
+  <introduced datetime="2017-07-27"/>
+  <titles>
+    <title type="short" as="introduced">Washington Spy Ring National Historic Trail Designation Act</title>
+    <title type="short" as="introduced">Washington Spy Ring National Historic Trail Designation Act</title>
+    <title type="official" as="introduced">To amend the National Trails System Act to designate the Washington Spy Ring National Historic Trail, and for other purposes.</title>
+    <title type="display">Washington Spy Ring National Historic Trail Designation Act</title>
+  </titles>
+  <sponsor bioguide_id="S001201"/>
+  <cosponsors>
+    <cosponsor bioguide_id="Z000017" joined="2017-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-27" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-08-14">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Federal Lands" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

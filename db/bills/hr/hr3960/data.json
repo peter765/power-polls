@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-04", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-04", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committees on House Administration, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-10-04", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committees on House Administration, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-10-04", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committees on House Administration, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3960-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "P000197", 
+      "district": "12", 
+      "name": "Pelosi, Nancy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-04", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-04", 
+  "number": "3960", 
+  "official_title": "To award a Congressional Gold Medal to Liu Xiaobo, and collectively to all advocates of democracy and human rights in China, in recognition of their extraordinary advocacy for liberty and human rights despite repression and their impact on world peace and global understanding of China, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Preserving Liu Xiaobo Legacy of Freedom & Gold Medal Act", 
+  "sponsor": {
+    "bioguide_id": "S000522", 
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-04", 
+  "subjects": [
+    "International affairs"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preserving Liu Xiaobo Legacy of Freedom & Gold Medal Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preserving Liu Xiaobo Legacy of Freedom & Gold Medal Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To award a Congressional Gold Medal to Liu Xiaobo, and collectively to all advocates of democracy and human rights in China, in recognition of their extraordinary advocacy for liberty and human rights despite repression and their impact on world peace and global understanding of China, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Preserving Liu Xiaobo Legacy of Freedom & Gold Medal Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-11T22:15:15Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3960.xml"
+}

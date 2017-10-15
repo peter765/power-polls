@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <updateDate>2017-10-12T07:13:13Z</updateDate>
+    <notes />
+    <relatedBills />
+    <latestAction>
+      <actionDate>2017-10-03</actionDate>
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Highways and Transit Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-10-03T18:58:13Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw12</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hspw00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-02T16:01:50Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-10-02</introducedDate>
+    <committeeReports />
+    <congress>115</congress>
+    <title>Moving FIRST Act</title>
+    <recordedVotes />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <bioguideId>S001199</bioguideId>
+        <fullName>Rep. Smucker, Lloyd [R-PA-16]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <firstName>Lloyd</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>PA</state>
+        <district>16</district>
+        <identifiers>
+          <lisID>2346</lisID>
+          <bioguideId>S001199</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Smucker</lastName>
+      </item>
+    </cosponsors>
+    <billNumber>3901</billNumber>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Moving FIRST Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Moving and Fostering Innovation to Revolutionize Smarter Transportation Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To direct the Secretary of Transportation to establish the Strengthening Mobility and Revolutionizing Transportation (SMART) Challenge Grant Program to promote technological innovation in our Nation's cities.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Moving FIRST Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Moving FIRST Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Moving and Fostering Innovation to Revolutionize Smarter Transportation Act</title>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DeSAULNIER:H.R. 3901.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8.[Page H7671]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-10-03T03:11:21Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2017-10-03</actionDate>
+        <committee>
+          <name>Highways and Transit Subcommittee</name>
+          <systemCode>hspw12</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-10-02</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-10-02</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-10-02</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <firstName>Mark</firstName>
+        <middleName />
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <byRequestType />
+        <bioguideId>D000623</bioguideId>
+        <district>11</district>
+        <lastName>DeSaulnier</lastName>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2227</lisID>
+          <bioguideId>D000623</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

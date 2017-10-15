@@ -1,0 +1,41 @@
+<bill session="115" type="s" number="1163" updated="2017-08-10T12:26:50Z">
+  <state datetime="2017-05-17">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-17"/>
+  </status>
+  <introduced datetime="2017-05-17"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Health Care Integrity Act of 2017</title>
+    <title type="short" as="introduced">Veterans' Health Care Integrity Act of 2017</title>
+    <title type="official" as="introduced">A bill to require the Secretary of Veterans Affairs to ensure compliance of medical facilities of the Department of Veterans Affairs with requirements relating to the scheduling of appointments, to require appointment by the President and confirmation by the Senate of certain health care officials of the Department, and for other purposes.</title>
+    <title type="display">Veterans' Health Care Integrity Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C001056"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001095" joined="2017-05-17"/>
+    <cosponsor bioguide_id="C001098" joined="2017-05-17"/>
+    <cosponsor bioguide_id="H000338" joined="2017-05-17"/>
+    <cosponsor bioguide_id="N000032" joined="2017-05-17"/>
+    <cosponsor bioguide_id="R000595" joined="2017-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-17">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <reference ref="CR S3016" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="2555"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

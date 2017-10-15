@@ -1,0 +1,36 @@
+<bill session="115" type="h" number="3777" updated="2017-09-29T07:13:11Z">
+  <state datetime="2017-09-14">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-14"/>
+  </status>
+  <introduced datetime="2017-09-14"/>
+  <titles>
+    <title type="short" as="introduced">Juab County Conveyance Act of 2017</title>
+    <title type="short" as="introduced">Juab County Conveyance Act of 2017</title>
+    <title type="official" as="introduced">To direct the Secretary of Agriculture to convey certain National Forest System land containing the Nephi Work Center in Juab County, Utah, to Juab County.</title>
+    <title type="display">Juab County Conveyance Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="L000584"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-09-14">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-14" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-09-25">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Federal Lands" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

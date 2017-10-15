@@ -1,0 +1,36 @@
+<bill session="115" type="h" number="3411" updated="2017-09-11T02:55:49Z">
+  <state datetime="2017-07-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-26"/>
+  </status>
+  <introduced datetime="2017-07-26"/>
+  <titles>
+    <title type="official" as="introduced">To establish in the National Highway Traffic Safety Administration an Automated Driving System Cybersecurity Advisory Council to make recommendations regarding cybersecurity for the testing, deployment, and updating of automated driving systems.</title>
+    <title type="display">To establish in the National Highway Traffic Safety Administration an Automated Driving System Cybersecurity Advisory Council to make recommendations regarding cybersecurity for the testing, deployment, and updating of automated driving systems.</title>
+  </titles>
+  <sponsor bioguide_id="C001106"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000624" joined="2017-07-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-26" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2017-07-28">
+      <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Commerce, Manufacturing, and Trade" code="HSIF17" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

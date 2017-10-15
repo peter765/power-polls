@@ -1,0 +1,50 @@
+<bill session="115" type="s" number="1533" updated="2017-09-11T03:06:43Z">
+  <state datetime="2017-07-12">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-12"/>
+  </status>
+  <introduced datetime="2017-07-12"/>
+  <titles>
+    <title type="short" as="introduced">HELLPP Act</title>
+    <title type="short" as="introduced">HELLPP Act</title>
+    <title type="short" as="introduced">Helping Ensure Life- and Limb-saving access to Podiatric Physicians Act</title>
+    <title type="short" as="introduced">Helping Ensure Life- and Limb-saving access to Podiatric Physicians Act</title>
+    <title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to cover physician services delivered by podiatric physicians to ensure access by Medicaid beneficiaries to appropriate quality foot and ankle care, to amend title XVIII of such Act to modify the requirements for diabetic shoes to be included under Medicare, and for other purposes.</title>
+    <title type="display">HELLPP Act</title>
+  </titles>
+  <sponsor bioguide_id="G000386"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000944" joined="2017-07-12"/>
+    <cosponsor bioguide_id="C001095" joined="2017-07-12"/>
+    <cosponsor bioguide_id="E000295" joined="2017-07-20"/>
+    <cosponsor bioguide_id="H001046" joined="2017-07-12"/>
+    <cosponsor bioguide_id="S000770" joined="2017-07-12"/>
+    <cosponsor bioguide_id="U000039" joined="2017-07-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-12">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="1524"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

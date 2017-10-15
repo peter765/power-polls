@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <bioguideId>P000449</bioguideId>
+        <middleName />
+        <firstName>ROB</firstName>
+        <identifiers>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>PORTMAN</lastName>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <latestTitle>Designating September 16, 2017, as "Isaac M. Wise Temple Day".</latestTitle>
+        <latestAction>
+          <actionDate>2017-09-14</actionDate>
+          <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        </latestAction>
+        <type>HRES</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>525</number>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>B000944</bioguideId>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <party>D</party>
+        <state>OH</state>
+        <firstName>SHERROD</firstName>
+        <byRequestType />
+        <lastName>BROWN</lastName>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <actionDate>2017-09-14</actionDate>
+      <links />
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5747; text: CR S5747)</text>
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-09-14</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5747</url>
+            <name>S5747</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5747; text: CR S5747)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <actionDate>2017-09-14</actionDate>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S5747; text: CR S5747)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5747</url>
+            <name>S5747</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-09-14</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <cboCostEstimates />
+    <title>A resolution designating September 16, 2017, as "Isaac M. Wise Temple Day".</title>
+    <committees>
+      <billCommittees />
+    </committees>
+    <billNumber>257</billNumber>
+    <introducedDate>2017-09-14</introducedDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <amendments />
+    <notes />
+    <updateDate>2017-10-12T04:37:46Z</updateDate>
+    <committeeReports />
+    <congress>115</congress>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Ohio</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Arts, Culture, Religion</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Arts, Culture, Religion</name>
+    </policyArea>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution designating September 16, 2017, as "Isaac M. Wise Temple Day".</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A resolution designating September 16, 2017, as "Isaac M. Wise Temple Day".</title>
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <billType>SRES</billType>
+    <createDate>2017-09-15T00:41:21Z</createDate>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

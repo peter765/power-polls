@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-07-11T16:00:37Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-09-05T19:57:17Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Asia and the Pacific Subcommittee</name>
+              <systemCode>hsfa05</systemCode>
+            </item>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-09-05T19:55:07Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Africa, Global Health, Global Human Rights and International Organizations Subcommittee</name>
+              <systemCode>hsfa16</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hsfa00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-09-28T21:00:13Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>China</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-09-05</actionDate>
+        <committee>
+          <name>Asia and the Pacific Subcommittee</name>
+          <systemCode>hsfa05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-05</actionDate>
+        <committee>
+          <name>Africa, Global Health, Global Human Rights and International Organizations Subcommittee</name>
+          <systemCode>hsfa16</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2017-07-11</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2017-07-11</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2017-07-11</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText />
+    <createDate>2017-07-12T03:11:32Z</createDate>
+    <sponsors>
+      <item>
+        <bioguideId>H001071</bioguideId>
+        <lastName>Hice</lastName>
+        <middleName>B.</middleName>
+        <firstName>Jody</firstName>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <district>10</district>
+        <party>R</party>
+        <byRequestType />
+        <identifiers>
+          <lisID>2237</lisID>
+          <gpoId />
+          <bioguideId>H001071</bioguideId>
+        </identifiers>
+        <state>GA</state>
+      </item>
+    </sponsors>
+    <billNumber>434</billNumber>
+    <congress>115</congress>
+    <notes />
+    <cosponsors>
+      <item>
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <lastName>Franks</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1707</lisID>
+          <gpoId>7799</gpoId>
+          <bioguideId>F000448</bioguideId>
+        </identifiers>
+        <firstName>Trent</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <middleName />
+        <bioguideId>F000448</bioguideId>
+      </item>
+      <item>
+        <state>CO</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <lastName>Lamborn</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1834</lisID>
+          <gpoId>7863</gpoId>
+          <bioguideId>L000564</bioguideId>
+        </identifiers>
+        <firstName>Doug</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <middleName />
+        <bioguideId>L000564</bioguideId>
+      </item>
+      <item>
+        <state>WI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <lastName>Grothman</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+        </identifiers>
+        <firstName>Glenn</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <middleName />
+        <bioguideId>G000576</bioguideId>
+      </item>
+      <item>
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <fullName>Rep. Roskam, Peter J. [R-IL-6]</fullName>
+        <lastName>Roskam</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000580</bioguideId>
+          <gpoId>7926</gpoId>
+          <lisID>1848</lisID>
+        </identifiers>
+        <firstName>Peter</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <middleName>J.</middleName>
+        <bioguideId>R000580</bioguideId>
+      </item>
+      <item>
+        <state>IA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <lastName>King</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+          <gpoId>7918</gpoId>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <middleName />
+        <bioguideId>K000362</bioguideId>
+      </item>
+      <item>
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>14</district>
+        <fullName>Rep. Hultgren, Randy [R-IL-14]</fullName>
+        <lastName>Hultgren</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001059</bioguideId>
+          <gpoId>7934</gpoId>
+          <lisID>2015</lisID>
+        </identifiers>
+        <firstName>Randy</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <middleName />
+        <bioguideId>H001059</bioguideId>
+      </item>
+    </cosponsors>
+    <laws />
+    <committeeReports />
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Condemns violence against religious minorities in the People's Republic of China and any actions that limit their free expression and practice of faith.</p> <p>Reaffirms the U.S. commitment to promoting religious freedom and tolerance around the world and helping to provide protection and relief to religious minorities facing persecution and violence.</p> <p>Calls on the Chinese government to uphold the Chinese Constitution in addition to the internationally recognized human right to freedom from religious persecution and to end all forms of violence and discrimination against religious minorities.</p> <p>Urges the President to take appropriate actions to promote religious freedom of religious minorities in China, using the powers provided under the International Religious Freedom Act of 1998 and the Frank R. Wolf International Religious Freedom Act.</p> <ul> </ul>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-09-28T20:47:01Z</lastSummaryUpdateDate>
+          <updateDate>2017-07-11T04:00:00Z</updateDate>
+          <actionDate>2017-07-11</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <title>Condemning violence against religious minorities in the People's Republic of China and any actions that limit the free expression and practice of faith by these minorities.</title>
+    <introducedDate>2017-07-11</introducedDate>
+    <version>1.0.0</version>
+    <relatedBills />
+    <amendments />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-09-05</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Condemning violence against religious minorities in the People's Republic of China and any actions that limit the free expression and practice of faith by these minorities.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Condemning violence against religious minorities in the People's Republic of China and any actions that limit the free expression and practice of faith by these minorities.</title>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

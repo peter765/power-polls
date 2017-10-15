@@ -1,0 +1,57 @@
+<bill session="115" type="h" number="2954" updated="2017-10-13T07:23:47Z">
+  <state datetime="2017-10-12">REPORTED</state>
+  <status>
+    <unknown datetime="2017-10-12"/>
+  </status>
+  <introduced datetime="2017-06-20"/>
+  <titles>
+    <title type="short" as="introduced">Home Mortgage Disclosure Adjustment Act</title>
+    <title type="short" as="introduced">Home Mortgage Disclosure Adjustment Act</title>
+    <title type="official" as="introduced">To amend the Home Mortgage Disclosure Act of 1975 to specify which depository institutions are subject to the maintenance of records and disclosure requirements of such Act, and for other purposes.</title>
+    <title type="display">Home Mortgage Disclosure Adjustment Act</title>
+  </titles>
+  <sponsor bioguide_id="E000294"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000375" joined="2017-09-26"/>
+    <cosponsor bioguide_id="D000614" joined="2017-09-07"/>
+    <cosponsor bioguide_id="H001072" joined="2017-09-18"/>
+    <cosponsor bioguide_id="L000566" joined="2017-09-26"/>
+    <cosponsor bioguide_id="L000569" joined="2017-06-20"/>
+    <cosponsor bioguide_id="R000593" joined="2017-10-11"/>
+    <cosponsor bioguide_id="S001172" joined="2017-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-20">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-20" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2017-10-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2017-10-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-10-12" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 36 - 24.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="3354"/>
+    <bill type="h" session="115" relation="unknown" number="2954"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-06-20T04:00:00Z" status="Introduced in House">Home Mortgage Disclosure Adjustment Act
+
+This&#160;bill&#160;amends the Home Mortgage Disclosure Act&#160;of 1975 to&#160;exempt a depository institution&#160;from certain records and disclosure&#160;requirements: (1) with respect to closed-end mortgage loans, if the depository institution originated fewer than 1,000 such loans in each of the two preceding years; and (2) with respect to open-end lines of credit, if the depository institution originated fewer than 2,000 such lines of credit in each of the two preceding years.
+
+In addition, the bill lessens requirements for depository institutions to itemize and disclose specified mortgage loan data.</summary>
+  <committee-reports/>
+</bill>

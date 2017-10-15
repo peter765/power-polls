@@ -1,0 +1,39 @@
+<bill session="115" type="s" number="1091" updated="2017-09-11T03:06:30Z">
+  <state datetime="2017-05-10">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-10"/>
+  </status>
+  <introduced datetime="2017-05-10"/>
+  <titles>
+    <title type="short" as="introduced">Supporting Grandparents Raising Grandchildren Act</title>
+    <title type="short" as="introduced">Supporting Grandparents Raising Grandchildren Act</title>
+    <title type="official" as="introduced">A bill to establish a Federal Task Force to Support Grandparents Raising Grandchildren.</title>
+    <title type="display">Supporting Grandparents Raising Grandchildren Act</title>
+  </titles>
+  <sponsor bioguide_id="C001035"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001047" joined="2017-06-14"/>
+    <cosponsor bioguide_id="C001070" joined="2017-05-10"/>
+    <cosponsor bioguide_id="N000032" joined="2017-06-14"/>
+    <cosponsor bioguide_id="W000817" joined="2017-06-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-10">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="3105"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

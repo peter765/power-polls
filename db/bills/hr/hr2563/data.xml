@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="2563" updated="2017-06-19T22:30:20Z">
+  <state datetime="2017-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-19"/>
+  </status>
+  <introduced datetime="2017-05-19"/>
+  <titles>
+    <title type="short" as="introduced">Entrepreneurial Education Act</title>
+    <title type="short" as="introduced">Entrepreneurial Education Act</title>
+    <title type="official" as="introduced">To codify the Small Business Administration's Entrepreneurial Education Initiative, and for other purposes.</title>
+    <title type="display">Entrepreneurial Education Act</title>
+  </titles>
+  <sponsor bioguide_id="L000586"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000370" joined="2017-05-19"/>
+    <cosponsor bioguide_id="C001067" joined="2017-05-19"/>
+    <cosponsor bioguide_id="E000297" joined="2017-05-19"/>
+    <cosponsor bioguide_id="M001202" joined="2017-05-19"/>
+    <cosponsor bioguide_id="V000081" joined="2017-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-19">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

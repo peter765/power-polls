@@ -1,0 +1,42 @@
+<bill session="115" type="s" number="1674" updated="2017-09-11T03:02:24Z">
+  <state datetime="2017-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-31"/>
+  </status>
+  <introduced datetime="2017-07-31"/>
+  <titles>
+    <title type="short" as="introduced">School Building Improvement Act of 2017</title>
+    <title type="short" as="introduced">School Building Improvement Act of 2017</title>
+    <title type="official" as="introduced">A bill to provide grants for the repair, renovation, and construction of public elementary schools and secondary schools, to establish a school infrastructure bond program, and for other purposes.</title>
+    <title type="display">School Building Improvement Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="R000122"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000944" joined="2017-07-31"/>
+    <cosponsor bioguide_id="C000141" joined="2017-07-31"/>
+    <cosponsor bioguide_id="C001113" joined="2017-07-31"/>
+    <cosponsor bioguide_id="D000563" joined="2017-08-01"/>
+    <cosponsor bioguide_id="H001076" joined="2017-07-31"/>
+    <cosponsor bioguide_id="H001042" joined="2017-07-31"/>
+    <cosponsor bioguide_id="W000817" joined="2017-07-31"/>
+    <cosponsor bioguide_id="W000802" joined="2017-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-31">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S4621-4622" label="Sponsor introductory remarks on measure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

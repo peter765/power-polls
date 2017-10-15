@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-11", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-11", 
+      "action_code": "", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1788-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000555", 
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-11", 
+      "state": "NY", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-11", 
+  "number": "1788", 
+  "official_title": "A bill to encourage companies to expand employee ownership, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Worker Owned Wealth Act", 
+  "sponsor": {
+    "bioguide_id": "B001230", 
+    "district": null, 
+    "name": "Baldwin, Tammy", 
+    "state": "WI", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-11", 
+  "subjects": [
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Worker Owned Wealth Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Worker Owned Wealth Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to encourage companies to expand employee ownership, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Worker Owned Wealth Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-09-19T04:34:48Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1788.xml"
+}

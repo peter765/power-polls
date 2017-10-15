@@ -1,0 +1,55 @@
+<bill session="115" type="s" number="806" updated="2017-09-11T03:06:28Z">
+  <state datetime="2017-04-03">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-03"/>
+  </status>
+  <introduced datetime="2017-04-03"/>
+  <titles>
+    <title type="short" as="introduced">College for All Act of 2017</title>
+    <title type="short" as="introduced">College for All Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend the Higher Education Act to ensure College for All.</title>
+    <title type="display">College for All Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="S000033"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001277" joined="2017-04-03"/>
+    <cosponsor bioguide_id="G000555" joined="2017-04-03"/>
+    <cosponsor bioguide_id="H001075" joined="2017-04-03"/>
+    <cosponsor bioguide_id="L000174" joined="2017-04-24"/>
+    <cosponsor bioguide_id="M001176" joined="2017-06-07"/>
+    <cosponsor bioguide_id="M001169" joined="2017-04-03"/>
+    <cosponsor bioguide_id="W000817" joined="2017-04-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-03">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-04-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="1880"/>
+    <bill type="h" session="115" relation="unknown" number="1614"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Educational guidance"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Indian social and development programs"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Minority education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Vocational and technical education"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-05-02</introducedDate>
+    <latestAction>
+      <actionTime>14:15:43</actionTime>
+      <actionDate>2017-05-03</actionDate>
+      <links />
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </latestAction>
+    <billType>HRES</billType>
+    <billNumber>305</billNumber>
+    <recordedVotes>
+      <recordedVote>
+        <date>2017-05-03T18:15:41Z</date>
+        <chamber>House</chamber>
+        <congress>115</congress>
+        <rollNumber>247</rollNumber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <url>http://clerk.house.gov/evs/2017/roll247.xml</url>
+      </recordedVote>
+      <recordedVote>
+        <date>2017-05-03T18:02:38Z</date>
+        <chamber>House</chamber>
+        <congress>115</congress>
+        <rollNumber>246</rollNumber>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <url>http://clerk.house.gov/evs/2017/roll246.xml</url>
+      </recordedVote>
+    </recordedVotes>
+    <createDate>2017-05-03T03:11:39Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <type>Floor</type>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>14:15:43</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <actionDate>2017-05-03</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H3080</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H3080</url>
+          </link>
+          <link>
+            <name>Roll no. 247</name>
+            <url>http://clerk.house.gov/evs/2017/roll247.xml</url>
+          </link>
+        </links>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 240 - 186 (Roll no. 247). (text: CR H3080)</text>
+        <actionTime>14:15:41</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H37100</actionCode>
+        <actionDate>2017-05-03</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H3080</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H3080</url>
+          </link>
+          <link>
+            <name>Roll no. 247</name>
+            <url>http://clerk.house.gov/evs/2017/roll247.xml</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 240 - 186 (Roll no. 247).(text: CR H3080)</text>
+        <actionTime>14:15:41</actionTime>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>8000</actionCode>
+        <actionDate>2017-05-03</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H3087</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H3087</url>
+          </link>
+          <link>
+            <name>Roll no. 246</name>
+            <url>http://clerk.house.gov/evs/2017/roll246.xml</url>
+          </link>
+        </links>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 231 - 192 (Roll no. 246). (consideration: CR H3087)</text>
+        <actionTime>14:02:38</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H35000</actionCode>
+        <actionDate>2017-05-03</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H. Res. 305</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/305</url>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 305.</text>
+        <actionTime>12:37:28</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-05-03</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H3080-3089</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H3080-3089</url>
+          </link>
+        </links>
+        <text>Considered as privileged matter. (consideration: CR H3080-3089)</text>
+        <actionTime>12:35:19</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <actionDate>2017-05-03</actionDate>
+      </item>
+      <item>
+        <type>Calendars</type>
+        <links />
+        <text>Placed on the House Calendar, Calendar No. 45.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H12420</actionCode>
+        <actionDate>2017-05-02</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <links />
+        <text>Rule provides for one hour of general debate. The resolution makes in order a single motion that the House concur in the Senate amendments numbered 2 and 3, and that the House concur in the Senate amendment numbered 1 with an amendment consisting of the text of Rules Committee Print 115-16 modified by the amendment printed in House Report 115-108.</text>
+        <actionTime>17:42:27</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H12700</actionCode>
+        <actionDate>2017-05-02</actionDate>
+      </item>
+      <item>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-108</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/108</url>
+          </link>
+        </links>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-108, by Mr. Cole.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <actionCode>H12100</actionCode>
+        <actionDate>2017-05-02</actionDate>
+      </item>
+      <item>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>H. Rept. 115-108</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/108</url>
+          </link>
+        </links>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-108, by Mr. Cole.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <actionCode>5000</actionCode>
+        <actionDate>2017-05-02</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-05-02</actionDate>
+      </item>
+      <actionTypeCounts>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <provisionsOfARule>1</provisionsOfARule>
+        <considerationByHouse>1</considerationByHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <reportedToHouse>1</reportedToHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <introducedInHouse>1</introducedInHouse>
+        <generalDebate>1</generalDebate>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+      </actionTypeCounts>
+    </actions>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-108</citation>
+      </committeeReport>
+    </committeeReports>
+    <version>1.0.0</version>
+    <title>Providing for consideration of the Senate amendments to the bill (H.R. 244) to encourage effective, voluntary investments to recruit, employ, and retain men and women who have served in the United States military with annual Federal awards to employers recognizing such efforts, and for other purposes.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[Sets forth the rule for consideration of the Senate amendments to the bill (H.R. 244) to encourage effective, voluntary investments to recruit, employ, and retain men and women who have served in the United States military with annual Federal awards to employers recognizing such efforts.]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-05-03T08:04:03Z</lastSummaryUpdateDate>
+          <updateDate>2017-05-02T04:00:00Z</updateDate>
+          <actionDate>2017-05-02</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Consolidated Appropriations Act, 2017</latestTitle>
+        <type>HR</type>
+        <number>244</number>
+        <latestAction>
+          <actionDate>2017-05-05</actionDate>
+          <text>Became Public Law No: 115-31.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <notes />
+    <sponsors>
+      <item>
+        <state>OK</state>
+        <district>4</district>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <firstName>Tom</firstName>
+        <middleName />
+        <lastName>Cole</lastName>
+        <byRequestType />
+        <party>R</party>
+        <bioguideId>C001053</bioguideId>
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Providing for consideration of the Senate amendments to the bill (H.R. 244) to encourage effective, voluntary investments to recruit, employ, and retain men and women who have served in the United States military with annual Federal awards to employers recognizing such efforts, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Providing for consideration of the Senate amendments to the bill (H.R. 244) to encourage effective, voluntary investments to recruit, employ, and retain men and women who have served in the United States military with annual Federal awards to employers recognizing such efforts, and for other purposes.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hsru00</systemCode>
+          <type>Standing</type>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2017-05-02T21:42:26Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText />
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>H00045</calendar>
+      </item>
+    </calendarNumbers>
+    <updateDate>2017-09-11T02:40:34Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors />
+    <congress>115</congress>
+    <cboCostEstimates />
+    <laws />
+    <originChamber>House</originChamber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="3558" updated="2017-09-11T02:56:19Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Improve Access to Care for Our Female Veterans Act</title>
+    <title type="short" as="introduced">Improve Access to Care for Our Female Veterans Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to make certain improvements relating to inspections of Department of Veterans Affairs medical facilities and improving care for women.</title>
+    <title type="display">Improve Access to Care for Our Female Veterans Act</title>
+  </titles>
+  <sponsor bioguide_id="B001284"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001202" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-07-28">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

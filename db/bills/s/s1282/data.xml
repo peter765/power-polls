@@ -1,0 +1,70 @@
+<bill session="115" type="s" number="1282" updated="2017-09-27T04:46:02Z">
+  <state datetime="2017-08-02">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2017-08-02"/>
+  </status>
+  <introduced datetime="2017-05-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to redesignate certain clinics of the Department of Veterans Affairs located in Montana.</title>
+    <title type="display">A bill to redesignate certain clinics of the Department of Veterans Affairs located in Montana.</title>
+  </titles>
+  <sponsor bioguide_id="D000618"/>
+  <cosponsors>
+    <cosponsor bioguide_id="T000464" joined="2017-05-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-25">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <reference ref="CR S3221-3222" label="Sponsor introductory remarks on measure"/>
+      <reference ref="CR S3222" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2017-08-02">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2017-08-02">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S4716" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2017-08-02" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2017-08-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2017-08-04T13:05:01-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2017-08-04">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-08-04">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Discharged, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="3765"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Montana"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments>
+    <amendment number="s749"/>
+  </amendments>
+  <summary date="2017-05-25T04:00:00Z" status="Introduced in Senate">This bill redesignates Department of Veterans Affairs clinics in Montana at the following locations:
+
+ 2687 Palmer Street in Missoula as the "David J. Thatcher Department of Veterans Affairs Clinic"; 1775 Spring Creek Lane in Billings as the "Dr. Joseph Medicine Crow Department of Veterans Affairs Clinic"; and 1766 Majestic Lane in Billings as the "Benjamin Charles Steele Department of Veterans Affairs Clinic." Any local public display of the name of the Dr. Joseph Medicine Crow Department of Veterans Affairs Clinic carried out by the United States or through the use of federal funds shall include both the English name, Dr. Joseph Medicine Crow, and the Crow name, Dakaak Baako.</summary>
+  <committee-reports/>
+</bill>

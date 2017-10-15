@@ -1,0 +1,45 @@
+<bill session="115" type="s" number="1117" updated="2017-10-06T04:52:17Z">
+  <state datetime="2017-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-11"/>
+  </status>
+  <introduced datetime="2017-05-11"/>
+  <titles>
+    <title type="short" as="introduced">Consumer Financial Choice and Capital Markets Protection Act of 2017</title>
+    <title type="short" as="introduced">Consumer Financial Choice and Capital Markets Protection Act of 2017</title>
+    <title type="official" as="introduced">A bill to protect the investment choices of investors in the United States, and for other purposes.</title>
+    <title type="display">Consumer Financial Choice and Capital Markets Protection Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="T000461"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001183" joined="2017-05-11"/>
+    <cosponsor bioguide_id="M000639" joined="2017-05-11"/>
+    <cosponsor bioguide_id="P000595" joined="2017-09-14"/>
+    <cosponsor bioguide_id="R000605" joined="2017-05-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-11">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="2319"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Consumer affairs"/>
+    <term name="Financial crises and stabilization"/>
+    <term name="Financial services and investments"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

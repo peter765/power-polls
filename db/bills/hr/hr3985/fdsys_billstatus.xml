@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Susan</firstName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <identifiers>
+          <lisID>2129</lisID>
+          <bioguideId>B001284</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>W.</middleName>
+        <district>5</district>
+        <bioguideId>B001284</bioguideId>
+        <lastName>Brooks</lastName>
+        <state>IN</state>
+      </item>
+    </cosponsors>
+    <laws />
+    <relatedBills />
+    <introducedDate>2017-10-05</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TROTT:H.R. 3985.Congress has the power to enact this legislation pursuantto the following:Article I section 8[Page H7888]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-05T13:02:00Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>3985</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2017-10-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2017-10-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2017-10-05</actionDate>
+      </item>
+    </actions>
+    <title>Internet of Medical Things Resilience Partnership Act of 2017</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <links />
+      <actionDate>2017-10-05</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </latestAction>
+    <notes />
+    <createDate>2017-10-06T03:11:20Z</createDate>
+    <billType>HR</billType>
+    <sponsors>
+      <item>
+        <bioguideId>T000475</bioguideId>
+        <firstName>David</firstName>
+        <lastName>Trott</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2250</lisID>
+          <bioguideId>T000475</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>A.</middleName>
+        <state>MI</state>
+        <fullName>Rep. Trott, David A. [R-MI-11]</fullName>
+        <district>11</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Internet of Medical Things Resilience Partnership Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To establish a working group of public and private entities led by the Food and Drug Administration to recommend voluntary frameworks and guidelines to increase the security and resilience of Internet of Medical Things devices, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Internet of Medical Things Resilience Partnership Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Internet of Medical Things Resilience Partnership Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <updateDate>2017-10-12T19:00:15Z</updateDate>
+    <calendarNumbers />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

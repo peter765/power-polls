@@ -1,0 +1,36 @@
+<bill session="115" type="h" number="3905" updated="2017-10-06T07:16:19Z">
+  <state datetime="2017-10-02">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-02"/>
+  </status>
+  <introduced datetime="2017-10-02"/>
+  <titles>
+    <title type="short" as="introduced">Minnesota's Economic Rights in the Superior National Forest Act</title>
+    <title type="short" as="introduced">Minnesota&#8217;s Economic Rights in the Superior National Forest Act</title>
+    <title type="official" as="introduced">To require congressional approval of any mineral withdrawal or monument designation involving the National Forest System lands in the State of Minnesota, to provide for the renewal of certain mineral leases in such lands, and for other purposes.</title>
+    <title type="display">Minnesota's Economic Rights in the Superior National Forest Act</title>
+  </titles>
+  <sponsor bioguide_id="E000294"/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000565" joined="2017-10-05"/>
+    <cosponsor bioguide_id="L000587" joined="2017-10-02"/>
+    <cosponsor bioguide_id="P000258" joined="2017-10-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-02">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-02" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText />
+    <congress>115</congress>
+    <cboCostEstimates />
+    <updateDate>2017-10-10T13:15:13Z</updateDate>
+    <latestAction>
+      <actionDate>2017-10-04</actionDate>
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-04T14:01:35Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Science, Space, and Technology Committee</name>
+          <type>Standing</type>
+          <systemCode>hssy00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <middleName>R.</middleName>
+        <identifiers>
+          <bioguideId>C001051</bioguideId>
+          <lisID>1752</lisID>
+          <gpoId>8187</gpoId>
+        </identifiers>
+        <lastName>Carter</lastName>
+        <fullName>Rep. Carter, John R. [R-TX-31]</fullName>
+        <bioguideId>C001051</bioguideId>
+        <district>31</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-10-04</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <billType>HR</billType>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <laws />
+    <billNumber>3958</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Science, Space, and Technology Committee</name>
+          <systemCode>hssy00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Science, Space, and Technology.</text>
+      </item>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <committeeReports />
+    <title>Securing Energy Infrastructure Act of 2017</title>
+    <createDate>2017-10-05T03:11:22Z</createDate>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Securing Energy Infrastructure Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To establish a pilot program on securing energy infrastructure, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Securing Energy Infrastructure Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Securing Energy Infrastructure Act of 2017</title>
+      </item>
+    </titles>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>MD</state>
+        <byRequestType />
+        <bioguideId>R000576</bioguideId>
+        <firstName>C. A.</firstName>
+        <identifiers>
+          <lisID>1728</lisID>
+          <bioguideId>R000576</bioguideId>
+          <gpoId>7977</gpoId>
+        </identifiers>
+        <middleName>Dutch</middleName>
+        <district>2</district>
+        <lastName>Ruppersberger</lastName>
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+      </item>
+    </sponsors>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

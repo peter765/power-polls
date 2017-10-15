@@ -1,0 +1,52 @@
+<bill session="115" type="sr" number="228" updated="2017-09-23T04:34:22Z">
+  <state datetime="2017-07-20">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-20"/>
+  </status>
+  <introduced datetime="2017-07-20"/>
+  <titles>
+    <title type="official" as="introduced">A resolution calling for a credible, peaceful, free, and fair presidential election in Kenya in August 2017.</title>
+    <title type="display">A resolution calling for a credible, peaceful, free, and fair presidential election in Kenya in August 2017.</title>
+  </titles>
+  <sponsor bioguide_id="C000141"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001288" joined="2017-07-20"/>
+    <cosponsor bioguide_id="C001088" joined="2017-07-20"/>
+    <cosponsor bioguide_id="M001176" joined="2017-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-20">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-07-20" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S4119" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="115" relation="unknown" number="449"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Conflicts and wars"/>
+    <term name="Department of State"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Federal officials"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Hate crimes"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Kenya"/>
+    <term name="News media and reporting"/>
+    <term name="Political parties and affiliation"/>
+    <term name="Protest and dissent"/>
+    <term name="Religion"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

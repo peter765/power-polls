@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <cboCostEstimates />
+    <updateDate>2017-10-06T05:06:28Z</updateDate>
+    <policyArea />
+    <recordedVotes />
+    <billNumber>1953</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <introducedDate>2017-10-05</introducedDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <identifiers>
+          <lisID>754</lisID>
+          <gpoId>8253</gpoId>
+          <bioguideId>M000303</bioguideId>
+        </identifiers>
+        <lastName>MCCAIN</lastName>
+        <bioguideId>M000303</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>AZ</state>
+        <firstName>JOHN</firstName>
+        <middleName>SIDNEY</middleName>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <identifiers>
+          <gpoId>8300</gpoId>
+          <bioguideId>B001261</bioguideId>
+          <lisID>1881</lisID>
+        </identifiers>
+        <lastName>Barrasso</lastName>
+        <bioguideId>B001261</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>WY</state>
+        <firstName>John</firstName>
+        <middleName />
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <createDate>2017-10-06T00:41:19Z</createDate>
+    <notes />
+    <congress>115</congress>
+    <laws />
+    <sponsors>
+      <item>
+        <firstName>John</firstName>
+        <middleName />
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <lastName>Hoeven</lastName>
+        <party>R</party>
+        <state>ND</state>
+        <bioguideId>H001061</bioguideId>
+        <identifiers>
+          <lisID>2079</lisID>
+          <bioguideId>H001061</bioguideId>
+          <gpoId>8331</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <title>A bill to amend the Tribal Law and Order Act of 2010 and the Indian Law Enforcement Reform Act to provide for advancements in public safety services to Indian communities, and for other purposes.</title>
+    <latestAction>
+      <actionDate>2017-10-05</actionDate>
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+      <links />
+    </latestAction>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-10-05</actionDate>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Other</type>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-05T20:39:45Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <relatedBills />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Tribal Law and Order Act of 2010 and the Indian Law Enforcement Reform Act to provide for advancements in public safety services to Indian communities, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Tribal Law and Order Act of 2010 and the Indian Law Enforcement Reform Act to provide for advancements in public safety services to Indian communities, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

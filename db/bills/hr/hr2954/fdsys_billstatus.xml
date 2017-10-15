@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-06-21T07:26:39Z</createDate>
+    <introducedDate>2017-06-20</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-10-12T21:41:36Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-20T16:02:25Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <calendarNumbers />
+    <congress>115</congress>
+    <title>Home Mortgage Disclosure Adjustment Act</title>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Home Mortgage Disclosure Adjustment Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Home Mortgage Disclosure Adjustment Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend the Home Mortgage Disclosure Act of 1975 to specify which depository institutions are subject to the maintenance of records and disclosure requirements of such Act, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Home Mortgage Disclosure Adjustment Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <latestTitle>Interior and Environment, Agriculture and Rural Development, Commerce, Justice, Science, Financial Services and General Government, Homeland Security, Labor, Health and Human Services, Education, State and Foreign Operations, Transportation, Housing and Urban Development, Defense, Military Construction and Veterans Affairs, Legislative Branch, and Energy and Water Development Appropriations Act, 2018</latestTitle>
+        <latestAction>
+          <actionDate>2017-09-27</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 230.</text>
+        </latestAction>
+        <number>3354</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Home Mortgage Disclosure Adjustment Act</latestTitle>
+        <latestAction>
+          <actionDate>2017-10-12</actionDate>
+          <text>Ordered to be Reported (Amended) by the Yeas and Nays: 36 - 24.</text>
+        </latestAction>
+        <number>2954</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <updateDate>2017-10-13T07:23:47Z</updateDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2017-06-20T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Home Mortgage Disclosure Adjustment Act</strong></p> <p>This&nbsp;bill&nbsp;amends the Home Mortgage Disclosure Act&nbsp;of 1975 to&nbsp;exempt a depository institution&nbsp;from certain records and disclosure&nbsp;requirements: (1) with respect to closed-end mortgage loans, if the depository institution originated fewer than 1,000 such loans in each of the two preceding years; and (2) with respect to open-end lines of credit, if the depository institution originated fewer than 2,000 such lines of credit in each of the two preceding years.</p> <p>In addition, the bill lessens requirements for depository institutions to itemize and disclose specified mortgage loan data. </p>]]></text>
+          <actionDate>2017-06-20</actionDate>
+          <lastSummaryUpdateDate>2017-09-19T11:42:46Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <billNumber>2954</billNumber>
+    <cosponsors>
+      <item>
+        <bioguideId>L000569</bioguideId>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <firstName>Blaine</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>MO</state>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>L000569</bioguideId>
+          <gpoId>8017</gpoId>
+          <lisID>1931</lisID>
+        </identifiers>
+        <lastName>Luetkemeyer</lastName>
+      </item>
+      <item>
+        <bioguideId>D000614</bioguideId>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <firstName>Sean</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <state>WI</state>
+        <district>7</district>
+        <identifiers>
+          <lisID>2072</lisID>
+          <gpoId>8220</gpoId>
+          <bioguideId>D000614</bioguideId>
+        </identifiers>
+        <lastName>Duffy</lastName>
+      </item>
+      <item>
+        <bioguideId>H001072</bioguideId>
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <firstName>J.</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>French</middleName>
+        <state>AR</state>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>H001072</bioguideId>
+          <lisID>2223</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Hill</lastName>
+      </item>
+      <item>
+        <bioguideId>L000566</bioguideId>
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <firstName>Robert</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <state>OH</state>
+        <district>5</district>
+        <identifiers>
+          <lisID>1885</lisID>
+          <bioguideId>L000566</bioguideId>
+          <gpoId>8095</gpoId>
+        </identifiers>
+        <lastName>Latta</lastName>
+      </item>
+      <item>
+        <bioguideId>A000375</bioguideId>
+        <fullName>Rep. Arrington, Jodey C. [R-TX-19]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <firstName>Jodey</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>C.</middleName>
+        <state>TX</state>
+        <district>19</district>
+        <identifiers>
+          <bioguideId>A000375</bioguideId>
+          <lisID>2350</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Arrington</lastName>
+      </item>
+      <item>
+        <bioguideId>S001172</bioguideId>
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <firstName>Adrian</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>NE</state>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>S001172</bioguideId>
+          <gpoId>8040</gpoId>
+          <lisID>1860</lisID>
+        </identifiers>
+        <lastName>Smith</lastName>
+      </item>
+      <item>
+        <bioguideId>R000593</bioguideId>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <firstName>Dennis</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <state>FL</state>
+        <district>15</district>
+        <identifiers>
+          <bioguideId>R000593</bioguideId>
+          <lisID>2003</lisID>
+          <gpoId>7884</gpoId>
+        </identifiers>
+        <lastName>Ross</lastName>
+      </item>
+    </cosponsors>
+    <laws />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>E000294</bioguideId>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>E000294</bioguideId>
+          <gpoId />
+          <lisID>2253</lisID>
+        </identifiers>
+        <district>6</district>
+        <byRequestType />
+        <lastName>Emmer</lastName>
+        <middleName />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 36 - 24.</text>
+      <links />
+      <actionDate>2017-10-12</actionDate>
+    </latestAction>
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionDate>2017-10-12</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 36 - 24.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-12</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-20</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-20</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-20</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <actionStageOverride>2</actionStageOverride>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. EMMER:H.R. 2954.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18[Page H4994]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-06-15T00:26:36Z</createDate>
+    <billType>S</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>2290</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-05-05</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Family-Based Care Services Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <lastName>PORTMAN</lastName>
+        <identifiers>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <firstName>ROB</firstName>
+        <bioguideId>P000449</bioguideId>
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <lastName>STABENOW</lastName>
+        <identifiers>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <middleName>ANN</middleName>
+        <party>D</party>
+        <firstName>DEBORAH</firstName>
+        <bioguideId>S000770</bioguideId>
+        <state>MI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <lastName>Blunt</lastName>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <gpoId>8313</gpoId>
+          <lisID>1464</lisID>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <firstName>Roy</firstName>
+        <bioguideId>B000575</bioguideId>
+        <state>MO</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <lastName>BROWN</lastName>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <firstName>SHERROD</firstName>
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <lastName>King</lastName>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>I</party>
+        <firstName>Angus</firstName>
+        <bioguideId>K000383</bioguideId>
+        <state>ME</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-08-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <lastName>Casey</lastName>
+        <identifiers>
+          <lisID>1828</lisID>
+          <gpoId>8282</gpoId>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <firstName>Bob</firstName>
+        <bioguideId>C001070</bioguideId>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <notes />
+    <introducedDate>2017-06-14</introducedDate>
+    <laws />
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Family-Based Care Services Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title XIX of the Social Security Act to provide a standard definition of therapeutic family care services in Medicaid.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Family-Based Care Services Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Family-Based Care Services Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <firstName>TAMMY</firstName>
+        <byRequestType />
+        <lastName>BALDWIN</lastName>
+        <bioguideId>B001230</bioguideId>
+        <party>D</party>
+        <state>WI</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-06-14T20:27:46Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <billNumber>1357</billNumber>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-14</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-06-14</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <calendarNumbers />
+    <title>Family-Based Care Services Act</title>
+    <updateDate>2017-10-06T04:50:37Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Adoption and foster care</name>
+          </item>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Family services</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-06-14</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

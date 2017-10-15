@@ -1,0 +1,45 @@
+<bill session="115" type="hr" number="441" updated="2017-09-20T18:57:44Z">
+  <state datetime="2017-07-12">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-12"/>
+  </status>
+  <introduced datetime="2017-07-12"/>
+  <titles>
+    <title type="short" as="introduced">Require a Score Before the Floor Resolution</title>
+    <title type="short" as="introduced">Require a Score Before the Floor Resolution</title>
+    <title type="official" as="introduced">Amending the Rules of the House of Representatives to prohibit the consideration of any bill or joint resolution until a cost estimate prepared by the Congressional Budget Office has been available to the public, and for other purposes.</title>
+    <title type="display">Require a Score Before the Floor Resolution</title>
+  </titles>
+  <sponsor bioguide_id="H001038"/>
+  <cosponsors>
+    <cosponsor bioguide_id="J000298" joined="2017-07-12"/>
+    <cosponsor bioguide_id="M001196" joined="2017-07-18"/>
+    <cosponsor bioguide_id="R000606" joined="2017-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-12">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-12" state="REFERRED">
+      <text>Referred to the House Committee on Rules.</text>
+    </action>
+    <action datetime="2017-07-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5771"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Budget process"/>
+    <term name="Congressional Budget Office (CBO)"/>
+    <term name="Government information and archives"/>
+    <term name="House of Representatives"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

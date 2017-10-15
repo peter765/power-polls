@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Native American Housing Assistance and Self-Determination Reauthorization Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to reauthorize the Native American Housing Assistance and Self-Determination Act of 1996, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Native American Housing Assistance and Self-Determination Reauthorization Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Native American Housing Assistance and Self-Determination Reauthorization Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <title>Native American Housing Assistance and Self-Determination Reauthorization Act of 2017</title>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestTitle>Tribal HUD-VASH Act of 2017</latestTitle>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-09-13</actionDate>
+          <text>Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1333</number>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestTitle>Native American Housing Assistance and Self-Determination Reauthorization Act of 2017</latestTitle>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-09-28</actionDate>
+          <text>Referred to the House Committee on Financial Services.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>3864</number>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Indian Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Other</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-28T20:33:37Z</date>
+            </item>
+          </activities>
+          <systemCode>slia00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>1895</billNumber>
+    <cosponsors>
+      <item>
+        <lastName>Tester</lastName>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <bioguideId>T000464</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jon</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <state>MT</state>
+      </item>
+      <item>
+        <lastName>Franken</lastName>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <bioguideId>F000457</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Al</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1969</lisID>
+          <bioguideId>F000457</bioguideId>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <state>MN</state>
+      </item>
+      <item>
+        <lastName>Schatz</lastName>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <bioguideId>S001194</bioguideId>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Brian</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001194</bioguideId>
+          <lisID>2173</lisID>
+          <gpoId />
+        </identifiers>
+        <state>HI</state>
+      </item>
+      <item>
+        <lastName>Hirono</lastName>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>H001042</bioguideId>
+        <middleName>K.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mazie</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+        </identifiers>
+        <state>HI</state>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>UDALL</lastName>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <bioguideId>U000039</bioguideId>
+        <middleName />
+        <firstName>TOM</firstName>
+        <byRequestType />
+        <state>NM</state>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <notes />
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-09-28</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <createDate>2017-09-29T00:26:26Z</createDate>
+    <updateDate>2017-10-12T04:39:57Z</updateDate>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2017-09-28</actionDate>
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </latestAction>
+    <committeeReports />
+    <congress>115</congress>
+    <introducedDate>2017-09-28</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

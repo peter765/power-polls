@@ -1,0 +1,53 @@
+<bill session="115" type="sr" number="75" updated="2017-07-28T10:56:13Z">
+  <state datetime="2017-03-01">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-01"/>
+  </status>
+  <introduced datetime="2017-03-01"/>
+  <titles>
+    <title type="official" as="introduced">A resolution recognizing the 100th anniversary of the Academy of Nutrition and Dietetics, the largest organization of food and nutrition professionals in the world.</title>
+    <title type="display">A resolution recognizing the 100th anniversary of the Academy of Nutrition and Dietetics, the largest organization of food and nutrition professionals in the world.</title>
+  </titles>
+  <sponsor bioguide_id="P000449"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001236" joined="2017-07-24"/>
+    <cosponsor bioguide_id="B000944" joined="2017-03-01"/>
+    <cosponsor bioguide_id="C000141" joined="2017-04-24"/>
+    <cosponsor bioguide_id="C001070" joined="2017-05-01"/>
+    <cosponsor bioguide_id="C001075" joined="2017-04-24"/>
+    <cosponsor bioguide_id="D000607" joined="2017-07-24"/>
+    <cosponsor bioguide_id="F000062" joined="2017-07-20"/>
+    <cosponsor bioguide_id="G000386" joined="2017-05-04"/>
+    <cosponsor bioguide_id="S001202" joined="2017-05-17"/>
+    <cosponsor bioguide_id="V000128" joined="2017-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-01">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-03-01" state="REFERRED">
+      <text>Referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <reference ref="CR S1542" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="115" relation="unknown" number="161"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Health personnel"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical research"/>
+    <term name="Nutrition and diet"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-03-01T05:00:00Z" status="Introduced in Senate">Commemorates October 20, 2017, as the 100th anniversary of the Academy of Nutrition and Dietetics.
+
+Applauds the academy for its efforts to: (1) promote food and nutrition professionals; and (2) improve health and wellness through research, education, and advocacy.</summary>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="115" type="h" number="3067" updated="2017-09-11T02:53:55Z">
+  <state datetime="2017-06-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-27"/>
+  </status>
+  <introduced datetime="2017-06-27"/>
+  <titles>
+    <title type="short" as="introduced">Online Safety Modernization Act of 2017</title>
+    <title type="short" as="introduced">Online Safety Modernization Act of 2017</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to establish certain criminal violations for various aspects of harassment using the interstate telecommunications system, and for other purposes.</title>
+    <title type="display">Online Safety Modernization Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C001101"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001284" joined="2017-06-27"/>
+    <cosponsor bioguide_id="K000389" joined="2017-09-05"/>
+    <cosponsor bioguide_id="K000382" joined="2017-07-19"/>
+    <cosponsor bioguide_id="M001181" joined="2017-06-27"/>
+    <cosponsor bioguide_id="W000810" joined="2017-07-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-27" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-07-14">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+    <action datetime="2017-07-14">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

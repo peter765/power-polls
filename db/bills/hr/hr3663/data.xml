@@ -1,0 +1,45 @@
+<bill session="115" type="h" number="3663" updated="2017-09-22T15:45:10Z">
+  <state datetime="2017-08-22">REFERRED</state>
+  <status>
+    <introduced datetime="2017-08-22"/>
+  </status>
+  <introduced datetime="2017-08-22"/>
+  <titles>
+    <title type="official" as="introduced">To designate the medical center of the Department of Veterans Affairs in Huntington, West Virginia, as the Hershel "Woody" Williams VA Medical Center.</title>
+    <title type="display">To designate the medical center of the Department of Veterans Affairs in Huntington, West Virginia, as the Hershel "Woody" Williams VA Medical Center.</title>
+  </titles>
+  <sponsor bioguide_id="J000297"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001180" joined="2017-08-22"/>
+    <cosponsor bioguide_id="M001195" joined="2017-08-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-08-22">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-08-22" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-08-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="1165"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Veterans' medical care"/>
+    <term name="West Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-08-22T04:00:00Z" status="Introduced in House">This bill designates the medical center of the Department of Veterans Affairs in Huntington, West Virginia, as the "Hershel `Woody' Williams VA Medical Center."</summary>
+  <committee-reports/>
+</bill>

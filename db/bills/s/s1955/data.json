@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1955-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "P000595", 
+      "district": null, 
+      "name": "Peters, Gary C.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "MI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-05", 
+  "number": "1955", 
+  "official_title": "A bill to award a Congressional Gold Medal to Liu Xiaobo, and collectively to all advocates of democracy and human rights in China, in recognition of their extraordinary advocacy for liberty and human rights despite repression and their impact on world peace and global understanding of China, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "R000595", 
+    "district": null, 
+    "name": "Rubio, Marco", 
+    "state": "FL", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-05", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to award a Congressional Gold Medal to Liu Xiaobo, and collectively to all advocates of democracy and human rights in China, in recognition of their extraordinary advocacy for liberty and human rights despite repression and their impact on world peace and global understanding of China, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to award a Congressional Gold Medal to Liu Xiaobo, and collectively to all advocates of democracy and human rights in China, in recognition of their extraordinary advocacy for liberty and human rights despite repression and their impact on world peace and global understanding of China, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-06T05:06:29Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1955.xml"
+}

@@ -1,0 +1,47 @@
+<bill session="115" type="s" number="1799" updated="2017-10-04T04:49:56Z">
+  <state datetime="2017-09-12">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-12"/>
+  </status>
+  <introduced datetime="2017-09-12"/>
+  <titles>
+    <title type="short" as="introduced">Energy Technology Maturation Act of 2017</title>
+    <title type="short" as="introduced">Energy Technology Maturation Act of 2017</title>
+    <title type="official" as="introduced">A bill to amend the Energy Policy Act of 2005 to facilitate the commercialization of energy and related technologies developed at Department of Energy facilities with promising commercial potential.</title>
+    <title type="display">Energy Technology Maturation Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="H001046"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001267" joined="2017-09-12"/>
+    <cosponsor bioguide_id="D000563" joined="2017-09-12"/>
+    <cosponsor bioguide_id="G000562" joined="2017-09-12"/>
+    <cosponsor bioguide_id="H001075" joined="2017-09-12"/>
+    <cosponsor bioguide_id="M001183" joined="2017-09-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-12">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-09-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2017-09-12">
+      <text>Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held.</text>
+    </action>
+    <action datetime="2017-10-03">
+      <text>Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee subcommittee="Energy" code="SSEG01" name="Senate Energy and Natural Resources" activity="Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="3750"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

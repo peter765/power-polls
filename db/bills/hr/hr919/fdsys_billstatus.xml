@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-02-08T04:45:59Z</createDate>
+    <introducedDate>2017-02-07</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-07T15:07:00Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-10T17:37:55Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif17</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <calendarNumbers />
+    <congress>115</congress>
+    <title>Portable Fuel Container Safety Act of 2017</title>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Portable Fuel Container Safety Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Portable Fuel Container Safety Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require compliant flame mitigation devices to be used on portable fuel containers for flammable liquid fuels, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Portable Fuel Container Safety Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Accidents</name>
+          </item>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Consumer Product Safety Commission</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>Motor fuels</name>
+          </item>
+          <item>
+            <name>Product safety and quality</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <updateDate>2017-10-12T07:15:58Z</updateDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-07</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-03-28T21:28:45Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Portable Fuel Container Safety Act of</b> <b>2017</b></p> <p>This bill requires the Consumer Product Safety Commission (CPSC) to promulgate a final rule for flame mitigation devices in portable flammable liquid fuel containers that impede the propagation of flame into the container, unless the CPSC publishes a determination that a voluntary standard developed by a standard development organization meets the intent of this bill. </p> <p>Either the promulgated standard or the voluntary standard shall be treated as a consumer product safety rule. </p> <p>If a standard development organization subsequently revises a voluntary standard, the organization must notify the CPSC and the revision becomes enforceable unless, within 90 days after receiving notice, the CPSC determines that the revised standard does not meet this bill's requirements. </p> <p>The CPSC must undertake a campaign to educate consumers about dangers associated with portable fuel containers near an open flame or other source of ignition. </p> <p>The bill amends the Children's Gasoline Burn Prevention Act to extend child-resistance requirements for closures on portable gasoline containers to receptacles for gasoline, kerosene, or diesel fuel (including any spout, retrofit spout, cap, and other closure mechanism and component) produced or distributed for sale to, or use by, consumers for transport of, or for refueling of internal combustion engines with, gasoline, kerosene, or diesel fuel. </p>]]></text>
+          <updateDate>2017-02-07T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <billNumber>919</billNumber>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2154</lisID>
+          <gpoId />
+          <bioguideId>J000295</bioguideId>
+        </identifiers>
+        <bioguideId>J000295</bioguideId>
+        <party>R</party>
+        <district>14</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <firstName>David</firstName>
+        <lastName>Joyce</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <state>OH</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1861</lisID>
+          <bioguideId>S001170</bioguideId>
+          <gpoId>7528</gpoId>
+        </identifiers>
+        <bioguideId>S001170</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-02-24</sponsorshipDate>
+        <firstName>Carol</firstName>
+        <lastName>Shea-Porter</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <state>NH</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1668</lisID>
+          <bioguideId>L000559</bioguideId>
+          <gpoId>8140</gpoId>
+        </identifiers>
+        <bioguideId>L000559</bioguideId>
+        <party>D</party>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2017-02-24</sponsorshipDate>
+        <firstName>JAMES</firstName>
+        <lastName>LANGEVIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <state>RI</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1973</lisID>
+          <bioguideId>G000559</bioguideId>
+          <gpoId>7815</gpoId>
+        </identifiers>
+        <bioguideId>G000559</bioguideId>
+        <party>D</party>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <firstName>John</firstName>
+        <lastName>Garamendi</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <bioguideId>M000312</bioguideId>
+        <party>D</party>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <state>MA</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2226</lisID>
+          <bioguideId>G000574</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>G000574</bioguideId>
+        <party>D</party>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <firstName>Ruben</firstName>
+        <lastName>Gallego</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <state>AZ</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1846</lisID>
+          <bioguideId>L000565</bioguideId>
+          <gpoId>7915</gpoId>
+        </identifiers>
+        <bioguideId>L000565</bioguideId>
+        <party>D</party>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <firstName>David</firstName>
+        <lastName>Loebsack</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <state>IA</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2318</lisID>
+          <bioguideId>M001202</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>M001202</bioguideId>
+        <party>D</party>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>N.</middleName>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <firstName>Stephanie</firstName>
+        <lastName>Murphy</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <state>FL</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001193</bioguideId>
+          <lisID>2104</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001193</bioguideId>
+        <party>D</party>
+        <district>15</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <firstName>Eric</firstName>
+        <lastName>Swalwell</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>E000215</bioguideId>
+          <lisID>355</lisID>
+          <gpoId>7819</gpoId>
+        </identifiers>
+        <bioguideId>E000215</bioguideId>
+        <party>D</party>
+        <district>18</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>G.</middleName>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <firstName>ANNA</firstName>
+        <lastName>ESHOO</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>930</lisID>
+          <bioguideId>P000523</bioguideId>
+          <gpoId>8027</gpoId>
+        </identifiers>
+        <bioguideId>P000523</bioguideId>
+        <party>D</party>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <firstName>DAVID</firstName>
+        <lastName>PRICE</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Price, David E. [D-NC-4]</fullName>
+        <state>NC</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>281</lisID>
+          <bioguideId>D000216</bioguideId>
+          <gpoId>7868</gpoId>
+        </identifiers>
+        <bioguideId>D000216</bioguideId>
+        <party>D</party>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <firstName>ROSA</firstName>
+        <lastName>DELAURO</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <state>CT</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1479</lisID>
+          <gpoId>7859</gpoId>
+          <bioguideId>D000197</bioguideId>
+        </identifiers>
+        <bioguideId>D000197</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-03-20</sponsorshipDate>
+        <firstName>DIANA</firstName>
+        <lastName>DEGETTE</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. DeGette, Diana [D-CO-1]</fullName>
+        <state>CO</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2341</lisID>
+          <bioguideId>S001201</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001201</bioguideId>
+        <party>D</party>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2017-03-20</sponsorshipDate>
+        <firstName>Thomas</firstName>
+        <lastName>Suozzi</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <state>NY</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2201</lisID>
+          <bioguideId>A000370</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>A000370</bioguideId>
+        <party>D</party>
+        <district>12</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2017-03-20</sponsorshipDate>
+        <firstName>Alma</firstName>
+        <lastName>Adams</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+        <state>NC</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+        </identifiers>
+        <bioguideId>C001078</bioguideId>
+        <party>D</party>
+        <district>11</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <firstName>Gerald</firstName>
+        <lastName>Connolly</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <state>VA</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1728</lisID>
+          <bioguideId>R000576</bioguideId>
+          <gpoId>7977</gpoId>
+        </identifiers>
+        <bioguideId>R000576</bioguideId>
+        <party>D</party>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>Dutch</middleName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <firstName>C. A.</firstName>
+        <lastName>Ruppersberger</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <state>MD</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1761</lisID>
+          <bioguideId>B001251</bioguideId>
+          <gpoId>8024</gpoId>
+        </identifiers>
+        <bioguideId>B001251</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <firstName>G. K.</firstName>
+        <lastName>Butterfield</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Butterfield, G. K. [D-NC-1]</fullName>
+        <state>NC</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2317</lisID>
+          <gpoId />
+          <bioguideId>L000586</bioguideId>
+        </identifiers>
+        <bioguideId>L000586</bioguideId>
+        <party>D</party>
+        <district>5</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-03-22</sponsorshipDate>
+        <firstName>Al</firstName>
+        <lastName>Lawson</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <state>FL</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+          <gpoId>8075</gpoId>
+        </identifiers>
+        <bioguideId>M000087</bioguideId>
+        <party>D</party>
+        <district>12</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2017-03-22</sponsorshipDate>
+        <firstName>CAROLYN</firstName>
+        <lastName>MALONEY</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <state>NY</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>854</lisID>
+          <bioguideId>N000015</bioguideId>
+          <gpoId>7967</gpoId>
+        </identifiers>
+        <bioguideId>N000015</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <firstName>RICHARD</firstName>
+        <lastName>NEAL</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+        <state>MA</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1781</lisID>
+          <bioguideId>L000563</bioguideId>
+          <gpoId>7923</gpoId>
+        </identifiers>
+        <bioguideId>L000563</bioguideId>
+        <party>D</party>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>William</middleName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <firstName>Daniel</firstName>
+        <lastName>Lipinski</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <state>IL</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2346</lisID>
+          <bioguideId>S001199</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001199</bioguideId>
+        <party>R</party>
+        <district>16</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <firstName>Lloyd</firstName>
+        <lastName>Smucker</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Smucker, Lloyd [R-PA-16]</fullName>
+        <state>PA</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <bioguideId>F000466</bioguideId>
+        <party>R</party>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <firstName>Brian</firstName>
+        <lastName>Fitzpatrick</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <state>PA</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+          <bioguideId>P000597</bioguideId>
+        </identifiers>
+        <bioguideId>P000597</bioguideId>
+        <party>D</party>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <firstName>Chellie</firstName>
+        <lastName>Pingree</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <state>ME</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1686</lisID>
+          <gpoId>7974</gpoId>
+          <bioguideId>L000562</bioguideId>
+        </identifiers>
+        <bioguideId>L000562</bioguideId>
+        <party>D</party>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <firstName>Stephen</firstName>
+        <lastName>Lynch</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <state>MA</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1890</lisID>
+          <bioguideId>S001175</bioguideId>
+          <gpoId>7817</gpoId>
+        </identifiers>
+        <bioguideId>S001175</bioguideId>
+        <party>D</party>
+        <district>14</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <firstName>Jackie</firstName>
+        <lastName>Speier</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2235</lisID>
+          <bioguideId>C001107</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001107</bioguideId>
+        <party>R</party>
+        <district>26</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <firstName>Carlos</firstName>
+        <lastName>Curbelo</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <state>FL</state>
+      </item>
+    </cosponsors>
+    <laws />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>T000460</bioguideId>
+        <firstName>MIKE</firstName>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1593</lisID>
+          <bioguideId>T000460</bioguideId>
+          <gpoId>7806</gpoId>
+        </identifiers>
+        <district>5</district>
+        <byRequestType />
+        <lastName>THOMPSON</lastName>
+        <middleName />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+      <links />
+      <actionDate>2017-02-10</actionDate>
+    </latestAction>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-10</actionDate>
+        <committee>
+          <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+          <systemCode>hsif17</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2017-02-07</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-02-07</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-02-07</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. THOMPSON of California:H.R. 919.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H1084]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

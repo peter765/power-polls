@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-10-11", 
+      "action_code": "B00100", 
+      "references": [
+        {
+          "reference": "CR H7959", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3979-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000577", 
+      "district": "6", 
+      "name": "Graves, Garret", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000551", 
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000188", 
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-10-12", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000554", 
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001177", 
+      "district": null, 
+      "name": "Sablan, Gregorio Kilili Camacho", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "MP", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000460", 
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000804", 
+      "district": "1", 
+      "name": "Wittman, Robert J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-05", 
+  "number": "3979", 
+  "official_title": "To amend the Fish and Wildlife Act of 1956 to reauthorize the volunteer services, community partnership, and refuge education programs of the National Wildlife Refuge System, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Keep America's Refuges Operational Act", 
+  "sponsor": {
+    "bioguide_id": "J000294", 
+    "district": "8", 
+    "name": "Jeffries, Hakeem S.", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-05", 
+  "subjects": [
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Keep America's Refuges Operational Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Keep America\u2019s Refuges Operational Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Fish and Wildlife Act of 1956 to reauthorize the volunteer services, community partnership, and refuge education programs of the National Wildlife Refuge System, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Keep America's Refuges Operational Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-13T07:17:31Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3979.xml"
+}

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Protecting Consumers' Access to Credit Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Revised Statutes, the Home Owners' Loan Act, the Federal Credit Union Act, and the Federal Deposit Insurance Act to require the rate of interest on certain loans remain unchanged after transfer of the loan, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Protecting Consumers' Access to Credit Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Protecting Consumers’ Access to Credit Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <title>Protecting Consumers' Access to Credit Act of 2017</title>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>1642</number>
+        <latestTitle>Protecting Consumers' Access to Credit Act of 2017</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2017-07-27</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-10-11T15:41:37Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-19T14:01:15Z</date>
+            </item>
+          </activities>
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>3299</billNumber>
+    <cosponsors>
+      <item>
+        <bioguideId>M001137</bioguideId>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <firstName>GREGORY</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>W.</middleName>
+        <state>NY</state>
+        <district>5</district>
+        <identifiers>
+          <bioguideId>M001137</bioguideId>
+          <gpoId>8067</gpoId>
+          <lisID>1506</lisID>
+        </identifiers>
+        <lastName>MEEKS</lastName>
+      </item>
+    </cosponsors>
+    <updateDate>2017-10-13T07:23:41Z</updateDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>McHenry</lastName>
+        <fullName>Rep. McHenry, Patrick T. [R-NC-10]</fullName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M001156</bioguideId>
+          <gpoId>8033</gpoId>
+          <lisID>1792</lisID>
+        </identifiers>
+        <bioguideId>M001156</bioguideId>
+        <district>10</district>
+        <middleName />
+        <firstName>Patrick</firstName>
+        <byRequestType />
+        <state>NC</state>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. McHENRY:H.R. 3299.Congress has the power to enact this legislation pursuantto the following:The Congress shall have Power To lay and collect Taxes,Duties, Imposts and Excises, to pay the Debts and provide forthe common Defence . . . of the United States; but allDuties, Imposts, and Excises shall be uniform throughout theUnited States.[Page H6042]</pre>]]></constitutionalAuthorityStatementText>
+    <notes />
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <actionStageOverride>1</actionStageOverride>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionDate>2017-07-19</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-07-19</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-07-19</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <createDate>2017-07-20T03:11:32Z</createDate>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2017-10-11</actionDate>
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </latestAction>
+    <committeeReports />
+    <congress>115</congress>
+    <introducedDate>2017-07-19</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

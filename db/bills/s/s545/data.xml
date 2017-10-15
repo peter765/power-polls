@@ -1,0 +1,59 @@
+<bill session="115" type="s" number="545" updated="2017-07-11T05:15:03Z">
+  <state datetime="2017-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-07"/>
+  </status>
+  <introduced datetime="2017-03-07"/>
+  <titles>
+    <title type="short" as="introduced">National Right-to-Work Act</title>
+    <title type="short" as="introduced">National Right-to-Work Act</title>
+    <title type="official" as="introduced">A bill to preserve and protect the free choice of individual employees to form, join, or assist labor organizations, or to refrain from such activities.</title>
+    <title type="display">National Right-to-Work Act</title>
+  </titles>
+  <sponsor bioguide_id="P000603"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001261" joined="2017-03-07"/>
+    <cosponsor bioguide_id="B001236" joined="2017-04-06"/>
+    <cosponsor bioguide_id="C000567" joined="2017-03-07"/>
+    <cosponsor bioguide_id="C001056" joined="2017-03-07"/>
+    <cosponsor bioguide_id="C001095" joined="2017-03-07"/>
+    <cosponsor bioguide_id="C001098" joined="2017-03-07"/>
+    <cosponsor bioguide_id="E000285" joined="2017-03-07"/>
+    <cosponsor bioguide_id="E000295" joined="2017-03-07"/>
+    <cosponsor bioguide_id="G000359" joined="2017-03-07"/>
+    <cosponsor bioguide_id="H000338" joined="2017-03-07"/>
+    <cosponsor bioguide_id="H001041" joined="2017-03-07"/>
+    <cosponsor bioguide_id="I000024" joined="2017-03-07"/>
+    <cosponsor bioguide_id="L000575" joined="2017-03-07"/>
+    <cosponsor bioguide_id="L000577" joined="2017-03-07"/>
+    <cosponsor bioguide_id="M000934" joined="2017-03-07"/>
+    <cosponsor bioguide_id="P000612" joined="2017-03-07"/>
+    <cosponsor bioguide_id="R000307" joined="2017-03-07"/>
+    <cosponsor bioguide_id="R000605" joined="2017-03-07"/>
+    <cosponsor bioguide_id="R000595" joined="2017-03-07"/>
+    <cosponsor bioguide_id="S001184" joined="2017-03-07"/>
+    <cosponsor bioguide_id="S001202" joined="2017-07-10"/>
+    <cosponsor bioguide_id="T000476" joined="2017-03-07"/>
+    <cosponsor bioguide_id="W000437" joined="2017-03-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-07">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-03-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="785"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Labor-management relations"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

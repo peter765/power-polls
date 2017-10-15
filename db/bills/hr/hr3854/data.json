@@ -1,0 +1,135 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-27", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-27", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3854-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001107", 
+      "district": "26", 
+      "name": "Curbelo, Carlos", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-27", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001068", 
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-27", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000606", 
+      "district": "8", 
+      "name": "Raskin, Jamie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-27", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000185", 
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-27", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-27", 
+  "number": "3854", 
+  "official_title": "To provide that the Executive order entitled \"Establishing a Federal Flood Risk Management Standard and a Process for Further Soliciting and Considering Stakeholder Input\" shall have the force and effect of law.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Federal Infrastructure Flood Resiliency Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "P000613", 
+    "district": "20", 
+    "name": "Panetta, Jimmy", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-27", 
+  "subjects": [
+    "Finance and financial sector"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Infrastructure Flood Resiliency Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Infrastructure Flood Resiliency Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide that the Executive order entitled \"Establishing a Federal Flood Risk Management Standard and a Process for Further Soliciting and Considering Stakeholder Input\" shall have the force and effect of law.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Federal Infrastructure Flood Resiliency Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-02T20:30:12Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3854.xml"
+}

@@ -1,0 +1,39 @@
+<bill session="115" type="h" number="3855" updated="2017-10-13T07:17:22Z">
+  <state datetime="2017-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-27"/>
+  </status>
+  <introduced datetime="2017-09-27"/>
+  <titles>
+    <title type="short" as="introduced">Securing the Electric Grid to Protect Military Readiness Act of 2017</title>
+    <title type="short" as="introduced">Securing the Electric Grid to Protect Military Readiness Act of 2017</title>
+    <title type="official" as="introduced">To require a report on significant security risks of the national electric grid and the potential effect of such security risks on the readiness of the Armed Forces.</title>
+    <title type="display">Securing the Electric Grid to Protect Military Readiness Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="R000608"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001077" joined="2017-10-12"/>
+    <cosponsor bioguide_id="F000466" joined="2017-09-27"/>
+    <cosponsor bioguide_id="L000563" joined="2017-09-27"/>
+    <cosponsor bioguide_id="S001196" joined="2017-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-27" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="1800"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

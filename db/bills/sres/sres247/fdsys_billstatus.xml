@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-08-04T00:42:11Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Designates July 29, 2017, as Paralympic and Adaptive Sport Day.</p> <p>Supports the inclusive goals, ideals, and values of the International Paralympic Movement.</p> <p>Acknowledges the contributions and sacrifices of members of the Armed Forces who sustained a traumatic injury and impairment while serving the United States.</p> <p>Promotes a more inclusive society for all individuals with impairments through paralympic and adaptive sports.]]></text>
+          <actionDate>2017-08-03</actionDate>
+          <updateDate>2017-08-03T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-09-26T19:37:28Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Designates July 29, 2017, as Paralympic and Adaptive Sport Day.</p> <p>Supports the inclusive goals, ideals, and values of the International Paralympic Movement.</p> <p>Acknowledges the contributions and sacrifices of members of the Armed Forces who sustained a traumatic injury and impairment while serving the United States.</p> <p>Promotes a more inclusive society for all individuals with impairments through paralympic and adaptive sports.</p>]]></text>
+          <actionDate>2017-08-03</actionDate>
+          <updateDate>2017-08-03T15:31:19Z</updateDate>
+          <versionCode>82</versionCode>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-09-26T19:47:07Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <item>
+        <actionDate>2017-08-03</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S4882</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4882</url>
+          </link>
+          <link>
+            <name>S4894</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4894</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4882, S4894; text: CR S4882)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S4882, S4894; text: CR S4882)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-08-03</actionDate>
+        <actionCode>17000</actionCode>
+        <committee />
+        <links>
+          <link>
+            <name>S4882</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4882</url>
+          </link>
+          <link>
+            <name>S4894</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4894</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-08-03</actionDate>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <title>A resolution designating July 29, 2017, as "Paralympic and Adaptive Sport Day".</title>
+    <cboCostEstimates />
+    <notes />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <billType>SRES</billType>
+    <cosponsors>
+      <item>
+        <firstName>Michael</firstName>
+        <identifiers>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-08-03</sponsorshipDate>
+        <state>CO</state>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <bioguideId>B001267</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Bennet</lastName>
+      </item>
+      <item>
+        <firstName>Johnny</firstName>
+        <identifiers>
+          <gpoId>8323</gpoId>
+          <lisID>1608</lisID>
+          <bioguideId>I000055</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-08-03</sponsorshipDate>
+        <state>GA</state>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <bioguideId>I000055</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Isakson</lastName>
+      </item>
+      <item>
+        <firstName>Amy</firstName>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-08-03</sponsorshipDate>
+        <state>MN</state>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <bioguideId>K000367</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Klobuchar</lastName>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution designating July 29, 2017, as "Paralympic and Adaptive Sport Day".</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution designating July 29, 2017, as "Paralympic and Adaptive Sport Day".</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2017-09-29T04:32:16Z</updateDate>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <type>HRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Expressing support for the designation of July 29, 2017, as "Paralympic and Adaptive Sport Day".</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+          <actionDate>2017-07-26</actionDate>
+        </latestAction>
+        <number>436</number>
+      </item>
+    </relatedBills>
+    <latestAction>
+      <links />
+      <actionDate>2017-08-03</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4882, S4894; text: CR S4882)</text>
+    </latestAction>
+    <introducedDate>2017-08-03</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>H000338</bioguideId>
+        <middleName>GRANT</middleName>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <identifiers>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+        <lastName>HATCH</lastName>
+        <party>R</party>
+        <byRequestType />
+        <state>UT</state>
+        <firstName>ORRIN</firstName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Sports and Recreation</name>
+    </policyArea>
+    <laws />
+    <committees>
+      <billCommittees />
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Sports and Recreation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Athletes</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Olympic games</name>
+          </item>
+          <item>
+            <name>Veterans' organizations and recognition</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <calendarNumbers />
+    <billNumber>247</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

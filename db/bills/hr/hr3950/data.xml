@@ -1,0 +1,43 @@
+<bill session="115" type="h" number="3950" updated="2017-10-11T15:00:16Z">
+  <state datetime="2017-10-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-04"/>
+  </status>
+  <introduced datetime="2017-10-04"/>
+  <titles>
+    <title type="short" as="introduced">Judicial Review Improvement Act of 2017</title>
+    <title type="short" as="introduced">Judicial Review Improvement Act of 2017</title>
+    <title type="official" as="introduced">To specify the scope of judicial review of certain agency actions, and for other purposes.</title>
+    <title type="display">Judicial Review Improvement Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="L000584"/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000566" joined="2017-10-04"/>
+    <cosponsor bioguide_id="H001072" joined="2017-10-04"/>
+    <cosponsor bioguide_id="L000573" joined="2017-10-04"/>
+    <cosponsor bioguide_id="L000569" joined="2017-10-04"/>
+    <cosponsor bioguide_id="M001201" joined="2017-10-04"/>
+    <cosponsor bioguide_id="R000601" joined="2017-10-04"/>
+    <cosponsor bioguide_id="T000478" joined="2017-10-04"/>
+    <cosponsor bioguide_id="W000819" joined="2017-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-04">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-04" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="10"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

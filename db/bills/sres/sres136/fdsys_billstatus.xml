@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Armenia</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Turkey</name>
+          </item>
+          <item>
+            <name>War crimes, genocide, crimes against humanity</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution expressing the sense of the Senate regarding the 102nd anniversary of the Armenian Genocide.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A resolution expressing the sense of the Senate regarding the 102nd anniversary of the Armenian Genocide.</title>
+      </item>
+    </titles>
+    <laws />
+    <introducedDate>2017-04-24</introducedDate>
+    <cboCostEstimates />
+    <title>A resolution expressing the sense of the Senate regarding the 102nd anniversary of the Armenian Genocide.</title>
+    <recordedVotes />
+    <billType>SRES</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-04-24</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Expresses the sense of the Senate: (1) in remembrance of the 102nd anniversary of the Armenian Genocide on April 24, 2017; (2) that the President should work toward an Armenian-Turkish relationship that includes Turkey's full acknowledgment of the facts about the Armenian Genocide; and (3) that the President should ensure that U.S. foreign policy reflects appropriate understanding and sensitivity concerning issues related to human rights, crimes against humanity, ethnic cleansing, and genocide documented in the U.S. record relating to the Armenian Genocide.</p>]]></text>
+          <updateDate>2017-04-24T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-05-02T19:01:07Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-04-24</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2495-2496</url>
+            <name>S2495-2496</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2495-2496)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-24</actionDate>
+        <committee />
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <billNumber>136</billNumber>
+    <createDate>2017-04-25T00:26:47Z</createDate>
+    <cosponsors>
+      <item>
+        <firstName>Ted</firstName>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cruz</lastName>
+        <bioguideId>C001098</bioguideId>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <party>R</party>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>EDWARD</firstName>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MARKEY</lastName>
+        <bioguideId>M000133</bioguideId>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <middleName>J.</middleName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <party>D</party>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>TOM</firstName>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>UDALL</lastName>
+        <bioguideId>U000039</bioguideId>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <party>D</party>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Marco</firstName>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Rubio</lastName>
+        <bioguideId>R000595</bioguideId>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <party>R</party>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Cory</firstName>
+        <identifiers>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Gardner</lastName>
+        <bioguideId>G000562</bioguideId>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <party>R</party>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>RON</firstName>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>WYDEN</lastName>
+        <bioguideId>W000779</bioguideId>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <party>D</party>
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>DEBORAH</firstName>
+        <identifiers>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>STABENOW</lastName>
+        <bioguideId>S000770</bioguideId>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <middleName>ANN</middleName>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <party>D</party>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Elizabeth</firstName>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Warren</lastName>
+        <bioguideId>W000817</bioguideId>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <middleName>A.</middleName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <party>D</party>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>DIANNE</firstName>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>FEINSTEIN</lastName>
+        <bioguideId>F000062</bioguideId>
+        <sponsorshipDate>2017-05-08</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Sheldon</firstName>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Whitehouse</lastName>
+        <bioguideId>W000802</bioguideId>
+        <sponsorshipDate>2017-05-15</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <party>D</party>
+        <state>RI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Gary</firstName>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Peters</lastName>
+        <bioguideId>P000595</bioguideId>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <middleName>C.</middleName>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <party>D</party>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>REED</lastName>
+        <bioguideId>R000122</bioguideId>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <middleName>F.</middleName>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <party>D</party>
+        <state>RI</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Chris</firstName>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Van Hollen</lastName>
+        <bioguideId>V000128</bioguideId>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <middleName />
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <party>D</party>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>CHARLES</firstName>
+        <identifiers>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+          <lisID>1036</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SCHUMER</lastName>
+        <bioguideId>S000148</bioguideId>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <middleName>E.</middleName>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <party>D</party>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <state>NJ</state>
+        <party>D</party>
+        <middleName />
+        <bioguideId>M000639</bioguideId>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <firstName>ROBERT</firstName>
+        <byRequestType />
+        <lastName>MENENDEZ</lastName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-24T20:31:30Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-10-04T04:47:34Z</updateDate>
+    <congress>115</congress>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <latestAction>
+      <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2495-2496)</text>
+      <actionDate>2017-04-24</actionDate>
+      <links />
+    </latestAction>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

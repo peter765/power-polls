@@ -1,0 +1,60 @@
+<bill session="115" type="h" number="1910" updated="2017-09-05T15:15:20Z">
+  <state datetime="2017-04-05">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-05"/>
+  </status>
+  <introduced datetime="2017-04-05"/>
+  <titles>
+    <title type="short" as="introduced">Support Our Military Caregivers Act</title>
+    <title type="short" as="introduced">Support Our Military Caregivers Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to improve the process for determining the eligibility of caregivers of veterans to certain benefits administered by the Secretary of Veterans Affairs, and for other purposes.</title>
+    <title type="display">Support Our Military Caregivers Act</title>
+  </titles>
+  <sponsor bioguide_id="S001196"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001051" joined="2017-04-05"/>
+    <cosponsor bioguide_id="C001053" joined="2017-04-26"/>
+    <cosponsor bioguide_id="C001094" joined="2017-04-05"/>
+    <cosponsor bioguide_id="C001096" joined="2017-04-05"/>
+    <cosponsor bioguide_id="F000464" joined="2017-04-05"/>
+    <cosponsor bioguide_id="J000255" joined="2017-04-05"/>
+    <cosponsor bioguide_id="M001156" joined="2017-07-26"/>
+    <cosponsor bioguide_id="O000168" joined="2017-04-05"/>
+    <cosponsor bioguide_id="R000601" joined="2017-06-06"/>
+    <cosponsor bioguide_id="R000586" joined="2017-04-05"/>
+    <cosponsor bioguide_id="R000487" joined="2017-04-05"/>
+    <cosponsor bioguide_id="T000478" joined="2017-04-26"/>
+    <cosponsor bioguide_id="W000806" joined="2017-04-05"/>
+    <cosponsor bioguide_id="Y000066" joined="2017-04-05"/>
+    <cosponsor bioguide_id="Z000017" joined="2017-04-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-05">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-05" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-04-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Disability and paralysis"/>
+    <term name="Family services"/>
+    <term name="Mental health"/>
+    <term name="Neurological disorders"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

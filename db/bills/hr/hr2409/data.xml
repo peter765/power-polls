@@ -1,0 +1,46 @@
+<bill session="115" type="h" number="2409" updated="2017-10-06T15:00:18Z">
+  <state datetime="2017-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-11"/>
+  </status>
+  <introduced datetime="2017-05-11"/>
+  <titles>
+    <title type="official" as="introduced">To allow servicemembers to terminate their cable, satellite television, and Internet access service contracts while deployed.</title>
+    <title type="display">To allow servicemembers to terminate their cable, satellite television, and Internet access service contracts while deployed.</title>
+  </titles>
+  <sponsor bioguide_id="C001106"/>
+  <cosponsors>
+    <cosponsor bioguide_id="K000381" joined="2017-05-11"/>
+    <cosponsor bioguide_id="M000312" joined="2017-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-11">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-11" state="REFERRED">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2017-05-11">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="624"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Contracts and agency"/>
+    <term name="Internet and video services"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Television and film"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-05-11T04:00:00Z" status="Introduced in House">This bill amends the Servicemembers Civil Relief Act to allow a service member to terminate a commercial mobile, telephone exchange, Internet access, or multichannel video programming service contract at any time after the date the service member receives military orders to relocate for at least 90 days to a location that does not support such service contract. (Currently, such provision applies to a cellular telephone service or telephone exchange service contract.)
+
+A service member shall return any provider-owned consumer premises equipment to the service provider not later than 10 days after the service is disconnected.</summary>
+  <committee-reports/>
+</bill>

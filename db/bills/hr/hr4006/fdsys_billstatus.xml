@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <updateDate>2017-10-12T07:18:02Z</updateDate>
+    <notes />
+    <relatedBills />
+    <latestAction>
+      <actionDate>2017-10-11</actionDate>
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-11T14:00:39Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+        </item>
+        <item>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-11T14:00:34Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-10-11</introducedDate>
+    <committeeReports />
+    <congress>115</congress>
+    <title>To establish a Community-Based Institutional Special Needs Plan demonstration program to target home and community-based care to eligible Medicare beneficiaries, and for other purposes.</title>
+    <recordedVotes />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <district>7</district>
+        <identifiers>
+          <bioguideId>M001181</bioguideId>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <bioguideId>M001181</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Patrick</firstName>
+        <state>PA</state>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Meehan</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>5</district>
+        <identifiers>
+          <lisID>1950</lisID>
+          <bioguideId>S001180</bioguideId>
+          <gpoId>8118</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <bioguideId>S001180</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kurt</firstName>
+        <state>OR</state>
+        <fullName>Rep. Schrader, Kurt [D-OR-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Schrader</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <district>7</district>
+        <identifiers>
+          <lisID>1936</lisID>
+          <bioguideId>L000567</bioguideId>
+          <gpoId>8049</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <bioguideId>L000567</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Leonard</firstName>
+        <state>NJ</state>
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Lance</lastName>
+      </item>
+    </cosponsors>
+    <billNumber>4006</billNumber>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <policyArea />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To establish a Community-Based Institutional Special Needs Plan demonstration program to target home and community-based care to eligible Medicare beneficiaries, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>To establish a Community-Based Institutional Special Needs Plan demonstration program to target home and community-based care to eligible Medicare beneficiaries, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2017-10-12T03:11:23Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <firstName>LINDA</firstName>
+        <middleName>T.</middleName>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <byRequestType />
+        <bioguideId>S001156</bioguideId>
+        <district>38</district>
+        <lastName>SANCHEZ</lastName>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S001156</bioguideId>
+          <lisID>1757</lisID>
+          <gpoId>7844</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

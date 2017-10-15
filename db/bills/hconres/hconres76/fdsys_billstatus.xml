@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-09-19T21:45:20Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionDate>2017-07-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-07-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-07-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <relatedBills />
+    <billNumber>76</billNumber>
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Expressing the sense of the Congress that the current Federal income tax deduction for interest paid on debt secured by a first or second home and for property taxes should not be further restricted.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Expressing the sense of the Congress that the current Federal income tax deduction for interest paid on debt secured by a first or second home and for property taxes should not be further restricted.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <title>Expressing the sense of the Congress that the current Federal income tax deduction for interest paid on debt secured by a first or second home and for property taxes should not be further restricted.</title>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-07-28T13:15:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <recordedVotes />
+    <createDate>2017-07-29T03:11:32Z</createDate>
+    <billType>HCONRES</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-07-28T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-08-07T15:07:05Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Expresses the sense of Congress that the federal income tax deductions for interest paid on debt secured by a first or second home and for property taxes should not be further restricted.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-07-28</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <firstName>BRAD</firstName>
+        <state>CA</state>
+        <bioguideId>S000344</bioguideId>
+        <identifiers>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+          <bioguideId>S000344</bioguideId>
+        </identifiers>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <district>30</district>
+        <byRequestType />
+        <lastName>SHERMAN</lastName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+          <item>
+            <name>Property tax</name>
+          </item>
+          <item>
+            <name>State and local taxation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-07-28</actionDate>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <notes />
+    <calendarNumbers />
+    <introducedDate>2017-07-28</introducedDate>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <state>NY</state>
+        <bioguideId>M001137</bioguideId>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <middleName>W.</middleName>
+        <lastName>MEEKS</lastName>
+        <firstName>GREGORY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <district>5</district>
+        <identifiers>
+          <gpoId>8067</gpoId>
+          <lisID>1506</lisID>
+          <bioguideId>M001137</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>B001300</bioguideId>
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+        <middleName>Diaz</middleName>
+        <lastName>Barragan</lastName>
+        <firstName>Nanette</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <district>44</district>
+        <identifiers>
+          <bioguideId>B001300</bioguideId>
+          <gpoId />
+          <lisID>2311</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <state>NV</state>
+        <bioguideId>T000468</bioguideId>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <middleName />
+        <lastName>Titus</lastName>
+        <firstName>Dina</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <district>1</district>
+        <identifiers>
+          <gpoId>7493</gpoId>
+          <bioguideId>T000468</bioguideId>
+          <lisID>1940</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>S001193</bioguideId>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <middleName />
+        <lastName>Swalwell</lastName>
+        <firstName>Eric</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <district>15</district>
+        <identifiers>
+          <lisID>2104</lisID>
+          <bioguideId>S001193</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <state>NH</state>
+        <bioguideId>S001170</bioguideId>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <middleName />
+        <lastName>Shea-Porter</lastName>
+        <firstName>Carol</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <district>1</district>
+        <identifiers>
+          <gpoId>7528</gpoId>
+          <lisID>1861</lisID>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <state>NY</state>
+        <bioguideId>K000210</bioguideId>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <middleName>T.</middleName>
+        <lastName>KING</lastName>
+        <firstName>PETER</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <district>2</district>
+        <identifiers>
+          <gpoId>8064</gpoId>
+          <lisID>635</lisID>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <state>CA</state>
+        <bioguideId>C001094</bioguideId>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <middleName />
+        <lastName>Cook</lastName>
+        <firstName>Paul</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <district>8</district>
+        <identifiers>
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <state>TX</state>
+        <bioguideId>J000032</bioguideId>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <middleName />
+        <lastName>JACKSON LEE</lastName>
+        <firstName>SHEILA</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <district>18</district>
+        <identifiers>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <state>NY</state>
+        <bioguideId>D000625</bioguideId>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <middleName>M.</middleName>
+        <lastName>Donovan</lastName>
+        <firstName>Daniel</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <district>11</district>
+        <identifiers>
+          <lisID>2293</lisID>
+          <bioguideId>D000625</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,39 @@
+<bill session="115" type="s" number="1048" updated="2017-09-11T03:06:29Z">
+  <state datetime="2017-05-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-04"/>
+  </status>
+  <introduced datetime="2017-05-04"/>
+  <titles>
+    <title type="short" as="introduced">Enhanced Clinical Trial Design Act of 2017</title>
+    <title type="short" as="introduced">Enhanced Clinical Trial Design Act of 2017</title>
+    <title type="official" as="introduced">A bill to expand patient access to experimental treatments in clinical trials, and for other purposes.</title>
+    <title type="display">Enhanced Clinical Trial Design Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="H000338"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001267" joined="2017-05-04"/>
+    <cosponsor bioguide_id="B001135" joined="2017-05-04"/>
+    <cosponsor bioguide_id="C001070" joined="2017-05-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-04">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="934"/>
+    <bill type="h" session="115" relation="unknown" number="2430"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

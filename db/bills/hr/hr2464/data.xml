@@ -1,0 +1,75 @@
+<bill session="115" type="h" number="2464" updated="2017-10-11T11:42:11Z">
+  <state datetime="2017-10-10T19:02:21-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-10-10T19:02:21-04:00"/>
+  </status>
+  <introduced datetime="2017-05-16"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 25 New Chardon Street Lobby in Boston, Massachusetts, as the "John Fitzgerald Kennedy Post Office".</title>
+    <title type="display">To designate the facility of the United States Postal Service located at 25 New Chardon Street Lobby in Boston, Massachusetts, as the "John Fitzgerald Kennedy Post Office".</title>
+  </titles>
+  <sponsor bioguide_id="L000562"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001037" joined="2017-05-16"/>
+    <cosponsor bioguide_id="C001101" joined="2017-05-16"/>
+    <cosponsor bioguide_id="K000375" joined="2017-05-16"/>
+    <cosponsor bioguide_id="K000379" joined="2017-05-16"/>
+    <cosponsor bioguide_id="M000312" joined="2017-05-16"/>
+    <cosponsor bioguide_id="M001196" joined="2017-05-16"/>
+    <cosponsor bioguide_id="N000015" joined="2017-05-16"/>
+    <cosponsor bioguide_id="T000465" joined="2017-05-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-16">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-16" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2017-09-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-09-13" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2017-10-10T17:22:13-04:00">
+      <text>Mr. Gianforte moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2017-10-10T17:22:24-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7899" label="consideration"/>
+    </action>
+    <action datetime="2017-10-10T17:22:25-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2464.</text>
+    </action>
+    <action datetime="2017-10-10T17:28:18-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2017-10-10T18:54:15-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7902-7903" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="559" datetime="2017-10-10T19:02:21-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 559).</text>
+      <reference ref="CR H7899" label="text"/>
+    </vote>
+    <action datetime="2017-10-10T19:02:22-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Massachusetts"/>
+    <term name="Postal service"/>
+    <term name="Presidents and presidential powers, Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-05-16T04:00:00Z" status="Introduced in House">Designates the facility of the United States Postal Service located at 25 New Chardon Street Lobby in Boston, Massachusetts, as the "John Fitzgerald Kennedy Post Office."</summary>
+  <committee-reports/>
+</bill>

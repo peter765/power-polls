@@ -1,0 +1,45 @@
+<bill session="115" type="hr" number="470" updated="2017-08-22T14:15:17Z">
+  <state datetime="2017-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-24"/>
+  </status>
+  <introduced datetime="2017-07-24"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing that international education and exchange programs further national security and foreign policy priorities, enhance economic competitiveness, and promote mutual understanding and cooperation among nations.</title>
+    <title type="display">Recognizing that international education and exchange programs further national security and foreign policy priorities, enhance economic competitiveness, and promote mutual understanding and cooperation among nations.</title>
+  </titles>
+  <sponsor bioguide_id="H001047"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001250" joined="2017-07-24"/>
+    <cosponsor bioguide_id="D000625" joined="2017-07-24"/>
+    <cosponsor bioguide_id="E000296" joined="2017-07-24"/>
+    <cosponsor bioguide_id="G000551" joined="2017-07-24"/>
+    <cosponsor bioguide_id="J000290" joined="2017-07-24"/>
+    <cosponsor bioguide_id="K000375" joined="2017-07-24"/>
+    <cosponsor bioguide_id="P000588" joined="2017-07-24"/>
+    <cosponsor bioguide_id="S000510" joined="2017-07-24"/>
+    <cosponsor bioguide_id="W000800" joined="2017-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-24">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Foreign language and bilingual programs"/>
+    <term name="Higher education"/>
+    <term name="International exchange and broadcasting"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <updateDate>2017-09-19T04:27:48Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInSenate>1</introducedInSenate>
+        <committeeDischarged>1</committeeDischarged>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <sentToHouse>1</sentToHouse>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <considerationByHouse>1</considerationByHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H38310</actionCode>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>18:54:02</actionTime>
+        <actionDate>2017-09-12</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H37100</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7287</url>
+            <name>H7287</name>
+          </link>
+        </links>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H7287)</text>
+        <actionTime>18:53:59</actionTime>
+        <actionDate>2017-09-12</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <links />
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.</text>
+        <actionTime>18:53:59</actionTime>
+        <actionDate>2017-09-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7287</url>
+            <name>H7287</name>
+          </link>
+        </links>
+        <text>Considered by unanimous consent. (consideration: CR H7287)</text>
+        <actionTime>18:53:36</actionTime>
+        <actionDate>2017-09-12</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H12300</actionCode>
+        <links />
+        <text>Committee on House Administration discharged.</text>
+        <actionDate>2017-09-12</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionCode>5500</actionCode>
+        <links />
+        <text>Committee on House Administration discharged.</text>
+        <actionDate>2017-09-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H30200</actionCode>
+        <links />
+        <text>Mr. Harper asked unanimous consent to discharge from committee and consider.</text>
+        <actionTime>18:53:34</actionTime>
+        <actionDate>2017-09-12</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on House Administration.</text>
+        <actionDate>2017-09-07</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H14000</actionCode>
+        <links />
+        <text>Received in the House.</text>
+        <actionTime>12:04:14</actionTime>
+        <actionDate>2017-09-07</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-09-06</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5006</url>
+            <name>S5006</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5016-5017</url>
+            <name>S5016-5017</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S5016-5017; text as passed Senate: CR S5006)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <links />
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+        <actionDate>2017-09-06</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2017-09-06</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <notes />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>D</party>
+        <bioguideId>H001042</bioguideId>
+        <lastName>Hirono</lastName>
+        <state>HI</state>
+        <middleName>K.</middleName>
+        <firstName>Mazie</firstName>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <identifiers>
+          <gpoId>7913</gpoId>
+          <bioguideId>H001042</bioguideId>
+          <lisID>1844</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <introducedDate>2017-09-06</introducedDate>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-09-14T20:29:48Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Authorizes the use of Emancipation Hall in the Capitol Visitor Center on October 25, 2017, for a ceremony to present a Congressional Gold Medal collectively to the Filipino Veterans of World War II in recognition of their dedicated military service.</p>]]></text>
+          <updateDate>2017-09-06T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-09-06</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-09-14T20:30:07Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Authorizes the use of Emancipation Hall in the Capitol Visitor Center on October 25, 2017, for a ceremony to present a Congressional Gold Medal collectively to the Filipino Veterans of World War II in recognition of their dedicated military service.</p>]]></text>
+          <updateDate>2017-09-06T13:57:16Z</updateDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <actionDate>2017-09-06</actionDate>
+          <versionCode>82</versionCode>
+          <name>Passed Senate without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Gold Medal to the Filipino Veterans of World War II.</title>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>House Administration Committee</name>
+          <activities>
+            <item>
+              <date>2017-09-12T22:53:35Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-09-07T21:39:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsha00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <cosponsors />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <billType>SCONRES</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <createDate>2017-09-07T02:11:29Z</createDate>
+    <latestAction>
+      <actionDate>2017-09-12</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>18:54:02</actionTime>
+      <links />
+    </latestAction>
+    <billNumber>23</billNumber>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Gold Medal to the Filipino Veterans of World War II.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Gold Medal to the Filipino Veterans of World War II.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

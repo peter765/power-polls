@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2017-09-08</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsvr03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-08</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+      </item>
+      <item>
+        <actionDate>2017-09-08</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-09-08</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2017-10-10T13:45:12Z</updateDate>
+    <latestAction>
+      <actionDate>2017-09-08</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Rural Veterans Travel Enhancement Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 38, United States Code, to make permanent the authority of the Secretary of Veterans Affairs to transport individuals to and from facilities of the Department of Veterans Affairs in connection with rehabilitation, counseling, examination, treatment, and care, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Rural Veterans Travel Enhancement Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Rural Veterans Travel Enhancement Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-09-08T15:50:45Z</date>
+                </item>
+              </activities>
+              <systemCode>hsvr03</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-08T13:01:45Z</date>
+            </item>
+          </activities>
+          <systemCode>hsvr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <createDate>2017-09-09T03:11:31Z</createDate>
+    <cosponsors>
+      <item>
+        <middleName>M.</middleName>
+        <fullName>Rep. Thornberry, Mac [R-TX-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000238</bioguideId>
+        <district>13</district>
+        <party>R</party>
+        <firstName>WILLIAM</firstName>
+        <identifiers>
+          <lisID>1155</lisID>
+          <bioguideId>T000238</bioguideId>
+          <gpoId>8755</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-09-08</sponsorshipDate>
+        <lastName>THORNBERRY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>O000170</bioguideId>
+        <district>16</district>
+        <party>D</party>
+        <firstName>Beto</firstName>
+        <identifiers>
+          <lisID>2162</lisID>
+          <gpoId />
+          <bioguideId>O000170</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+        <lastName>O'Rourke</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001170</bioguideId>
+        <district>1</district>
+        <party>D</party>
+        <firstName>Carol</firstName>
+        <identifiers>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <lastName>Shea-Porter</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+      </item>
+    </cosponsors>
+    <amendments />
+    <committeeReports />
+    <introducedDate>2017-09-08</introducedDate>
+    <billType>HR</billType>
+    <title>Rural Veterans Travel Enhancement Act of 2017</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LARSEN of Washington:H.R. 3720.Congress has the power to enact this legislation pursuantto the following:As described in Article 1, Section 1, ``all legislativepowers herein granted shall be vested in the Congress of theUnited States, which shall consist of a Senate and a House ofRepresentatives.''[Page H7217]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>RICK</firstName>
+        <middleName />
+        <bioguideId>L000560</bioguideId>
+        <byRequestType />
+        <lastName>LARSEN</lastName>
+        <state>WA</state>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <identifiers>
+          <lisID>1675</lisID>
+          <bioguideId>L000560</bioguideId>
+          <gpoId>8206</gpoId>
+        </identifiers>
+        <party>D</party>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <billNumber>3720</billNumber>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <latestTitle>Rural Veterans Travel Enhancement Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-09-07</actionDate>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        </latestAction>
+        <number>1775</number>
+        <type>S</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

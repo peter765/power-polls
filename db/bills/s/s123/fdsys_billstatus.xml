@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-01-12T05:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Kari's Law Act of 2017</strong></p> <p>This bill amends the Communications Act of 1934 to&nbsp;prohibit businesses from manufacturing or importing for use in the United States, or selling or leasing in the United States, a multi-line telephone system unless&nbsp;it can be installed to: (1) allow 9-1-1 calls to be transmitted to the appropriate public safety answering point without requiring the user to dial any additional digit, code, prefix, or post-fix (including any trunk-access code such as the digit "9"), regardless of what a user is required to dial for other calls; and (2) provide on-site notifications (if possible without any improvement to the system) so that when a person at the facility where the system is installed initiates a 9-1-1 call, the system notifies a central location at the facility or a person or organization with responsibility for safety or security for the location.</p> <p>Businesses are prohibited from installing multi-line telephone systems unless, upon installation, they allow 9-1-1 calls to be initiated without dialing such additional codes.</p> <p>Installers must configure such systems to provide such on-site notifications.</p>]]></text>
+          <actionDate>2017-01-12</actionDate>
+          <lastSummaryUpdateDate>2017-02-23T21:17:57Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>123</billNumber>
+    <congress>115</congress>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/52424</url>
+        <title>S. 123, Kari’s Law Act of 2017</title>
+        <pubDate>2017-02-14T21:48:25Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <updateDate>2017-10-12T16:45:11Z</updateDate>
+    <latestAction>
+      <actionDate>2017-08-04</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>14:32:27</actionTime>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+          <activities>
+            <item>
+              <date>2017-07-10T21:00:55Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-01-24T15:00:00Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-01-12T19:48:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <middleName />
+        <bioguideId>F000463</bioguideId>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <party>R</party>
+        <state>NE</state>
+        <lastName>Fischer</lastName>
+        <firstName>Deb</firstName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>S001194</bioguideId>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <party>D</party>
+        <state>HI</state>
+        <lastName>Schatz</lastName>
+        <firstName>Brian</firstName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001194</bioguideId>
+          <gpoId />
+          <lisID>2173</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>C001056</bioguideId>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <party>R</party>
+        <state>TX</state>
+        <lastName>Cornyn</lastName>
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>R.</middleName>
+        <bioguideId>T000250</bioguideId>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <party>R</party>
+        <state>SD</state>
+        <lastName>THUNE</lastName>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>C001098</bioguideId>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <party>R</party>
+        <state>TX</state>
+        <lastName>Cruz</lastName>
+        <firstName>Ted</firstName>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2175</lisID>
+          <gpoId />
+          <bioguideId>C001098</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-01-12</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Emergency communications systems</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <billType>S</billType>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <laws />
+    <actions>
+      <item>
+        <type>Floor</type>
+        <actionDate>2017-08-04</actionDate>
+        <actionTime>14:32:27</actionTime>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Held at the desk.</text>
+        <actionCode>H15000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2017-08-04</actionDate>
+        <actionTime>13:06:32</actionTime>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Received in the House.</text>
+        <actionCode>H14000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-08-04</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-08-03</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S4818-4819</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4818-4819</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S4818-4819; text: CR S4818-4819)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2017-08-03</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.</text>
+        <actionCode>17000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-07-10</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 164.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-07-10</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-124</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/124</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-124.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionDate>2017-07-10</actionDate>
+        <links>
+          <link>
+            <name>report No. 115-124</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/124</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-124.</text>
+        <actionCode>14000</actionCode>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-01-24</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-01-12</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-12</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <orderedReported>1</orderedReported>
+        <passedSenate>1</passedSenate>
+        <reportedToSenate>2</reportedToSenate>
+        <sentToHouse>1</sentToHouse>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>9</senate>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-124</citation>
+      </committeeReport>
+    </committeeReports>
+    <title>Kari's Law Act of 2017</title>
+    <createDate>2017-01-13T04:55:34Z</createDate>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <calendarNumbers>
+      <item>
+        <number>0164</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <title>Kari's Law Act of 2017</title>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <title>Kari's Law Act of 2017</title>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Kari's Law Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Communications Act of 1934 to require multi-line telephone systems to have a default configuration that permits users to directly initiate a call to 9-1-1 without dialing any additional digit, code, prefix, or post-fix, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Kari's Law Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <title>Kari’s Law Act of 2017</title>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <title>Kari’s Law Act of 2017</title>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Kari’s Law Act of 2017</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <latestTitle>Kari's Law Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-01-24</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>582</number>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>MN</state>
+        <byRequestType />
+        <bioguideId>K000367</bioguideId>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>Amy</firstName>
+        <lastName>Klobuchar</lastName>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+      </item>
+    </sponsors>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

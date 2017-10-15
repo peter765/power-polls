@@ -1,0 +1,43 @@
+<bill session="115" type="h" number="3317" updated="2017-09-22T07:16:01Z">
+  <state datetime="2017-07-19">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-19"/>
+  </status>
+  <introduced datetime="2017-07-19"/>
+  <titles>
+    <title type="short" as="introduced">SAFE Act</title>
+    <title type="short" as="introduced">SAFE Act</title>
+    <title type="short" as="introduced">Stopping Abusive Female Exploitation Act</title>
+    <title type="short" as="introduced">Stopping Abusive Female Exploitation Act</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to increase the penalty for female genital mutilation, and for other purposes.</title>
+    <title type="display">SAFE Act</title>
+  </titles>
+  <sponsor bioguide_id="T000475"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000624" joined="2017-09-21"/>
+    <cosponsor bioguide_id="M000087" joined="2017-07-19"/>
+    <cosponsor bioguide_id="M001201" joined="2017-08-18"/>
+    <cosponsor bioguide_id="S000522" joined="2017-08-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-19">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-19" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-08-17">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

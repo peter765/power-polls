@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <updateDate>2017-10-12T15:00:14Z</updateDate>
+    <notes />
+    <relatedBills>
+      <item>
+        <latestTitle>Crowd Sourcing of Environmental Data Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-03-17</actionDate>
+          <text>Referred to the Subcommittee on Environment.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1355</number>
+      </item>
+    </relatedBills>
+    <latestAction>
+      <actionDate>2017-10-04</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-04T14:02:15Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-10-04</introducedDate>
+    <committeeReports />
+    <congress>115</congress>
+    <title>Crowd Sourcing of Environmental Data Act of 2017</title>
+    <recordedVotes />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>2107</lisID>
+          <bioguideId>C001097</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Cardenas</lastName>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <bioguideId>C001097</bioguideId>
+        <district>29</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tony</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>2229</lisID>
+          <bioguideId>A000371</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Aguilar</lastName>
+        <fullName>Rep. Aguilar, Pete [D-CA-31]</fullName>
+        <bioguideId>A000371</bioguideId>
+        <district>31</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Pete</firstName>
+      </item>
+    </cosponsors>
+    <billNumber>3959</billNumber>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Crowd Sourcing of Environmental Data Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Clean Air Act to give States the option of monitoring covered criteria air pollutants in designated areas by greatly increasing the number of air quality sensors in exchange for greater regulatory flexibility in the methods of monitoring, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Crowd Sourcing of Environmental Data Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Crowd Sourcing of Environmental Data Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SCHWEIKERT:H.R. 3959.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the Constitution[Page H7842]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-10-05T03:11:22Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <firstName>David</firstName>
+        <middleName />
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <byRequestType />
+        <bioguideId>S001183</bioguideId>
+        <district>6</district>
+        <lastName>Schweikert</lastName>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001183</bioguideId>
+          <lisID>1994</lisID>
+          <gpoId>7802</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

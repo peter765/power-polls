@@ -1,0 +1,45 @@
+<bill session="115" type="h" number="3887" updated="2017-10-12T18:00:16Z">
+  <state datetime="2017-09-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-28"/>
+  </status>
+  <introduced datetime="2017-09-28"/>
+  <titles>
+    <title type="short" as="introduced">SAFE at Home Act</title>
+    <title type="short" as="introduced">SAFE at Home Act</title>
+    <title type="short" as="introduced">Safeguarding Addresses From Emerging at Home Act</title>
+    <title type="short" as="introduced">Safeguarding Addresses From Emerging at Home Act</title>
+    <title type="official" as="introduced">To require Federal agencies and Federal courts to comply with address confidentiality programs, and for other purposes.</title>
+    <title type="display">SAFE at Home Act</title>
+  </titles>
+  <sponsor bioguide_id="S001195"/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000571" joined="2017-10-02"/>
+    <cosponsor bioguide_id="H001053" joined="2017-09-28"/>
+    <cosponsor bioguide_id="K000379" joined="2017-09-28"/>
+    <cosponsor bioguide_id="S001191" joined="2017-09-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-28" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-09-28">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1889"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

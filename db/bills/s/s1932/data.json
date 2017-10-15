@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1932-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C000880", 
+      "district": null, 
+      "name": "Crapo, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "ID", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000584", 
+      "district": null, 
+      "name": "Risch, James E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "ID", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000464", 
+      "district": null, 
+      "name": "Tester, Jon", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "MT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000779", 
+      "district": null, 
+      "name": "Wyden, Ron", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "OR", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-05", 
+  "number": "1932", 
+  "official_title": "A bill to amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to provide for certain wildfire mitigation assistance.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "B001267", 
+    "district": null, 
+    "name": "Bennet, Michael F.", 
+    "state": "CO", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-05", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to provide for certain wildfire mitigation assistance.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to provide for certain wildfire mitigation assistance.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-06T05:06:19Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1932.xml"
+}

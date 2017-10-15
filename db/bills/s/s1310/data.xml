@@ -1,0 +1,43 @@
+<bill session="115" type="s" number="1310" updated="2017-09-20T05:19:51Z">
+  <state datetime="2017-06-07">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-07"/>
+  </status>
+  <introduced datetime="2017-06-07"/>
+  <titles>
+    <title type="short" as="introduced">Home Mortgage Disclosure Adjustment Act</title>
+    <title type="short" as="introduced">Home Mortgage Disclosure Adjustment Act</title>
+    <title type="official" as="introduced">A bill to amend the Home Mortgage Disclosure Act of 1975 to specify which depository institutions are subject to the maintenance of records and disclosure requirements of such Act, and for other purposes.</title>
+    <title type="display">Home Mortgage Disclosure Adjustment Act</title>
+  </titles>
+  <sponsor bioguide_id="R000605"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000618" joined="2017-09-18"/>
+    <cosponsor bioguide_id="D000607" joined="2017-06-07"/>
+    <cosponsor bioguide_id="E000285" joined="2017-09-19"/>
+    <cosponsor bioguide_id="H001069" joined="2017-06-07"/>
+    <cosponsor bioguide_id="H001061" joined="2017-06-07"/>
+    <cosponsor bioguide_id="K000393" joined="2017-06-07"/>
+    <cosponsor bioguide_id="T000464" joined="2017-06-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-07">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2017-06-08">
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Hearings, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

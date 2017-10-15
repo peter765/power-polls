@@ -1,0 +1,36 @@
+<bill session="115" type="h" number="3246" updated="2017-09-11T02:54:46Z">
+  <state datetime="2017-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-14"/>
+  </status>
+  <introduced datetime="2017-07-14"/>
+  <titles>
+    <title type="short" as="introduced">Teachers and Parents at the Table Act</title>
+    <title type="short" as="introduced">Teachers and Parents at the Table Act</title>
+    <title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 to establish a Teacher Advisory Committee and a Parents and Families Advisory Committee.</title>
+    <title type="display">Teachers and Parents at the Table Act</title>
+  </titles>
+  <sponsor bioguide_id="R000602"/>
+  <cosponsors>
+    <cosponsor bioguide_id="H001047" joined="2017-08-01"/>
+    <cosponsor bioguide_id="L000557" joined="2017-07-24"/>
+    <cosponsor bioguide_id="S001196" joined="2017-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-14">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-14" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

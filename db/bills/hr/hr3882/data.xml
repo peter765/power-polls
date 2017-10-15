@@ -1,0 +1,39 @@
+<bill session="115" type="h" number="3882" updated="2017-10-04T07:16:46Z">
+  <state datetime="2017-09-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-28"/>
+  </status>
+  <introduced datetime="2017-09-28"/>
+  <titles>
+    <title type="official" as="introduced">To require the Secretary of Transportation to publish a final rule to provide for the screening, testing, and treatment for sleep disorders of individuals operating commercial vehicles.</title>
+    <title type="display">To require the Secretary of Transportation to publish a final rule to provide for the screening, testing, and treatment for sleep disorders of individuals operating commercial vehicles.</title>
+  </titles>
+  <sponsor bioguide_id="P000096"/>
+  <cosponsors>
+    <cosponsor bioguide_id="P000034" joined="2017-10-03"/>
+    <cosponsor bioguide_id="S001165" joined="2017-09-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-28" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-09-29">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+    <action datetime="2017-09-29">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Railroads, Pipelines, and Hazardous Materials" code="HSPW14" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,58 @@
+<bill session="115" type="h" number="2924" updated="2017-07-24T18:15:39Z">
+  <state datetime="2017-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-15"/>
+  </status>
+  <introduced datetime="2017-06-15"/>
+  <titles>
+    <title type="official" as="introduced">To amend the National Security Act of 1947 to establish the National Russian Threat Response Center within the Office of the Director of National Intelligence, and for other purposes.</title>
+    <title type="display">To amend the National Security Act of 1947 to establish the National Russian Threat Response Center within the Office of the Director of National Intelligence, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="K000379"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001090" joined="2017-07-24"/>
+    <cosponsor bioguide_id="C001101" joined="2017-06-15"/>
+    <cosponsor bioguide_id="D000610" joined="2017-06-15"/>
+    <cosponsor bioguide_id="K000009" joined="2017-06-15"/>
+    <cosponsor bioguide_id="K000375" joined="2017-06-15"/>
+    <cosponsor bioguide_id="L000562" joined="2017-06-20"/>
+    <cosponsor bioguide_id="M000312" joined="2017-06-15"/>
+    <cosponsor bioguide_id="M001196" joined="2017-06-23"/>
+    <cosponsor bioguide_id="N000015" joined="2017-06-15"/>
+    <cosponsor bioguide_id="W000187" joined="2017-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-15">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-15" state="REFERRED">
+      <text>Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent"/>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Referred to House Appropriations</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral"/>
+    <committee subcommittee="" code="HLIG" name="House Intelligence (Permanent)" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Alliances"/>
+    <term name="Congressional oversight"/>
+    <term name="Director of National Intelligence"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Russia"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

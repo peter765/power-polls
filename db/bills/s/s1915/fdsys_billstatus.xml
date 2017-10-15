@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>W000817</bioguideId>
+        <firstName>Elizabeth</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <state>MA</state>
+        <lastName>Warren</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <bioguideId>V000128</bioguideId>
+        <firstName>Chris</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <state>MD</state>
+        <lastName>Van Hollen</lastName>
+      </item>
+    </cosponsors>
+    <laws />
+    <introducedDate>2017-10-04</introducedDate>
+    <relatedBills>
+      <item>
+        <latestTitle>Handgun Trigger Safety Act of 2017</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+          <actionDate>2017-06-07</actionDate>
+        </latestAction>
+        <number>2380</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <title>Handgun Trigger Safety Act of 2017</title>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-04T16:30:32Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <updateDate>2017-10-12T13:00:20Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <links />
+      <actionDate>2017-10-04</actionDate>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </latestAction>
+    <notes />
+    <createDate>2017-10-05T00:26:19Z</createDate>
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <firstName>EDWARD</firstName>
+        <lastName>MARKEY</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <state>MA</state>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <policyArea />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Handgun Trigger Safety Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to provide for the development and use of technology for personalized handguns, to require that all handguns manufactured or sold in, or imported into, the United States incorporate such technology, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Handgun Trigger Safety Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Handgun Trigger Safety Act of 2017</title>
+      </item>
+    </titles>
+    <amendments />
+    <billNumber>1915</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

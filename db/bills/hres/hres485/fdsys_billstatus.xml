@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-09-22T22:00:11Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Neurological disorders</name>
+          </item>
+          <item>
+            <name>Pennsylvania</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-07-28T13:05:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-08-04T15:00:05Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Commemorating the 40th anniversary of the ALS Association Greater Philadelphia Chapter.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Commemorating the 40th anniversary of the ALS Association Greater Philadelphia Chapter.</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>PA</state>
+        <bioguideId>B001296</bioguideId>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <middleName>F.</middleName>
+        <district>13</district>
+        <firstName>Brendan</firstName>
+        <lastName>Boyle</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001296</bioguideId>
+          <lisID>2267</lisID>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2017-08-04</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-07-28</actionDate>
+          <lastSummaryUpdateDate>2017-09-22T21:47:48Z</lastSummaryUpdateDate>
+          <updateDate>2017-07-28T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Commemorates the 40th anniversary of the ALS Association Greater Philadelphia Chapter. (Amyotrophic lateral sclerosis, also known as ALS or Lou Gehrig's disease, is a progressive neurodegenerative disease that causes muscle weakness and leads to death.)</p>]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills />
+    <title>Commemorating the 40th anniversary of the ALS Association Greater Philadelphia Chapter.</title>
+    <createDate>2017-07-29T03:11:32Z</createDate>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <lastName>BRADY</lastName>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001227</bioguideId>
+        <firstName>ROBERT</firstName>
+        <identifiers>
+          <bioguideId>B001227</bioguideId>
+          <gpoId>8119</gpoId>
+          <lisID>1469</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>PA</state>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>Evans</lastName>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000296</bioguideId>
+        <firstName>Dwight</firstName>
+        <identifiers>
+          <lisID>2298</lisID>
+          <gpoId />
+          <bioguideId>E000296</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>PA</state>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText />
+    <version>1.0.0</version>
+    <introducedDate>2017-07-28</introducedDate>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <notes />
+    <cboCostEstimates />
+    <billType>HRES</billType>
+    <amendments />
+    <billNumber>485</billNumber>
+    <calendarNumbers />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-08-04</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionDate>2017-07-28</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <actionDate>2017-07-28</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3997-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000571", 
+      "district": "2", 
+      "name": "Gabbard, Tulsi", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-10", 
+      "state": "HI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-10", 
+  "number": "3997", 
+  "official_title": "To waive the application fee for any special use permit for veterans demonstrations and special events at war memorials on Federal land, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Free Veterans from Fees Act", 
+  "sponsor": {
+    "bioguide_id": "R000598", 
+    "district": "12", 
+    "name": "Rothfus, Keith J.", 
+    "state": "PA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-10", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Free Veterans from Fees Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Free Veterans from Fees Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To waive the application fee for any special use permit for veterans demonstrations and special events at war memorials on Federal land, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Free Veterans from Fees Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-13T14:30:12Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3997.xml"
+}

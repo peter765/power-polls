@@ -1,0 +1,39 @@
+<bill session="115" type="h" number="3797" updated="2017-10-06T14:15:18Z">
+  <state datetime="2017-09-14">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-14"/>
+  </status>
+  <introduced datetime="2017-09-14"/>
+  <titles>
+    <title type="short" as="introduced">Define it to Fight it Act of 2017</title>
+    <title type="short" as="introduced">Define it to Fight it Act of 2017</title>
+    <title type="official" as="introduced">To withhold United States contributions to the regularly assessed biennial budget of the United Nations until the United Nations adopts a definition of "international terrorism" concurrent with United States laws, and for other purposes.</title>
+    <title type="display">Define it to Fight it Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="W000819"/>
+  <cosponsors>
+    <cosponsor bioguide_id="N000190" joined="2017-09-25"/>
+    <cosponsor bioguide_id="W000816" joined="2017-09-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-14">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H7412"/>
+    </action>
+    <action datetime="2017-09-14" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

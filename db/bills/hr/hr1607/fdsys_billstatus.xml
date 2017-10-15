@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <middleName>J.</middleName>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000583</bioguideId>
+        <district>17</district>
+        <party>R</party>
+        <firstName>Thomas</firstName>
+        <identifiers>
+          <bioguideId>R000583</bioguideId>
+          <lisID>1916</lisID>
+          <gpoId>7888</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <lastName>Rooney</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>FL</state>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <number>1886</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-04-26</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        </latestAction>
+        <type>HR</type>
+        <latestTitle>National Criminal Justice Commission Act of 2017</latestTitle>
+        <congress>115</congress>
+      </item>
+      <item>
+        <number>1917</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-10-04</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <type>S</type>
+        <latestTitle>Sentencing Reform and Corrections Act of 2017</latestTitle>
+        <congress>115</congress>
+      </item>
+      <item>
+        <number>573</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-03-08</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <type>S</type>
+        <latestTitle>National Criminal Justice Commission Act of 2017</latestTitle>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <middleName>E.</middleName>
+        <bioguideId>D000610</bioguideId>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <party>D</party>
+        <state>FL</state>
+        <firstName>Theodore</firstName>
+        <district>22</district>
+        <lastName>Deutch</lastName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>D000610</bioguideId>
+          <lisID>1976</lisID>
+          <gpoId>7891</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2017-03-31</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </latestAction>
+    <actions>
+      <item>
+        <actionDate>2017-03-31</actionDate>
+        <committee>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-03-17</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-03-17</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-03-17</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-17T13:03:00Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-31T19:00:05Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>National Criminal Justice Commission Act of 2017</title>
+    <billNumber>1607</billNumber>
+    <introducedDate>2017-03-17</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-03-17</actionDate>
+          <text><![CDATA[<p><strong></strong><b>National Criminal Justice Commission Act of 2017</b></p> <p>This bill establishes the National Criminal Justice Commission to conduct a comprehensive review of the criminal justice system; make recommendations for criminal justice reform; and disseminate findings and guidance to the federal government and to state, local, and tribal governments.</p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-05-08T13:52:35Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-17T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <amendments />
+    <notes />
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DEUTCH:H.R. 1607.Congress has the power to enact this legislation pursuantto the following:Clause 1 of Section 8 of Article I of the U.S. Constitutionand Clause 18 of Section 8 of Article I of the U.S.Constitution.[Page H2184]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>115</congress>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>National Criminal Justice Commission Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>National Criminal Justice Commission Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To establish the National Criminal Justice Commission.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>National Criminal Justice Commission Act of 2017</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <updateDate>2017-10-10T20:45:11Z</updateDate>
+    <createDate>2017-03-18T04:55:14Z</createDate>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

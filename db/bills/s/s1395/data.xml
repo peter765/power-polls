@@ -1,0 +1,45 @@
+<bill session="115" type="s" number="1395" updated="2017-09-09T06:56:16Z">
+  <state datetime="2017-07-12">REPORTED</state>
+  <status>
+    <unknown datetime="2017-07-12"/>
+  </status>
+  <introduced datetime="2017-06-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to revise the boundaries of certain John H. Chafee Coastal Barrier Resources System units in Delaware.</title>
+    <title type="display">A bill to revise the boundaries of certain John H. Chafee Coastal Barrier Resources System units in Delaware.</title>
+  </titles>
+  <sponsor bioguide_id="C000174"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001088" joined="2017-06-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-21">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-06-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S3688-3689" label="Sponsor introductory remarks on measure"/>
+      <reference ref="CR S3689" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2017-07-12" state="REPORTED">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2017-09-07">
+      <text>Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. With written report No. 115-149.</text>
+    </action>
+    <calendar datetime="2017-09-07" calendar="Senate Legislative" under="General Orders" number="214">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 214.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>S. Rept. 115-149</report>
+  </committee-reports>
+</bill>

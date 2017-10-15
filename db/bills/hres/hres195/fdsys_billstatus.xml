@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-17</actionDate>
+        <committee>
+          <systemCode>hsif18</systemCode>
+          <name>Environment and the Economy Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-13</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+      </item>
+      <item>
+        <actionDate>2017-03-13</actionDate>
+        <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2090</url>
+            <name>H2090</name>
+          </link>
+        </links>
+        <committee />
+        <text>Sponsor introductory remarks on measure. (CR H2090)</text>
+      </item>
+      <item>
+        <actionDate>2017-03-13</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-03-13</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-03-13T16:01:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsif18</systemCode>
+              <activities>
+                <item>
+                  <date>2017-03-17T17:38:37Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Environment and the Economy Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <committeeReports />
+    <createDate>2017-03-15T16:30:50Z</createDate>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+          <lisID>2263</lisID>
+          <gpoId />
+        </identifiers>
+        <state>NY</state>
+        <district>21</district>
+        <lastName>Stefanik</lastName>
+        <party>R</party>
+        <bioguideId>S001196</bioguideId>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <firstName>Elise</firstName>
+        <byRequestType />
+        <middleName>M.</middleName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText />
+    <title>Expressing the commitment of the House of Representatives to conservative environmental stewardship.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Expresses the commitment of the House of Representatives to work constructively on creating and supporting economically viable and broadly supported solutions to measured changes in global and regional climates. </p>]]></text>
+          <lastSummaryUpdateDate>2017-08-08T22:01:30Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <actionDate>2017-03-13</actionDate>
+          <updateDate>2017-03-13T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-03-13</introducedDate>
+    <titles>
+      <item>
+        <title>Expressing the commitment of the House of Representatives to conservative environmental stewardship.</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Expressing the commitment of the House of Representatives to conservative environmental stewardship.</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Climate change and greenhouse gases</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-09-07T07:15:25Z</updateDate>
+    <latestAction>
+      <actionDate>2017-03-17</actionDate>
+      <text>Referred to the Subcommittee on Environment.</text>
+      <links />
+    </latestAction>
+    <billType>HRES</billType>
+    <billNumber>195</billNumber>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <firstName>John</firstName>
+        <district>19</district>
+        <state>NY</state>
+        <bioguideId>F000464</bioguideId>
+        <identifiers>
+          <lisID>2343</lisID>
+          <gpoId />
+          <bioguideId>F000464</bioguideId>
+        </identifiers>
+        <lastName>Faso</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Faso, John J. [R-NY-19]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <firstName>John</firstName>
+        <district>24</district>
+        <state>NY</state>
+        <bioguideId>K000386</bioguideId>
+        <identifiers>
+          <lisID>2264</lisID>
+          <bioguideId>K000386</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Katko</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <firstName>ILEANA</firstName>
+        <district>27</district>
+        <state>FL</state>
+        <bioguideId>R000435</bioguideId>
+        <identifiers>
+          <lisID>985</lisID>
+          <gpoId>7890</gpoId>
+          <bioguideId>R000435</bioguideId>
+        </identifiers>
+        <lastName>ROS-LEHTINEN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Ros-Lehtinen, Ileana [R-FL-27]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <firstName>Carlos</firstName>
+        <district>26</district>
+        <state>FL</state>
+        <bioguideId>C001107</bioguideId>
+        <identifiers>
+          <bioguideId>C001107</bioguideId>
+          <lisID>2235</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Curbelo</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <firstName>Brian</firstName>
+        <district>18</district>
+        <state>FL</state>
+        <bioguideId>M001199</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2322</lisID>
+          <bioguideId>M001199</bioguideId>
+        </identifiers>
+        <lastName>Mast</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <firstName>Ryan</firstName>
+        <district>6</district>
+        <state>PA</state>
+        <bioguideId>C001106</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2266</lisID>
+          <bioguideId>C001106</bioguideId>
+        </identifiers>
+        <lastName>Costello</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <firstName>Patrick</firstName>
+        <district>7</district>
+        <state>PA</state>
+        <bioguideId>M001181</bioguideId>
+        <identifiers>
+          <bioguideId>M001181</bioguideId>
+          <gpoId>8125</gpoId>
+          <lisID>2052</lisID>
+        </identifiers>
+        <lastName>Meehan</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+      </item>
+      <item>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <firstName>Brian</firstName>
+        <district>8</district>
+        <state>PA</state>
+        <bioguideId>F000466</bioguideId>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <gpoId />
+          <lisID>2345</lisID>
+        </identifiers>
+        <lastName>Fitzpatrick</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <firstName>FRANK</firstName>
+        <district>2</district>
+        <state>NJ</state>
+        <bioguideId>L000554</bioguideId>
+        <identifiers>
+          <bioguideId>L000554</bioguideId>
+          <lisID>699</lisID>
+          <gpoId>8044</gpoId>
+        </identifiers>
+        <lastName>LOBIONDO</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <district>1</district>
+        <state>SC</state>
+        <bioguideId>S000051</bioguideId>
+        <identifiers>
+          <lisID>1012</lisID>
+          <bioguideId>S000051</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Sanford</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Sanford, Mark [R-SC-1]</fullName>
+      </item>
+      <item>
+        <middleName>G.</middleName>
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <firstName>David</firstName>
+        <district>8</district>
+        <state>WA</state>
+        <bioguideId>R000578</bioguideId>
+        <identifiers>
+          <bioguideId>R000578</bioguideId>
+          <lisID>1810</lisID>
+          <gpoId>8212</gpoId>
+        </identifiers>
+        <lastName>Reichert</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <firstName>Barbara</firstName>
+        <district>10</district>
+        <state>VA</state>
+        <bioguideId>C001105</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2273</lisID>
+          <bioguideId>C001105</bioguideId>
+        </identifiers>
+        <lastName>Comstock</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <firstName>Tom</firstName>
+        <district>23</district>
+        <state>NY</state>
+        <bioguideId>R000585</bioguideId>
+        <identifiers>
+          <lisID>1982</lisID>
+          <gpoId>8090</gpoId>
+          <bioguideId>R000585</bioguideId>
+        </identifiers>
+        <lastName>Reed</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <firstName>Don</firstName>
+        <district>2</district>
+        <state>NE</state>
+        <bioguideId>B001298</bioguideId>
+        <identifiers>
+          <lisID>2337</lisID>
+          <gpoId />
+          <bioguideId>B001298</bioguideId>
+        </identifiers>
+        <lastName>Bacon</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+      </item>
+      <item>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <firstName>Mia</firstName>
+        <district>4</district>
+        <state>UT</state>
+        <bioguideId>L000584</bioguideId>
+        <identifiers>
+          <lisID>2271</lisID>
+          <gpoId />
+          <bioguideId>L000584</bioguideId>
+        </identifiers>
+        <lastName>Love</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Love, Mia B. [R-UT-4]</fullName>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <district>2</district>
+        <state>NV</state>
+        <bioguideId>A000369</bioguideId>
+        <identifiers>
+          <gpoId>8366</gpoId>
+          <lisID>2090</lisID>
+          <bioguideId>A000369</bioguideId>
+        </identifiers>
+        <lastName>Amodei</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <firstName>Mike</firstName>
+        <district>6</district>
+        <state>CO</state>
+        <bioguideId>C001077</bioguideId>
+        <identifiers>
+          <gpoId>7864</gpoId>
+          <bioguideId>C001077</bioguideId>
+          <lisID>1912</lisID>
+        </identifiers>
+        <lastName>Coffman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <firstName>Daniel</firstName>
+        <district>11</district>
+        <state>NY</state>
+        <bioguideId>D000625</bioguideId>
+        <identifiers>
+          <lisID>2293</lisID>
+          <gpoId />
+          <bioguideId>D000625</bioguideId>
+        </identifiers>
+        <lastName>Donovan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+      </item>
+      <item>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <firstName>PETER</firstName>
+        <district>2</district>
+        <state>NY</state>
+        <bioguideId>K000210</bioguideId>
+        <identifiers>
+          <lisID>635</lisID>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+        </identifiers>
+        <lastName>KING</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-06-16</sponsorshipDate>
+        <firstName>Leonard</firstName>
+        <district>7</district>
+        <state>NJ</state>
+        <bioguideId>L000567</bioguideId>
+        <identifiers>
+          <gpoId>8049</gpoId>
+          <lisID>1936</lisID>
+          <bioguideId>L000567</bioguideId>
+        </identifiers>
+        <lastName>Lance</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+      </item>
+      <item>
+        <middleName>W.</middleName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <firstName>Susan</firstName>
+        <district>5</district>
+        <state>IN</state>
+        <bioguideId>B001284</bioguideId>
+        <identifiers>
+          <bioguideId>B001284</bioguideId>
+          <lisID>2129</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Brooks</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+      </item>
+      <item>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <firstName>CHRISTOPHER</firstName>
+        <district>4</district>
+        <state>NJ</state>
+        <bioguideId>S000522</bioguideId>
+        <identifiers>
+          <bioguideId>S000522</bioguideId>
+          <lisID>1071</lisID>
+          <gpoId>8046</gpoId>
+        </identifiers>
+        <lastName>SMITH</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <laws />
+    <recordedVotes />
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1921</billNumber>
+    <congress>115</congress>
+    <cboCostEstimates />
+    <updateDate>2017-10-13T13:45:11Z</updateDate>
+    <latestAction>
+      <actionDate>2017-10-05</actionDate>
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssaf00</systemCode>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-10-05T15:18:21Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <introducedDate>2017-10-05</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <billType>S</billType>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <committee>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <systemCode>ssaf00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <committeeReports />
+    <title>FSA Loan Guarantee Enhancement Act of 2017</title>
+    <createDate>2017-10-06T00:41:19Z</createDate>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>FSA Loan Guarantee Enhancement Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the Consolidated Farm and Rural Development Act to increase limitations and authorizations for Farm Service Agency guaranteed loans, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>FSA Loan Guarantee Enhancement Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>FSA Loan Guarantee Enhancement Act of 2017</title>
+      </item>
+    </titles>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>SD</state>
+        <byRequestType />
+        <bioguideId>R000605</bioguideId>
+        <identifiers>
+          <bioguideId>R000605</bioguideId>
+          <gpoId />
+          <lisID>2288</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>Mike</firstName>
+        <lastName>Rounds</lastName>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+      </item>
+    </sponsors>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

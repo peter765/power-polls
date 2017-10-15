@@ -1,0 +1,49 @@
+<bill session="115" type="h" number="3964" updated="2017-10-13T18:00:16Z">
+  <state datetime="2017-10-05">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-05"/>
+  </status>
+  <introduced datetime="2017-10-05"/>
+  <titles>
+    <title type="short" as="introduced">Opioid Addiction Prevention Act of 2017</title>
+    <title type="short" as="introduced">Opioid Addiction Prevention Act of 2017</title>
+    <title type="official" as="introduced">To amend the Controlled Substances Act to establish additional registration requirements for prescribers of opioids, and for other purposes.</title>
+    <title type="display">Opioid Addiction Prevention Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="R000582"/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000582" joined="2017-10-05"/>
+    <cosponsor bioguide_id="K000382" joined="2017-10-05"/>
+    <cosponsor bioguide_id="M001193" joined="2017-10-05"/>
+    <cosponsor bioguide_id="R000600" joined="2017-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-05">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-05" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-10-05">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="892"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug therapy"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Health personnel"/>
+    <term name="Licensing and registrations"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

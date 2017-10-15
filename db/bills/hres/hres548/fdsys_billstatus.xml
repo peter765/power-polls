@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <constitutionalAuthorityStatementText />
+    <sponsors>
+      <item>
+        <state>WY</state>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001109</bioguideId>
+          <gpoId />
+          <lisID>2356</lisID>
+        </identifiers>
+        <bioguideId>C001109</bioguideId>
+        <firstName>Liz</firstName>
+        <fullName>Rep. Cheney, Liz [R-WY-At Large]</fullName>
+        <lastName>Cheney</lastName>
+        <party>R</party>
+        <district>0</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-10-02T22:45:38Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+          <subcommittees />
+          <systemCode>hsru00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <cboCostEstimates />
+    <billType>HRES</billType>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Providing for consideration of the bill (H.R. 36) to amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Providing for consideration of the bill (H.R. 36) to amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes.</title>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <introducedDate>2017-10-02</introducedDate>
+    <title>Providing for consideration of the bill (H.R. 36) to amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes.</title>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-338</citation>
+      </committeeReport>
+    </committeeReports>
+    <originChamber>House</originChamber>
+    <cosponsors />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-10-02</actionDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-10-03T08:06:29Z</lastSummaryUpdateDate>
+          <updateDate>2017-10-02T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 36) to amend title 18, United States Code, to protect pain-capable unborn children.]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <item>
+        <actionCode>H38310</actionCode>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionDate>2017-10-03</actionDate>
+        <committee />
+        <actionTime>14:00:39</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionCode>H37100</actionCode>
+        <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 233 - 187 (Roll no. 547). (text: CR H7686)</text>
+        <type>Floor</type>
+        <actionDate>2017-10-03</actionDate>
+        <committee />
+        <actionTime>14:00:38</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7686</url>
+            <name>H7686</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll547.xml</url>
+            <name>Roll no. 547</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 233 - 187 (Roll no. 547).</text>
+        <type>Floor</type>
+        <actionDate>2017-10-03</actionDate>
+        <committee />
+        <actionTime>14:00:38</actionTime>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll547.xml</url>
+            <name>Roll no. 547</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>H35000</actionCode>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 233 - 184 (Roll no. 546). (consideration: CR H7693-7694)</text>
+        <type>Floor</type>
+        <actionDate>2017-10-03</actionDate>
+        <committee />
+        <actionTime>13:54:04</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7693-7694</url>
+            <name>H7693-7694</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll546.xml</url>
+            <name>Roll no. 546</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 548.</text>
+        <type>Floor</type>
+        <actionDate>2017-10-03</actionDate>
+        <committee />
+        <actionTime>12:33:32</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/548</url>
+            <name>H. Res. 548</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <text>Considered as privileged matter. (consideration: CR H7686-7694)</text>
+        <type>Floor</type>
+        <actionDate>2017-10-03</actionDate>
+        <committee />
+        <actionTime>12:32:44</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7686-7694</url>
+            <name>H7686-7694</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>H12420</actionCode>
+        <text>Placed on the House Calendar, Calendar No. 89.</text>
+        <committee />
+        <actionDate>2017-10-02</actionDate>
+        <type>Calendars</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionCode>H12700</actionCode>
+        <text>Rule provides for consideration of H.R. 36 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text>
+        <type>Floor</type>
+        <actionDate>2017-10-02</actionDate>
+        <committee />
+        <actionTime>18:45:39</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/36</url>
+            <name>H.R. 36</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>H12100</actionCode>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-338, by Ms. Cheney.</text>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <actionDate>2017-10-02</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/338</url>
+            <name>H. Rept. 115-338</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 115-338, by Ms. Cheney.</text>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <actionDate>2017-10-02</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/338</url>
+            <name>H. Rept. 115-338</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-10-02</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <reportedToHouse>1</reportedToHouse>
+        <provisionsOfARule>1</provisionsOfARule>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <introducedInHouse>1</introducedInHouse>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <generalDebate>1</generalDebate>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <considerationByHouse>1</considerationByHouse>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+      </actionTypeCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-10-04T17:27:10Z</updateDate>
+    <amendments />
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <number>36</number>
+        <latestAction>
+          <actionDate>2017-10-03</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>18:03:26</actionTime>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Pain-Capable Unborn Child Protection Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <createDate>2017-10-03T03:11:17Z</createDate>
+    <recordedVotes>
+      <recordedVote>
+        <url>http://clerk.house.gov/evs/2017/roll547.xml</url>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <date>2017-10-03T18:00:38Z</date>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>547</rollNumber>
+        <congress>115</congress>
+      </recordedVote>
+      <recordedVote>
+        <url>http://clerk.house.gov/evs/2017/roll546.xml</url>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <date>2017-10-03T17:54:04Z</date>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>546</rollNumber>
+        <congress>115</congress>
+      </recordedVote>
+    </recordedVotes>
+    <version>1.0.0</version>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>H00089</calendar>
+      </item>
+    </calendarNumbers>
+    <latestAction>
+      <links />
+      <actionDate>2017-10-03</actionDate>
+      <actionTime>14:00:39</actionTime>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </latestAction>
+    <billNumber>548</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2017-06-27</actionDate>
+        <committee>
+          <systemCode>hsfa14</systemCode>
+          <name>Europe, Eurasia, and Emerging Threats Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR E584)</text>
+        <links>
+          <link>
+            <name>E584</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/extensions-of-remarks-section/page/E584</url>
+          </link>
+        </links>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Art, artists, authorship</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Greece</name>
+          </item>
+          <item>
+            <name>Historical and cultural resources</name>
+          </item>
+          <item>
+            <name>United Kingdom</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2017-05-02T14:02:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsfa00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsfa14</systemCode>
+              <name>Europe, Eurasia, and Emerging Threats Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-06-27T16:45:35Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Expresses the sense of Congress that the United Kingdom should enter into negotiations with Greece to facilitate the return of the Parthenon Marbles to Greece. </p>]]></text>
+          <actionDate>2017-05-02</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-05-02T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-05-20T13:29:35Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills />
+    <laws />
+    <title>Expressing the sense of the Congress that the Parthenon Marbles should be returned to Greece.</title>
+    <constitutionalAuthorityStatementText />
+    <billNumber>51</billNumber>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Expressing the sense of the Congress that the Parthenon Marbles should be returned to Greece.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Expressing the sense of the Congress that the Parthenon Marbles should be returned to Greece.</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <firstName>Gus</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1838</lisID>
+          <bioguideId>B001257</bioguideId>
+          <gpoId>7881</gpoId>
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <lastName>Bilirakis</lastName>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <bioguideId>B001257</bioguideId>
+        <district>12</district>
+      </item>
+      <item>
+        <firstName>Donald</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2097</lisID>
+          <bioguideId>P000604</bioguideId>
+          <gpoId>8373</gpoId>
+        </identifiers>
+        <state>NJ</state>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <lastName>Payne</lastName>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <bioguideId>P000604</bioguideId>
+        <district>10</district>
+      </item>
+      <item>
+        <firstName>JAMES</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <state>MA</state>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <lastName>MCGOVERN</lastName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <bioguideId>M000312</bioguideId>
+        <district>2</district>
+      </item>
+      <item>
+        <firstName>Dina</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7493</gpoId>
+          <bioguideId>T000468</bioguideId>
+          <lisID>1940</lisID>
+        </identifiers>
+        <state>NV</state>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Titus</lastName>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <bioguideId>T000468</bioguideId>
+        <district>1</district>
+      </item>
+      <item>
+        <firstName>Daniel</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2293</lisID>
+          <bioguideId>D000625</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>NY</state>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <lastName>Donovan</lastName>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <bioguideId>D000625</bioguideId>
+        <district>11</district>
+      </item>
+      <item>
+        <firstName>Josh</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000583</bioguideId>
+          <gpoId />
+          <lisID>2338</lisID>
+        </identifiers>
+        <state>NJ</state>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Gottheimer</lastName>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <bioguideId>G000583</bioguideId>
+        <district>5</district>
+      </item>
+      <item>
+        <firstName>Raja</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2325</lisID>
+          <bioguideId>K000391</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <sponsorshipDate>2017-09-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Krishnamoorthi</lastName>
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <bioguideId>K000391</bioguideId>
+        <district>8</district>
+      </item>
+    </cosponsors>
+    <createDate>2017-05-03T03:11:39Z</createDate>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2017-06-27</actionDate>
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+      <links />
+    </latestAction>
+    <billType>HCONRES</billType>
+    <updateDate>2017-09-19T20:15:11Z</updateDate>
+    <introducedDate>2017-05-02</introducedDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <bioguideId>M000087</bioguideId>
+        <firstName>CAROLYN</firstName>
+        <identifiers>
+          <bioguideId>M000087</bioguideId>
+          <gpoId>8075</gpoId>
+          <lisID>729</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>MALONEY</lastName>
+        <state>NY</state>
+        <district>12</district>
+        <middleName>B.</middleName>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

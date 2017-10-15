@@ -1,0 +1,44 @@
+<bill session="115" type="h" number="2608" updated="2017-06-23T13:45:10Z">
+  <state datetime="2017-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-23"/>
+  </status>
+  <introduced datetime="2017-05-23"/>
+  <titles>
+    <title type="short" as="introduced">Fair Allocation of Highway Funds Act of 2017</title>
+    <title type="short" as="introduced">Fair Allocation of Highway Funds Act of 2017</title>
+    <title type="official" as="introduced">To amend title 23, United States Code, with respect to apportionments to States for certain highway programs, and for other purposes.</title>
+    <title type="display">Fair Allocation of Highway Funds Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="F000454"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000375" joined="2017-05-23"/>
+    <cosponsor bioguide_id="G000583" joined="2017-05-23"/>
+    <cosponsor bioguide_id="K000387" joined="2017-06-12"/>
+    <cosponsor bioguide_id="K000392" joined="2017-05-23"/>
+    <cosponsor bioguide_id="P000258" joined="2017-05-24"/>
+    <cosponsor bioguide_id="T000474" joined="2017-05-24"/>
+    <cosponsor bioguide_id="V000081" joined="2017-05-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-23">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-23" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-05-24">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

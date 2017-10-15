@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="3642" updated="2017-09-11T02:56:34Z">
+  <state datetime="2017-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-08-04"/>
+  </status>
+  <introduced datetime="2017-08-04"/>
+  <titles>
+    <title type="short" as="introduced">Military SAVE Act</title>
+    <title type="short" as="introduced">Military SAVE Act</title>
+    <title type="short" as="introduced">Military Sexual Assault Victims Empowerment Act</title>
+    <title type="short" as="introduced">Military Sexual Assault Victims Empowerment Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to carry out a pilot program to improve the access to private health care for veterans who are survivors of military sexual trauma.</title>
+    <title type="display">Military SAVE Act</title>
+  </titles>
+  <sponsor bioguide_id="B001282"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-08-04">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-08-04" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-08-04">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

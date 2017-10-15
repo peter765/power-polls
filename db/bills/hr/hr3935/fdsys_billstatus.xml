@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-10-10T20:00:17Z</updateDate>
+    <amendments />
+    <calendarNumbers />
+    <notes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionDate>2017-10-03</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-10-03</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-10-03</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SHIMKUS:H.R. 3935.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3: To regulate Commerce withforeign Nations, and among the several States, and with theIndian Tribes.[Page H7750]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1527</lisID>
+          <gpoId>7939</gpoId>
+          <bioguideId>S000364</bioguideId>
+        </identifiers>
+        <bioguideId>S000364</bioguideId>
+        <party>R</party>
+        <district>15</district>
+        <firstName>JOHN</firstName>
+        <middleName>M.</middleName>
+        <state>IL</state>
+        <fullName>Rep. Shimkus, John [R-IL-15]</fullName>
+        <lastName>SHIMKUS</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <relatedBills />
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <bioguideId>L000576</bioguideId>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <firstName>Billy</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>MO</state>
+        <district>7</district>
+        <identifiers>
+          <lisID>2033</lisID>
+          <bioguideId>L000576</bioguideId>
+          <gpoId>8015</gpoId>
+        </identifiers>
+        <lastName>Long</lastName>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-10-04T03:11:23Z</createDate>
+    <title>BOOST Primary Care Act</title>
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <laws />
+    <latestAction>
+      <actionDate>2017-10-03</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>BOOST Primary Care Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Bolstering Organizations and Options to Support Training in Primary Care Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To provide for an extension of funding for the National Health Service Corps.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>BOOST Primary Care Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>BOOST Primary Care Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Bolstering Organizations and Options to Support Training in Primary Care Act</title>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <billNumber>3935</billNumber>
+    <introducedDate>2017-10-03</introducedDate>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-10-03T14:02:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,43 @@
+<bill session="115" type="h" number="3911" updated="2017-10-13T07:23:48Z">
+  <state datetime="2017-10-12">REPORTED</state>
+  <status>
+    <unknown datetime="2017-10-12"/>
+  </status>
+  <introduced datetime="2017-10-02"/>
+  <titles>
+    <title type="short" as="introduced">Risk-Based Credit Examination Act</title>
+    <title type="short" as="introduced">Risk-Based Credit Examination Act</title>
+    <title type="official" as="introduced">To amend the Securities Exchange Act of 1934 with respect to risk-based examinations of Nationally Recognized Statistical Rating Organizations.</title>
+    <title type="display">Risk-Based Credit Examination Act</title>
+  </titles>
+  <sponsor bioguide_id="W000812"/>
+  <cosponsors>
+    <cosponsor bioguide_id="F000454" joined="2017-10-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-02">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-02" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2017-10-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2017-10-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-10-12" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 60 - 0.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-04-05T03:11:53Z</createDate>
+    <introducedDate>2017-04-04</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-04T14:04:30Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-17T16:18:05Z</date>
+                </item>
+              </activities>
+              <systemCode>hswm02</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-04T14:04:25Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-07T14:34:47Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <calendarNumbers />
+    <congress>115</congress>
+    <title>To amend title XVIII of the Social Security Act to improve access to, and utilization of, bone mass measurement benefits under part B of the Medicare program by establishing a minimum payment amount under such part for bone mass measurement.</title>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend title XVIII of the Social Security Act to improve access to, and utilization of, bone mass measurement benefits under part B of the Medicare program by establishing a minimum payment amount under such part for bone mass measurement.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend title XVIII of the Social Security Act to improve access to, and utilization of, bone mass measurement benefits under part B of the Medicare program by establishing a minimum payment amount under such part for bone mass measurement.</title>
+      </item>
+    </titles>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Musculoskeletal and skin diseases</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2017-10-13T07:16:30Z</updateDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <billNumber>1898</billNumber>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>1748</lisID>
+          <bioguideId>B001243</bioguideId>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <lastName>Blackburn</lastName>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <bioguideId>B001243</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Marsha</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <middleName>B.</middleName>
+        <identifiers>
+          <lisID>1583</lisID>
+          <bioguideId>L000557</bioguideId>
+          <gpoId>7866</gpoId>
+        </identifiers>
+        <lastName>LARSON</lastName>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <bioguideId>L000557</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CT</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <middleName>T.</middleName>
+        <identifiers>
+          <bioguideId>S001156</bioguideId>
+          <lisID>1757</lisID>
+          <gpoId>7844</gpoId>
+        </identifiers>
+        <lastName>SANCHEZ</lastName>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <bioguideId>S001156</bioguideId>
+        <district>38</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>LINDA</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+        <lastName>SESSIONS</lastName>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <bioguideId>S000250</bioguideId>
+        <district>32</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>PETE</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <middleName>P.</middleName>
+        <identifiers>
+          <lisID>1954</lisID>
+          <bioguideId>R000582</bioguideId>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <lastName>Roe</lastName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <bioguideId>R000582</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>1811</lisID>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <lastName>Moore</lastName>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <bioguideId>M001160</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gwen</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+        </identifiers>
+        <lastName>DEFAZIO</lastName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <bioguideId>D000191</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>PETER</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <lastName>Pingree</lastName>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <bioguideId>P000597</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Chellie</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <middleName>HOLMES</middleName>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <lastName>NORTON</lastName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <bioguideId>N000147</bioguideId>
+        <district>0</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>DC</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELEANOR</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <lastName>Grijalva</lastName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <bioguideId>G000551</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Raul</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <middleName>P.</middleName>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <lastName>MCGOVERN</lastName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <bioguideId>M000312</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <bioguideId>T000460</bioguideId>
+          <lisID>1593</lisID>
+          <gpoId>7806</gpoId>
+        </identifiers>
+        <lastName>THOMPSON</lastName>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <bioguideId>T000460</bioguideId>
+        <district>5</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>MIKE</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>2051</lisID>
+          <gpoId>8708</gpoId>
+          <bioguideId>K000376</bioguideId>
+        </identifiers>
+        <lastName>Kelly</lastName>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <bioguideId>K000376</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>1884</lisID>
+          <bioguideId>T000465</bioguideId>
+          <gpoId>7970</gpoId>
+        </identifiers>
+        <lastName>Tsongas</lastName>
+        <fullName>Rep. Tsongas, Niki [D-MA-3]</fullName>
+        <bioguideId>T000465</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Niki</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>1936</lisID>
+          <bioguideId>L000567</bioguideId>
+          <gpoId>8049</gpoId>
+        </identifiers>
+        <lastName>Lance</lastName>
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <bioguideId>L000567</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Leonard</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-08-11</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <bioguideId>W000813</bioguideId>
+          <lisID>2128</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Walorski</lastName>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <bioguideId>W000813</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jackie</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>2266</lisID>
+          <bioguideId>C001106</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Costello</lastName>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <bioguideId>C001106</bioguideId>
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ryan</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <middleName>T.</middleName>
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+          <lisID>635</lisID>
+        </identifiers>
+        <lastName>KING</lastName>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <bioguideId>K000210</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>PETER</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-09-12</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>2137</lisID>
+          <bioguideId>W000812</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Wagner</lastName>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <bioguideId>W000812</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MO</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ann</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>2197</lisID>
+          <bioguideId>B001289</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Byrne</lastName>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <bioguideId>B001289</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AL</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bradley</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <bioguideId>W000798</bioguideId>
+          <gpoId>7992</gpoId>
+          <lisID>1855</lisID>
+        </identifiers>
+        <lastName>Walberg</lastName>
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+        <bioguideId>W000798</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tim</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>2249</lisID>
+          <bioguideId>B001293</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Bishop</lastName>
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <bioguideId>B001293</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+      </item>
+    </cosponsors>
+    <laws />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>M001181</bioguideId>
+        <firstName>Patrick</firstName>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>M001181</bioguideId>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+        </identifiers>
+        <district>7</district>
+        <byRequestType />
+        <lastName>Meehan</lastName>
+        <middleName />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+      <actionDate>2017-04-17</actionDate>
+    </latestAction>
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionDate>2017-04-17</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hswm02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-07</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to House Ways and Means</text>
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to House Energy and Commerce</text>
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MEEHAN:H.R. 1898.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to: Article I, Section 8[Page H2698]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

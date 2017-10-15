@@ -1,0 +1,35 @@
+<bill session="115" type="h" number="3128" updated="2017-09-13T07:16:17Z">
+  <state datetime="2017-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-29"/>
+  </status>
+  <introduced datetime="2017-06-29"/>
+  <titles>
+    <title type="official" as="introduced">To amend section 111 of the Clean Air Act to clarify when a physical change in, or change in the method of operation of, a stationary source constitutes a modification, and for other purposes.</title>
+    <title type="display">To amend section 111 of the Clean Air Act to clarify when a physical change in, or change in the method of operation of, a stationary source constitutes a modification, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="G000568"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001096" joined="2017-07-27"/>
+    <cosponsor bioguide_id="G000565" joined="2017-09-12"/>
+    <cosponsor bioguide_id="J000297" joined="2017-06-29"/>
+    <cosponsor bioguide_id="M001180" joined="2017-06-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-29">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-29" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

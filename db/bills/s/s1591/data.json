@@ -1,0 +1,200 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-19", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-19", 
+      "action_code": "", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-09-07", 
+      "action_code": "", 
+      "committee": "Committee on Banking, Housing, and Urban Affairs", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2017-09-28", 
+      "action_code": "", 
+      "committee": "Committee on Banking, Housing, and Urban Affairs", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held.", 
+      "type": "hearings"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1591-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001095", 
+      "district": null, 
+      "name": "Cotton, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-09-14", 
+      "state": "AR", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001098", 
+      "district": null, 
+      "name": "Cruz, Ted", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-26", 
+      "state": "TX", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001042", 
+      "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-09-06", 
+      "state": "HI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001184", 
+      "district": null, 
+      "name": "Scott, Tim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-27", 
+      "state": "SC", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000461", 
+      "district": null, 
+      "name": "Toomey, Pat", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-19", 
+      "state": "PA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-09-07", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-19", 
+  "number": "1591", 
+  "official_title": "A bill to impose sanctions with respect to the Democratic People's Republic of Korea, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Banking Restrictions Involving North Korea (BRINK) Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "V000128", 
+    "district": null, 
+    "name": "Van Hollen, Chris", 
+    "state": "MD", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-07-19", 
+  "subjects": [
+    "Arms control and nonproliferation", 
+    "Asia", 
+    "Bangladesh", 
+    "Bank accounts, deposits, capital", 
+    "Banking and financial institutions regulation", 
+    "Chemical and biological weapons", 
+    "Civil actions and liability", 
+    "Congressional oversight", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Detention of persons", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Employee benefits and pensions", 
+    "Financial services and investments", 
+    "Foreign aid and international relief", 
+    "Foreign and international banking", 
+    "Foreign loans and debt", 
+    "Foreign property", 
+    "Fraud offenses and financial crimes", 
+    "Industrial facilities", 
+    "International affairs", 
+    "International monetary system and foreign exchange", 
+    "Legislative rules and procedure", 
+    "Licensing and registrations", 
+    "Multilateral development programs", 
+    "North Korea", 
+    "Nuclear weapons", 
+    "Sanctions", 
+    "State and local finance", 
+    "Technology transfer and commercialization", 
+    "Trade restrictions", 
+    "U.S. and foreign investments", 
+    "United Nations"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Banking Restrictions Involving North Korea (BRINK) Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Banking Restrictions Involving North Korea (BRINK) Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to impose sanctions with respect to the Democratic People's Republic of Korea, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Banking Restrictions Involving North Korea (BRINK) Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-09-29T04:37:45Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1591.xml"
+}

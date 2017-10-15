@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MT</state>
+        <bioguideId>T000464</bioguideId>
+        <middleName />
+        <firstName>Jon</firstName>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Tester</lastName>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MN</state>
+        <bioguideId>F000457</bioguideId>
+        <middleName />
+        <firstName>Al</firstName>
+        <identifiers>
+          <lisID>1969</lisID>
+          <bioguideId>F000457</bioguideId>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Franken</lastName>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NM</state>
+        <bioguideId>H001046</bioguideId>
+        <middleName />
+        <firstName>Martin</firstName>
+        <identifiers>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Heinrich</lastName>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OR</state>
+        <bioguideId>M001176</bioguideId>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Merkley</lastName>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MA</state>
+        <bioguideId>W000817</bioguideId>
+        <middleName>A.</middleName>
+        <firstName>Elizabeth</firstName>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Warren</lastName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>H001069</bioguideId>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <party>D</party>
+        <state>ND</state>
+        <firstName>Heidi</firstName>
+        <byRequestType />
+        <lastName>Heitkamp</lastName>
+        <identifiers>
+          <bioguideId>H001069</bioguideId>
+          <lisID>2174</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <actionDate>2017-10-05</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S6363-6365)</text>
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6363-6365</url>
+            <name>S6363-6365</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S6363-6365)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2017-10-05</actionDate>
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <title>A bill to direct the Attorney General to review, revise, and develop law enforcement and justice protocols appropriate to address missing and murdered Indians, and for other purposes.</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Indian Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Other</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-05T19:05:14Z</date>
+            </item>
+          </activities>
+          <systemCode>slia00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>1942</billNumber>
+    <introducedDate>2017-10-05</introducedDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <amendments />
+    <notes />
+    <updateDate>2017-10-10T12:27:09Z</updateDate>
+    <committeeReports />
+    <congress>115</congress>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to direct the Attorney General to review, revise, and develop law enforcement and justice protocols appropriate to address missing and murdered Indians, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to direct the Attorney General to review, revise, and develop law enforcement and justice protocols appropriate to address missing and murdered Indians, and for other purposes.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <createDate>2017-10-06T00:41:19Z</createDate>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

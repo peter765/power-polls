@@ -1,0 +1,55 @@
+<bill session="115" type="h" number="1917" updated="2017-09-26T07:16:25Z">
+  <state datetime="2017-04-05">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-05"/>
+  </status>
+  <introduced datetime="2017-04-05"/>
+  <titles>
+    <title type="short" as="introduced">Blocking Regulatory Interference from Closing Kilns Act of 2017</title>
+    <title type="short" as="introduced">Blocking Regulatory Interference from Closing Kilns Act of 2017</title>
+    <title type="official" as="introduced">To allow for judicial review of any final rule addressing national emission standards for hazardous air pollutants for brick and structural clay products or for clay ceramics manufacturing before requiring compliance with such rule.</title>
+    <title type="display">Blocking Regulatory Interference from Closing Kilns Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="J000292"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000490" joined="2017-04-05"/>
+    <cosponsor bioguide_id="C001096" joined="2017-09-25"/>
+    <cosponsor bioguide_id="M001151" joined="2017-04-05"/>
+    <cosponsor bioguide_id="R000591" joined="2017-04-05"/>
+    <cosponsor bioguide_id="S000250" joined="2017-04-05"/>
+    <cosponsor bioguide_id="S001185" joined="2017-04-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-05">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-05" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2017-04-07">
+      <text>Referred to the Subcommittee on Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Environment and the Economy" code="HSIF18" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="839"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Manufacturing"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-04-05T04:00:00Z" status="Introduced in House">Blocking Regulatory Interference from Closing Kilns Act of 2017
+
+This bill prohibits the Environmental Protection Agency from requiring compliance with Clean Air Act rules concerning national emission standards for hazardous air pollutants with respect to brick and structural clay products manufacturing or clay ceramics manufacturing until judicial reviews of the rules are complete.</summary>
+  <committee-reports/>
+</bill>

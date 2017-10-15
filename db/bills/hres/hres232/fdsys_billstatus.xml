@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>10</number>
+        <latestAction>
+          <actionDate>2017-01-25</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <latestTitle>Recognizing linemen, the profession of linemen, the contributions of these brave men and women who protect public safety, and expressing support for the designation of April 18, 2017, as National Lineman Appreciation Day.</latestTitle>
+        <type>HRES</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <updateDate>2017-09-19T18:00:12Z</updateDate>
+    <actions>
+      <item>
+        <actionDate>2017-03-31</actionDate>
+        <committee>
+          <systemCode>hsif03</systemCode>
+          <name>Energy and Power Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-03-27</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-03-27</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-03-27</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <notes />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>R</party>
+        <bioguideId>R000603</bioguideId>
+        <lastName>Rouzer</lastName>
+        <state>NC</state>
+        <middleName />
+        <firstName>David</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000603</bioguideId>
+          <lisID>2256</lisID>
+        </identifiers>
+        <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
+        <district>7</district>
+      </item>
+    </sponsors>
+    <title>Recognizing linemen, the profession of linemen, the contributions of these brave men and women who protect public safety, and expressing support for the designation of April 18, 2017, as National Lineman Appreciation Day.</title>
+    <laws />
+    <introducedDate>2017-03-27</introducedDate>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-08-14T15:51:47Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-27</actionDate>
+          <text><![CDATA[<p>Recognizes the efforts of linemen in keeping the electrical power on and protecting public safety.</p> <p>Expresses support for the designation of National Lineman Appreciation Day.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2017-03-27T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-03-27T16:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-03-31T13:14:09Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif03</systemCode>
+              <name>Energy and Power Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>2130</lisID>
+          <gpoId />
+          <bioguideId>M001189</bioguideId>
+        </identifiers>
+        <firstName>Luke</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Messer</lastName>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <bioguideId>M001189</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <state>IN</state>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>2128</lisID>
+          <bioguideId>W000813</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Jackie</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Walorski</lastName>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <bioguideId>W000813</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <state>IN</state>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2140</lisID>
+          <bioguideId>H001067</bioguideId>
+        </identifiers>
+        <firstName>Richard</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Hudson</lastName>
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <bioguideId>H001067</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <state>NC</state>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7888</gpoId>
+          <lisID>1916</lisID>
+          <bioguideId>R000583</bioguideId>
+        </identifiers>
+        <firstName>Thomas</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <lastName>Rooney</lastName>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <bioguideId>R000583</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>17</district>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <state>FL</state>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <firstName>STEVE</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>CHABOT</lastName>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <bioguideId>C000266</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <state>OH</state>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001299</bioguideId>
+          <gpoId />
+          <lisID>2326</lisID>
+        </identifiers>
+        <firstName>Jim</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Banks</lastName>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <bioguideId>B001299</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <state>IN</state>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+        </identifiers>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Meadows</lastName>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <bioguideId>M001187</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+        <sponsorshipDate>2017-04-12</sponsorshipDate>
+        <state>NC</state>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001202</bioguideId>
+          <lisID>2318</lisID>
+        </identifiers>
+        <firstName>Stephanie</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>N.</middleName>
+        <lastName>Murphy</lastName>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <bioguideId>M001202</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <sponsorshipDate>2017-04-12</sponsorshipDate>
+        <state>FL</state>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+        </identifiers>
+        <firstName>WALTER</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <lastName>JONES</lastName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <bioguideId>J000255</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <sponsorshipDate>2017-04-12</sponsorshipDate>
+        <state>NC</state>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>Y000065</bioguideId>
+          <lisID>2115</lisID>
+        </identifiers>
+        <firstName>Ted</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>S.</middleName>
+        <lastName>Yoho</lastName>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <bioguideId>Y000065</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <sponsorshipDate>2017-04-12</sponsorshipDate>
+        <state>FL</state>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Posey</lastName>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <bioguideId>P000599</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <sponsorshipDate>2017-04-12</sponsorshipDate>
+        <state>FL</state>
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>2315</lisID>
+          <bioguideId>D000628</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Neal</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <lastName>Dunn</lastName>
+        <fullName>Rep. Dunn, Neal P. [R-FL-2]</fullName>
+        <bioguideId>D000628</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <state>FL</state>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001111</bioguideId>
+          <gpoId />
+          <lisID>2321</lisID>
+        </identifiers>
+        <firstName>Charlie</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Crist</lastName>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <bioguideId>C001111</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>13</district>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <state>FL</state>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>2153</lisID>
+          <gpoId />
+          <bioguideId>B001281</bioguideId>
+        </identifiers>
+        <firstName>Joyce</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Beatty</lastName>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <bioguideId>B001281</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <state>OH</state>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <billType>HRES</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <createDate>2017-03-28T05:32:29Z</createDate>
+    <latestAction>
+      <actionDate>2017-03-31</actionDate>
+      <text>Referred to the Subcommittee on Energy.</text>
+      <links />
+    </latestAction>
+    <constitutionalAuthorityStatementText />
+    <billNumber>232</billNumber>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Recognizing linemen, the profession of linemen, the contributions of these brave men and women who protect public safety, and expressing support for the designation of April 18, 2017, as National Lineman Appreciation Day.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Recognizing linemen, the profession of linemen, the contributions of these brave men and women who protect public safety, and expressing support for the designation of April 18, 2017, as National Lineman Appreciation Day.</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

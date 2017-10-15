@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Placed on the House Calendar, Calendar No. 88.</text>
+      <links />
+      <actionDate>2017-09-28</actionDate>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Of inquiry requesting the President and directing the Attorney General to transmit, respectively, certain documents to the House of Representatives relating to the removal of former Federal Bureau of Investigation Director James Comey.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Of inquiry requesting the President and directing the Attorney General to transmit, respectively, certain documents to the House of Representatives relating to the removal of former Federal Bureau of Investigation Director James Comey.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <createDate>2017-07-29T03:11:32Z</createDate>
+    <updateDate>2017-09-30T08:56:11Z</updateDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-335</citation>
+      </committeeReport>
+    </committeeReports>
+    <laws />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <introducedDate>2017-07-28</introducedDate>
+    <cosponsors>
+      <item>
+        <firstName>Pramila</firstName>
+        <identifiers>
+          <bioguideId>J000298</bioguideId>
+          <lisID>2354</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <middleName />
+        <district>7</district>
+        <lastName>Jayapal</lastName>
+        <state>WA</state>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <bioguideId>J000298</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>JERROLD</firstName>
+        <identifiers>
+          <gpoId>8069</gpoId>
+          <lisID>850</lisID>
+          <bioguideId>N000002</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <middleName />
+        <district>10</district>
+        <lastName>NADLER</lastName>
+        <state>NY</state>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <bioguideId>N000002</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>MARCY</firstName>
+        <identifiers>
+          <gpoId>8099</gpoId>
+          <bioguideId>K000009</bioguideId>
+          <lisID>616</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <middleName />
+        <district>9</district>
+        <lastName>KAPTUR</lastName>
+        <state>OH</state>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <bioguideId>K000009</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Henry</firstName>
+        <identifiers>
+          <lisID>1843</lisID>
+          <bioguideId>J000288</bioguideId>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <middleName>C. "Hank"</middleName>
+        <district>4</district>
+        <lastName>Johnson</lastName>
+        <state>GA</state>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <bioguideId>J000288</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+        <middleName />
+        <district>9</district>
+        <lastName>Cohen</lastName>
+        <state>TN</state>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <bioguideId>C001068</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Dwight</firstName>
+        <identifiers>
+          <lisID>2298</lisID>
+          <gpoId />
+          <bioguideId>E000296</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+        <middleName />
+        <district>2</district>
+        <lastName>Evans</lastName>
+        <state>PA</state>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <bioguideId>E000296</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>A.</firstName>
+        <identifiers>
+          <lisID>2352</lisID>
+          <gpoId />
+          <bioguideId>M001200</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+        <middleName>Donald</middleName>
+        <district>4</district>
+        <lastName>McEachin</lastName>
+        <state>VA</state>
+        <fullName>Rep. McEachin, A. Donald [D-VA-4]</fullName>
+        <bioguideId>M001200</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>BARBARA</firstName>
+        <identifiers>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+        <middleName />
+        <district>13</district>
+        <lastName>LEE</lastName>
+        <state>CA</state>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <bioguideId>L000551</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Peter</firstName>
+        <identifiers>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+          <lisID>1879</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+        <middleName />
+        <district>0</district>
+        <lastName>Welch</lastName>
+        <state>VT</state>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <bioguideId>W000800</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Bradley</firstName>
+        <identifiers>
+          <bioguideId>S001190</bioguideId>
+          <gpoId />
+          <lisID>2124</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+        <middleName>Scott</middleName>
+        <district>10</district>
+        <lastName>Schneider</lastName>
+        <state>IL</state>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+        <bioguideId>S001190</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Raja</firstName>
+        <identifiers>
+          <lisID>2325</lisID>
+          <bioguideId>K000391</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+        <middleName />
+        <district>8</district>
+        <lastName>Krishnamoorthi</lastName>
+        <state>IL</state>
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <bioguideId>K000391</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>NITA</firstName>
+        <identifiers>
+          <lisID>709</lisID>
+          <gpoId>8079</gpoId>
+          <bioguideId>L000480</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+        <middleName>M.</middleName>
+        <district>17</district>
+        <lastName>LOWEY</lastName>
+        <state>NY</state>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+        <bioguideId>L000480</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>EARL</firstName>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+        <middleName />
+        <district>3</district>
+        <lastName>BLUMENAUER</lastName>
+        <state>OR</state>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <bioguideId>B000574</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>ZOE</firstName>
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+          <lisID>701</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+        <middleName />
+        <district>19</district>
+        <lastName>LOFGREN</lastName>
+        <state>CA</state>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <bioguideId>L000397</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>BRAD</firstName>
+        <identifiers>
+          <gpoId>7832</gpoId>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+        <middleName />
+        <district>30</district>
+        <lastName>SHERMAN</lastName>
+        <state>CA</state>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <bioguideId>S000344</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Cedric</firstName>
+        <identifiers>
+          <lisID>2023</lisID>
+          <bioguideId>R000588</bioguideId>
+          <gpoId>7960</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-08-22</sponsorshipDate>
+        <middleName>L.</middleName>
+        <district>2</district>
+        <lastName>Richmond</lastName>
+        <state>LA</state>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <bioguideId>R000588</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Eric</firstName>
+        <identifiers>
+          <lisID>2104</lisID>
+          <gpoId />
+          <bioguideId>S001193</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-08-22</sponsorshipDate>
+        <middleName />
+        <district>15</district>
+        <lastName>Swalwell</lastName>
+        <state>CA</state>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <bioguideId>S001193</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>LUIS</firstName>
+        <identifiers>
+          <gpoId>7924</gpoId>
+          <lisID>478</lisID>
+          <bioguideId>G000535</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-08-22</sponsorshipDate>
+        <middleName>V.</middleName>
+        <district>4</district>
+        <lastName>GUTIERREZ</lastName>
+        <state>IL</state>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <bioguideId>G000535</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>ADAM</firstName>
+        <identifiers>
+          <gpoId>8213</gpoId>
+          <bioguideId>S000510</bioguideId>
+          <lisID>1528</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-22</sponsorshipDate>
+        <middleName />
+        <district>9</district>
+        <lastName>SMITH</lastName>
+        <state>WA</state>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+        <bioguideId>S000510</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Jamie</firstName>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <gpoId />
+          <lisID>2332</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-22</sponsorshipDate>
+        <middleName />
+        <district>8</district>
+        <lastName>Raskin</lastName>
+        <state>MD</state>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <bioguideId>R000606</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Julia</firstName>
+        <identifiers>
+          <lisID>2106</lisID>
+          <bioguideId>B001285</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-08-22</sponsorshipDate>
+        <middleName />
+        <district>26</district>
+        <lastName>Brownley</lastName>
+        <state>CA</state>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <bioguideId>B001285</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Ted</firstName>
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+          <lisID>2230</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <middleName />
+        <district>33</district>
+        <lastName>Lieu</lastName>
+        <state>CA</state>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <bioguideId>L000582</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Keith</firstName>
+        <identifiers>
+          <gpoId>8005</gpoId>
+          <lisID>1857</lisID>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <middleName />
+        <district>5</district>
+        <lastName>Ellison</lastName>
+        <state>MN</state>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <bioguideId>E000288</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <calendarNumbers>
+      <item>
+        <calendar>H00088</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Congressional-executive branch relations</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Espionage and treason</name>
+          </item>
+          <item>
+            <name>Federal Bureau of Investigation (FBI)</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Russia</name>
+          </item>
+          <item>
+            <name>Senate Select Committee on Intelligence</name>
+          </item>
+          <item>
+            <name>Sound recording</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Placed on the House Calendar, Calendar No. 82.</text>
+          <actionDate>2017-09-08</actionDate>
+        </latestAction>
+        <latestTitle>Of inquiry requesting the President and directing the Attorney General to transmit, respectively, certain documents to the House of Representatives relating to the removal of former Federal Bureau of Investigation Director James Comey.</latestTitle>
+        <number>446</number>
+        <type>HRES</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <billReferrals>1</billReferrals>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <actionStageOverride>1</actionStageOverride>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+      </actionTypeCounts>
+      <item>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <actionDate>2017-09-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Placed on the House Calendar, Calendar No. 88.</text>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <actionDate>2017-09-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Reported adversely (Amended) by the Committee on Judiciary. H. Rept. 115-335.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/335</url>
+            <name>H. Rept. 115-335</name>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <actionDate>2017-09-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Reported adversely (Amended) by the Committee on Judiciary. H. Rept. 115-335.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/335</url>
+            <name>H. Rept. 115-335</name>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported Unfavorably (Amended) by the Yeas and Nays: 23 - 8.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <title>Of inquiry requesting the President and directing the Attorney General to transmit, respectively, certain documents to the House of Representatives relating to the removal of former Federal Bureau of Investigation Director James Comey.</title>
+    <billType>HRES</billType>
+    <congress>115</congress>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <lastName>Cicilline</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2055</lisID>
+          <bioguideId>C001084</bioguideId>
+          <gpoId>8139</gpoId>
+        </identifiers>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <middleName>N.</middleName>
+        <byRequestType />
+        <firstName>David</firstName>
+        <district>1</district>
+        <state>RI</state>
+        <bioguideId>C001084</bioguideId>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-09-28T15:46:05Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-09-07T21:15:36Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-07-28T13:05:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>488</billNumber>
+    <constitutionalAuthorityStatementText />
+    <amendments />
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

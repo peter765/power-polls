@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText />
+    <congress>115</congress>
+    <cboCostEstimates />
+    <updateDate>2017-10-13T07:23:43Z</updateDate>
+    <latestAction>
+      <actionDate>2017-10-12</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-10-12T14:02:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <introducedDate>2017-10-12</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <notes />
+    <billType>HR</billType>
+    <policyArea />
+    <laws />
+    <billNumber>4047</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      </item>
+      <item>
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2017-10-12</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <committeeReports />
+    <title>To provide for the identification and prevention of improper payments and the identification of strategic sourcing opportunities by reviewing and analyzing the use of Federal agency charge cards.</title>
+    <createDate>2017-10-13T03:11:23Z</createDate>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide for the identification and prevention of improper payments and the identification of strategic sourcing opportunities by reviewing and analyzing the use of Federal agency charge cards.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>To provide for the identification and prevention of improper payments and the identification of strategic sourcing opportunities by reviewing and analyzing the use of Federal agency charge cards.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>IL</state>
+        <byRequestType />
+        <bioguideId>B001286</bioguideId>
+        <firstName>Cheri</firstName>
+        <identifiers>
+          <lisID>2127</lisID>
+          <gpoId />
+          <bioguideId>B001286</bioguideId>
+        </identifiers>
+        <middleName />
+        <district>17</district>
+        <lastName>Bustos</lastName>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+      </item>
+    </sponsors>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

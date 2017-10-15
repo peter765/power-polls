@@ -1,0 +1,55 @@
+<bill session="115" type="h" number="1685" updated="2017-09-11T03:02:57Z">
+  <state datetime="2017-03-22">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-22"/>
+  </status>
+  <introduced datetime="2017-03-22"/>
+  <titles>
+    <title type="short" as="introduced">Honor Our Commitment Act of 2017</title>
+    <title type="short" as="introduced">Honor Our Commitment Act of 2017</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to furnish mental and behavioral health care to certain individuals discharged or released from the active military, naval, or air service under conditions other than honorable, and for other purposes.</title>
+    <title type="display">Honor Our Commitment Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="O000170"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001295" joined="2017-03-22"/>
+    <cosponsor bioguide_id="D000191" joined="2017-07-12"/>
+    <cosponsor bioguide_id="G000581" joined="2017-07-12"/>
+    <cosponsor bioguide_id="K000389" joined="2017-07-12"/>
+    <cosponsor bioguide_id="M001196" joined="2017-07-12"/>
+    <cosponsor bioguide_id="P000608" joined="2017-03-29"/>
+    <cosponsor bioguide_id="R000602" joined="2017-07-19"/>
+    <cosponsor bioguide_id="S001191" joined="2017-07-11"/>
+    <cosponsor bioguide_id="V000131" joined="2017-07-19"/>
+    <cosponsor bioguide_id="V000132" joined="2017-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-22">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-03-22" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-03-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1557"/>
+    <bill type="s" session="115" relation="unknown" number="699"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Mental health"/>
+    <term name="Military operations and strategy"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

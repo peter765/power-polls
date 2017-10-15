@@ -1,0 +1,37 @@
+<bill session="115" type="s" number="1100" updated="2017-09-19T19:30:12Z">
+  <state datetime="2017-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-11"/>
+  </status>
+  <introduced datetime="2017-05-11"/>
+  <titles>
+    <title type="short" as="introduced">Small Shipyards and Maritime Communities Act</title>
+    <title type="short" as="introduced">Small Shipyards and Maritime Communities Act</title>
+    <title type="official" as="introduced">A bill to amend title 46, United States Code, to authorize appropriations for the program to provide assistance for small shipyards and maritime communities through fiscal year 2020, and for other purposes.</title>
+    <title type="display">Small Shipyards and Maritime Communities Act</title>
+  </titles>
+  <sponsor bioguide_id="B001230"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001075" joined="2017-05-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-11">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="3201"/>
+    <bill type="s" session="115" relation="unknown" number="1096"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

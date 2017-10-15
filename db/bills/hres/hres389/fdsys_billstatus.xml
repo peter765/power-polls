@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <type>HRES</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+          <actionDate>2017-06-07</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>343</number>
+        <latestTitle>Restore Democracy Resolution</latestTitle>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <billType>HRES</billType>
+    <actions>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <committee>
+          <name>Constitution and Civil Justice Subcommittee</name>
+          <systemCode>hsju10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to House Judiciary</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-06-15</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <text>Referred to House Administration</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-06-15</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <text>Referred to the Committee on House Administration, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100-A</actionCode>
+        <actionDate>2017-06-15</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-06-15</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-06-15</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Expresses the sense of the House of Representatives that: (1) the case of <i>Citizens United v. Federal Election Commission </i>opened the door to the corrupting influence of money in politics, (2) Congress should have the power to regulate the raising and spending of money and in-kind equivalents with respect to federal elections, and (3) all political contributions should be publicly disclosed so that voters have complete information about who is paying for political advertisements.</p>]]></text>
+          <actionDate>2017-06-15</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-06-15T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-09-25T19:17:05Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <createDate>2017-06-16T03:11:35Z</createDate>
+    <latestAction>
+      <links />
+      <actionDate>2017-07-12</actionDate>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </latestAction>
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <firstName>RICHARD</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>867</lisID>
+          <bioguideId>N000127</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <state>MN</state>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <bioguideId>N000127</bioguideId>
+        <middleName />
+        <district>8</district>
+        <party>D</party>
+        <lastName>NOLAN</lastName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cosponsors />
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-06-15T14:00:26Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Constitution and Civil Justice Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-07-12T21:16:49Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju10</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-06-15T14:00:21Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText />
+    <version>1.0.0</version>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Expressing the sense of the House of Representatives regarding the need to reduce the influence of money in politics.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Expressing the sense of the House of Representatives regarding the need to reduce the influence of money in politics.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <title>Expressing the sense of the House of Representatives regarding the need to reduce the influence of money in politics.</title>
+    <amendments />
+    <introducedDate>2017-06-15</introducedDate>
+    <updateDate>2017-09-25T19:30:10Z</updateDate>
+    <billNumber>389</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional elections</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Political advertising</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

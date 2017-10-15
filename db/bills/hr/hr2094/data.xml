@@ -1,0 +1,52 @@
+<bill session="115" type="h" number="2094" updated="2017-09-11T03:02:59Z">
+  <state datetime="2017-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-14"/>
+  </status>
+  <introduced datetime="2017-04-14"/>
+  <titles>
+    <title type="short" as="introduced">Lead Free Schools Act of 2017</title>
+    <title type="short" as="introduced">Lead Free Schools Act of 2017</title>
+    <title type="official" as="introduced">To amend the Safe Drinking Water Act to establish deadlines for promulgation of national primary drinking water regulations for certain contaminants, and for other purposes.</title>
+    <title type="display">Lead Free Schools Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="G000583"/>
+  <cosponsors>
+    <cosponsor bioguide_id="F000466" joined="2017-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-14">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2017-04-14">
+      <text>Referred to the Subcommittee on Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Environment and the Economy" code="HSIF18" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2479"/>
+    <bill type="h" session="115" relation="unknown" number="3106"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Child health"/>
+    <term name="Education programs funding"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Metals"/>
+    <term name="Water quality"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="115" type="h" number="3946" updated="2017-10-12T14:15:15Z">
+  <state datetime="2017-10-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-04"/>
+  </status>
+  <introduced datetime="2017-10-04"/>
+  <titles>
+    <title type="official" as="introduced">To name the Department of Veterans Affairs community-based outpatient clinic in Statesboro, Georgia, the "Ray Hendrix Veterans Clinic".</title>
+    <title type="display">To name the Department of Veterans Affairs community-based outpatient clinic in Statesboro, Georgia, the "Ray Hendrix Veterans Clinic".</title>
+  </titles>
+  <sponsor bioguide_id="A000372"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B000490" joined="2017-10-04"/>
+    <cosponsor bioguide_id="C001103" joined="2017-10-04"/>
+    <cosponsor bioguide_id="C001093" joined="2017-10-04"/>
+    <cosponsor bioguide_id="F000465" joined="2017-10-04"/>
+    <cosponsor bioguide_id="G000560" joined="2017-10-04"/>
+    <cosponsor bioguide_id="H001078" joined="2017-10-04"/>
+    <cosponsor bioguide_id="H001071" joined="2017-10-04"/>
+    <cosponsor bioguide_id="J000288" joined="2017-10-04"/>
+    <cosponsor bioguide_id="L000287" joined="2017-10-04"/>
+    <cosponsor bioguide_id="L000583" joined="2017-10-04"/>
+    <cosponsor bioguide_id="S001189" joined="2017-10-04"/>
+    <cosponsor bioguide_id="S001157" joined="2017-10-04"/>
+    <cosponsor bioguide_id="W000810" joined="2017-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-04">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-04" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

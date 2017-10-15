@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-09-01", 
+      "action_code": "", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Conservation and Forestry.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-10-04", 
+      "action_code": "", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-04", 
+      "action_code": "", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3567-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Conservation and Forestry", 
+      "subcommittee_id": "15"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "T000472", 
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-28", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-10-04", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-28", 
+  "number": "3567", 
+  "official_title": "To authorize the purchase of a small parcel of Natural Resources Conservation Service property in Riverside, California, by the Riverside Corona Resource Conservation District, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "C000059", 
+    "district": "42", 
+    "name": "Calvert, Ken", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-10-04", 
+  "subjects": [
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-07-28T04:00:00Z", 
+    "text": "This bill directs the Department of Agriculture to sell and quitclaim all right, title, and interest of the United States in and to a parcel of real property, including improvements, located at 4500 Glenwood Drive in Riverside, California, consisting of approximately 8.75 acres and administered by the Natural Resources Conservation Service, to the Riverside Corona Resource Conservation District."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the purchase of a small parcel of Natural Resources Conservation Service property in Riverside, California, by the Riverside Corona Resource Conservation District, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To authorize the purchase of a small parcel of Natural Resources Conservation Service property in Riverside, California, by the Riverside Corona Resource Conservation District, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-12T07:12:57Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3567.xml"
+}

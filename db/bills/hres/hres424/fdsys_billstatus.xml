@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2017-06-30</actionDate>
+        <committee>
+          <name>Aviation Subcommittee</name>
+          <systemCode>hspw05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Congratulating the National Air Traffic Controllers Association (in this resolution referred to as "NATCA") on the celebration of its 30th anniversary and recognizing its members' vital contributions to the United States and our National Airspace System.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Congratulating the National Air Traffic Controllers Association (in this resolution referred to as "NATCA") on the celebration of its 30th anniversary and recognizing its members' vital contributions to the United States and our National Airspace System.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>HRES</billType>
+    <notes />
+    <laws />
+    <cosponsors>
+      <item>
+        <lastName>Shuster</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8127</gpoId>
+          <lisID>1681</lisID>
+          <bioguideId>S001154</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Shuster, Bill [R-PA-9]</fullName>
+        <firstName>Bill</firstName>
+        <party>R</party>
+        <bioguideId>S001154</bioguideId>
+        <district>9</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>LARSEN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1675</lisID>
+          <bioguideId>L000560</bioguideId>
+          <gpoId>8206</gpoId>
+        </identifiers>
+        <middleName />
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <firstName>RICK</firstName>
+        <party>D</party>
+        <bioguideId>L000560</bioguideId>
+        <district>2</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>LOBIONDO</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000554</bioguideId>
+          <gpoId>8044</gpoId>
+          <lisID>699</lisID>
+        </identifiers>
+        <middleName>A.</middleName>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <firstName>FRANK</firstName>
+        <party>R</party>
+        <bioguideId>L000554</bioguideId>
+        <district>2</district>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <lastName>DEFAZIO</lastName>
+        <bioguideId>D000191</bioguideId>
+        <identifiers>
+          <gpoId>8117</gpoId>
+          <bioguideId>D000191</bioguideId>
+          <lisID>279</lisID>
+        </identifiers>
+        <middleName>A.</middleName>
+        <state>OR</state>
+        <district>4</district>
+        <byRequestType />
+        <firstName>PETER</firstName>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <actionDate>2017-06-30</actionDate>
+      <links />
+    </latestAction>
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <committeeReports />
+    <cboCostEstimates />
+    <introducedDate>2017-06-29</introducedDate>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <createDate>2017-06-30T03:11:33Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Transportation and Infrastructure Committee</name>
+          <activities>
+            <item>
+              <date>2017-06-29T14:06:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hspw05</systemCode>
+              <name>Aviation Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-06-30T20:29:52Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <billNumber>424</billNumber>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Labor-management relations</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-09-19T17:30:14Z</updateDate>
+    <calendarNumbers />
+    <title>Congratulating the National Air Traffic Controllers Association (in this resolution referred to as "NATCA") on the celebration of its 30th anniversary and recognizing its members' vital contributions to the United States and our National Airspace System.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-20T15:34:26Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Congratulates and honors the National Air Traffic Controllers Association on the celebration of its 30th anniversary.</p>]]></text>
+          <updateDate>2017-06-29T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-06-29</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

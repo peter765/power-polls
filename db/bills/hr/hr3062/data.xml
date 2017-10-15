@@ -1,0 +1,36 @@
+<bill session="115" type="h" number="3062" updated="2017-09-11T03:06:00Z">
+  <state datetime="2017-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-26"/>
+  </status>
+  <introduced datetime="2017-06-26"/>
+  <titles>
+    <title type="official" as="introduced">To require the Administrator of the Federal Aviation Administration to consider the aircraft registry office in Oklahoma City, Oklahoma, as excepted during a Government shutdown or emergency (as it provides excepted services) to ensure that it remains open during any Government shutdown or emergency.</title>
+    <title type="display">To require the Administrator of the Federal Aviation Administration to consider the aircraft registry office in Oklahoma City, Oklahoma, as excepted during a Government shutdown or emergency (as it provides excepted services) to ensure that it remains open during any Government shutdown or emergency.</title>
+  </titles>
+  <sponsor bioguide_id="R000604"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-06-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-26" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-06-27">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Aviation" code="HSPW05" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1432"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="115" type="h" number="3033" updated="2017-09-11T02:53:53Z">
+  <state datetime="2017-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-23"/>
+  </status>
+  <introduced datetime="2017-06-23"/>
+  <titles>
+    <title type="short" as="introduced">Aeronautics Innovation Act</title>
+    <title type="short" as="introduced">Aeronautics Innovation Act</title>
+    <title type="official" as="introduced">To secure the technological edge of the United States in civil and military aviation.</title>
+    <title type="display">Aeronautics Innovation Act</title>
+  </titles>
+  <sponsor bioguide_id="K000387"/>
+  <cosponsors>
+    <cosponsor bioguide_id="J000295" joined="2017-06-23"/>
+    <cosponsor bioguide_id="K000009" joined="2017-06-23"/>
+    <cosponsor bioguide_id="R000577" joined="2017-06-23"/>
+    <cosponsor bioguide_id="S000185" joined="2017-06-23"/>
+    <cosponsor bioguide_id="S001187" joined="2017-06-23"/>
+    <cosponsor bioguide_id="T000477" joined="2017-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-23">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-23" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

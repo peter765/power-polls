@@ -1,0 +1,45 @@
+<bill session="115" type="s" number="992" updated="2017-06-19T22:00:10Z">
+  <state datetime="2017-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-01"/>
+  </status>
+  <introduced datetime="2017-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Veteran Overmedication Prevention Act of 2017</title>
+    <title type="short" as="introduced">Veteran Overmedication Prevention Act of 2017</title>
+    <title type="official" as="introduced">A bill to direct the Secretary of Veterans Affairs to conduct an independent review of the deaths of certain veterans by suicide, and for other purposes.</title>
+    <title type="display">Veteran Overmedication Prevention Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="M000303"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001230" joined="2017-05-01"/>
+    <cosponsor bioguide_id="B001236" joined="2017-05-08"/>
+    <cosponsor bioguide_id="C001075" joined="2017-05-02"/>
+    <cosponsor bioguide_id="C001095" joined="2017-05-09"/>
+    <cosponsor bioguide_id="M000934" joined="2017-05-02"/>
+    <cosponsor bioguide_id="S001202" joined="2017-05-15"/>
+    <cosponsor bioguide_id="S001198" joined="2017-05-01"/>
+    <cosponsor bioguide_id="T000476" joined="2017-05-01"/>
+    <cosponsor bioguide_id="V000128" joined="2017-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-01">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-01" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="788"/>
+    <bill type="h" session="115" relation="identical" number="2652"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

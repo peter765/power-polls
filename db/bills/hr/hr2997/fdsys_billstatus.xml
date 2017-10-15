@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <district>9</district>
+        <firstName>Bill</firstName>
+        <identifiers>
+          <bioguideId>S001154</bioguideId>
+          <gpoId>8127</gpoId>
+          <lisID>1681</lisID>
+        </identifiers>
+        <lastName>Shuster</lastName>
+        <bioguideId>S001154</bioguideId>
+        <middleName />
+        <fullName>Rep. Shuster, Bill [R-PA-9]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <state>PA</state>
+      </item>
+    </sponsors>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-296</citation>
+      </committeeReport>
+    </committeeReports>
+    <billNumber>2997</billNumber>
+    <updateDate>2017-10-05T11:45:13Z</updateDate>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 2997, 21st Century Aviation Innovation, Reform, and Reauthorization Act</title>
+        <pubDate>2017-09-25T15:23:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/53130</url>
+      </item>
+    </cboCostEstimates>
+    <notes />
+    <cosponsors>
+      <item>
+        <firstName>FRANK</firstName>
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <bioguideId>L000554</bioguideId>
+        <identifiers>
+          <bioguideId>L000554</bioguideId>
+          <lisID>699</lisID>
+          <gpoId>8044</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>LOBIONDO</lastName>
+        <state>NJ</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <middleName>A.</middleName>
+        <district>2</district>
+      </item>
+      <item>
+        <firstName>SAM</firstName>
+        <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
+        <bioguideId>G000546</bioguideId>
+        <identifiers>
+          <gpoId>8014</gpoId>
+          <lisID>1656</lisID>
+          <bioguideId>G000546</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>GRAVES</lastName>
+        <state>MO</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <middleName />
+        <district>6</district>
+      </item>
+      <item>
+        <firstName>Paul</firstName>
+        <fullName>Rep. Mitchell, Paul [R-MI-10]</fullName>
+        <bioguideId>M001201</bioguideId>
+        <identifiers>
+          <lisID>2334</lisID>
+          <bioguideId>M001201</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Mitchell</lastName>
+        <state>MI</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <middleName />
+        <district>10</district>
+      </item>
+      <item>
+        <firstName>Colleen</firstName>
+        <fullName>Rep. Hanabusa, Colleen [D-HI-1]</fullName>
+        <bioguideId>H001050</bioguideId>
+        <identifiers>
+          <bioguideId>H001050</bioguideId>
+          <lisID>2010</lisID>
+          <gpoId>7912</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hanabusa</lastName>
+        <state>HI</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <middleName />
+        <district>1</district>
+      </item>
+      <item>
+        <firstName>Kyrsten</firstName>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <bioguideId>S001191</bioguideId>
+        <identifiers>
+          <lisID>2099</lisID>
+          <gpoId />
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Sinema</lastName>
+        <state>AZ</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <middleName />
+        <district>9</district>
+      </item>
+      <item>
+        <firstName>Lloyd</firstName>
+        <fullName>Rep. Smucker, Lloyd [R-PA-16]</fullName>
+        <bioguideId>S001199</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001199</bioguideId>
+          <lisID>2346</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Smucker</lastName>
+        <state>PA</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName />
+        <district>16</district>
+      </item>
+      <item>
+        <firstName>Blake</firstName>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <bioguideId>F000460</bioguideId>
+        <identifiers>
+          <bioguideId>F000460</bioguideId>
+          <lisID>2067</lisID>
+          <gpoId>8183</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Farenthold</lastName>
+        <state>TX</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName />
+        <district>27</district>
+      </item>
+      <item>
+        <firstName>Bruce</firstName>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <bioguideId>W000821</bioguideId>
+        <identifiers>
+          <bioguideId>W000821</bioguideId>
+          <lisID>2224</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Westerman</lastName>
+        <state>AR</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName />
+        <district>4</district>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <fullName>Rep. Faso, John J. [R-NY-19]</fullName>
+        <bioguideId>F000464</bioguideId>
+        <identifiers>
+          <lisID>2343</lisID>
+          <gpoId />
+          <bioguideId>F000464</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Faso</lastName>
+        <state>NY</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName>J.</middleName>
+        <district>19</district>
+      </item>
+      <item>
+        <firstName>Doug</firstName>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <bioguideId>L000578</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000578</bioguideId>
+          <lisID>2100</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>LaMalfa</lastName>
+        <state>CA</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName />
+        <district>1</district>
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <bioguideId>M001199</bioguideId>
+        <identifiers>
+          <lisID>2322</lisID>
+          <bioguideId>M001199</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Mast</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName>J.</middleName>
+        <district>18</district>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <fullName>Rep. Sanford, Mark [R-SC-1]</fullName>
+        <bioguideId>S000051</bioguideId>
+        <identifiers>
+          <lisID>1012</lisID>
+          <gpoId />
+          <bioguideId>S000051</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Sanford</lastName>
+        <state>SC</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName />
+        <district>1</district>
+      </item>
+      <item>
+        <firstName>Jeff</firstName>
+        <fullName>Rep. Denham, Jeff [R-CA-10]</fullName>
+        <bioguideId>D000612</bioguideId>
+        <identifiers>
+          <bioguideId>D000612</bioguideId>
+          <lisID>1995</lisID>
+          <gpoId>7824</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Denham</lastName>
+        <state>CA</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName />
+        <district>10</district>
+      </item>
+      <item>
+        <firstName>Jason</firstName>
+        <fullName>Rep. Lewis, Jason [R-MN-2]</fullName>
+        <bioguideId>L000587</bioguideId>
+        <identifiers>
+          <lisID>2335</lisID>
+          <gpoId />
+          <bioguideId>L000587</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lewis</lastName>
+        <state>MN</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName />
+        <district>2</district>
+      </item>
+      <item>
+        <firstName>Andy</firstName>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <bioguideId>B001302</bioguideId>
+        <identifiers>
+          <lisID>2307</lisID>
+          <bioguideId>B001302</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Biggs</lastName>
+        <state>AZ</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName />
+        <district>5</district>
+      </item>
+      <item>
+        <firstName>Rodney</firstName>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <bioguideId>D000619</bioguideId>
+        <identifiers>
+          <bioguideId>D000619</bioguideId>
+          <gpoId />
+          <lisID>2126</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Davis</lastName>
+        <state>IL</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName />
+        <district>13</district>
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <bioguideId>D000533</bioguideId>
+        <identifiers>
+          <gpoId>8149</gpoId>
+          <lisID>322</lisID>
+          <bioguideId>D000533</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>DUNCAN</lastName>
+        <state>TN</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName>J.</middleName>
+        <district>2</district>
+      </item>
+      <item>
+        <firstName>Eric</firstName>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <bioguideId>C001087</bioguideId>
+        <identifiers>
+          <bioguideId>C001087</bioguideId>
+          <lisID>1989</lisID>
+          <gpoId>7793</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Crawford</lastName>
+        <state>AR</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName>A. "Rick"</middleName>
+        <district>1</district>
+      </item>
+      <item>
+        <firstName>Rob</firstName>
+        <fullName>Rep. Woodall, Rob [R-GA-7]</fullName>
+        <bioguideId>W000810</bioguideId>
+        <identifiers>
+          <lisID>2008</lisID>
+          <gpoId>7904</gpoId>
+          <bioguideId>W000810</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Woodall</lastName>
+        <state>GA</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName />
+        <district>7</district>
+      </item>
+      <item>
+        <firstName>Luke</firstName>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <bioguideId>M001189</bioguideId>
+        <identifiers>
+          <bioguideId>M001189</bioguideId>
+          <lisID>2130</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Messer</lastName>
+        <state>IN</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <middleName />
+        <district>6</district>
+      </item>
+      <item>
+        <firstName>Don</firstName>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <bioguideId>B001298</bioguideId>
+        <identifiers>
+          <lisID>2337</lisID>
+          <gpoId />
+          <bioguideId>B001298</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bacon</lastName>
+        <state>NE</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-08-18</sponsorshipDate>
+        <middleName />
+        <district>2</district>
+      </item>
+      <item>
+        <firstName>Vicente</firstName>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <bioguideId>G000581</bioguideId>
+        <identifiers>
+          <lisID>2349</lisID>
+          <gpoId />
+          <bioguideId>G000581</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gonzalez</lastName>
+        <state>TX</state>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <middleName />
+        <district>15</district>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <number>2928</number>
+        <latestAction>
+          <actionDate>2017-06-16</actionDate>
+          <text>Referred to the Subcommittee on Aviation.</text>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>To direct the Secretary of Transportation to issue regulations to require air carriers to disclose to consumers the actual wheels-off and wheels-on times for certain domestic passenger flight segments, and for other purposes.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+    <latestAction>
+      <actionDate>2017-09-06</actionDate>
+      <links />
+      <text>Placed on the Union Calendar, Calendar No. 213.</text>
+    </latestAction>
+    <congress>115</congress>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <reportedToHouse>1</reportedToHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-09-06</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 213.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H12410</actionCode>
+        <committee />
+        <links />
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-09-06</actionDate>
+        <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-296.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/296</url>
+            <name>H. Rept. 115-296</name>
+          </link>
+        </links>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-06</actionDate>
+        <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-296.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>5000</actionCode>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/296</url>
+            <name>H. Rept. 115-296</name>
+          </link>
+        </links>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-27</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 25.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <committee>
+          <systemCode>hspw05</systemCode>
+          <name>Aviation Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-22</actionDate>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-06-22</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-06-22</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <createDate>2017-06-23T03:11:37Z</createDate>
+    <title>21st Century AIRR Act</title>
+    <introducedDate>2017-06-22</introducedDate>
+    <laws />
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>American Samoa</name>
+          </item>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Department of Transportation</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Endangered and threatened species</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Labor standards</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Marketing and advertising</name>
+          </item>
+          <item>
+            <name>Marshall Islands</name>
+          </item>
+          <item>
+            <name>Micronesia</name>
+          </item>
+          <item>
+            <name>Minority and disadvantaged businesses</name>
+          </item>
+          <item>
+            <name>Motor fuels</name>
+          </item>
+          <item>
+            <name>Museums, exhibitions, cultural centers</name>
+          </item>
+          <item>
+            <name>Noise pollution</name>
+          </item>
+          <item>
+            <name>Palau</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Virginia</name>
+          </item>
+          <item>
+            <name>War and emergency powers</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+          <item>
+            <name>Women's education</name>
+          </item>
+          <item>
+            <name>Women's employment</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <amendments />
+    <calendarNumbers>
+      <item>
+        <calendar>U00213</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hspw05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-23T18:17:39Z</date>
+                </item>
+              </activities>
+              <name>Aviation Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-09-06T22:07:06Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-22T14:01:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SHUSTER:H.R. 2997.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution,specifically Clause 3 and Clause 18.[Page H5110]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <title>21st Century AIRR Act</title>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <title>21st Century Aviation Innovation, Reform, and Reauthorization Act</title>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <title>21st Century AIRR Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>21st Century Aviation Innovation, Reform, and Reauthorization Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To transfer operation of air traffic services currently provided by the Federal Aviation Administration to a separate not-for-profit corporate entity, to reauthorize programs of the Federal Aviation Administration, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>21st Century AIRR Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>21st Century AIRR Act</title>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+      </item>
+      <item>
+        <title>21st Century Aviation Innovation, Reform, and Reauthorization Act</title>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+      </item>
+      <item>
+        <title>21st Century AIRR Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>21st Century Aviation Innovation, Reform, and Reauthorization Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

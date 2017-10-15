@@ -1,0 +1,47 @@
+<bill session="115" type="s" number="1217" updated="2017-07-20T16:56:25Z">
+  <state datetime="2017-05-24">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-24"/>
+  </status>
+  <introduced datetime="2017-05-24"/>
+  <titles>
+    <title type="short" as="introduced">Representation Fairness Restoration Act</title>
+    <title type="short" as="introduced">Representation Fairness Restoration Act</title>
+    <title type="official" as="introduced">A bill to amend the National Labor Relations Act to provide for appropriate designation of collective bargaining units.</title>
+    <title type="display">Representation Fairness Restoration Act</title>
+  </titles>
+  <sponsor bioguide_id="I000055"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000360" joined="2017-05-24"/>
+    <cosponsor bioguide_id="B001236" joined="2017-05-24"/>
+    <cosponsor bioguide_id="C001071" joined="2017-05-24"/>
+    <cosponsor bioguide_id="C001056" joined="2017-05-24"/>
+    <cosponsor bioguide_id="G000359" joined="2017-06-27"/>
+    <cosponsor bioguide_id="H000338" joined="2017-05-24"/>
+    <cosponsor bioguide_id="M000355" joined="2017-05-24"/>
+    <cosponsor bioguide_id="P000612" joined="2017-05-24"/>
+    <cosponsor bioguide_id="R000584" joined="2017-05-24"/>
+    <cosponsor bioguide_id="R000307" joined="2017-05-24"/>
+    <cosponsor bioguide_id="S001184" joined="2017-05-24"/>
+    <cosponsor bioguide_id="W000437" joined="2017-05-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-24">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="identical" number="2629"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

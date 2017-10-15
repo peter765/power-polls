@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-09-28T00:26:18Z</createDate>
+    <introducedDate>2017-09-27</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-10-04T14:00:42Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-27T15:06:58Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <type>Standing</type>
+          <systemCode>ssga00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <calendarNumbers />
+    <congress>115</congress>
+    <title>Whistleblower Protection Coordination Act</title>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Whistleblower Protection Coordination Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to reauthorize and rename the position of Whistleblower Ombudsman to be the Whistleblower Protection Coordinator.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Whistleblower Protection Coordination Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Whistleblower Protection Coordination Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <updateDate>2017-10-13T04:31:56Z</updateDate>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <billNumber>1869</billNumber>
+    <cosponsors>
+      <item>
+        <firstName>Ron</firstName>
+        <middleName />
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000293</bioguideId>
+        <lastName>Johnson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>J000293</bioguideId>
+          <lisID>2086</lisID>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>RON</firstName>
+        <middleName />
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000779</bioguideId>
+        <lastName>WYDEN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OR</state>
+        <identifiers>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Claire</firstName>
+        <middleName />
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001170</bioguideId>
+        <lastName>McCaskill</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MO</state>
+        <identifiers>
+          <lisID>1820</lisID>
+          <bioguideId>M001170</bioguideId>
+          <gpoId>8252</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Margaret</firstName>
+        <middleName>Wood</middleName>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001076</bioguideId>
+        <lastName>Hassan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+        <identifiers>
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <laws />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>G000386</bioguideId>
+        <firstName>CHARLES</firstName>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <byRequestType />
+        <lastName>GRASSLEY</lastName>
+        <middleName>ERNEST</middleName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <links />
+      <actionDate>2017-10-04</actionDate>
+    </latestAction>
+    <billType>S</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <orderedReported>1</orderedReported>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-04</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-27</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-09-27</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <updateDate>2017-10-12T12:42:14Z</updateDate>
+    <notes />
+    <relatedBills />
+    <latestAction>
+      <actionDate>2017-10-11</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <links />
+      <actionTime>16:55:56</actionTime>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-09-13T16:47:26Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-01-11T15:00:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-01-11</introducedDate>
+    <committeeReports />
+    <congress>115</congress>
+    <title>To designate the facility of the United States Postal Service located at 324 West Saint Louis Street in Pacific, Missouri, as the "Specialist Jeffrey L. White, Jr. Post Office".</title>
+    <recordedVotes>
+      <recordedVote>
+        <url>http://clerk.house.gov/evs/2017/roll562.xml</url>
+        <rollNumber>562</rollNumber>
+        <congress>115</congress>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <date>2017-10-11T20:55:55Z</date>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+      </recordedVote>
+    </recordedVotes>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <middleName>LACY</middleName>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001049</bioguideId>
+        <district>1</district>
+        <party>D</party>
+        <firstName>WM.</firstName>
+        <identifiers>
+          <bioguideId>C001049</bioguideId>
+          <gpoId>8009</gpoId>
+          <lisID>1654</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <lastName>CLAY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MO</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000812</bioguideId>
+        <district>2</district>
+        <party>R</party>
+        <firstName>Ann</firstName>
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+          <lisID>2137</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <lastName>Wagner</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MO</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001053</bioguideId>
+        <district>4</district>
+        <party>R</party>
+        <firstName>Vicky</firstName>
+        <identifiers>
+          <lisID>2032</lisID>
+          <gpoId>8012</gpoId>
+          <bioguideId>H001053</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <lastName>Hartzler</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MO</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Cleaver, Emanuel [D-MO-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001061</bioguideId>
+        <district>5</district>
+        <party>D</party>
+        <firstName>Emanuel</firstName>
+        <identifiers>
+          <bioguideId>C001061</bioguideId>
+          <lisID>1790</lisID>
+          <gpoId>8013</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <lastName>Cleaver</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MO</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000546</bioguideId>
+        <district>6</district>
+        <party>R</party>
+        <firstName>SAM</firstName>
+        <identifiers>
+          <bioguideId>G000546</bioguideId>
+          <gpoId>8014</gpoId>
+          <lisID>1656</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <lastName>GRAVES</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MO</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000576</bioguideId>
+        <district>7</district>
+        <party>R</party>
+        <firstName>Billy</firstName>
+        <identifiers>
+          <lisID>2033</lisID>
+          <bioguideId>L000576</bioguideId>
+          <gpoId>8015</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <lastName>Long</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MO</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001195</bioguideId>
+        <district>8</district>
+        <party>R</party>
+        <firstName>Jason</firstName>
+        <identifiers>
+          <lisID>2191</lisID>
+          <bioguideId>S001195</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <lastName>Smith</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MO</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000250</bioguideId>
+        <district>32</district>
+        <party>R</party>
+        <firstName>PETE</firstName>
+        <identifiers>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <lastName>SESSIONS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+      </item>
+    </cosponsors>
+    <billNumber>452</billNumber>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-01-11</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-01-12T09:02:37Z</lastSummaryUpdateDate>
+          <text><![CDATA[Designates the facility of the United States Postal Service located at 324 West Saint Louis Street in Pacific, Missouri, as the "Specialist Jeffrey L. White, Jr. Post Office."]]></text>
+          <updateDate>2017-01-11T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To designate the facility of the United States Postal Service located at 324 West Saint Louis Street in Pacific, Missouri, as the "Specialist Jeffrey L. White, Jr. Post Office".</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>To designate the facility of the United States Postal Service located at 324 West Saint Louis Street in Pacific, Missouri, as the "Specialist Jeffrey L. White, Jr. Post Office".</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LUETKEMEYER:H.R. 452.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 7, ``The Congress shall havePower to . . . establish Post Offices and Post Roads . . . ``In the Constitution, the power possessed by Congress embracesthe regulation of the Postal System in the country.Therefore, the proposed legislation in naming a post officewould fall under the powers granted to Congress in theConstitution.[Page H392]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Missouri</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-01-12T04:45:50Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <actionStageOverride>1</actionStageOverride>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <billReferrals>1</billReferrals>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <considerationByHouse>2</considerationByHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <generalDebate>1</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+        <actionTime>16:55:56</actionTime>
+        <links />
+        <actionDate>2017-10-11</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 562). (text: CR 10/10/2017 H7897)</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H37300</actionCode>
+        <actionTime>16:55:55</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7897</url>
+            <name>CR 10/10/2017 H7897</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll562.xml</url>
+            <name>Roll no. 562</name>
+          </link>
+        </links>
+        <actionDate>2017-10-11</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 562).</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <actionTime>16:55:55</actionTime>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll562.xml</url>
+            <name>Roll no. 562</name>
+          </link>
+        </links>
+        <actionDate>2017-10-11</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Considered as unfinished business. (consideration: CR H7957-7959)</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <actionTime>16:30:22</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7957-7959</url>
+            <name>H7957-7959</name>
+          </link>
+        </links>
+        <actionDate>2017-10-11</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H37220</actionCode>
+        <actionTime>17:16:37</actionTime>
+        <links />
+        <actionDate>2017-10-10</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 452.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H8D000</actionCode>
+        <actionTime>17:09:48</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/452</url>
+            <name>H.R. 452</name>
+          </link>
+        </links>
+        <actionDate>2017-10-10</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Considered under suspension of the rules. (consideration: CR H7897-7898)</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <actionTime>17:09:46</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7897-7898</url>
+            <name>H7897-7898</name>
+          </link>
+        </links>
+        <actionDate>2017-10-10</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Mr. Gianforte moved to suspend the rules and pass the bill.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30300</actionCode>
+        <actionTime>17:09:12</actionTime>
+        <links />
+        <actionDate>2017-10-10</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-09-13</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-13</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2017-01-11</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2017-01-11</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2017-01-11</actionDate>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <firstName>Blaine</firstName>
+        <middleName />
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <byRequestType />
+        <bioguideId>L000569</bioguideId>
+        <district>3</district>
+        <lastName>Luetkemeyer</lastName>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>L000569</bioguideId>
+          <lisID>1931</lisID>
+          <gpoId>8017</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

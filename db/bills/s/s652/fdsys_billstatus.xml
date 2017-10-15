@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+        <senate>9</senate>
+      </actionByCounts>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>E20000</actionCode>
+        <actionDate>2017-10-06</actionDate>
+        <text>Presented to President.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>President</type>
+        <actionCode>28000</actionCode>
+        <actionDate>2017-10-06</actionDate>
+        <text>Presented to President.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <actionTime>14:20:46</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <actionDate>2017-10-03</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <actionTime>14:20:44</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <actionDate>2017-10-03</actionDate>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7694-7696)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7694-7696</url>
+            <name>H7694-7696</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <committee />
+        <actionTime>14:20:44</actionTime>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <actionDate>2017-10-03</actionDate>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <actionTime>14:04:39</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-10-03</actionDate>
+        <text>DEBATE - The House proceeded with forty minutes of debate on S. 652.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/senate-bill/652</url>
+            <name>S. 652</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <committee />
+        <actionTime>14:04:38</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <actionDate>2017-10-03</actionDate>
+        <text>Considered under suspension of the rules. (consideration: CR H7694-7698)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7694-7698</url>
+            <name>H7694-7698</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <committee />
+        <actionTime>14:04:24</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <actionDate>2017-10-03</actionDate>
+        <text>Mr. Burgess moved to suspend the rules and pass the bill.</text>
+        <links />
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-09-07</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <actionTime>12:04:15</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <actionDate>2017-09-07</actionDate>
+        <text>Received in the House.</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-09-06</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5017-5018</url>
+            <name>S5017-5018</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5017-5018;  text: CR S5017-5018)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <actionDate>2017-09-06</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-05-01</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-05-01</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <actionDate>2017-05-01</actionDate>
+        <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-04-26</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-15</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-03-15</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <presentedToPresident>1</presentedToPresident>
+        <referredToCommittee>1</referredToCommittee>
+        <placeholderTextForE>1</placeholderTextForE>
+        <introducedInSenate>1</introducedInSenate>
+        <sentToHouse>1</sentToHouse>
+        <generalDebate>1</generalDebate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <billReferrals>1</billReferrals>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passedSenate>1</passedSenate>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <orderedReported>1</orderedReported>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <reportedToSenate>2</reportedToSenate>
+        <considerationByHouse>1</considerationByHouse>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2017-10-12T04:44:58Z</updateDate>
+    <latestAction>
+      <actionDate>2017-10-06</actionDate>
+      <text>Presented to President.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-03-15</actionDate>
+          <text><![CDATA[<p><b>Early Hearing Detection and Intervention Act of 2017</b></p> <p>This bill amends the Public Health Service Act to revise programs for deaf and hard-of-hearing newborns and infants, including to expand the programs to include young children. The programs are reauthorized through FY2022. Health Resources and Services Administration support for the education and training of personnel and health care providers for such programs is expanded to include education and training of family members.</p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-09-20T15:35:28Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-15T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <titles>
+      <item>
+        <chamberName>Senate</chamberName>
+        <chamberCode>S</chamberCode>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <title>Early Hearing Detection and Intervention Act of 2017</title>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>Early Hearing Detection and Intervention Act of 2017</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <chamberCode>S</chamberCode>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <title>Early Hearing Detection and Intervention Act of 2017</title>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Early Hearing Detection and Intervention Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Public Health Service Act to reauthorize a program for early detection, diagnosis, and treatment regarding deaf and hard-of-hearing newborns, infants, and young children.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Early Hearing Detection and Intervention Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <title>Early Hearing Detection and Intervention Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <title>Early Hearing Detection and Intervention Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Early Hearing Detection and Intervention Act of 2017</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-07T21:39:58Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+        </item>
+        <item>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-05-01T20:12:25Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-04-26T14:00:34Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-15T19:08:28Z</date>
+            </item>
+          </activities>
+          <systemCode>sshr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <createDate>2017-03-16T05:28:17Z</createDate>
+    <cosponsors>
+      <item>
+        <firstName>Timothy</firstName>
+        <middleName />
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000384</bioguideId>
+        <lastName>Kaine</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Sheldon</firstName>
+        <middleName />
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000802</bioguideId>
+        <lastName>Whitehouse</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>RI</state>
+        <identifiers>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <middleName />
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001056</bioguideId>
+        <lastName>Cornyn</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001056</bioguideId>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>SHERROD</firstName>
+        <middleName />
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000944</bioguideId>
+        <lastName>BROWN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Richard</firstName>
+        <middleName />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001277</bioguideId>
+        <lastName>Blumenthal</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>PATRICK</firstName>
+        <middleName>JOSEPH</middleName>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000174</bioguideId>
+        <lastName>LEAHY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VT</state>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+          <lisID>1383</lisID>
+          <gpoId>8244</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Thad</firstName>
+        <middleName />
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000567</bioguideId>
+        <lastName>Cochran</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>C000567</bioguideId>
+          <lisID>213</lisID>
+          <gpoId>8292</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Lamar</firstName>
+        <middleName />
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000360</bioguideId>
+        <lastName>Alexander</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>A000360</bioguideId>
+          <gpoId>8304</gpoId>
+          <lisID>1695</lisID>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>PATTY</firstName>
+        <middleName />
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001111</bioguideId>
+        <lastName>MURRAY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WA</state>
+        <identifiers>
+          <lisID>1409</lisID>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <middleName />
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001236</bioguideId>
+        <lastName>Boozman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AR</state>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Angus</firstName>
+        <middleName />
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000383</bioguideId>
+        <lastName>King</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>ME</state>
+        <identifiers>
+          <lisID>2185</lisID>
+          <gpoId />
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <party>I</party>
+      </item>
+      <item>
+        <firstName>BERNARD</firstName>
+        <middleName />
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000033</bioguideId>
+        <lastName>SANDERS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VT</state>
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+        </identifiers>
+        <party>I</party>
+      </item>
+      <item>
+        <firstName>Elizabeth</firstName>
+        <middleName>A.</middleName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <sponsorshipDate>2017-07-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000817</bioguideId>
+        <lastName>Warren</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <amendments />
+    <committeeReports />
+    <introducedDate>2017-03-15</introducedDate>
+    <billType>S</billType>
+    <title>Early Hearing Detection and Intervention Act of 2017</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Hearing, speech, and vision care</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Surgery and anesthesia</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-05-23T19:50:00Z</pubDate>
+        <title>S. 652, Early Hearing Detection and Intervention Act of 2017</title>
+        <url>https://www.cbo.gov/publication/52760</url>
+      </item>
+    </cboCostEstimates>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>ROB</firstName>
+        <middleName />
+        <bioguideId>P000449</bioguideId>
+        <byRequestType />
+        <lastName>PORTMAN</lastName>
+        <state>OH</state>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <identifiers>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <billNumber>652</billNumber>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <latestTitle>Early Hearing Detection and Intervention Act of 2017</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-03-17</actionDate>
+        </latestAction>
+        <number>1539</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0044</number>
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

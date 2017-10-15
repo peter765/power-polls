@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <updateDate>2017-10-13T07:17:20Z</updateDate>
+    <notes />
+    <relatedBills>
+      <item>
+        <latestTitle>Data Protection Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-10-02</actionDate>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>3904</number>
+      </item>
+    </relatedBills>
+    <latestAction>
+      <actionDate>2017-09-18</actionDate>
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-18T18:00:48Z</date>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-18T18:00:43Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-09-18</introducedDate>
+    <committeeReports />
+    <congress>115</congress>
+    <title>Personal Data Notification and Protection Act of 2017</title>
+    <recordedVotes />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+          <lisID>2230</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Lieu</lastName>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <bioguideId>L000582</bioguideId>
+        <district>33</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ted</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>1861</lisID>
+          <bioguideId>S001170</bioguideId>
+          <gpoId>7528</gpoId>
+        </identifiers>
+        <lastName>Shea-Porter</lastName>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <bioguideId>S001170</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Carol</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>2308</lisID>
+          <gpoId />
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <lastName>Khanna</lastName>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <bioguideId>K000389</bioguideId>
+        <district>17</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ro</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>2110</lisID>
+          <gpoId />
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <lastName>Takano</lastName>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <bioguideId>T000472</bioguideId>
+        <district>41</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <middleName>Dutch</middleName>
+        <identifiers>
+          <lisID>1728</lisID>
+          <gpoId>7977</gpoId>
+          <bioguideId>R000576</bioguideId>
+        </identifiers>
+        <lastName>Ruppersberger</lastName>
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <bioguideId>R000576</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>C. A.</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <middleName>Butler</middleName>
+        <identifiers>
+          <lisID>2320</lisID>
+          <bioguideId>D000627</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Demings</lastName>
+        <fullName>Rep. Demings, Val Butler [D-FL-10]</fullName>
+        <bioguideId>D000627</bioguideId>
+        <district>10</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Val</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>1069</lisID>
+          <bioguideId>S000480</bioguideId>
+          <gpoId>8089</gpoId>
+        </identifiers>
+        <lastName>SLAUGHTER</lastName>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <bioguideId>S000480</bioguideId>
+        <district>25</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>LOUISE</firstName>
+      </item>
+    </cosponsors>
+    <billNumber>3806</billNumber>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Personal Data Notification and Protection Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To establish a national data breach notification standard, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Personal Data Notification and Protection Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Personal Data Notification and Protection Act of 2017</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LANGEVIN:H.R. 3806.Congress has the power to enact this legislation pursuantto the following:clause 3 of section 8 of article I of the Constitution.[Page H7429]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2017-09-19T03:11:19Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-09-18</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-09-18</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-09-18</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-09-18</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <firstName>JAMES</firstName>
+        <middleName>R.</middleName>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <byRequestType />
+        <bioguideId>L000559</bioguideId>
+        <district>2</district>
+        <lastName>LANGEVIN</lastName>
+        <state>RI</state>
+        <identifiers>
+          <lisID>1668</lisID>
+          <gpoId>8140</gpoId>
+          <bioguideId>L000559</bioguideId>
+        </identifiers>
+        <party>D</party>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

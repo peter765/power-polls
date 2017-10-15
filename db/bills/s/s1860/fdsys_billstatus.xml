@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-09-27T00:41:29Z</createDate>
+    <introducedDate>2017-09-26</introducedDate>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <lastName>Heinrich</lastName>
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <firstName>Martin</firstName>
+        <bioguideId>H001046</bioguideId>
+        <state>NM</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <amendments />
+    <cboCostEstimates />
+    <billNumber>1860</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Federal Energy Regulatory Commission (FERC)</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Public utilities and utility rates</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2017-10-03T18:30:08Z</date>
+                </item>
+              </activities>
+              <systemCode>sseg01</systemCode>
+              <name>Energy Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>sseg00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-26T16:43:33Z</date>
+            </item>
+          </activities>
+          <name>Energy and Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2017-10-06T04:51:56Z</updateDate>
+    <calendarNumbers />
+    <congress>115</congress>
+    <latestAction>
+      <text>Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held.</text>
+      <actionDate>2017-10-03</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+        </identifiers>
+        <firstName>JIM</firstName>
+        <byRequestType />
+        <middleName />
+        <party>R</party>
+        <bioguideId>I000024</bioguideId>
+        <lastName>INHOFE</lastName>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <state>OK</state>
+      </item>
+    </sponsors>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-03</actionDate>
+        <committee>
+          <systemCode>sseg01</systemCode>
+          <name>Energy Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-26</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-09-26</actionDate>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>PARs Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Parity Across Reviews Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A bill to amend section 203 of the Federal Power Act.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>PARs Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>PARs Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Parity Across Reviews Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <recordedVotes />
+    <notes />
+    <title>PARs Act</title>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-10-03</actionDate>
+          <text>Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held.</text>
+        </latestAction>
+        <type>HR</type>
+        <latestTitle>To amend section 203 of the Federal Power Act.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1109</number>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,131 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-28", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-28", 
+      "action_code": "", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6225", 
+          "type": "Sponsor introductory remarks on measure"
+        }, 
+        {
+          "reference": "CR S6225-6227", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1890-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B000575", 
+      "district": null, 
+      "name": "Blunt, Roy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "MO", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000032", 
+      "district": null, 
+      "name": "Nelson, Bill", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-28", 
+      "state": "FL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-28", 
+  "number": "1890", 
+  "official_title": "A bill to improve the understanding of, and promote access to treatment for, chronic kidney disease, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2644-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Chronic Kidney Disease Improvement in Research and Treatment Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "C000141", 
+    "district": null, 
+    "name": "Cardin, Benjamin L.", 
+    "state": "MD", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-28", 
+  "subjects": [
+    "Health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Chronic Kidney Disease Improvement in Research and Treatment Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Chronic Kidney Disease Improvement in Research and Treatment Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to improve the understanding of, and promote access to treatment for, chronic kidney disease, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Chronic Kidney Disease Improvement in Research and Treatment Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-13T04:33:28Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1890.xml"
+}

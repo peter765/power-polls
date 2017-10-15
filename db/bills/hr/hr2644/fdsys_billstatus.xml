@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MARINO:H.R. 2644.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18(Necessary and ProperClause) the Congress shall have the power to make all Lawswhich shall be necessary and proper for carrying intoExecution the foregoing Powers, and all other Powers vestedby this Constitution in the Government of the United States,or in any Department or Officer thereof.[Page H4570]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>115</congress>
+    <cboCostEstimates />
+    <updateDate>2017-10-10T15:15:13Z</updateDate>
+    <latestAction>
+      <actionDate>2017-06-06</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-24T14:04:40Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-06T18:59:10Z</date>
+                </item>
+              </activities>
+              <systemCode>hswm02</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-24T14:04:35Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-26T20:28:24Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <middleName />
+        <lastName>LEWIS</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <firstName>JOHN</firstName>
+        <bioguideId>L000287</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>L000287</bioguideId>
+          <gpoId>7902</gpoId>
+          <lisID>688</lisID>
+        </identifiers>
+        <district>5</district>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <lastName>Roskam</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Roskam, Peter J. [R-IL-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <firstName>Peter</firstName>
+        <bioguideId>R000580</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IL</state>
+        <identifiers>
+          <lisID>1848</lisID>
+          <bioguideId>R000580</bioguideId>
+          <gpoId>7926</gpoId>
+        </identifiers>
+        <district>6</district>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <lastName>Walz</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <firstName>Timothy</firstName>
+        <bioguideId>W000799</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <identifiers>
+          <lisID>1856</lisID>
+          <gpoId>8001</gpoId>
+          <bioguideId>W000799</bioguideId>
+        </identifiers>
+        <district>1</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>LOFGREN</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <firstName>ZOE</firstName>
+        <bioguideId>L000397</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <district>19</district>
+      </item>
+      <item>
+        <middleName>P.</middleName>
+        <lastName>MCGOVERN</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <firstName>JAMES</firstName>
+        <bioguideId>M000312</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <district>2</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Harper</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <firstName>Gregg</firstName>
+        <bioguideId>H001045</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>H001045</bioguideId>
+          <lisID>1933</lisID>
+          <gpoId>8021</gpoId>
+        </identifiers>
+        <district>3</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Thompson</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <firstName>Glenn</firstName>
+        <bioguideId>T000467</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <identifiers>
+          <lisID>1952</lisID>
+          <bioguideId>T000467</bioguideId>
+          <gpoId>8123</gpoId>
+        </identifiers>
+        <district>5</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Davis</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <firstName>Rodney</firstName>
+        <bioguideId>D000619</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000619</bioguideId>
+          <lisID>2126</lisID>
+          <gpoId />
+        </identifiers>
+        <district>13</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Beatty</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <firstName>Joyce</firstName>
+        <bioguideId>B001281</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>B001281</bioguideId>
+          <lisID>2153</lisID>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+      </item>
+      <item>
+        <middleName>D.</middleName>
+        <lastName>BISHOP</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <firstName>SANFORD</firstName>
+        <bioguideId>B000490</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>GA</state>
+        <identifiers>
+          <lisID>91</lisID>
+          <bioguideId>B000490</bioguideId>
+          <gpoId>7899</gpoId>
+        </identifiers>
+        <district>2</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Barletta</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <firstName>Lou</firstName>
+        <bioguideId>B001269</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <identifiers>
+          <lisID>2054</lisID>
+          <bioguideId>B001269</bioguideId>
+          <gpoId>8129</gpoId>
+        </identifiers>
+        <district>11</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Cartwright</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>Matt</firstName>
+        <bioguideId>C001090</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001090</bioguideId>
+          <lisID>2159</lisID>
+          <gpoId />
+        </identifiers>
+        <district>17</district>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Kilmer</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <firstName>Derek</firstName>
+        <bioguideId>K000381</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WA</state>
+        <identifiers>
+          <lisID>2169</lisID>
+          <bioguideId>K000381</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-05-24</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <billType>HR</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <laws />
+    <billNumber>2644</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-06</actionDate>
+        <committee>
+          <systemCode>hswm02</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-26</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Ways and Means</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2017-05-24</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Energy and Commerce</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionDate>2017-05-24</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-05-24</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-05-24</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-05-24</actionDate>
+      </item>
+    </actions>
+    <committeeReports />
+    <title>Chronic Kidney Disease Improvement in Research and Treatment Act of 2017</title>
+    <createDate>2017-05-25T03:11:42Z</createDate>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Chronic Kidney Disease Improvement in Research and Treatment Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Chronic Kidney Disease Improvement in Research and Treatment Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To improve the understanding of, and promote access to treatment for, chronic kidney disease, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Chronic Kidney Disease Improvement in Research and Treatment Act of 2017</title>
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <latestTitle>Chronic Kidney Disease Improvement in Research and Treatment Act of 2017</latestTitle>
+        <type>S</type>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-09-28</actionDate>
+          <text>Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S6225; text of measure as introduced: CR S6225-6227)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1890</number>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>PA</state>
+        <byRequestType />
+        <bioguideId>M001179</bioguideId>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <lisID>2053</lisID>
+          <bioguideId>M001179</bioguideId>
+          <gpoId>8128</gpoId>
+        </identifiers>
+        <middleName />
+        <district>10</district>
+        <lastName>Marino</lastName>
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+      </item>
+    </sponsors>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

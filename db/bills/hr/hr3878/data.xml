@@ -1,0 +1,54 @@
+<bill session="115" type="h" number="3878" updated="2017-10-12T15:45:13Z">
+  <state datetime="2017-09-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-28"/>
+  </status>
+  <introduced datetime="2017-09-28"/>
+  <titles>
+    <title type="short" as="introduced">Free Credit Freeze Act</title>
+    <title type="short" as="introduced">Free Credit Freeze Act</title>
+    <title type="official" as="introduced">To amend the Fair Credit Reporting Act to provide access to free credit freezes for all consumers.</title>
+    <title type="display">Free Credit Freeze Act</title>
+  </titles>
+  <sponsor bioguide_id="L000570"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001292" joined="2017-09-28"/>
+    <cosponsor bioguide_id="B000490" joined="2017-09-28"/>
+    <cosponsor bioguide_id="B001296" joined="2017-09-28"/>
+    <cosponsor bioguide_id="B001251" joined="2017-09-28"/>
+    <cosponsor bioguide_id="C001037" joined="2017-09-28"/>
+    <cosponsor bioguide_id="C001097" joined="2017-09-28"/>
+    <cosponsor bioguide_id="E000288" joined="2017-10-03"/>
+    <cosponsor bioguide_id="G000410" joined="2017-10-03"/>
+    <cosponsor bioguide_id="G000551" joined="2017-10-06"/>
+    <cosponsor bioguide_id="K000009" joined="2017-09-28"/>
+    <cosponsor bioguide_id="L000559" joined="2017-09-28"/>
+    <cosponsor bioguide_id="L000565" joined="2017-10-03"/>
+    <cosponsor bioguide_id="L000580" joined="2017-09-28"/>
+    <cosponsor bioguide_id="N000002" joined="2017-09-28"/>
+    <cosponsor bioguide_id="N000179" joined="2017-09-28"/>
+    <cosponsor bioguide_id="N000147" joined="2017-09-28"/>
+    <cosponsor bioguide_id="R000606" joined="2017-10-03"/>
+    <cosponsor bioguide_id="S000480" joined="2017-10-03"/>
+    <cosponsor bioguide_id="T000472" joined="2017-10-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-28" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="1810"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

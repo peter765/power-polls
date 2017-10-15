@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-05-03T00:26:47Z</createDate>
+    <billType>S</billType>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <recordedVotes />
+    <relatedBills />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <lastName>Tester</lastName>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <firstName>Jon</firstName>
+        <bioguideId>T000464</bioguideId>
+        <state>MT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <lastName>Heitkamp</lastName>
+        <identifiers>
+          <lisID>2174</lisID>
+          <bioguideId>H001069</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <firstName>Heidi</firstName>
+        <bioguideId>H001069</bioguideId>
+        <state>ND</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <lastName>Tillis</lastName>
+        <identifiers>
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>Roland</middleName>
+        <party>R</party>
+        <firstName>Thomas</firstName>
+        <bioguideId>T000476</bioguideId>
+        <state>NC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <lastName>Manchin</lastName>
+        <identifiers>
+          <gpoId>8256</gpoId>
+          <bioguideId>M001183</bioguideId>
+          <lisID>1983</lisID>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <firstName>Joe</firstName>
+        <bioguideId>M001183</bioguideId>
+        <state>WV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <lastName>Donnelly</lastName>
+        <identifiers>
+          <bioguideId>D000607</bioguideId>
+          <gpoId>7941</gpoId>
+          <lisID>1850</lisID>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <firstName>Joe</firstName>
+        <bioguideId>D000607</bioguideId>
+        <state>IN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <firstName>Amy</firstName>
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <lastName>Scott</lastName>
+        <identifiers>
+          <bioguideId>S001184</bioguideId>
+          <lisID>2056</lisID>
+          <gpoId>8141</gpoId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <firstName>Tim</firstName>
+        <bioguideId>S001184</bioguideId>
+        <state>SC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <lastName>Daines</lastName>
+        <identifiers>
+          <lisID>2138</lisID>
+          <gpoId />
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <firstName>Steve</firstName>
+        <bioguideId>D000618</bioguideId>
+        <state>MT</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <lastName>Perdue</lastName>
+        <identifiers>
+          <lisID>2286</lisID>
+          <gpoId />
+          <bioguideId>P000612</bioguideId>
+        </identifiers>
+        <middleName>Alfred</middleName>
+        <party>R</party>
+        <firstName>David</firstName>
+        <bioguideId>P000612</bioguideId>
+        <state>GA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <lastName>Blunt</lastName>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <firstName>Roy</firstName>
+        <bioguideId>B000575</bioguideId>
+        <state>MO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <lastName>INHOFE</lastName>
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+          <gpoId>8322</gpoId>
+          <lisID>583</lisID>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <firstName>JIM</firstName>
+        <bioguideId>I000024</bioguideId>
+        <state>OK</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <lastName>GRASSLEY</lastName>
+        <identifiers>
+          <lisID>457</lisID>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <middleName>ERNEST</middleName>
+        <party>R</party>
+        <firstName>CHARLES</firstName>
+        <bioguideId>G000386</bioguideId>
+        <state>IA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <lastName>Rubio</lastName>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <firstName>Marco</firstName>
+        <bioguideId>R000595</bioguideId>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <lastName>Barrasso</lastName>
+        <identifiers>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+          <lisID>1881</lisID>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <firstName>John</firstName>
+        <bioguideId>B001261</bioguideId>
+        <state>WY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <lastName>Fischer</lastName>
+        <identifiers>
+          <bioguideId>F000463</bioguideId>
+          <lisID>2179</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <firstName>Deb</firstName>
+        <bioguideId>F000463</bioguideId>
+        <state>NE</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-31</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <lastName>ENZI</lastName>
+        <identifiers>
+          <lisID>1542</lisID>
+          <bioguideId>E000285</bioguideId>
+          <gpoId>8328</gpoId>
+        </identifiers>
+        <middleName>B.</middleName>
+        <party>R</party>
+        <firstName>MICHAEL</firstName>
+        <bioguideId>E000285</bioguideId>
+        <state>WY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-08-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <lastName>Bennet</lastName>
+        <identifiers>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <party>D</party>
+        <firstName>Michael</firstName>
+        <bioguideId>B001267</bioguideId>
+        <state>CO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-08-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <lastName>Heller</lastName>
+        <identifiers>
+          <bioguideId>H001041</bioguideId>
+          <gpoId>8060</gpoId>
+          <lisID>1863</lisID>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <firstName>Dean</firstName>
+        <bioguideId>H001041</bioguideId>
+        <state>NV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-08-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <lastName>Ernst</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <firstName>Joni</firstName>
+        <bioguideId>E000295</bioguideId>
+        <state>IA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-08-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <lastName>Rounds</lastName>
+        <identifiers>
+          <bioguideId>R000605</bioguideId>
+          <lisID>2288</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <bioguideId>R000605</bioguideId>
+        <state>SD</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <lastName>Heinrich</lastName>
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <firstName>Martin</firstName>
+        <bioguideId>H001046</bioguideId>
+        <state>NM</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <lastName>Kennedy</lastName>
+        <identifiers>
+          <bioguideId>K000393</bioguideId>
+          <gpoId />
+          <lisID>2303</lisID>
+        </identifiers>
+        <middleName>Neely</middleName>
+        <party>R</party>
+        <firstName>John</firstName>
+        <bioguideId>K000393</bioguideId>
+        <state>LA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <lastName>King</lastName>
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>I</party>
+        <firstName>Angus</firstName>
+        <bioguideId>K000383</bioguideId>
+        <state>ME</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <lastName>FLAKE</lastName>
+        <identifiers>
+          <lisID>1633</lisID>
+          <gpoId>7803</gpoId>
+          <bioguideId>F000444</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <firstName>JEFF</firstName>
+        <bioguideId>F000444</bioguideId>
+        <state>AZ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <lastName>UDALL</lastName>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <firstName>TOM</firstName>
+        <bioguideId>U000039</bioguideId>
+        <state>NM</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <lastName>Toomey</lastName>
+        <identifiers>
+          <bioguideId>T000461</bioguideId>
+          <lisID>1594</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <firstName>Pat</firstName>
+        <bioguideId>T000461</bioguideId>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <lastName>CAPITO</lastName>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <middleName>MOORE</middleName>
+        <party>R</party>
+        <firstName>SHELLEY</firstName>
+        <bioguideId>C001047</bioguideId>
+        <state>WV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <lastName>Shaheen</lastName>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <firstName>Jeanne</firstName>
+        <bioguideId>S001181</bioguideId>
+        <state>NH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <lastName>PORTMAN</lastName>
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+          <lisID>924</lisID>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <firstName>ROB</firstName>
+        <bioguideId>P000449</bioguideId>
+        <state>OH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <lastName>Hoeven</lastName>
+        <identifiers>
+          <bioguideId>H001061</bioguideId>
+          <gpoId>8331</gpoId>
+          <lisID>2079</lisID>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <firstName>John</firstName>
+        <bioguideId>H001061</bioguideId>
+        <state>ND</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <notes />
+    <introducedDate>2017-05-02</introducedDate>
+    <laws />
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberName />
+        <title>CLEAR Relief Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Community Lending Enhancement and Regulatory Relief Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>CLEAR Relief Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Community Lending Enhancement and Regulatory Relief Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>A bill to enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>CLEAR Relief Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>M000934</bioguideId>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <firstName>JERRY</firstName>
+        <byRequestType />
+        <lastName>MORAN</lastName>
+        <bioguideId>M000934</bioguideId>
+        <party>R</party>
+        <state>KS</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssbk00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2017-06-15T14:00:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-02T15:08:48Z</date>
+            </item>
+          </activities>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <billNumber>1002</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-06-15</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-08</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2017-05-02</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>5</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>3</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <calendarNumbers />
+    <title>CLEAR Relief Act of 2017</title>
+    <updateDate>2017-10-04T04:57:04Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-06-15</actionDate>
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

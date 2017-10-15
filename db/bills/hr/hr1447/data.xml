@@ -1,0 +1,72 @@
+<bill session="115" type="h" number="1447" updated="2017-09-14T07:15:48Z">
+  <state datetime="2017-03-09">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-09"/>
+  </status>
+  <introduced datetime="2017-03-09"/>
+  <titles>
+    <title type="short" as="introduced">Fair and Equal Housing Act of 2017</title>
+    <title type="short" as="introduced">Fair and Equal Housing Act of 2017</title>
+    <title type="official" as="introduced">To extend the protections of the Fair Housing Act to persons suffering discrimination on the basis of sex or sexual orientation, and for other purposes.</title>
+    <title type="display">Fair and Equal Housing Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="T000477"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001292" joined="2017-03-17"/>
+    <cosponsor bioguide_id="B000574" joined="2017-06-13"/>
+    <cosponsor bioguide_id="B001284" joined="2017-09-13"/>
+    <cosponsor bioguide_id="C001077" joined="2017-05-01"/>
+    <cosponsor bioguide_id="C001107" joined="2017-05-23"/>
+    <cosponsor bioguide_id="D000604" joined="2017-03-17"/>
+    <cosponsor bioguide_id="D000625" joined="2017-09-06"/>
+    <cosponsor bioguide_id="F000466" joined="2017-09-06"/>
+    <cosponsor bioguide_id="H001038" joined="2017-05-01"/>
+    <cosponsor bioguide_id="H001068" joined="2017-09-13"/>
+    <cosponsor bioguide_id="K000391" joined="2017-05-01"/>
+    <cosponsor bioguide_id="K000382" joined="2017-05-23"/>
+    <cosponsor bioguide_id="L000554" joined="2017-05-01"/>
+    <cosponsor bioguide_id="L000579" joined="2017-04-26"/>
+    <cosponsor bioguide_id="L000480" joined="2017-06-13"/>
+    <cosponsor bioguide_id="M001193" joined="2017-05-25"/>
+    <cosponsor bioguide_id="M001185" joined="2017-06-26"/>
+    <cosponsor bioguide_id="M001143" joined="2017-06-26"/>
+    <cosponsor bioguide_id="M001196" joined="2017-06-13"/>
+    <cosponsor bioguide_id="S001190" joined="2017-03-09"/>
+    <cosponsor bioguide_id="S000480" joined="2017-09-06"/>
+    <cosponsor bioguide_id="T000478" joined="2017-04-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-09">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-03-09" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-03-21">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="2282"/>
+    <bill type="s" session="115" relation="unknown" number="1006"/>
+    <bill type="s" session="115" relation="identical" number="1328"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Housing discrimination"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-03-09T05:00:00Z" status="Introduced in House">Fair and Equal Housing Act of 2017
+
+This bill amends the Fair Housing Act (FHA) under the Civil Rights Act of 1968 to add sexual orientation and gender identity as classes protected against discrimination in the sale, rental, or financing of housing. (Currently, the FHA prohibits housing discrimination on the basis of race, color, religion, sex, handicap, familial status, or national origin.)
+
+The bill defines: (1) "gender identity" as gender-related identity, appearance, or mannerisms or other gender-related characteristics of an individual, without regard to the individual's designated sex at birth; and (2) "sexual orientation" as homosexuality, heterosexuality, or bisexuality.
+
+The bill also extends prohibitions against housing discrimination on the basis of race, color, religion, sex, sexual orientation, gender identity, handicap, familial status, or national origin to include discrimination based on: (1) an individual's association with another person who is a member of such a protected class; and (2) a perception or belief, even if inaccurate, that an individual is a member of such a protected class.</summary>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <links />
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <actionDate>2017-09-13</actionDate>
+    </latestAction>
+    <laws />
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-09-13T19:06:46Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-09-11T16:00:11Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+        </item>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-09-11T16:00:16Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <calendarNumbers />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2017-09-11</introducedDate>
+    <createDate>2017-09-12T03:11:20Z</createDate>
+    <amendments />
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-09-26T12:54:00Z</pubDate>
+        <title>H.R. 3727, Increasing Telehealth Access in Medicare Act</title>
+        <url>https://www.cbo.gov/publication/53136</url>
+      </item>
+    </cboCostEstimates>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000460</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>MIKE</firstName>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <district>5</district>
+        <state>CA</state>
+        <identifiers>
+          <gpoId>7806</gpoId>
+          <lisID>1593</lisID>
+          <bioguideId>T000460</bioguideId>
+        </identifiers>
+        <lastName>THOMPSON</lastName>
+      </item>
+      <item>
+        <middleName>W.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001284</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Susan</firstName>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <district>5</district>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001284</bioguideId>
+          <lisID>2129</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Brooks</lastName>
+      </item>
+      <item>
+        <middleName>O.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001163</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Doris</firstName>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <district>6</district>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1814</lisID>
+          <bioguideId>M001163</bioguideId>
+          <gpoId>7810</gpoId>
+        </identifiers>
+        <lastName>Matsui</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001107</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Carlos</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <district>26</district>
+        <state>FL</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001107</bioguideId>
+          <lisID>2235</lisID>
+        </identifiers>
+        <lastName>Curbelo</lastName>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001106</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ryan</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <district>6</district>
+        <state>PA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001106</bioguideId>
+          <lisID>2266</lisID>
+        </identifiers>
+        <lastName>Costello</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000389</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ro</firstName>
+        <sponsorshipDate>2017-10-04</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <district>17</district>
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <lastName>Khanna</lastName>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <relatedBills />
+    <title>To amend title XVIII of the Social Security Act to include additional telehealth services for purposes of MA organization bids, and for other purposes.</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-09-13</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-13</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-09-11</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-09-11</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-09-11</actionDate>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-09-11</actionDate>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PALAZZO:H.R. 2615.Congress has the power to enact this legislation pursuantto the following:Article IV, Sec. 3, Clause 2 (relating to the power ofCongress to dispose of and make all needful rules andregulations respecting the territory or other propertybelonging to the United States.)[Page H4504]</pre>]]></constitutionalAuthorityStatementText>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XVIII of the Social Security Act to include additional telehealth services for purposes of MA organization bids, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>To amend title XVIII of the Social Security Act to include additional telehealth services for purposes of MA organization bids, and for other purposes.</title>
+      </item>
+    </titles>
+    <updateDate>2017-10-05T07:16:43Z</updateDate>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Diane</firstName>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <bioguideId>B001273</bioguideId>
+        <lastName>Black</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001273</bioguideId>
+          <lisID>2063</lisID>
+          <gpoId>8153</gpoId>
+        </identifiers>
+        <state>TN</state>
+        <district>6</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billNumber>3727</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

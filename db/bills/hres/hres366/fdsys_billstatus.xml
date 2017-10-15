@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <state>CA</state>
+        <bioguideId>L000551</bioguideId>
+        <firstName>BARBARA</firstName>
+        <party>D</party>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <lastName>LEE</lastName>
+      </item>
+    </cosponsors>
+    <title>Recognizing and commemorating St. Joseph's School and their service to the El Paso community.</title>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2017-05-25</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-25</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-25</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <laws />
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <createDate>2017-05-26T03:11:38Z</createDate>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <party>D</party>
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <firstName>Beto</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2162</lisID>
+          <bioguideId>O000170</bioguideId>
+        </identifiers>
+        <bioguideId>O000170</bioguideId>
+        <district>16</district>
+        <lastName>O'Rourke</lastName>
+        <state>TX</state>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Recognizing and commemorating St. Joseph's School and their service to the El Paso community.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Recognizing and commemorating St. Joseph's School and their service to the El Paso community.</title>
+      </item>
+    </titles>
+    <recordedVotes />
+    <billType>HRES</billType>
+    <billNumber>366</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-25T13:09:45Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-06-13T21:27:27Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Commemorates the founding of St. Joseph's School in El Paso, Texas, and recognizes the school's service to its community.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-05-25T04:00:00Z</updateDate>
+          <actionDate>2017-05-25</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-05-25</actionDate>
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+      <links />
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Texas</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <introducedDate>2017-05-25</introducedDate>
+    <version>1.0.0</version>
+    <updateDate>2017-09-15T17:30:13Z</updateDate>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

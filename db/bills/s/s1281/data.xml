@@ -1,0 +1,52 @@
+<bill session="115" type="s" number="1281" updated="2017-10-05T13:00:15Z">
+  <state datetime="2017-10-04">REPORTED</state>
+  <status>
+    <unknown datetime="2017-10-04"/>
+  </status>
+  <introduced datetime="2017-05-25"/>
+  <titles>
+    <title type="short" as="introduced">Hack DHS Act</title>
+    <title type="short" as="introduced">Hack the Department of Homeland Security Act of 2017</title>
+    <title type="short" as="introduced">Hack the Department of Homeland Security Act of 2017</title>
+    <title type="official" as="introduced">A bill to establish a bug bounty pilot program within the Department of Homeland Security, and for other purposes.</title>
+    <title type="display">Hack DHS Act</title>
+  </titles>
+  <sponsor bioguide_id="H001076"/>
+  <cosponsors>
+    <cosponsor bioguide_id="H001075" joined="2017-05-25"/>
+    <cosponsor bioguide_id="M001170" joined="2017-05-25"/>
+    <cosponsor bioguide_id="P000449" joined="2017-05-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-25">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2017-10-04" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="3868"/>
+    <bill type="h" session="115" relation="unknown" number="2774"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-05-25T04:00:00Z" status="Introduced in Senate">Hack the Department of Homeland Security Act of 2017 or the Hack DHS Act
+
+This bill directs the Department of Homeland Security (DHS) to establish a bug bounty pilot program to minimize vulnerabilities to DHS information systems.
+
+ "Bug bounty program" is a program under which an approved computer security specialist or security researcher is temporarily authorized to identify and report vulnerabilities within DHS information systems in exchange for cash payment.
+
+Under such program, DHS shall:
+
+ provide monetary compensation for reports of previously unidentified security vulnerabilities within the websites, applications, and other DHS information systems that are accessible to the public; develop an expeditious process by which computer security researchers can register with DHS, submit to a background check, and receive a determination as to approval for program participation; designate mission-critical operations within DHS that should be excluded; consult with the Department of Justice on how to ensure that program participants are protected from prosecution for activities authorized under the program; award competitive contracts to manage the program and for executing the remediation of identified vulnerabilities; and engage interested persons, including commercial sector representatives, about the structure of the program.</summary>
+  <committee-reports/>
+</bill>

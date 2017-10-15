@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Overdose Prevention and Patient Safety Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Public Health Service Act to protect the confidentiality of substance use disorder patient records.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Overdose Prevention and Patient Safety Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Overdose Prevention and Patient Safety Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <title>Overdose Prevention and Patient Safety Act</title>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-28T13:11:40Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-08-04T15:02:35Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>3545</billNumber>
+    <cosponsors>
+      <item>
+        <bioguideId>M001181</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001181</bioguideId>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+        </identifiers>
+        <firstName>Patrick</firstName>
+        <lastName>Meehan</lastName>
+        <state>PA</state>
+        <party>R</party>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>B000574</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+          <lisID>99</lisID>
+        </identifiers>
+        <firstName>EARL</firstName>
+        <lastName>BLUMENAUER</lastName>
+        <state>OR</state>
+        <party>D</party>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>C001103</bioguideId>
+        <middleName>L. "Buddy"</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001103</bioguideId>
+          <lisID>2236</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Earl</firstName>
+        <lastName>Carter</lastName>
+        <state>GA</state>
+        <party>R</party>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>R000586</bioguideId>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000586</bioguideId>
+          <lisID>2048</lisID>
+          <gpoId>8106</gpoId>
+        </identifiers>
+        <firstName>James</firstName>
+        <lastName>Renacci</lastName>
+        <state>OH</state>
+        <party>R</party>
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <district>16</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>M001190</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2156</lisID>
+          <bioguideId>M001190</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Markwayne</firstName>
+        <lastName>Mullin</lastName>
+        <state>OK</state>
+        <party>R</party>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>S000250</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1525</lisID>
+          <bioguideId>S000250</bioguideId>
+          <gpoId>8188</gpoId>
+        </identifiers>
+        <firstName>PETE</firstName>
+        <lastName>SESSIONS</lastName>
+        <state>TX</state>
+        <party>R</party>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <district>32</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-08-15</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>L000585</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2295</lisID>
+          <gpoId />
+          <bioguideId>L000585</bioguideId>
+        </identifiers>
+        <firstName>Darin</firstName>
+        <lastName>LaHood</lastName>
+        <state>IL</state>
+        <party>R</party>
+        <fullName>Rep. LaHood, Darin [R-IL-18]</fullName>
+        <district>18</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-08-15</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>B001296</bioguideId>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001296</bioguideId>
+          <lisID>2267</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Brendan</firstName>
+        <lastName>Boyle</lastName>
+        <state>PA</state>
+        <party>D</party>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <district>13</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>B001227</bioguideId>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001227</bioguideId>
+          <lisID>1469</lisID>
+          <gpoId>8119</gpoId>
+        </identifiers>
+        <firstName>ROBERT</firstName>
+        <lastName>BRADY</lastName>
+        <state>PA</state>
+        <party>D</party>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>C000059</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C000059</bioguideId>
+          <lisID>165</lisID>
+          <gpoId>7849</gpoId>
+        </identifiers>
+        <firstName>KEN</firstName>
+        <lastName>CALVERT</lastName>
+        <state>CA</state>
+        <party>R</party>
+        <fullName>Rep. Calvert, Ken [R-CA-42]</fullName>
+        <district>42</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>E000296</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <gpoId />
+          <lisID>2298</lisID>
+        </identifiers>
+        <firstName>Dwight</firstName>
+        <lastName>Evans</lastName>
+        <state>PA</state>
+        <party>D</party>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>L000397</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <firstName>ZOE</firstName>
+        <lastName>LOFGREN</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <district>19</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <updateDate>2017-10-13T07:17:03Z</updateDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>Murphy</lastName>
+        <fullName>Rep. Murphy, Tim [R-PA-18]</fullName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M001151</bioguideId>
+          <lisID>1744</lisID>
+          <gpoId>8723</gpoId>
+        </identifiers>
+        <bioguideId>M001151</bioguideId>
+        <district>18</district>
+        <middleName />
+        <firstName>Tim</firstName>
+        <byRequestType />
+        <state>PA</state>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MURPHY of Pennsylvania:H.R. 3545.Congress has the power to enact this legislation pursuantto the following:The bill is enacted pursuant to the power granted toCongress under Article 1, Section 8, Clause 1 of the UnitedStates Constitution.[Page H6577]</pre>]]></constitutionalAuthorityStatementText>
+    <notes />
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-08-04</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-07-28</actionDate>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <createDate>2017-07-29T03:11:37Z</createDate>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2017-08-04</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <committeeReports />
+    <congress>115</congress>
+    <introducedDate>2017-07-28</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

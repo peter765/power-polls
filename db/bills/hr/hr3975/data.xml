@@ -1,0 +1,38 @@
+<bill session="115" type="h" number="3975" updated="2017-10-11T13:45:12Z">
+  <state datetime="2017-10-05">REFERRED</state>
+  <status>
+    <introduced datetime="2017-10-05"/>
+  </status>
+  <introduced datetime="2017-10-05"/>
+  <titles>
+    <title type="short" as="introduced">Cyber Breach Notification Act of 2017</title>
+    <title type="short" as="introduced">Cyber Breach Notification Act of 2017</title>
+    <title type="official" as="introduced">To require covered entities to provide notification in the case of a breach of unsecured sensitive personally identifiable information in electronic or digital form, and for other purposes.</title>
+    <title type="display">Cyber Breach Notification Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C001110"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001296" joined="2017-10-05"/>
+    <cosponsor bioguide_id="H001050" joined="2017-10-05"/>
+    <cosponsor bioguide_id="N000147" joined="2017-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-10-05">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-10-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1336-1337"/>
+    </action>
+    <action datetime="2017-10-05" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

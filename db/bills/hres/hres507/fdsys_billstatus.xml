@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <committeeReports />
+    <billType>HRES</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-09-06</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-09-06</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-09-06</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <originChamber>House</originChamber>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Expresses support for the designation of National Campus Sexual Assault Awareness Month.</p>]]></text>
+          <actionDate>2017-09-06</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-09-06T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-09-27T16:08:57Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <createDate>2017-09-07T03:11:30Z</createDate>
+    <latestAction>
+      <links />
+      <actionDate>2017-09-06</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </latestAction>
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <firstName>ELEANOR</firstName>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <state>DC</state>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <bioguideId>N000147</bioguideId>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <party>D</party>
+        <lastName>NORTON</lastName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8217</gpoId>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <middleName />
+        <firstName>Gwen</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Moore</lastName>
+        <district>4</district>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <state>WI</state>
+        <bioguideId>M001160</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+        </identifiers>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <middleName>D.</middleName>
+        <firstName>Yvette</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Clarke</lastName>
+        <district>9</district>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <state>NY</state>
+        <bioguideId>C001067</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>2339</lisID>
+          <gpoId />
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <middleName />
+        <firstName>Jacky</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Rosen</lastName>
+        <district>3</district>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <state>NV</state>
+        <bioguideId>R000608</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>997</lisID>
+          <gpoId>7839</gpoId>
+          <bioguideId>R000486</bioguideId>
+        </identifiers>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <middleName />
+        <firstName>LUCILLE</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <district>40</district>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <state>CA</state>
+        <bioguideId>R000486</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>G000535</bioguideId>
+          <lisID>478</lisID>
+          <gpoId>7924</gpoId>
+        </identifiers>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <middleName>V.</middleName>
+        <firstName>LUIS</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>GUTIERREZ</lastName>
+        <district>4</district>
+        <sponsorshipDate>2017-09-12</sponsorshipDate>
+        <state>IL</state>
+        <bioguideId>G000535</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <middleName />
+        <firstName>Carol</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Shea-Porter</lastName>
+        <district>1</district>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <state>NH</state>
+        <bioguideId>S001170</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>2251</lisID>
+          <gpoId />
+          <bioguideId>D000624</bioguideId>
+        </identifiers>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <middleName />
+        <firstName>Debbie</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Dingell</lastName>
+        <district>12</district>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <state>MI</state>
+        <bioguideId>D000624</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>T000468</bioguideId>
+          <gpoId>7493</gpoId>
+          <lisID>1940</lisID>
+        </identifiers>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <middleName />
+        <firstName>Dina</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Titus</lastName>
+        <district>1</district>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <state>NV</state>
+        <bioguideId>T000468</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1857</lisID>
+          <bioguideId>E000288</bioguideId>
+          <gpoId>8005</gpoId>
+        </identifiers>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <middleName />
+        <firstName>Keith</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Ellison</lastName>
+        <district>5</district>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <state>MN</state>
+        <bioguideId>E000288</bioguideId>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <date>2017-09-06T14:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Oversight and Government Reform Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText />
+    <version>1.0.0</version>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <title>Expressing support for the designation of September 2017 as "National Campus Sexual Assault Awareness Month".</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Expressing support for the designation of September 2017 as "National Campus Sexual Assault Awareness Month".</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <title>Expressing support for the designation of September 2017 as "National Campus Sexual Assault Awareness Month".</title>
+    <amendments />
+    <introducedDate>2017-09-06</introducedDate>
+    <updateDate>2017-09-27T16:15:13Z</updateDate>
+    <billNumber>507</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

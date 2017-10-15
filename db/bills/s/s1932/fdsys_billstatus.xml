@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to provide for certain wildfire mitigation assistance.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>A bill to amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to provide for certain wildfire mitigation assistance.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <introducedDate>2017-10-05</introducedDate>
+    <cboCostEstimates />
+    <title>A bill to amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to provide for certain wildfire mitigation assistance.</title>
+    <recordedVotes />
+    <billType>S</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <billNumber>1932</billNumber>
+    <createDate>2017-10-06T00:41:19Z</createDate>
+    <cosponsors>
+      <item>
+        <middleName>D.</middleName>
+        <firstName>MICHAEL</firstName>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <bioguideId>C000880</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <party>R</party>
+        <lastName>CRAPO</lastName>
+        <state>ID</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Jon</firstName>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <bioguideId>T000464</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <party>D</party>
+        <lastName>Tester</lastName>
+        <state>MT</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <firstName>James</firstName>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <bioguideId>R000584</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <party>R</party>
+        <lastName>Risch</lastName>
+        <state>ID</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+          <lisID>1896</lisID>
+          <gpoId>8274</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <firstName>RON</firstName>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <bioguideId>W000779</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <party>D</party>
+        <lastName>WYDEN</lastName>
+        <state>OR</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <state>CO</state>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <bioguideId>B001267</bioguideId>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <byRequestType />
+        <lastName>Bennet</lastName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssga00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-05T17:13:36Z</date>
+            </item>
+          </activities>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-10-06T05:06:19Z</updateDate>
+    <congress>115</congress>
+    <policyArea />
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2017-10-05</actionDate>
+      <links />
+    </latestAction>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

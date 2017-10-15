@@ -1,0 +1,39 @@
+<bill session="115" type="s" number="589" updated="2017-09-07T06:16:54Z">
+  <state datetime="2017-03-09">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-09"/>
+  </status>
+  <introduced datetime="2017-03-09"/>
+  <titles>
+    <title type="short" as="introduced">Real Time Transparency Act</title>
+    <title type="short" as="introduced">Real Time Transparency Act</title>
+    <title type="official" as="introduced">A bill to amend the Federal Election Campaign Act of 1971 to require all political committees to notify the Federal Election Commission within 48 hours of receiving cumulative contributions of $1,000 or more from any contributor during a calendar year, and for other purposes.</title>
+    <title type="display">Real Time Transparency Act</title>
+  </titles>
+  <sponsor bioguide_id="K000383"/>
+  <cosponsors>
+    <cosponsor bioguide_id="W000817" joined="2017-09-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-09">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-03-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSRA" name="Senate Rules and Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="1548"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional elections"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

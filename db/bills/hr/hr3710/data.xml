@@ -1,0 +1,46 @@
+<bill session="115" type="h" number="3710" updated="2017-09-13T19:15:10Z">
+  <state datetime="2017-09-07">REFERRED</state>
+  <status>
+    <introduced datetime="2017-09-07"/>
+  </status>
+  <introduced datetime="2017-09-07"/>
+  <titles>
+    <title type="short" as="introduced">Javits Act of 2017</title>
+    <title type="short" as="introduced">Javits Act of 2017</title>
+    <title type="official" as="introduced">To reauthorize appropriations for the Jacob K. Javits Fellowship Program, and for other purposes.</title>
+    <title type="display">Javits Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="V000081"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001067" joined="2017-09-07"/>
+    <cosponsor bioguide_id="C001068" joined="2017-09-07"/>
+    <cosponsor bioguide_id="E000288" joined="2017-09-07"/>
+    <cosponsor bioguide_id="E000296" joined="2017-09-07"/>
+    <cosponsor bioguide_id="G000551" joined="2017-09-07"/>
+    <cosponsor bioguide_id="J000032" joined="2017-09-07"/>
+    <cosponsor bioguide_id="J000298" joined="2017-09-07"/>
+    <cosponsor bioguide_id="K000389" joined="2017-09-07"/>
+    <cosponsor bioguide_id="M001185" joined="2017-09-07"/>
+    <cosponsor bioguide_id="M000312" joined="2017-09-07"/>
+    <cosponsor bioguide_id="N000147" joined="2017-09-07"/>
+    <cosponsor bioguide_id="S000248" joined="2017-09-12"/>
+    <cosponsor bioguide_id="S000480" joined="2017-09-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-09-07">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-09-07" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

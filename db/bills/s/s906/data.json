@@ -1,0 +1,172 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-04-07", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-04-07", 
+      "action_code": "", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-07-26", 
+      "action_code": "", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "", 
+      "committee": "Homeland Security and Governmental Affairs", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 115-165.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "234", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 234.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s906-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [
+    "S. Rept. 115-165"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000618", 
+      "district": null, 
+      "name": "Daines, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-07", 
+      "state": "MT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-10-05", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-04-07", 
+  "number": "906", 
+  "official_title": "A bill to amend the Homeland Security Act of 2002 to provide for congressional notification regarding major acquisition program breaches, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1294-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2825-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Reducing DHS Acquisition Cost Growth Act", 
+  "sponsor": {
+    "bioguide_id": "M001170", 
+    "district": null, 
+    "name": "McCaskill, Claire", 
+    "state": "MO", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-07-26", 
+  "subjects": [
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Government operations and politics", 
+    "Government studies and investigations", 
+    "Performance measurement", 
+    "Public contracts and procurement"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Reducing DHS Acquisition Cost Growth Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Reducing DHS Acquisition Cost Growth Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Reducing DHS Acquisition Cost Growth Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Reducing DHS Acquisition Cost Growth Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Homeland Security Act of 2002 to provide for congressional notification regarding major acquisition program breaches, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Reducing DHS Acquisition Cost Growth Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-12T15:45:11Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s906.xml"
+}

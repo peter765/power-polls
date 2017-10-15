@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-09-27T03:11:21Z</createDate>
+    <billType>HRES</billType>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <recordedVotes />
+    <relatedBills />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <lastName>KING</lastName>
+        <bioguideId>K000210</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>PETER</firstName>
+        <middleName>T.</middleName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8064</gpoId>
+          <lisID>635</lisID>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <notes />
+    <introducedDate>2017-09-26</introducedDate>
+    <laws />
+    <committeeReports />
+    <titles>
+      <item>
+        <title>Expressing support for the designation of September 2017 as "Campus Fire Safety Month".</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Expressing support for the designation of September 2017 as "Campus Fire Safety Month".</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>P000096</bioguideId>
+          <gpoId>8050</gpoId>
+          <lisID>1510</lisID>
+        </identifiers>
+        <middleName>J.</middleName>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <firstName>WILLIAM</firstName>
+        <bioguideId>P000096</bioguideId>
+        <lastName>PASCRELL</lastName>
+        <district>9</district>
+        <party>D</party>
+        <state>NJ</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsed00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-26T14:00:30Z</date>
+            </item>
+          </activities>
+          <name>Education and the Workforce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <billNumber>540</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <actionDate>2017-09-26</actionDate>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-09-26</actionDate>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-09-26</actionDate>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-10-03T21:16:26Z</lastSummaryUpdateDate>
+          <text><![CDATA[<br />Supports the establishment of Campus Fire Safety Month.<br /><br />Encourages schools and municipalities across the country to provide educational programs to all students throughout the school year. <br /><br />Encourages schools and municipalities to evaluate the level of fire safety being provided in both on- and off-campus student housing and take the necessary steps to ensure fire-safe living environments. <br />]]></text>
+          <updateDate>2017-09-26T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2017-09-26</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText />
+    <title>Expressing support for the designation of September 2017 as "Campus Fire Safety Month".</title>
+    <updateDate>2017-10-03T21:30:14Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Housing industry and standards</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-09-26</actionDate>
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

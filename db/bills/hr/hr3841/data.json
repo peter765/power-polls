@@ -1,0 +1,144 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-26", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-26", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Nutrition.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3841-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Nutrition", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001097", 
+      "district": "29", 
+      "name": "Cardenas, Tony", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-26", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000584", 
+      "district": "4", 
+      "name": "Love, Mia B.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-26", 
+      "state": "UT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001191", 
+      "district": "9", 
+      "name": "Sinema, Kyrsten", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-26", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-26", 
+  "number": "3841", 
+  "official_title": "To amend the Food and Nutrition Act of 2008 to make certain multivitamin-mineral dietary supplements eligible for purchase with supplemental nutrition assistance program benefits, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "SNAP Vitamin and Mineral Improvement Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "R000575", 
+    "district": "3", 
+    "name": "Rogers, Mike D.", 
+    "state": "AL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-26", 
+  "subjects": [
+    "Agriculture and food"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SNAP Vitamin and Mineral Improvement Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SNAP Vitamin and Mineral Improvement Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Food and Nutrition Act of 2008 to make certain multivitamin-mineral dietary supplements eligible for purchase with supplemental nutrition assistance program benefits, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "SNAP Vitamin and Mineral Improvement Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-06T07:12:40Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3841.xml"
+}

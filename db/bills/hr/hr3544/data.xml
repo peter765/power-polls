@@ -1,0 +1,39 @@
+<bill session="115" type="h" number="3544" updated="2017-09-11T02:56:17Z">
+  <state datetime="2017-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-28"/>
+  </status>
+  <introduced datetime="2017-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Aircraft Ownership Transparency Act of 2017</title>
+    <title type="short" as="introduced">Aircraft Ownership Transparency Act of 2017</title>
+    <title type="official" as="introduced">To require the disclosure of beneficial ownership by a foreign person of aircraft registration, and for other purposes.</title>
+    <title type="display">Aircraft Ownership Transparency Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="L000562"/>
+  <cosponsors>
+    <cosponsor bioguide_id="K000210" joined="2017-07-28"/>
+    <cosponsor bioguide_id="M000087" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-07-31">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Aviation" code="HSPW05" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

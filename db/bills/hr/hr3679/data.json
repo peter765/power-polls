@@ -1,0 +1,209 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-05", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-05", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3679-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000581", 
+      "district": "15", 
+      "name": "Gonzalez, Vicente", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-09-26", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000553", 
+      "district": "9", 
+      "name": "Green, Al", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-10-03", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000188", 
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-09-26", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000557", 
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-09-26", 
+      "state": "CT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000554", 
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-10-02", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001181", 
+      "district": "7", 
+      "name": "Meehan, Patrick", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-10-02", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000034", 
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-09-26", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000096", 
+      "district": "9", 
+      "name": "Pascrell, Bill, Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-09-05", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000522", 
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-09-26", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-05", 
+  "number": "3679", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to provide tax relief for major disasters declared in any of calendar years 2012 through 2015, to make certain tax relief provisions permanent, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Disaster Tax Relief Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "R000585", 
+    "district": "23", 
+    "name": "Reed, Tom", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-05", 
+  "subjects": [
+    "Business investment and capital", 
+    "Charitable contributions", 
+    "Credit and credit markets", 
+    "Disaster relief and insurance", 
+    "Employee benefits and pensions", 
+    "Financial services and investments", 
+    "Health care costs and insurance", 
+    "Homelessness and emergency shelter", 
+    "Housing finance and home ownership", 
+    "Income tax credits", 
+    "Income tax deductions", 
+    "Income tax exclusion", 
+    "Life, casualty, property insurance", 
+    "Low- and moderate-income housing", 
+    "Natural disasters", 
+    "Poverty and welfare assistance", 
+    "Residential rehabilitation and home repair", 
+    "Securities", 
+    "State and local government operations", 
+    "Tax administration and collection, taxpayers", 
+    "Tax treatment of families", 
+    "Tax-exempt organizations", 
+    "Taxation", 
+    "Wages and earnings", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Disaster Tax Relief Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Disaster Tax Relief Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to provide tax relief for major disasters declared in any of calendar years 2012 through 2015, to make certain tax relief provisions permanent, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "National Disaster Tax Relief Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-04T07:16:33Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3679.xml"
+}

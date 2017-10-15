@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-09-08</introducedDate>
+    <committeeReports />
+    <relatedBills />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Rules.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <actionDate>2017-09-08</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2017-09-08</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2017-09-08</actionDate>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <billNumber>512</billNumber>
+    <latestAction>
+      <text>Referred to the House Committee on Rules.</text>
+      <actionDate>2017-09-08</actionDate>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <notes />
+    <laws />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <createDate>2017-09-09T03:11:30Z</createDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Amending the Rules of the House of Representatives to reinstate the "Gephardt rule".</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Amending the Rules of the House of Representatives to reinstate the "Gephardt rule".</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <title>Amending the Rules of the House of Representatives to reinstate the "Gephardt rule".</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <date>2017-09-08T13:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <updateDate>2017-09-12T19:15:11Z</updateDate>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <billType>HRES</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cosponsors />
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>W000800</bioguideId>
+        <lastName>Welch</lastName>
+        <district>0</district>
+        <identifiers>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+          <lisID>1879</lisID>
+        </identifiers>
+        <firstName>Peter</firstName>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <state>VT</state>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

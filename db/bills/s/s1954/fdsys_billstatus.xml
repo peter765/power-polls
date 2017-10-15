@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <notes />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to authorize the Board of Regents of the Smithsonian Institution to plan, design, and construct a central parking facility on National Zoological Park property in Washington, D.C.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A bill to authorize the Board of Regents of the Smithsonian Institution to plan, design, and construct a central parking facility on National Zoological Park property in Washington, D.C.</title>
+      </item>
+    </titles>
+    <laws />
+    <introducedDate>2017-10-05</introducedDate>
+    <cboCostEstimates />
+    <title>A bill to authorize the Board of Regents of the Smithsonian Institution to plan, design, and construct a central parking facility on National Zoological Park property in Washington, D.C.</title>
+    <recordedVotes />
+    <billType>S</billType>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-10-05</actionDate>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <billNumber>1954</billNumber>
+    <createDate>2017-10-06T00:41:19Z</createDate>
+    <cosponsors>
+      <item>
+        <state>AR</state>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+          <lisID>1687</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <lastName>Boozman</lastName>
+        <party>R</party>
+        <bioguideId>B001236</bioguideId>
+      </item>
+      <item>
+        <state>VT</state>
+        <middleName>JOSEPH</middleName>
+        <identifiers>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+          <lisID>1383</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-10-05</sponsorshipDate>
+        <firstName>PATRICK</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <lastName>LEAHY</lastName>
+        <party>D</party>
+        <bioguideId>L000174</bioguideId>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <state>GA</state>
+        <party>R</party>
+        <middleName>Alfred</middleName>
+        <bioguideId>P000612</bioguideId>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <identifiers>
+          <lisID>2286</lisID>
+          <gpoId />
+          <bioguideId>P000612</bioguideId>
+        </identifiers>
+        <firstName>David</firstName>
+        <byRequestType />
+        <lastName>Perdue</lastName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Rules and Administration Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-05T21:04:37Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssra00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-10-06T05:06:29Z</updateDate>
+    <congress>115</congress>
+    <policyArea />
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+      <actionDate>2017-10-05</actionDate>
+      <links />
+    </latestAction>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

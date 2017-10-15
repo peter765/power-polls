@@ -1,0 +1,38 @@
+<bill session="115" type="s" number="1069" updated="2017-09-11T03:06:29Z">
+  <state datetime="2017-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-08"/>
+  </status>
+  <introduced datetime="2017-05-08"/>
+  <titles>
+    <title type="short" as="introduced">Medical Device Safety Monitoring Act</title>
+    <title type="short" as="introduced">Medical Device Safety Monitoring Act</title>
+    <title type="official" as="introduced">A bill to establish pilot projects in order to provide timely and reliable information on the safety and effectiveness of cleared or approved devices.</title>
+    <title type="display">Medical Device Safety Monitoring Act</title>
+  </titles>
+  <sponsor bioguide_id="C001070"/>
+  <cosponsors>
+    <cosponsor bioguide_id="F000457" joined="2017-05-08"/>
+    <cosponsor bioguide_id="W000817" joined="2017-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-08">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="934"/>
+    <bill type="h" session="115" relation="unknown" number="2430"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

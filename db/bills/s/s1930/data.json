@@ -1,0 +1,211 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-05", 
+      "action_code": "", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1930-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C000141", 
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "MD", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000062", 
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "CA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001075", 
+      "district": null, 
+      "name": "Harris, Kamala D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "CA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001076", 
+      "district": null, 
+      "name": "Hassan, Margaret Wood", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "NH", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001046", 
+      "district": null, 
+      "name": "Heinrich, Martin", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "NM", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001042", 
+      "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "HI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001176", 
+      "district": null, 
+      "name": "Merkley, Jeff", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "OR", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001111", 
+      "district": null, 
+      "name": "Murray, Patty", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "WA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "U000039", 
+      "district": null, 
+      "name": "Udall, Tom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "NM", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000128", 
+      "district": null, 
+      "name": "Van Hollen, Chris", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "MD", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000817", 
+      "district": null, 
+      "name": "Warren, Elizabeth", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "MA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000802", 
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "RI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000779", 
+      "district": null, 
+      "name": "Wyden, Ron", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-05", 
+      "state": "OR", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-05", 
+  "number": "1930", 
+  "official_title": "A bill to establish a cost of greenhouse gases for carbon dioxide, methane, and nitrous oxide to be used by Federal agencies, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "B001267", 
+    "district": null, 
+    "name": "Bennet, Michael F.", 
+    "state": "CO", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-05", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to establish a cost of greenhouse gases for carbon dioxide, methane, and nitrous oxide to be used by Federal agencies, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to establish a cost of greenhouse gases for carbon dioxide, methane, and nitrous oxide to be used by Federal agencies, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-06T05:06:18Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1930.xml"
+}

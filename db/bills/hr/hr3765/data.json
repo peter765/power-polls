@@ -1,0 +1,94 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-09-13", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-09-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3765-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-09-13", 
+  "number": "3765", 
+  "official_title": "To redesignate certain clinics of the Department of Veterans Affairs located in Montana.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1282-115", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "G000584", 
+    "district": null, 
+    "name": "Gianforte, Greg", 
+    "state": "MT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-09-13", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional tributes", 
+    "Department of Veterans Affairs", 
+    "Health facilities and institutions", 
+    "Montana", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To redesignate certain clinics of the Department of Veterans Affairs located in Montana.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To redesignate certain clinics of the Department of Veterans Affairs located in Montana.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-09-22T16:15:13Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3765.xml"
+}

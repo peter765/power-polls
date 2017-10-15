@@ -1,0 +1,42 @@
+<bill session="115" type="h" number="3651" updated="2017-09-11T16:15:12Z">
+  <state datetime="2017-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="2017-08-11"/>
+  </status>
+  <introduced datetime="2017-08-11"/>
+  <titles>
+    <title type="official" as="introduced">To require the Comptroller General of the United States to conduct a feasibility study on renovating or replacing the Lyndon B. Johnson Tropical Medical Center with a new or updated facility.</title>
+    <title type="display">To require the Comptroller General of the United States to conduct a feasibility study on renovating or replacing the Lyndon B. Johnson Tropical Medical Center with a new or updated facility.</title>
+  </titles>
+  <sponsor bioguide_id="R000600"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-08-11">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-08-11" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-08-11">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-08-18">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2017-08-18">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Indian, Insular and Alaska Native Affairs" code="HSII24" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText />
+    <congress>115</congress>
+    <cboCostEstimates />
+    <updateDate>2017-10-11T17:45:11Z</updateDate>
+    <latestAction>
+      <actionDate>2017-10-06</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-06T14:30:36Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-10-06</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <lisID>2171</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Pocan</lastName>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <bioguideId>P000607</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-10-06</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>1927</lisID>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <lastName>Pingree</lastName>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <bioguideId>P000597</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Chellie</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-10-10</sponsorshipDate>
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <lastName>Gosar</lastName>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <bioguideId>G000565</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <firstName>Paul</firstName>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-10-06</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <billType>HRES</billType>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <laws />
+    <billNumber>561</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-06</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-10-06</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-10-06</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <committeeReports />
+    <title>Commending the cooperative business model and the businesses, employees, and practitioners nationally and internationally who use it for their contributions to the economy and social impacts they make on their communities.</title>
+    <createDate>2017-10-07T03:11:17Z</createDate>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Commending the cooperative business model and the businesses, employees, and practitioners nationally and internationally who use it for their contributions to the economy and social impacts they make on their communities.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Commending the cooperative business model and the businesses, employees, and practitioners nationally and internationally who use it for their contributions to the economy and social impacts they make on their communities.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>CO</state>
+        <byRequestType />
+        <bioguideId>P000598</bioguideId>
+        <firstName>Jared</firstName>
+        <identifiers>
+          <bioguideId>P000598</bioguideId>
+          <lisID>1910</lisID>
+          <gpoId>7860</gpoId>
+        </identifiers>
+        <middleName />
+        <district>2</district>
+        <lastName>Polis</lastName>
+        <fullName>Rep. Polis, Jared [D-CO-2]</fullName>
+      </item>
+    </sponsors>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

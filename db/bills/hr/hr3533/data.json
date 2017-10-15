@@ -1,0 +1,158 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-08-14", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Mineral Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3533-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Energy and Mineral Resources", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B000574", 
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-09-05", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001303", 
+      "district": null, 
+      "name": "Blunt Rochester, Lisa", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-10-03", 
+      "state": "DE", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001107", 
+      "district": "26", 
+      "name": "Curbelo, Carlos", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-28", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-28", 
+  "number": "3533", 
+  "official_title": "To amend the Coastal Zone Management Act of 1972 to require the Secretary of Commerce to establish a coastal climate change adaptation preparedness and response program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Coastal State Climate Preparedness Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "C001112", 
+    "district": "24", 
+    "name": "Carbajal, Salud O.", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-07-28", 
+  "subjects": [
+    "Air quality", 
+    "Climate change and greenhouse gases", 
+    "Emergency planning and evacuation", 
+    "Environmental assessment, monitoring, research", 
+    "Environmental protection", 
+    "Government buildings, facilities, and property", 
+    "Great Lakes", 
+    "Land use and conservation", 
+    "Marine and coastal resources, fisheries", 
+    "Marine pollution", 
+    "Natural disasters", 
+    "Seashores and lakeshores", 
+    "Travel and tourism", 
+    "Water quality", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Coastal State Climate Preparedness Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Coastal State Climate Preparedness Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Coastal Zone Management Act of 1972 to require the Secretary of Commerce to establish a coastal climate change adaptation preparedness and response program, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Coastal State Climate Preparedness Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-04T07:16:27Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3533.xml"
+}

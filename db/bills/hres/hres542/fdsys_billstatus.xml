@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>344</lisID>
+          <gpoId>8078</gpoId>
+          <bioguideId>E000179</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <district>16</district>
+        <party>D</party>
+        <byRequestType />
+        <state>NY</state>
+        <lastName>ENGEL</lastName>
+        <firstName>ELIOT</firstName>
+        <bioguideId>E000179</bioguideId>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <committeeReports />
+    <title>Expressing support for designation of the week of October 1 through 7, 2017, as "Latex Allergy Awareness Week".</title>
+    <constitutionalAuthorityStatementText />
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Expressing support for designation of the week of October 1 through 7, 2017, as "Latex Allergy Awareness Week".</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Expressing support for designation of the week of October 1 through 7, 2017, as "Latex Allergy Awareness Week".</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-09-27T19:00:16Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Oversight and Government Reform Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsgo00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2017-09-29T15:45:09Z</updateDate>
+    <originChamber>House</originChamber>
+    <billNumber>542</billNumber>
+    <cosponsors>
+      <item>
+        <bioguideId>S001170</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <district>1</district>
+        <party>D</party>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <state>NH</state>
+        <lastName>Shea-Porter</lastName>
+        <firstName>Carol</firstName>
+        <identifiers>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <amendments />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-09-27</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-09-27</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-09-27</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <notes />
+    <billType>HRES</billType>
+    <calendarNumbers />
+    <createDate>2017-09-28T03:11:18Z</createDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-09-27</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <links />
+    </latestAction>
+    <relatedBills />
+    <introducedDate>2017-09-27</introducedDate>
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

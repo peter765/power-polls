@@ -1,0 +1,41 @@
+<bill session="115" type="h" number="3170" updated="2017-10-06T19:45:12Z">
+  <state datetime="2017-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-10"/>
+  </status>
+  <introduced datetime="2017-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Development Center Cyber Training Act of 2017</title>
+    <title type="short" as="introduced">Small Business Development Center Cyber Training Act of 2017</title>
+    <title type="official" as="introduced">To amend the Small Business Act to require cyber certification for small business development center counselors, and for other purposes.</title>
+    <title type="display">Small Business Development Center Cyber Training Act of 2017</title>
+  </titles>
+  <sponsor bioguide_id="C000266"/>
+  <cosponsors>
+    <cosponsor bioguide_id="E000296" joined="2017-07-10"/>
+    <cosponsor bioguide_id="V000081" joined="2017-09-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-10">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="3002"/>
+    <bill type="s" session="115" relation="unknown" number="1428"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-07-10T04:00:00Z" status="Introduced in House">Small Business Development Center Cyber Training Act of 2017
+
+This bill amends the Small Business Act&#160;to require the Small Business Administration to establish a program for certifying employees of small business development centers to provide cybersecurity planning assistance to small businesses.</summary>
+  <committee-reports/>
+</bill>

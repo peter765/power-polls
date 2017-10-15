@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>ssga00</systemCode>
+          <type>Standing</type>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2017-07-26T14:00:46Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-07-19T17:13:11Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <sponsors>
+      <item>
+        <state>WI</state>
+        <middleName />
+        <identifiers>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <firstName>Ron</firstName>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <lastName>Johnson</lastName>
+        <party>R</party>
+        <bioguideId>J000293</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <titles>
+      <item>
+        <chamberName />
+        <title>A bill to amend the Ethics in Government Act of 1978 to reauthorize the Judicial Conference of the United States to redact sensitive information contained in financial disclosure reports of judicial officers and employees, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>A bill to amend the Ethics in Government Act of 1978 to reauthorize the Judicial Conference of the United States to redact sensitive information contained in financial disclosure reports of judicial officers and employees, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <introducedDate>2017-07-19</introducedDate>
+    <title>A bill to amend the Ethics in Government Act of 1978 to reauthorize the Judicial Conference of the United States to redact sensitive information contained in financial disclosure reports of judicial officers and employees, and for other purposes.</title>
+    <committeeReports />
+    <amendments />
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>8252</gpoId>
+          <bioguideId>M001170</bioguideId>
+          <lisID>1820</lisID>
+        </identifiers>
+        <firstName>Claire</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <bioguideId>M001170</bioguideId>
+        <lastName>McCaskill</lastName>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <state>MO</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-07-19</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-10-04T20:26:39Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill amends the Ethics in Government Act of 1978 to make permanent the authority of the Judicial Conference to redact personal and sensitive information from the financial disclosure report of a judge or judicial employee if it finds that revealing the information could endanger that individual or a family member of that individual. </p>]]></text>
+          <updateDate>2017-07-19T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-19</actionDate>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-10-07T04:28:50Z</updateDate>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <number>3229</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-09-28</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To protect the safety of judges by extending the authority of the Judicial Conference to redact sensitive information contained in their financial disclosure reports, and for other purposes.</latestTitle>
+      </item>
+    </relatedBills>
+    <createDate>2017-07-20T00:41:33Z</createDate>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <actionDate>2017-07-26</actionDate>
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </latestAction>
+    <billNumber>1584</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

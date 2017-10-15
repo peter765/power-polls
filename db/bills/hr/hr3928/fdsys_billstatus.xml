@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText />
+    <congress>115</congress>
+    <cboCostEstimates />
+    <updateDate>2017-10-10T20:00:17Z</updateDate>
+    <latestAction>
+      <actionDate>2017-10-03</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-03T14:01:10Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <district>13</district>
+        <identifiers>
+          <bioguideId>S001157</bioguideId>
+          <lisID>1722</lisID>
+          <gpoId>7910</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <bioguideId>S001157</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <state>GA</state>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Scott</lastName>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-10-03</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <billType>HR</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <laws />
+    <billNumber>3928</billNumber>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-10-03</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-10-03</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-10-03</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <title>Truth in Healthcare Marketing Act of 2017</title>
+    <createDate>2017-10-04T03:11:23Z</createDate>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Truth in Healthcare Marketing Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To ensure that patients receive accurate health care information by prohibiting misleading and deceptive advertising or representation in the provision of health care services, to require the identification of the license of health care professionals, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Truth in Healthcare Marketing Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Truth in Healthcare Marketing Act of 2017</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>IN</state>
+        <byRequestType />
+        <bioguideId>B001275</bioguideId>
+        <firstName>Larry</firstName>
+        <identifiers>
+          <bioguideId>B001275</bioguideId>
+          <lisID>2018</lisID>
+          <gpoId>7947</gpoId>
+        </identifiers>
+        <middleName />
+        <district>8</district>
+        <lastName>Bucshon</lastName>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+      </item>
+    </sponsors>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

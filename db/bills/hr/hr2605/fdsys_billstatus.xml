@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <district>6</district>
+        <firstName>ROBERT</firstName>
+        <identifiers>
+          <gpoId>8197</gpoId>
+          <lisID>446</lisID>
+          <bioguideId>G000289</bioguideId>
+        </identifiers>
+        <lastName>GOODLATTE</lastName>
+        <bioguideId>G000289</bioguideId>
+        <middleName>W.</middleName>
+        <fullName>Rep. Goodlatte, Bob [R-VA-6]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <state>VA</state>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <billNumber>2605</billNumber>
+    <updateDate>2017-10-05T18:00:14Z</updateDate>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-10-05T17:49:15Z</lastSummaryUpdateDate>
+          <actionDate>2017-05-23</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Secret Service Reauthorization Act of 2017</strong></p> <p>This bill amends the federal criminal code to: (1) subject the appointment of the Director of the U.S. Secret Service to the advice and consent of the Senate; (2) prohibit knowingly entering an object into any restricted building or grounds to impede or disrupt the orderly conduct of government business or official functions; and (3) prohibit knowingly and willfully threatening to kill, kidnap, or harm former Vice Presidents, their spouses, or their children under age 16 or any person protected by the Secret Service under a presidential memorandum.</p> <p>The Director must increase the annual number of training hours for Secret Service officers and agents. </p> <p>The Director is authorized to: (1) construct facilities at the Rowley Training Center to improve the training of U.S. Secret Service Uniformed Division officers and Secret Service agents, and (2) hire not fewer than 200 additional officers for such division and 85 additional agents for the Secret Service Presidential Protective Detail.</p> <p>The Director shall adopt improved procedures for: (1) evaluating vulnerabilities in White House security and threats to persons protected by the Secret Service, and (2) evaluating the use of technology to improve such security and respond to such threats.</p> <p>The Director is required to evaluate the practicability of equipping agents and officers with weapons other than those currently provided.</p> <p>Provisions of the Presidential Protection Assistance Act of 1976 requiring expenditures above a specified amount by the Secret Service for securing any non-governmental property in addition to the one non-governmental property designated by each protectee to be approved by the House and Senate Appropriations Committees are replaced with provisions requiring the Secret Service to notify such Committees of any such expenditures.</p> <p>The Director shall establish an Ethics Program Office.</p> <p>A Secret Service officer may provide armed protective services authorized by statute or pursuant to a presidential memorandum at any place where a general or special election is held.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-05-23T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 2605, Secret Service Reauthorization Act of 2017</title>
+        <pubDate>2017-06-27T01:14:54Z</pubDate>
+        <url>https://www.cbo.gov/publication/52851</url>
+      </item>
+    </cboCostEstimates>
+    <notes />
+    <cosponsors>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000714</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <district>13</district>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>C000714</bioguideId>
+          <lisID>229</lisID>
+          <gpoId>7999</gpoId>
+        </identifiers>
+        <lastName>CONYERS</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000566</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Trey</firstName>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Gowdy, Trey [R-SC-4]</fullName>
+        <district>4</district>
+        <state>SC</state>
+        <identifiers>
+          <gpoId>8144</gpoId>
+          <lisID>2058</lisID>
+          <bioguideId>G000566</bioguideId>
+        </identifiers>
+        <lastName>Gowdy</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>J000032</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>SHEILA</firstName>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <district>18</district>
+        <state>TX</state>
+        <identifiers>
+          <lisID>588</lisID>
+          <bioguideId>J000032</bioguideId>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <lastName>JACKSON LEE</lastName>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <billType>HR</billType>
+    <latestAction>
+      <actionDate>2017-05-24</actionDate>
+      <links />
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </latestAction>
+    <congress>115</congress>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-05-24</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-24</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-23</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-23</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-23</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-23</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <createDate>2017-05-24T03:11:40Z</createDate>
+    <title>Secret Service Reauthorization Act of 2017</title>
+    <introducedDate>2017-05-23</introducedDate>
+    <laws />
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <amendments />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-05-23T14:53:20Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-05-24T13:21:39Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-05-23T14:02:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GOODLATTE:H.R. 2605.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3[Page H4504]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Secret Service Reauthorization Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Secret Service Reauthorization Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide for additional resources for the Secret Service, and to improve protections for restricted areas.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Secret Service Reauthorization Act of 2017</title>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,44 @@
+<bill session="115" type="h" number="3240" updated="2017-09-11T03:06:12Z">
+  <state datetime="2017-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-13"/>
+  </status>
+  <introduced datetime="2017-07-13"/>
+  <titles>
+    <title type="short" as="introduced">Smart Manufacturing Leadership Act</title>
+    <title type="short" as="introduced">Smart Manufacturing Leadership Act</title>
+    <title type="official" as="introduced">To improve the productivity and energy efficiency of the manufacturing sector by directing the Secretary of Energy, in coordination with the National Academies and other appropriate Federal agencies, to develop a national smart manufacturing plan and to provide assistance to small- and medium-sized manufacturers in implementing smart manufacturing programs, and for other purposes.</title>
+    <title type="display">Smart Manufacturing Leadership Act</title>
+  </titles>
+  <sponsor bioguide_id="W000800"/>
+  <cosponsors>
+    <cosponsor bioguide_id="R000585" joined="2017-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-13">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-13" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-13">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-07-14">
+      <text>Referred to the Subcommittee on Energy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Energy and Power" code="HSIF03" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="identical" number="768"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

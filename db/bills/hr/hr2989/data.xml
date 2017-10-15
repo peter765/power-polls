@@ -1,0 +1,106 @@
+<bill session="115" type="h" number="2989" updated="2017-10-13T19:00:12Z">
+  <state datetime="2017-10-11T15:49:40-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-10-11T15:49:40-04:00"/>
+  </status>
+  <introduced datetime="2017-06-21"/>
+  <titles>
+    <title type="short" as="introduced">Frederick Douglass Bicentennial Commission Act</title>
+    <title type="short" as="introduced">Frederick Douglass Bicentennial Commission Act</title>
+    <title type="short" as="reported to house">Frederick Douglass Bicentennial Commission Act</title>
+    <title type="short" as="reported to house">Frederick Douglass Bicentennial Commission Act</title>
+    <title type="short" as="passed house">Frederick Douglass Bicentennial Commission Act</title>
+    <title type="short" as="passed house">Frederick Douglass Bicentennial Commission Act</title>
+    <title type="official" as="introduced">To establish the Frederick Douglass Bicentennial Commission.</title>
+    <title type="display">Frederick Douglass Bicentennial Commission Act</title>
+  </titles>
+  <sponsor bioguide_id="N000147"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001293" joined="2017-07-26"/>
+    <cosponsor bioguide_id="C001105" joined="2017-07-27"/>
+    <cosponsor bioguide_id="C001106" joined="2017-07-11"/>
+    <cosponsor bioguide_id="D000604" joined="2017-07-27"/>
+    <cosponsor bioguide_id="F000466" joined="2017-07-26"/>
+    <cosponsor bioguide_id="G000565" joined="2017-07-12"/>
+    <cosponsor bioguide_id="H001052" joined="2017-06-21"/>
+    <cosponsor bioguide_id="K000391" joined="2017-07-19"/>
+    <cosponsor bioguide_id="L000562" joined="2017-07-19"/>
+    <cosponsor bioguide_id="M000087" joined="2017-07-19"/>
+    <cosponsor bioguide_id="M001181" joined="2017-09-26"/>
+    <cosponsor bioguide_id="M001195" joined="2017-08-04"/>
+    <cosponsor bioguide_id="M001160" joined="2017-07-27"/>
+    <cosponsor bioguide_id="R000606" joined="2017-07-19"/>
+    <cosponsor bioguide_id="R000576" joined="2017-06-29"/>
+    <cosponsor bioguide_id="R000515" joined="2017-07-27"/>
+    <cosponsor bioguide_id="R000604" joined="2017-07-19"/>
+    <cosponsor bioguide_id="S001199" joined="2017-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-21">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E864-865"/>
+    </action>
+    <action datetime="2017-06-21" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2017-07-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-07-19" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-10-05">
+      <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-340.</text>
+    </action>
+    <calendar datetime="2017-10-05" calendar="Union" number="245">
+      <text>Placed on the Union Calendar, Calendar No. 245.</text>
+    </calendar>
+    <action datetime="2017-10-11T15:40:56-04:00">
+      <text>Mr. Russell moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2017-10-11T15:41:05-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7952-7954" label="consideration"/>
+    </action>
+    <action datetime="2017-10-11T15:41:05-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2989.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2017-10-11T15:49:40-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7952-7953" label="text"/>
+    </vote>
+    <action datetime="2017-10-11T15:49:42-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="115" relation="unknown" number="1582"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Advisory bodies"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Postal service"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-06-21T04:00:00Z" status="Introduced in House">Frederick Douglass Bicentennial Commission Act 
+
+This bill establishes the Frederick Douglass Bicentennial Commission to study activities that may be carried out by the federal government to honor Frederick Douglass on the bicentennial anniversary of his birth, including: (1) the issuance of a postage stamp, (2) the convening of a joint meeting or joint session of Congress for ceremonies and activities relating to Frederick Douglass, (3) a rededication of the Frederick Douglass National Historic Site, and (4) the acquisition and preservation of related artifacts.
+
+By December 1, 2017, the commission must recommend appropriate activities in a final report to Congress.</summary>
+  <committee-reports>
+    <report>H. Rept. 115-340</report>
+  </committee-reports>
+</bill>

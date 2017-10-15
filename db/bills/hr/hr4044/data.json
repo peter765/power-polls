@@ -1,0 +1,281 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-10-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-10-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4044-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000374", 
+      "district": "5", 
+      "name": "Abraham, Ralph Lee", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000574", 
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001068", 
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001111", 
+      "district": "13", 
+      "name": "Crist, Charlie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000628", 
+      "district": "2", 
+      "name": "Dunn, Neal P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000577", 
+      "district": "6", 
+      "name": "Graves, Garret", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001064", 
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001056", 
+      "district": "3", 
+      "name": "Herrera Beutler, Jaime", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001077", 
+      "district": "3", 
+      "name": "Higgins, Clay", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000299", 
+      "district": "4", 
+      "name": "Johnson, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000381", 
+      "district": "6", 
+      "name": "Kilmer, Derek", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001193", 
+      "district": "3", 
+      "name": "MacArthur, Thomas", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001202", 
+      "district": "7", 
+      "name": "Murphy, Stephanie N.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000578", 
+      "district": "8", 
+      "name": "Reichert, David G.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000588", 
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000487", 
+      "district": "39", 
+      "name": "Royce, Edward R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000472", 
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000468", 
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "NV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000132", 
+      "district": "34", 
+      "name": "Vela, Filemon", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000791", 
+      "district": "2", 
+      "name": "Walden, Greg", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-10-12", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-10-12", 
+  "number": "4044", 
+  "official_title": "To authorize the minting of a coin in honor of the 75th anniversary of the end of World War II, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "S001176", 
+    "district": "1", 
+    "name": "Scalise, Steve", 
+    "state": "LA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-10-12", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the minting of a coin in honor of the 75th anniversary of the end of World War II, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To authorize the minting of a coin in honor of the 75th anniversary of the end of World War II, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-10-13T07:23:44Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr4044.xml"
+}
