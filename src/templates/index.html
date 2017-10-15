@@ -518,8 +518,8 @@ input[type=text]:focus {
 
         // Set chart options
         var options = {
-         width: 2000,
-         height: 600,
+         width: 1700,
+         height: 800,
          align:"center"
         };
 
@@ -548,7 +548,7 @@ input[type=text]:focus {
     <input type="text" name="search" placeholder="Search..">
   </div>
 <br></br>
-  <div id="page_titles">Top 10 Trending Bills</em></div>
+  <div id="page_titles">Top 9 Trending Bills</em></div>
   <br></br>
   <br></br>
   <br></br>
@@ -684,7 +684,10 @@ function openComponent(evt, index) {
   }
   document.getElementById("tab"+index).style.display = "block";
   evt.currentTarget.classList.add("w3-light-grey");
-  if(index>0 && document.getElementById("vote"+index) == null){
+  if(document.getElementById("vote"+index) != null) {
+    document.getElementById("vote"+index).style.display='none';
+  }
+
     var checkbox = document.createElement('input');
     checkbox.type = "checkbox";
     checkbox.name = "VOTE";
@@ -695,7 +698,7 @@ function openComponent(evt, index) {
     var pop = document.getElementById("tab"+index);
     pop.appendChild(text);
     pop.appendChild(checkbox);
-  }
+
 }
 
 function openVote() {
@@ -720,8 +723,8 @@ button.disabled = false;
 </div>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <script>
-senators = [{name:"Democrat", percentage:50, color:"steelblue"}, {name:"Republican", percentage:50, color:"#821122"}];
-representatives = [{name:"Democrat", percentage:25, color:"steelblue"}, {name:"Republican", percentage:75, color:"#821122"}];
+senators = [{name:"Democrat", percentage:43, color:"steelblue"}, {name:"Republican", percentage:57, color:"#821122"}];
+representatives = [{name:"Democrat", percentage:34, color:"steelblue"}, {name:"Republican", percentage:66, color:"#821122"}];
 createMap();
 //createTable();
 populateCards();
@@ -755,7 +758,7 @@ function populateCards() {
        }
        var button = document.getElementById("back_button1");
       button.disabled = true;
-      populateModals(["test", "test2", "test3", "test4" , "fuck"]);
+      populateModals(["The Affordable Care Act expands the affordability, quality, and availability of private and public health insurance through consumer protections, regulations, subsidies, taxes, insurance exchanges, and other reforms.", "Each coverage type has its own enrollment period. Employer coverage and Medicare have their own enrollment periods. Medicaid and CHIP can be enrolled in 365 days a year. Short-term health insurance is an option all year round, but it won’t protect you from the fee.", "IN GENERAL.—The Secretary shall establish a program to carry out the purposes of this section to be known as the Consumer Operated and Oriented Plan (CO-OP) program. ", "he Act both strengthens existing forms of health insurance coverage while building a new, affordable health insurance market for individuals and families who do not have affordable employer coverage or another form of “minimum essential coverage” such as Medicare or Medicaid."]);
     };
     i++;
   }
@@ -786,7 +789,7 @@ function populateTab(val, i) {
   var iDiv = document.createElement('div');
   iDiv.setAttribute("id", "tab" + i);
   iDiv.setAttribute("class", "w3-container city");
-  iDiv.innerHTML = "<h1>" + i + "</h1> <p>" + val + "</p></div>";
+  iDiv.innerHTML = "<p>" + val + "</p></div>";
   pop.appendChild(iDiv);
   document.getElementsByClassName("tablink")[0].click();
 }
@@ -919,7 +922,7 @@ g.append('text')
                             width = 960 - margin.left - margin.right,
                             height = 500 - margin.top - margin.bottom;
                 var color = d3.scaleThreshold()
-                .domain([10,30,80,150,270,370,500,630,800,1000])
+                .domain([1,5,10,20,30,45,60,75,95,100])
                 .range(["rgb(247,251,255)", "rgb(222,235,247)", "rgb(198,219,239)", "rgb(158,202,225)", "rgb(107,174,214)", "rgb(66,146,198)","rgb(33,113,181)","rgb(8,81,156)","rgb(8,48,107)","rgb(3,19,43)"]);
 
                 var path = d3.geoPath();
