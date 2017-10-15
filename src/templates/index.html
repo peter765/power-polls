@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>Policy</title>
     <link href="https://fonts.googleapis.com/css?family=Yesteryear" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Armata" rel="stylesheet">
   </head>
   <style>
 
@@ -37,6 +38,7 @@ html, body {
   z-index: 1;
   overflow-y: hidden;
   overflow-x: hidden;
+  font-family: 'Armata', sans-serif;
 }
 
 .first {
@@ -64,7 +66,7 @@ html, body {
   top: 10vh;
   text-align: center;
   font-size: 7vh;
-  font-family: 'Roboto','sans-serif';
+  font-family: 'Armata', sans-serif;
   color: black;
   z-index: 1;
 }
@@ -82,7 +84,7 @@ html, body {
   border-radius: 100%;
   text-align: center;
   background-color: white;
-  font-family: 'Roboto','sans-serif';
+  font-family: 'Armata', sans-serif;
   align-content: center;
   z-index: 5;
 }
@@ -97,7 +99,7 @@ html, body {
   border-radius: 100%;
   text-align: center;
   background-color: white;
-  font-family: 'Roboto','sans-serif';
+  font-family: 'Armata', sans-serif;
   align-content: center;
   z-index: 5;
 }
@@ -112,7 +114,7 @@ html, body {
   border-radius: 100%;
   text-align: center;
   background-color: white;
-  font-family: 'Roboto','sans-serif';
+  font-family: 'Armata', sans-serif;
   align-content: center;
   z-index: 5;
 }
@@ -139,7 +141,7 @@ html, body {
   border-radius: .4vh;
   background-color: #353B3C;
   bottom: 10vh;
-  font-family: 'Roboto','sans-serif';
+  font-family: 'Armata', sans-serif;
     z-index: 1;
 }
 #page1 {
@@ -156,33 +158,47 @@ html, body {
   width: 100%;
   z-index: 0;
 }
-#page3 {
+
+#page4 {
   position: absolute;
   top: 300vh;
   height: 100%;
   width: 100%;
   z-index: 0;
 }
-#page4 {
+#page5 {
   position: absolute;
   top: 400vh;
   height: 100%;
   width: 100%;
   z-index: 0;
 }
-#page5 {
+#page6 {
   position: absolute;
   top: 500vh;
   height: 100%;
   width: 100%;
   z-index: 0;
 }
-#page6 {
+#house {
   position: absolute;
-  top: 600vh;
-  height: 100%;
-  width: 100%;
-  z-index: 0;
+  width: 100vw;
+  bottom: 2vh;
+  right: 1vh;
+  text-align: center;
+  font-size: 7vh;
+  font-family: 'Armata', sans-serif;
+  color: black;
+  z-index: 1;
+}
+#senate {
+  position: absolute;
+  width: 100vw;
+  text-align: center;
+  font-size: 7vh;
+  font-family: 'Armata', sans-serif;
+  color: black;
+  z-index: 1;
 }
 input[type=text] {
     width: 200px;
@@ -277,7 +293,7 @@ input[type=text]:focus {
 }
 
 .pie text {
-  font-family: "Verdana";
+  font-family: 'Armata', sans-serif;
   fill: #888;
 }
 
@@ -299,6 +315,7 @@ input[type=text]:focus {
   border-radius: 2px;
   background-clip: padding-box;
   background-color: steelblue;
+  font-family: 'Armata', sans-serif;
 }
 .card span.card-title {
     color: white;
@@ -307,6 +324,7 @@ input[type=text]:focus {
     text-transform: uppercase;
     padding-left: 15px;
     margin-top: 20px;
+    font-family: 'Armata', sans-serif;
 }
 
 .card .card-content {
@@ -314,6 +332,7 @@ input[type=text]:focus {
   border-radius: 0 0 2px 2px;
   background-clip: padding-box;
   box-sizing: border-box;
+  font-family: 'Armata', sans-serif;
 }
 .card .card-content p {
   margin: 0;
@@ -340,7 +359,7 @@ input[type=text]:focus {
 </style>
 <body background = "{{url_for('static', filename='ugh.jpg')}}">
 <div id = 'FirstPage'>
-   <div id="title">Policy</div>
+   <div id="title">Power Polls</div>
    <div id = "enter_button" onclick="smoothScroll(document.getElementById('page1'))">ENTER</div>
 </div>
 
@@ -349,6 +368,7 @@ input[type=text]:focus {
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script src="{{url_for('static', filename='d3-tip.js')}}"></script>
 
 <div id="page1">
@@ -362,7 +382,7 @@ input[type=text]:focus {
     <input type="text" name="search" placeholder="Search..">
   </div>
 <br></br>
-  <div id="page_titles">Page1</em></div>
+  <div id="page_titles">Bills Generated Per State United States Map</em></div>
 <br></br>
 <br></br>
 <br></br>
@@ -410,11 +430,14 @@ input[type=text]:focus {
     <input type="text" name="search" placeholder="Search..">
   </div>
 <br></br>
-<div id='sankey'></div>
-  <div id="page_titles">Page2</em></div>
+  <div id="page_titles">Bills Proposed by Each Party in Congress</em></div>
+  <br>
+  <br>
+  <br>
+  <br>
+  <div id="senate"><--Senate</em></div>
   <div id="donut_container">
-    <br></br>
-    <br></br>
+    <br>
     <br></br>
     <div id="donut01">
       <style>
@@ -424,9 +447,10 @@ input[type=text]:focus {
       <style>
         #donut02 {display: inline-block;}
       </style>
+      <div id="house">House--></div>
     </div>
   </div>
-  <div id = "forward_button" onclick="smoothScroll(document.getElementById('page3'))">
+  <div id = "forward_button" onclick="smoothScroll(document.getElementById('page4'))">
     <img id = "image" src="{{url_for('static', filename='DownArrow.png')}}">
     <style>
       #forward_button {top:40vw}
@@ -434,7 +458,7 @@ input[type=text]:focus {
 </div>
 </div>
 
-<div id="page3">
+<!-- <div id="page3">
   <div id = "back_button" onclick="smoothScroll(document.getElementById('page2'))">
     <img id = "image" src="{{url_for('static', filename='UpArrow.png')}}">
     <style>
@@ -444,16 +468,17 @@ input[type=text]:focus {
   <div id="search">
     <input type="text" name="search" placeholder="Search..">
   </div>
+  <div id="page_titles">Number of Bills Made by Representatives</em></div>
   <div id = "forward_button" onclick="smoothScroll(document.getElementById('page4'))">
     <img id = "image" src="{{url_for('static', filename='DownArrow.png')}}">
     <style>
       #forward_button {top:40vw}
     </style>
   </div>
-</div>
+</div> -->
 
 <div id="page4">
-  <div id = "back_button" onclick="smoothScroll(document.getElementById('page3'))">
+  <div id = "back_button" onclick="smoothScroll(document.getElementById('page2'))">
     <img id = "image" src="{{url_for('static', filename='UpArrow.png')}}">
     <style>
       #back_button {top:5vw}
@@ -462,6 +487,48 @@ input[type=text]:focus {
   <div id="search">
     <input type="text" name="search" placeholder="Search..">
   </div>
+  <div id="page_titles">Representative Interest</em></div>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <div id="sankey" padding-left: 20px> </div>
+  <script>
+        google.charts.load("current", {packages:["sankey"]});
+        google.charts.setOnLoadCallback(createSankey);
+        function createSankey() {
+        var sankeyInfo = {{ sankeyData|safe }}
+        console.log(sankeyInfo)
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Source');
+        data.addColumn('string', 'Target');
+        data.addColumn('number', 'Weight');
+        for (var key in sankeyInfo) {
+         var row = sankeyInfo[key]
+         var rand = Math.random()
+         if (rand < 0.010) {
+            data.addRow([row.source, row.target, row.value])
+         }
+
+        }
+
+
+        // Set chart options
+        var options = {
+         width: 2000,
+         height: 600,
+         align:"center"
+        };
+
+        // Instantiate and draw our chart, passing in some options.
+        var chart = new google.visualization.Sankey(document.getElementById('sankey'));
+        chart.draw(data, options);
+        }
+  </script>
+
   <div id = "forward_button" onclick="smoothScroll(document.getElementById('page5'))">
     <img id = "image" src="{{url_for('static', filename='DownArrow.png')}}">
     <style>
@@ -474,7 +541,7 @@ input[type=text]:focus {
   <div id = "back_button1" onclick="smoothScroll(document.getElementById('page4'))">
     <img id = "image" src="{{url_for('static', filename='UpArrow.png')}}">
     <style>
-      #back_button {top:5vw}
+      #back_button {top:20  vw}
     </style>
   </div>
   <div id="search">
@@ -597,7 +664,7 @@ input[type=text]:focus {
     <header class="w3-container w3-blue">
       <span onclick="document.getElementById('modal').style.display='none'"
       class="w3-button w3-blue w3-xlarge w3-display-topright">&times;</span>
-      <h2>Header</h2>
+      <h2>Bill Info</h2>
     </header>
     <div id="tabList" class="w3-bar w3-border-bottom"></div>
     <div id="populateTabs"></div>
@@ -617,11 +684,22 @@ function openComponent(evt, index) {
   }
   document.getElementById("tab"+index).style.display = "block";
   evt.currentTarget.classList.add("w3-light-grey");
+  if(index>0 && document.getElementById("vote"+index) == null){
+    var checkbox = document.createElement('input');
+    checkbox.type = "checkbox";
+    checkbox.name = "VOTE";
+    checkbox.value = "VOTE";
+    checkbox.id = "vote" + index;
+    var text = document.createElement('text');
+    text.innerHTML = "VOTE!";
+    var pop = document.getElementById("tab"+index);
+    pop.appendChild(text);
+    pop.appendChild(checkbox);
+  }
 }
 
 function openVote() {
   document.getElementById('modal').style.display='none';
-  smoothScroll(document.getElementById('page6'));
 }
 // Get the modal
 var modal = document.getElementById('modal');
@@ -633,56 +711,50 @@ window.onclick = function(event) {
   }
 }
 var button = document.getElementById('back_button1');
-button.setAttribute("hidden", "auto");
+button.disabled = false;
 
 </script>
 </div>
 </div>
 </div>
 </div>
-<div id="page6">
-  <div id = "back_button" onclick="smoothScroll(document.getElementById('page5'))">
-    <img id = "image" src="{{url_for('static', filename='UpArrow.png')}}">
-    <style>
-      #back_button {top:5vw}
-    </style>
-  </div>
-  <div id="search">
-    <input type="text" name="search" placeholder="Search..">
-  </div>
-</div>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <script>
-senators = [{name:"Democrats", percentage:50, color:"steelblue"}, {name:"Republican", percentage:50, color:"#821122"}];
-representatives = [{name:"Democrats", percentage:25, color:"steelblue"}, {name:"Republican", percentage:75, color:"#821122"}];
+senators = [{name:"Democrat", percentage:50, color:"steelblue"}, {name:"Republican", percentage:50, color:"#821122"}];
+representatives = [{name:"Democrat", percentage:25, color:"steelblue"}, {name:"Republican", percentage:75, color:"#821122"}];
 createMap();
 //createTable();
 populateCards();
 createDonut(representatives, "donut01");
 createDonut(senators, "donut02");
 function populateCards() {
-  data = {{ data|safe }}
-  var i = 1;
-  for (var key in data) {
-    row = data[key];
-    var id = row[0];
-    var title = row[1];
-    var subject = row[2];
-    var date = row[3];
-    var actionDate = row[4];
-    var votes = row[5];
-    document.getElementById('card' + i + 'title').innerHTML = "   " + id + ': ' + title + "";
-    var content = "Subject: " + subject + "<br>" + "Date Introduced: " + date + "<br>" + "Last Action Date: " + actionDate + "<br>" + "Total Votes: " + votes;
-    document.getElementById('card' + i + 'content').innerHTML = "<p>" + content + "</p>";
-    var card = document.getElementById('card' + i);
-    card.style.cursor = 'pointer';
-    card.onclick = function() {
-      var myNode = document.getElementById("tabList");
-      while (myNode.firstChild) {
-        myNode.removeChild(myNode.firstChild);
-      }
-      var button = document.getElementById("back_button1");
-      button.setAttribute("visible", "hidden");
+  data = {{ topTenTrending|safe }}
+  items = data['Items']
+
+   console.log(data)
+   console.log(items)
+
+   var i = 1;
+   for (var key in items) {
+     row = items[key];
+     var id = row['bill_id'];
+     var sponsor = row['sponsor'].name;
+     var subject = row['status'];
+     var date = row['introduced_at'];
+     var actionDate = row['status_at'];
+     var votes = row['total_votes'];
+     document.getElementById('card' + i + 'title').innerHTML = "   " + id + "";
+     var content = "<br>Sponsor: " + sponsor + "<br>Status: " + subject + "<br>" + "Date Introduced: " + date + "<br>" + "Last Action Date: " + actionDate + "<br>" + "Total Votes: " + votes;
+     document.getElementById('card' + i + 'content').innerHTML = "<p>" + content + "</p>";
+     var card = document.getElementById('card' + i);
+     card.style.cursor = 'pointer';
+     card.onclick = function() {
+       var myNode = document.getElementById("tabList");
+       while (myNode.firstChild) {
+         myNode.removeChild(myNode.firstChild);
+       }
+       var button = document.getElementById("back_button1");
+      button.disabled = true;
       populateModals(["test", "test2", "test3", "test4" , "fuck"]);
     };
     i++;
@@ -733,134 +805,6 @@ function populateTab(val, i) {
 //   table += "</tbody></table>"
 //   document.getElementById('table').innerHTML=table;
 // }
-function createSankey(divID) {
-  data = [{'source':"Barry",'target':"Elvis", 'value':5}, {'source':"Frodo" ,'target':"Elvis", 'value':1}, {'source':"Frodo" ,'target':"Sarah", 'value':5}, {'source':"Barry" ,'target':"Alice", 'value':5 }, {'source':"Elvis" ,'target':"Sarah", 'value':2 }, {'source':"Elvis" ,'target':"Alice", 'value':1}, {'source':'Alice', 'target':"Elvis", 'value':4}]
-  var units = "Widgets";
-
-  var margin = {top: 10, right: 10, bottom: 10, left: 10},
-      width = 700 - margin.left - margin.right,
-      height = 300 - margin.top - margin.bottom;
-
-  var formatNumber = d3.format(",.0f"),    // zero decimal places
-      format = function(d) { return formatNumber(d) + " " + units; },
-      color = d3.scaleOrdinal(d3.schemeCategory20);
-
-  // append the svg canvas to the page
-  var svg = d3.select("#" + divID).append("svg")
-      .attr("width", width + margin.left + margin.right)
-      .attr("height", height + margin.top + margin.bottom)
-    .append("g")
-      .attr("transform",
-            "translate(" + margin.left + "," + margin.top + ")");
-
-  // Set the sankey diagram properties
-  var sankey = d3.sankey()
-      .nodeWidth(36)
-      .nodePadding(40)
-      .size([width, height]);
-
-  var path = sankey.link();
-
-
-  // load the data (using the timelyportfolio csv method)
-
-    //set up graph in same style as original example but empty
-    var graph = {"nodes" : [], "links" : []};
-
-      for (var key in data) {
-        console.log(data[key])
-        graph.nodes.push({ "name": data[key].source });
-        graph.nodes.push({ "name": data[key].target });
-        graph.links.push({ "source": data[key].source,
-                           "target": data[key].target,
-                           "value": +data[key].value });
-      }
-      console.log(graph)
-       // return only the distinct / unique nodes
-       graph.nodes = d3.keys(d3.nest()
-         .key(function (d) { return d.name; })
-         .map(graph.nodes));
-
-       // loop through each link replacing the text with its index from node
-       graph.links.forEach(function (d, i) {
-         graph.links[i].source = graph.nodes.indexOf(graph.links[i].source);
-         graph.links[i].target = graph.nodes.indexOf(graph.links[i].target);
-       });
-
-       //now loop through each nodes to make nodes an array of objects
-       // rather than an array of strings
-       graph.nodes.forEach(function (d, i) {
-         graph.nodes[i] = { "name": d };
-       });
-
-    sankey
-      .nodes(graph.nodes)
-      .links(graph.links)
-      .layout(32);
-
-  // add in the links
-    var link = svg.append("g").selectAll(".link")
-        .data(graph.links)
-      .enter().append("path")
-        .attr("class", "link")
-        .attr("d", path)
-        .style("stroke-width", function(d) { return Math.max(1, d.dy); })
-        .sort(function(a, b) { return b.dy - a.dy; });
-
-  // add the link titles
-    link.append("title")
-          .text(function(d) {
-          return d.source.name + " → " +
-                  d.target.name + "\n" + format(d.value); });
-
-                  var node = svg.append("g").selectAll(".node")
-                          .data(graph.nodes)
-                        .enter().append("g")
-                          .attr("class", "node")
-                          .attr("transform", function(d) {
-                          return "translate(" + d.x + "," + d.y + ")"; })
-                        .call(d3.behavior.drag()
-                          .origin(function(d) { return d; })
-                          .on("dragstart", function() {
-                          this.parentNode.appendChild(this); })
-                          .on("drag", dragmove));
-
-                    // add the rectangles for the nodes
-                      node.append("rect")
-                          .attr("height", function(d) { return d.dy; })
-                          .attr("width", sankey.nodeWidth())
-                          .style("fill", function(d) {
-                          return d.color = color(d.name.replace(/ .*/, "")); })
-                          .style("stroke", function(d) {
-                          return d3.rgb(d.color).darker(2); })
-                        .append("title")
-                          .text(function(d) {
-                          return d.name + "\n" + format(d.value); });
-
-                    // add in the title for the nodes
-                      node.append("text")
-                          .attr("x", -6)
-                          .attr("y", function(d) { return d.dy / 2; })
-                          .attr("dy", ".35em")
-                          .attr("text-anchor", "end")
-                          .attr("transform", null)
-                          .text(function(d) { return d.name; })
-                        .filter(function(d) { return d.x < width / 2; })
-                          .attr("x", 6 + sankey.nodeWidth())
-                          .attr("text-anchor", "start");
-
-                    // the function for moving the nodes
-                      function dragmove(d) {
-                        d3.select(this).attr("transform",
-                            "translate(" + d.x + "," + (
-                                    d.y = Math.max(0, Math.min(height - d.dy, d3.event.y))
-                                ) + ")");
-                        sankey.relayout();
-                        link.attr("d", path);
-                      }
-
-
-                  }
 function createDonut(data, divID) {
 var text = "";
 
@@ -947,7 +891,10 @@ g.append('text')
 
 }
 
-function createMap() {
+  function createMap() {
+  heatMapData = {{ heatMapData|safe}};
+  console.log(heatMapData)
+
   var svg = d3.select("#map");
 
   var names = [];
@@ -958,8 +905,9 @@ function createMap() {
   // our names
   names = ["Alabama", "Alaska","", "Arizona", "Arkansas", "California","", "Colorodo", "Connecticut", "Delaware", "Washington DC", "Florida", "Georgia", "", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "", "Washington", "West Virginia", "Wisconsin", "Wyoming","","","", "America Samoa","","","", "Federated States of Micronesia","", "Guam","", "Marshall Islands", "Northern Mariana Islands", "Palau","", "Puerto Rico","", "US Minor Outlying Islands","","","", "Virgin Islands"];
   billsByID = [];
-  for (i = 0; i < names.length; i++) {
-    billsByID.push(Math.random()*1000)
+  for (var key in names) {
+    //billsByID.push(heatMapData[key]);
+    billsByID.push(Math.random()*100);
   }
     var tip = d3.tip()
                 .attr('class', 'd3-tip')
