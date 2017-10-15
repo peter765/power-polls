@@ -86,6 +86,21 @@ html, body {
   align-content: center;
   z-index: 5;
 }
+#back_button1 {
+  position: absolute;
+  color: #4885ed;
+  right: 3vw;
+  font-size:4em;
+
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  text-align: center;
+  background-color: white;
+  font-family: 'Roboto','sans-serif';
+  align-content: center;
+  z-index: 5;
+}
 #forward_button {
   position: absolute;
   color: #4885ed;
@@ -144,6 +159,27 @@ html, body {
 #page3 {
   position: absolute;
   top: 300vh;
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+}
+#page4 {
+  position: absolute;
+  top: 400vh;
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+}
+#page5 {
+  position: absolute;
+  top: 500vh;
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+}
+#page6 {
+  position: absolute;
+  top: 600vh;
   height: 100%;
   width: 100%;
   z-index: 0;
@@ -254,7 +290,7 @@ input[type=text]:focus {
 }
 
 .card {
-  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 
 .card {
@@ -374,6 +410,7 @@ input[type=text]:focus {
     <input type="text" name="search" placeholder="Search..">
   </div>
 <br></br>
+<div id='sankey'></div>
   <div id="page_titles">Page2</em></div>
   <div id="donut_container">
     <br></br>
@@ -396,11 +433,45 @@ input[type=text]:focus {
     </style>
 </div>
 </div>
-<br></br>
-<br></br>
-<br></br>
+
 <div id="page3">
   <div id = "back_button" onclick="smoothScroll(document.getElementById('page2'))">
+    <img id = "image" src="{{url_for('static', filename='UpArrow.png')}}">
+    <style>
+      #back_button {top:5vw}
+    </style>
+  </div>
+  <div id="search">
+    <input type="text" name="search" placeholder="Search..">
+  </div>
+  <div id = "forward_button" onclick="smoothScroll(document.getElementById('page4'))">
+    <img id = "image" src="{{url_for('static', filename='DownArrow.png')}}">
+    <style>
+      #forward_button {top:40vw}
+    </style>
+  </div>
+</div>
+
+<div id="page4">
+  <div id = "back_button" onclick="smoothScroll(document.getElementById('page3'))">
+    <img id = "image" src="{{url_for('static', filename='UpArrow.png')}}">
+    <style>
+      #back_button {top:5vw}
+    </style>
+  </div>
+  <div id="search">
+    <input type="text" name="search" placeholder="Search..">
+  </div>
+  <div id = "forward_button" onclick="smoothScroll(document.getElementById('page5'))">
+    <img id = "image" src="{{url_for('static', filename='DownArrow.png')}}">
+    <style>
+      #forward_button {top:40vw}
+    </style>
+  </div>
+</div>
+
+<div id="page5">
+  <div id = "back_button1" onclick="smoothScroll(document.getElementById('page4'))">
     <img id = "image" src="{{url_for('static', filename='UpArrow.png')}}">
     <style>
       #back_button {top:5vw}
@@ -516,16 +587,74 @@ input[type=text]:focus {
         </div>
     </div>
 </div>
-<div id=table>
+<!-- <div id=table>
   <style>
     #table {top:30vw}
   </style>
-</div>
-</div>
-</div>
+</div> -->
+<div id="modal" class="w3-modal">
+  <div id="modal1" class="w3-modal-content w3-card-4 w3-animate-zoom">
+    <header class="w3-container w3-blue">
+      <span onclick="document.getElementById('modal').style.display='none'"
+      class="w3-button w3-blue w3-xlarge w3-display-topright">&times;</span>
+      <h2>Header</h2>
+    </header>
+    <div id="tabList" class="w3-bar w3-border-bottom"></div>
+    <div id="populateTabs"></div>
+    <div class="w3-container w3-light-grey w3-padding">
+ <button class="w3-button w3-right w3-white w3-border"
+ onclick="openVote()">VOTE</button>
 <script>
-senators = [{name:"Democrats", percentage:50, color:"steelblue"}, {name:"Republican", percentage:50, color:"#821122"}]
-representatives = [{name:"Democrats", percentage:25, color:"steelblue"}, {name:"Republican", percentage:75, color:"#821122"}]
+function openComponent(evt, index) {
+  var i, x, tablinks;
+  x = document.getElementsByClassName("city");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < x.length; i++) {
+    tablinks[i].classList.remove("w3-light-grey");
+  }
+  document.getElementById("tab"+index).style.display = "block";
+  evt.currentTarget.classList.add("w3-light-grey");
+}
+
+function openVote() {
+  document.getElementById('modal').style.display='none';
+  smoothScroll(document.getElementById('page6'));
+}
+// Get the modal
+var modal = document.getElementById('modal');
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+var button = document.getElementById('back_button1');
+button.setAttribute("hidden", "auto");
+
+</script>
+</div>
+</div>
+</div>
+</div>
+<div id="page6">
+  <div id = "back_button" onclick="smoothScroll(document.getElementById('page5'))">
+    <img id = "image" src="{{url_for('static', filename='UpArrow.png')}}">
+    <style>
+      #back_button {top:5vw}
+    </style>
+  </div>
+  <div id="search">
+    <input type="text" name="search" placeholder="Search..">
+  </div>
+</div>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<script>
+senators = [{name:"Democrats", percentage:50, color:"steelblue"}, {name:"Republican", percentage:50, color:"#821122"}];
+representatives = [{name:"Democrats", percentage:25, color:"steelblue"}, {name:"Republican", percentage:75, color:"#821122"}];
 createMap();
 //createTable();
 populateCards();
@@ -548,11 +677,49 @@ function populateCards() {
     var card = document.getElementById('card' + i);
     card.style.cursor = 'pointer';
     card.onclick = function() {
-        
+      var myNode = document.getElementById("tabList");
+      while (myNode.firstChild) {
+        myNode.removeChild(myNode.firstChild);
+      }
+      var button = document.getElementById("back_button1");
+      button.setAttribute("visible", "hidden");
+      populateModals(["test", "test2", "test3", "test4" , "fuck"]);
     };
     i++;
   }
 }
+
+function populateModals(components) {
+  document.getElementById('modal').style.display='block';
+  var tabList = document.getElementById('tabList');
+    for (i = 0; i < components.length; i++) {
+    var val = components[i];
+    var btn = document.createElement("BUTTON");
+    btn.setAttribute("class", "tablink w3-bar-item w3-button");
+    btn.setAttribute("value", i);
+    btn.setAttribute("title", i);
+    btn.setAttribute("id", "button" + i);
+    btn.setAttribute("tag", "temp");
+    btn.innerHTML = i;
+    btn.setAttribute("onclick", "openComponent(event," + i + ")");
+    console.log(btn);
+    tabList.appendChild(btn);
+    populateTab(val, i);
+  }
+  console.log(document.getElementById('modal'));
+}
+
+function populateTab(val, i) {
+  var pop = document.getElementById('populateTabs');
+  var iDiv = document.createElement('div');
+  iDiv.setAttribute("id", "tab" + i);
+  iDiv.setAttribute("class", "w3-container city");
+  iDiv.innerHTML = "<h1>" + i + "</h1> <p>" + val + "</p></div>";
+  pop.appendChild(iDiv);
+  document.getElementsByClassName("tablink")[0].click();
+}
+
+
 // function createTable() {
 //   data = {{ data|safe }}
 //   console.log(data)
@@ -566,6 +733,134 @@ function populateCards() {
 //   table += "</tbody></table>"
 //   document.getElementById('table').innerHTML=table;
 // }
+function createSankey(divID) {
+  data = [{'source':"Barry",'target':"Elvis", 'value':5}, {'source':"Frodo" ,'target':"Elvis", 'value':1}, {'source':"Frodo" ,'target':"Sarah", 'value':5}, {'source':"Barry" ,'target':"Alice", 'value':5 }, {'source':"Elvis" ,'target':"Sarah", 'value':2 }, {'source':"Elvis" ,'target':"Alice", 'value':1}, {'source':'Alice', 'target':"Elvis", 'value':4}]
+  var units = "Widgets";
+
+  var margin = {top: 10, right: 10, bottom: 10, left: 10},
+      width = 700 - margin.left - margin.right,
+      height = 300 - margin.top - margin.bottom;
+
+  var formatNumber = d3.format(",.0f"),    // zero decimal places
+      format = function(d) { return formatNumber(d) + " " + units; },
+      color = d3.scaleOrdinal(d3.schemeCategory20);
+
+  // append the svg canvas to the page
+  var svg = d3.select("#" + divID).append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+      .attr("transform",
+            "translate(" + margin.left + "," + margin.top + ")");
+
+  // Set the sankey diagram properties
+  var sankey = d3.sankey()
+      .nodeWidth(36)
+      .nodePadding(40)
+      .size([width, height]);
+
+  var path = sankey.link();
+
+
+  // load the data (using the timelyportfolio csv method)
+
+    //set up graph in same style as original example but empty
+    var graph = {"nodes" : [], "links" : []};
+
+      for (var key in data) {
+        console.log(data[key])
+        graph.nodes.push({ "name": data[key].source });
+        graph.nodes.push({ "name": data[key].target });
+        graph.links.push({ "source": data[key].source,
+                           "target": data[key].target,
+                           "value": +data[key].value });
+      }
+      console.log(graph)
+       // return only the distinct / unique nodes
+       graph.nodes = d3.keys(d3.nest()
+         .key(function (d) { return d.name; })
+         .map(graph.nodes));
+
+       // loop through each link replacing the text with its index from node
+       graph.links.forEach(function (d, i) {
+         graph.links[i].source = graph.nodes.indexOf(graph.links[i].source);
+         graph.links[i].target = graph.nodes.indexOf(graph.links[i].target);
+       });
+
+       //now loop through each nodes to make nodes an array of objects
+       // rather than an array of strings
+       graph.nodes.forEach(function (d, i) {
+         graph.nodes[i] = { "name": d };
+       });
+
+    sankey
+      .nodes(graph.nodes)
+      .links(graph.links)
+      .layout(32);
+
+  // add in the links
+    var link = svg.append("g").selectAll(".link")
+        .data(graph.links)
+      .enter().append("path")
+        .attr("class", "link")
+        .attr("d", path)
+        .style("stroke-width", function(d) { return Math.max(1, d.dy); })
+        .sort(function(a, b) { return b.dy - a.dy; });
+
+  // add the link titles
+    link.append("title")
+          .text(function(d) {
+          return d.source.name + " → " +
+                  d.target.name + "\n" + format(d.value); });
+
+                  var node = svg.append("g").selectAll(".node")
+                          .data(graph.nodes)
+                        .enter().append("g")
+                          .attr("class", "node")
+                          .attr("transform", function(d) {
+                          return "translate(" + d.x + "," + d.y + ")"; })
+                        .call(d3.behavior.drag()
+                          .origin(function(d) { return d; })
+                          .on("dragstart", function() {
+                          this.parentNode.appendChild(this); })
+                          .on("drag", dragmove));
+
+                    // add the rectangles for the nodes
+                      node.append("rect")
+                          .attr("height", function(d) { return d.dy; })
+                          .attr("width", sankey.nodeWidth())
+                          .style("fill", function(d) {
+                          return d.color = color(d.name.replace(/ .*/, "")); })
+                          .style("stroke", function(d) {
+                          return d3.rgb(d.color).darker(2); })
+                        .append("title")
+                          .text(function(d) {
+                          return d.name + "\n" + format(d.value); });
+
+                    // add in the title for the nodes
+                      node.append("text")
+                          .attr("x", -6)
+                          .attr("y", function(d) { return d.dy / 2; })
+                          .attr("dy", ".35em")
+                          .attr("text-anchor", "end")
+                          .attr("transform", null)
+                          .text(function(d) { return d.name; })
+                        .filter(function(d) { return d.x < width / 2; })
+                          .attr("x", 6 + sankey.nodeWidth())
+                          .attr("text-anchor", "start");
+
+                    // the function for moving the nodes
+                      function dragmove(d) {
+                        d3.select(this).attr("transform",
+                            "translate(" + d.x + "," + (
+                                    d.y = Math.max(0, Math.min(height - d.dy, d3.event.y))
+                                ) + ")");
+                        sankey.relayout();
+                        link.attr("d", path);
+                      }
+
+
+                  }
 function createDonut(data, divID) {
 var text = "";
 
