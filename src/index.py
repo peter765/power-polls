@@ -16,8 +16,8 @@ coll = db['sankey_graph']
 cursor = coll.find({})
 
 
-AWS_ACCESS_KEY='AKIAJCYCZPH7F53LXXHQ'
-AWS_SECRET_KEY='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'
+AWS_ACCESS_KEY=''
+AWS_SECRET_KEY=''
 REGION="us-east-1"
 
 
